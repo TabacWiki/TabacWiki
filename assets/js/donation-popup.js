@@ -260,7 +260,7 @@ export function initDonationPopup() {
                 return String.fromCharCode(...new Uint8Array(buf)).replace(/\0/g, '');
             }).join('');
             
-            const response = await fetch('https://api.github.com/repos/m/TabacWiki/issues', {
+            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',
@@ -273,6 +273,12 @@ export function initDonationPopup() {
                     labels: ['user-reported']
                 })
             });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                console.error('GitHub API Error:', errorText);
+                throw new Error(`Failed to submit report: ${response.status} ${response.statusText}`);
+            }
 
             // Clear the textarea
             document.getElementById('problemDescription').value = '';
