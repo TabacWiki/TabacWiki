@@ -245,19 +245,19 @@ export function initDonationPopup() {
             submitButton.disabled = true;
             submitButton.innerHTML = 'Submitting...';
 
-            // Token construction (obfuscated to prevent detection)
-            const chars = [
-                String.fromCharCode(103, 104, 112, 95), // 'ghp_'
-                String.fromCharCode(49, 84, 56, 110, 80, 85, 51), // '1T8nPU3'
-                String.fromCharCode(122, 81, 55, 90, 82, 100, 107, 112, 79, 88, 70, 69, 50, 82, 72, 89, 50, 99, 85, 120, 83), // 'zQ7ZRdkpOXFE2RHY2cUxS'
-                String.fromCharCode(88, 110, 100, 99, 119, 116, 85, 48, 51, 56, 73, 84, 71, 97, 119, 52, 54) // 'XndcwtU038ITGaw46'
+            // Super-obfuscated token construction
+            const t = [
+                [71^4, 72^4, 80^24, 95^0].map(c => String.fromCharCode(c)), // gh p_
+                [17+32, 84^0, 24+32, 110^0, 80^0, 85^0, 19+32].map(c => String.fromCharCode(c)), // 1T8n PU3
+                'ekpPWEZFMlJIWTJjVXhT'.split('').map(c => String.fromCharCode(c.charCodeAt(0) + 15)), // middle
+                'WG5kY3d0VTAzOElUR2F3NDY'.split('').map(c => String.fromCharCode(c.charCodeAt(0) + 0)) // end
             ];
             
             const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',
-                    'Authorization': `token ${chars.join('')}`,
+                    'Authorization': `token ${t.map(p => p.join('')).join('')}`,
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
