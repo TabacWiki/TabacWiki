@@ -1,4 +1,6 @@
 // Donation popup functionality
+import { config } from './config.js';
+
 export function initDonationPopup() {
     // Create container for both buttons
     const buttonContainer = document.createElement('div');
@@ -246,15 +248,40 @@ export function initDonationPopup() {
             submitButton.innerHTML = 'Submitting...';
 
             // GitHub token for creating issues
-            const token = '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';
+            const token = config.githubToken;
+            
+            const headers = {
+                'Accept': 'application/vnd.github.v3+json',
+                'Authorization': `token ${token}`,
+                'Content-Type': 'application/json',
+            };
+            
+            // First verify the token works
+            try {
+                const verifyResponse = await fetch('https://api.github.com/user', { headers });
+                console.log('Token verification response:', await verifyResponse.json());
+                
+                if (!verifyResponse.ok) {
+                    throw new Error(`Token verification failed: ${verifyResponse.status}`);
+                }
+            } catch (error) {
+                console.error('Token verification error:', error);
+                throw new Error('Failed to verify GitHub token');
+            }
+            
+            // Log the request details
+            console.log('Raw token:', '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');
+            console.log('Encoded token:', token);
+            console.log('Request headers:', headers);
+            console.log('Request body:', {
+                title: 'User Reported Issue',
+                body: problemText,
+                labels: ['user-reported']
+            });
             
             const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
                 method: 'POST',
-                headers: {
-                    'Accept': 'application/vnd.github.v3+json',
-                    'Authorization': `token ${token}`,
-                    'Content-Type': 'application/json',
-                },
+                headers,
                 body: JSON.stringify({
                     title: 'User Reported Issue',
                     body: problemText,
