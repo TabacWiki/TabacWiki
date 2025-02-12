@@ -246,7 +246,7 @@ export function initDonationPopup() {
             submitButton.innerHTML = 'Submitting...';
 
             // GitHub token for creating issues
-            const token = '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';
+            const token = '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';
             
             const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
                 method: 'POST',
