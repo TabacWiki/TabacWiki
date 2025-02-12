@@ -246,21 +246,22 @@ export function initDonationPopup() {
             submitButton.disabled = true;
             submitButton.innerHTML = 'Submitting...';
 
-            const response = await fetch('http://localhost:3000/api/issues', {
+            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/actions/workflows/issue-creation.yml/dispatches', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    title: 'User Reported Issue',
-                    body: problemText,
-                    labels: ['user-reported']
+                    ref: 'main',
+                    inputs: {
+                        title: 'User Reported Issue',
+                        body: problemText,
+                        labels: 'user-reported'
+                    }
                 })
             });
 
             if (!response.ok) {
-                const errorText = await response.text();
-                console.error('GitHub API Error:', errorText);
                 throw new Error(`Failed to submit report: ${response.status} ${response.statusText}`);
             }
 
