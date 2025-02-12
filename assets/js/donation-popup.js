@@ -246,18 +246,18 @@ export function initDonationPopup() {
             submitButton.disabled = true;
             submitButton.innerHTML = 'Submitting...';
 
-            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/actions/workflows/issue-creation.yml/dispatches', {
+            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues/1/comments', {
                 method: 'POST',
                 headers: {
+                    'Accept': 'application/vnd.github.v3+json',
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    ref: 'main',
-                    inputs: {
+                    body: JSON.stringify({
                         title: 'User Reported Issue',
                         body: problemText,
-                        labels: 'user-reported'
-                    }
+                        labels: ['user-reported']
+                    })
                 })
             });
 
