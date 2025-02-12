@@ -246,7 +246,7 @@ export function initDonationPopup() {
             submitButton.disabled = true;
             submitButton.innerHTML = 'Submitting...';
 
-            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues/1/comments', {
+            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues/7/comments', {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',

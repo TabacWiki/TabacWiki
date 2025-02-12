@@ -6,7 +6,7 @@ on:
 
 jobs:
   create-issue:
-    if: github.event.issue.number == 1  # Replace with your Issue Reporter issue number
+    if: github.event.issue.number == 7  # Issue Reporter issue number
     runs-on: ubuntu-latest
     steps:
       - name: Create Issue from Comment
