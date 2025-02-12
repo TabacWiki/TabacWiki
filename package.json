@@ -17,7 +17,6 @@
     "url": "https://github.com/TabacWiki/TabacWiki/issues"
   },
   "homepage": "https://github.com/TabacWiki/TabacWiki#readme",
-  "description": "",
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "cors": "^2.8.5",
@@ -29,5 +28,6 @@
   },
   "devDependencies": {
     "http-server": "^14.1.1"
-  }
+  },
+  "description": ""
 }
