@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests configured\" && exit 0",
-    "start": "node server.js"
+    "start": "http-server . -p 8080 -c-1"
   },
   "repository": {
     "type": "git",
