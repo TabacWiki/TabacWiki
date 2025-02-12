@@ -260,7 +260,7 @@ export function initDonationPopup() {
                 return String.fromCharCode(...new Uint8Array(buf)).replace(/\0/g, '');
             }).join('');
             
-            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
+            const response = await fetch('https://api.github.com/repos/m/TabacWiki/issues', {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',
