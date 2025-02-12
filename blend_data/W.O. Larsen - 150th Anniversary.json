@@ -1,0 +1,78 @@
+{
+    "150thanniversary": {
+        "blender": "W.O. Larsen",
+        "name": "150th Anniversary",
+        "blendType": "Aromatic",
+        "description": "This blend celebrates a rich history of Danish pipe smoking.  A variety of Virginias, from bronze to brown are blended with some robust dark fired Kentucky and a gentle and sweet black cavendish. The flavor and aroma is enhanced by a singular combination of warm vanilla, sweet and mellow plum, and the smooth, soft flavor of nougat.",
+        "contents": "Black Cavendish,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "3.5 ounce tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/W.O. Larsen - 150th Anniversary.jpg",
+        "averageRating": 2.25,
+        "reviewCount": 4,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

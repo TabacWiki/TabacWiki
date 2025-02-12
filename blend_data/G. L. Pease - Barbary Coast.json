@@ -1,0 +1,78 @@
+{
+    "barbarycoast": {
+        "blender": "G. L. Pease",
+        "name": "Barbary Coast",
+        "blendType": "Burley Based",
+        "description": "The finest cube-cut burley, chosen for its deep, nutty flavors, forms a robust foundation for this sophisticated blend. Rich, red Virginia tobaccos are added for their subtle sweetness and complexity, while the unique spice of perique provides added dimension. A delicate kiss of Brandy polishes the blend to a perfect finish. Barbary Coast is delightfully satisfying, with hints of black walnut, dark chocolate, and dried fruits. The perfect \"all-day\" smoke!",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Barbary Coast.jpg",
+        "averageRating": 3.01,
+        "reviewCount": 192,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.94339622641509,
+                    "Very Mild": 1.8867924528302,
+                    "Mild": 17.924528301887,
+                    "Mild to Medium": 46.22641509434,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.471698113208,
+                    "Strong": 6.6037735849057,
+                    "Very Strong": 1.8867924528302,
+                    "Extremely Strong": 0.94339622641509,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 7.5757575757576,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 60.606060606061,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.212121212121,
+                    "Medium": 46.969696969697,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 1.5151515151515,
+                    "Very Strong": 1.5151515151515,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.2105263157895,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.684210526316,
+                    "Pleasant to Tolerable": 98.684210526316,
+                    "Tolerable": 32.894736842105,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 6.5789473684211,
+                    "Very Strong": 1.3157894736842,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.9473684210526
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 3.1578947368421,
+                    "Mild": 9.4736842105263,
+                    "Mild to Medium": 41.052631578947,
+                    "Medium": 100.0,
+                    "Medium to Full": 45.263157894737,
+                    "Full": 16.842105263158,
+                    "Very Full": 2.1052631578947,
+                    "Extra Full": 1.0526315789474,
+                    "Overwhelming": 1.0526315789474
+                }
+            }
+        }
+    }
+}

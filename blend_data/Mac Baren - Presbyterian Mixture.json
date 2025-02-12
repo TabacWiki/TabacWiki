@@ -1,0 +1,78 @@
+{
+    "presbyterianmixture": {
+        "blender": "Mac Baren",
+        "name": "Presbyterian Mixture",
+        "blendType": "English",
+        "description": "Mellow blend of US Virginia tobaccos and high quality Macedonian grades-exclusive, aristocratic pipe mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Mac Baren - Presbyterian Mixture.jpg",
+        "averageRating": 3.2,
+        "reviewCount": 274,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.4390243902439,
+                    "Very Mild": 3.2520325203252,
+                    "Mild": 40.650406504065,
+                    "Mild to Medium": 72.357723577236,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.951219512195,
+                    "Strong": 4.8780487804878,
+                    "Very Strong": 1.6260162601626,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.8130081300813
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 19.095477386935,
+                    "Very Mild": 9.5477386934673,
+                    "Mild": 11.557788944724,
+                    "Mild to Medium": 5.5276381909548,
+                    "Medium": 4.0201005025126,
+                    "Medium to Strong": 2.0100502512563,
+                    "Strong": 1.5075376884422,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.7142857142857,
+                    "Pleasant": 68.571428571429,
+                    "Very Pleasant": 4.7619047619048,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 19.047619047619,
+                    "Strong": 11.428571428571,
+                    "Very Strong": 0.95238095238095,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.7619047619048,
+                    "Very Mild": 2.3809523809524,
+                    "Mild": 18.253968253968,
+                    "Mild to Medium": 53.174603174603,
+                    "Medium": 100.0,
+                    "Medium to Full": 42.063492063492,
+                    "Full": 17.460317460317,
+                    "Very Full": 3.968253968254,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

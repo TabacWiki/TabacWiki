@@ -1,0 +1,78 @@
+{
+    "cupcake": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Cupcake",
+        "blendType": "Aromatic",
+        "description": "Created by Dan and J.M. in the fall of 2013. A rich, buttery blend of black and cavendish, reminiscent of fresh baked cupcakes and sweet butter cream frosting.",
+        "contents": "Black Cavendish, Cavendish",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Cupcake.jpg",
+        "averageRating": 3.08,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 71.428571428571,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 6.25,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 57.142857142857,
+                    "Full": 42.857142857143,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

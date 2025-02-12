@@ -1,0 +1,78 @@
+{
+    "wilkeno.13": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Wilke No. 13",
+        "blendType": "English",
+        "description": "A legendary Wilke mixture of Tennessee burley, Latakia, perique, Virginia and Royal Scot mixture. Smooth smoking and a beautiful aroma. No wonder it's nickname is Wilke's Magic 13! A great choice for a light to medium English.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Wilke No. 13.jpg",
+        "averageRating": 2.89,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 12.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

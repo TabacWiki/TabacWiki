@@ -1,0 +1,78 @@
+{
+    "unionleader": {
+        "blender": "House of Windsor",
+        "name": "Union Leader",
+        "blendType": "American",
+        "description": "",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 10 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/House of Windsor - Union Leader.jpg",
+        "averageRating": 2.69,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 92.857142857143,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 91.666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 78.571428571429,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 38.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.888888888889,
+                    "Medium to Full": 27.777777777778,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

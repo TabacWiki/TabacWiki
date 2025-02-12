@@ -1,0 +1,78 @@
+{
+    "brownropeno.4whiskey": {
+        "blender": "Samuel Gawith",
+        "name": "Brown Rope No. 4 Whiskey",
+        "blendType": "Aromatic",
+        "description": "Twisted forms of aged dark brown leaf soaked in whiskey. Enormous flavor aroma and strength tamed with slow puffing.",
+        "contents": "Cigar Leaf,  Kentucky,  Virginia",
+        "cut": "Rope",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Brown Rope No. 4 Whiskey.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 50.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 25.0,
+                    "Overwhelming": 25.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 50.0,
+                    "Overwhelming": 50.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 0.0,
+                    "Full": 75.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

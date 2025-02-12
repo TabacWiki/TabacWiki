@@ -1,0 +1,78 @@
+{
+    "hg-2000": {
+        "blender": "Lane Limited",
+        "name": "HG-2000",
+        "blendType": "Aromatic",
+        "description": "A burley base with toasted cavendish added. Provides the best of earthy taste with mildness and aroma. Truly a tobacco of tomorrow.",
+        "contents": "Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - HG-2000.jpg",
+        "averageRating": 2.5,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 55.555555555556,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 100.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

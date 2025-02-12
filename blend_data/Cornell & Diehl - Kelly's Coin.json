@@ -1,0 +1,78 @@
+{
+    "kelly'scoin": {
+        "blender": "Cornell & Diehl",
+        "name": "Kelly's Coin",
+        "blendType": "Burley Based",
+        "description": "Inspired by the infamous Australian bushranger and folk hero, Kelly's Coin is a full bodied burley blend that packs a punch, burns smooth, and leaves you satisfied after just one bowl. Perfect for those a little rough around the edges.\n\nKelly's Coin is a very strong, unadulterated burley blend.",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Kelly's Coin.jpg",
+        "averageRating": 2.87,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 83.333333333333,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

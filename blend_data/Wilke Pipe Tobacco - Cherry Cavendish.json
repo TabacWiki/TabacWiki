@@ -1,0 +1,78 @@
+{
+    "cherrycavendish": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Cherry Cavendish",
+        "blendType": "Aromatic",
+        "description": "Ripe cherries, gathered at the height of the season are turned into a cavendish casing and tastefully blended with rich vanilla Cavendish, Red Virginia and a light Burley. A distinctive cherry flavor and aroma.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Cherry Cavendish.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 16.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 5.5555555555556,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 12.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

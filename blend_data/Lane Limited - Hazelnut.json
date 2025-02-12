@@ -1,0 +1,78 @@
+{
+    "hazelnut": {
+        "blender": "Lane Limited",
+        "name": "Hazelnut",
+        "blendType": "Aromatic",
+        "description": "A superbly balanced blend of golden Virginia and burley tobaccos enhanced with a flurry of full bodied toasted cavendish and lavishly flavored with a delightful extract of freshly roasted hazelnuts.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - Hazelnut.jpg",
+        "averageRating": 2.58,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 39.130434782609,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.086956521739,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 40.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 30.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 77.777777777778,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 46.666666666667,
+                    "Medium to Full": 0.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

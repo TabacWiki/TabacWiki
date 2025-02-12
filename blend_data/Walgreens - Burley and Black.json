@@ -1,0 +1,78 @@
+{
+    "burleyandblack": {
+        "blender": "Walgreens",
+        "name": "Burley and Black",
+        "blendType": "Aromatic",
+        "description": "Blend of flake cuts and cavendish. Cool smoking, even burning without a bite.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "12 oz. bags",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Walgreens - Burley and Black.jpg",
+        "averageRating": 2.13,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 0.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 10.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

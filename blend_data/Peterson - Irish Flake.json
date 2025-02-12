@@ -1,0 +1,78 @@
+{
+    "irishflake": {
+        "blender": "Peterson",
+        "name": "Irish Flake",
+        "blendType": "Burley Based",
+        "description": "A full bodied blend made of equal proportions air-cured, flue cured, and dark fired. True to the pure, unspoiled tobacco taste. Recommended for the experienced pipe smoker.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Irish Flake.jpg",
+        "averageRating": 3.35,
+        "reviewCount": 403,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.92165898617512,
+                    "Mild to Medium": 1.3824884792627,
+                    "Medium": 8.294930875576,
+                    "Medium to Strong": 28.110599078341,
+                    "Strong": 100.0,
+                    "Very Strong": 47.465437788018,
+                    "Extremely Strong": 14.285714285714,
+                    "Overwhelming": 5.9907834101382
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.734693877551,
+                    "Very Mild": 20.918367346939,
+                    "Mild": 27.040816326531,
+                    "Mild to Medium": 13.265306122449,
+                    "Medium": 9.1836734693878,
+                    "Medium to Strong": 10.714285714286,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 2.5510204081633,
+                    "Extra Strong": 1.0204081632653
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 4.5112781954887,
+                    "Pleasant to Tolerable": 55.639097744361,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 65.413533834586,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 11.278195488722,
+                    "Extra Strong": 4.5112781954887,
+                    "Overwhelming": 4.5112781954887
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.9512195121951,
+                    "Very Mild": 0.48780487804878,
+                    "Mild": 2.9268292682927,
+                    "Mild to Medium": 3.4146341463415,
+                    "Medium": 13.170731707317,
+                    "Medium to Full": 39.512195121951,
+                    "Full": 100.0,
+                    "Very Full": 47.80487804878,
+                    "Extra Full": 7.8048780487805,
+                    "Overwhelming": 1.4634146341463
+                }
+            }
+        }
+    }
+}

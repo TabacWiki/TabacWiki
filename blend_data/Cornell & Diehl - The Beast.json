@@ -1,0 +1,78 @@
+{
+    "thebeast": {
+        "blender": "Cornell & Diehl",
+        "name": "The Beast",
+        "blendType": "Virginia/Perique",
+        "description": "Legend has it that Aleister Crowley, famed adept of the Order of the Golden Dawn and founder of the Ordo Templi Orientis, is purported to have made a habit of smoking rum-soaked perique as a meditative aid. \n\nTo date, many a dabbler has pursued his own manifestation of this concoction out of sheer curiosity. We have too. And so in the spirit of the nefarious occultist himself, we sought to tame the Beast with our own rendering of the recipe, soaked for seven days in spiced rum, so that we might share our vision of it with the most inquisitive and brave of pipe smokers.",
+        "contents": "Black Cavendish,  Kentucky,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Cornell & Diehl - The Beast.jpg",
+        "averageRating": 2.78,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 83.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 83.333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 60.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 40.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 60.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 20.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Full": 12.5,
+                    "Full": 100.0,
+                    "Very Full": 62.5,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

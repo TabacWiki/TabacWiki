@@ -1,0 +1,78 @@
+{
+    "hell'skitchen": {
+        "blender": "New York Pipe Club",
+        "name": "Hell's Kitchen",
+        "blendType": "English",
+        "description": "Our Balkan blend is dominated by complex and exotic Oriental leaf, fragrant and lightly sweet. Cyprian Latakia and Dark Fired Kentucky components are in just the right measure to define, but not overwhelm, the ambiance of the smoke. A classic rich Balkan blend that is as storied as the neighborhood that bears its name. Fire up a \"New York State-of Mind\" with Hell's Kitchen.",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/New York Pipe Club - Hell's Kitchen.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 2,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

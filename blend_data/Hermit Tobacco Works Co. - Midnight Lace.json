@@ -1,0 +1,78 @@
+{
+    "midnightlace": {
+        "blender": "Hermit Tobacco Works Co.",
+        "name": "Midnight Lace",
+        "blendType": "Other",
+        "description": "Bob Gregory, the Master Blender of Samuel Gawith Tobacco Kendall England has, from a Hermit Tobacco formula, blended latakia, Turkish, cavendish that can be smoked all day... till midnight.",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish",
+        "cut": "Broken Flake",
+        "packaging": "2 ounce tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hermit Tobacco Works Co. - Midnight Lace.jpg",
+        "averageRating": 2.0,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 100.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

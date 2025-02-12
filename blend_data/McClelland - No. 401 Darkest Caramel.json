@@ -1,0 +1,78 @@
+{
+    "no.401darkestcaramel": {
+        "blender": "McClelland",
+        "name": "No. 401 Darkest Caramel",
+        "blendType": "Aromatic",
+        "description": "Here is a mild, slow-burning, soft Black Cavendish flavored with smooth, dark caramel. A rich confection for your pipe.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 401 Darkest Caramel.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Full": 0.0,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

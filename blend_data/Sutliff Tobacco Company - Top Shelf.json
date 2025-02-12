@@ -1,0 +1,78 @@
+{
+    "topshelf": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Top Shelf",
+        "blendType": "Aromatic",
+        "description": "Bourbon on a mixture of burley, Virginia, and black cavendish.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Top Shelf.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 75.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 75.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

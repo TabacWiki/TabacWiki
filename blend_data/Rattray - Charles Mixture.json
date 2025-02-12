@@ -1,0 +1,78 @@
+{
+    "charlesmixture": {
+        "blender": "Rattray",
+        "name": "Charles Mixture",
+        "blendType": "Aromatic",
+        "description": "The perfect smoke. This light tasting, full aromatic tobacco is a special recipe of cavendish & Va. tobaccos mixed with broad leaf Carolina. It has a pleasing aroma and is blended mildly for the palate and the tongue.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Rattray - Charles Mixture.jpg",
+        "averageRating": 1.95,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 37.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 66.666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 11.111111111111,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

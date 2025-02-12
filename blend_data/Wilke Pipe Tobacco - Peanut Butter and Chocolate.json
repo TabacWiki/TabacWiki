@@ -1,0 +1,78 @@
+{
+    "peanutbutterandchocolate": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Peanut Butter and Chocolate",
+        "blendType": "Aromatic",
+        "description": "Sweet tooth barking at your taste buds? Try our Peanut Butter Chocolate blend. A well blended aromatic with some nutty Maryland burley and Virginia. A comfortable all day smoke that satisfies your craving for candy without the calories.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Peanut Butter and Chocolate.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

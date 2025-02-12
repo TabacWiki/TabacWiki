@@ -1,0 +1,78 @@
+{
+    "smokymountain": {
+        "blender": "Hearth & Home",
+        "name": "Smoky Mountain",
+        "blendType": "Virginia/Burley",
+        "description": "Hearth & Home Slow-Aged is a new addition to the Hearth & Home Family. But this tobacco is unique and we know our P&C Faithful will love it! Smoky Mountain, made with dark-fired, combines time and pressure that impacts the tobacco flavor. The blend was pressed into cakes and transferred to holding presses for a month to make the flavors deeper, richer, and smoother. For those that are on the hunt for new and exciting, pick up a tin of Hearth & Home Slow-Aged Smoky Mountain!",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "1.75 oz. tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Smoky Mountain.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

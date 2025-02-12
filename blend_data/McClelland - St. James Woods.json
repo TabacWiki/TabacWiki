@@ -1,0 +1,78 @@
+{
+    "st.jameswoods": {
+        "blender": "McClelland",
+        "name": "St. James Woods",
+        "blendType": "Virginia/Perique",
+        "description": "A highly sophisticated broken flake of matured red and black stoved Virginias pressed with the finest Louisiana perique. This beautiful, mottled tobacco has an especially deep, rich character with that mysterious and compelling aroma that is perique's alone. A truly satisfying delight for natural Virginia pipe tobacco.",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - St. James Woods.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 115,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.5384615384615,
+                    "Very Mild": 3.0769230769231,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Strong": 32.307692307692,
+                    "Strong": 10.769230769231,
+                    "Very Strong": 3.0769230769231,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.279569892473,
+                    "Very Mild": 5.3763440860215,
+                    "Mild": 8.6021505376344,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.1505376344086,
+                    "Medium to Strong": 3.2258064516129,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 85.714285714286,
+                    "Very Pleasant": 11.904761904762,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 23.809523809524,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 2.3809523809524,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 39.583333333333,
+                    "Very Full": 4.1666666666667,
+                    "Extra Full": 2.0833333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "nyala": {
+        "blender": "HU Tobacco",
+        "name": "Nyala",
+        "blendType": "Cigar Leaf Based",
+        "description": "Nyala is a medium bodied blend made of Malawi burley with a hint of perique, Brazil tobaccos and a little amount of Havana cigar leaf. A well balanced mixture with decent chocolate notes, and the nice and spicy taste of the Havana leaf in the background. Smooth and complex.",
+        "contents": "Brazilian Leaf, Burley, Cigar Leaf, Perique, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/HU Tobacco - Nyala.jpg",
+        "averageRating": 3.92,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

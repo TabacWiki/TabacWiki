@@ -1,0 +1,78 @@
+{
+    "lightmixture": {
+        "blender": "Davidoff",
+        "name": "Light Mixture",
+        "blendType": "Aromatic",
+        "description": "A wonderful all-day smoking mixture that is full flavored yet light enough to be enjoyed throughout the day.",
+        "contents": "Unknown",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/Davidoff - Light Mixture.jpg",
+        "averageRating": 1.58,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 60.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 33.333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 75.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

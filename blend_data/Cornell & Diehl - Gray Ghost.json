@@ -1,0 +1,78 @@
+{
+    "grayghost": {
+        "blender": "Cornell & Diehl",
+        "name": "Gray Ghost",
+        "blendType": "Cigar Leaf Based",
+        "description": "Stoved and plain red Virginia are mixed with fine Lancaster cigar leaf to form a full-flavored smoke.",
+        "contents": "Cigar Leaf,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Gray Ghost.jpg",
+        "averageRating": 2.63,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 62.5,
+                    "Strong": 100.0,
+                    "Very Strong": 25.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 50.0,
+                    "Full": 83.333333333333,
+                    "Very Full": 100.0,
+                    "Extra Full": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

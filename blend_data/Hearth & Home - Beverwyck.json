@@ -1,0 +1,78 @@
+{
+    "beverwyck": {
+        "blender": "Hearth & Home",
+        "name": "Beverwyck",
+        "blendType": "American",
+        "description": "An interesting, old-time blend, named after the original Dutch name for the city of Albany, NY (our home). Three different cube cuts (a Burley, a Virginia and a hybrid) are blended together with smoky Latakia, and spicy-sweet Perique. One of our regulars compares it to some of the original NYC Wilke mixtures. If you like Barking Dog, Revelation, Walnut or Country Doctor, give this a try.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Beverwyck.jpg",
+        "averageRating": 2.76,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 72.727272727273,
+                    "Very Pleasant": 18.181818181818,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

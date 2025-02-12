@@ -1,0 +1,78 @@
+{
+    "scottishflake": {
+        "blender": "Robert McConnell",
+        "name": "Scottish Flake",
+        "blendType": "Virginia/Burley",
+        "description": "Exclusive dark Virginia tobaccos and a spicy Kentucky with a touch of perique pressed into a flake.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Scottish Flake.jpg",
+        "averageRating": 3.25,
+        "reviewCount": 96,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.5087719298246,
+                    "Mild": 8.7719298245614,
+                    "Mild to Medium": 57.894736842105,
+                    "Medium": 100.0,
+                    "Medium to Strong": 17.543859649123,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 97.368421052632,
+                    "Very Mild": 36.842105263158,
+                    "Mild": 23.684210526316,
+                    "Mild to Medium": 18.421052631579,
+                    "Medium": 2.6315789473684,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.888888888889,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.555555555556,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 2.7777777777778,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0833333333333,
+                    "Very Mild": 2.0833333333333,
+                    "Mild": 12.5,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 47.916666666667,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

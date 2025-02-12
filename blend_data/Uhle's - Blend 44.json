@@ -1,0 +1,78 @@
+{
+    "blend44": {
+        "blender": "Uhle's",
+        "name": "Blend  44",
+        "blendType": "Virginia/Burley",
+        "description": "The natural sweetness of Virginia mingles great with the even-burning, woodsy burley. Ingredients: Virginias and burley.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Blend  44.jpg",
+        "averageRating": 3.54,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 100.0,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 71.428571428571,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

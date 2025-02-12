@@ -1,0 +1,78 @@
+{
+    "cappucinot418": {
+        "blender": "House of Windsor",
+        "name": "Cappucino T418",
+        "blendType": "Aromatic",
+        "description": "A blend of Cavendish-cut Virginias, mild Burleys and a generous portion of Black Cavendish provides the perfect base for our coffee flavoring. Real fresh-brewed coffee taste and aroma. A sweet all day long smoke.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/House of Windsor - Cappucino T418.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 7,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 25.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "thefragrantblend": {
+        "blender": "Robert McConnell",
+        "name": "The Fragrant Blend",
+        "blendType": "Cigar Leaf Based",
+        "description": "The first ingredient in this blend is a broad leaf Virginia which has been cut straight out of a 16 lb. block matured under cold pressure for two weeks. Added to this is a jet black cavendish, shiny and enriched by pressure and heat. Mottled red Virginia and an equal portion of dark brown maduro then complete the blend. The whole is then passed through a copper cylinder where fruit essences are added and sealed into the tobacco by contact with the copper stove. The blend then lies 'bulked up' for a further week when the various flavours intermingle to produce a unique blend. Smooth and very long lasting.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - The Fragrant Blend.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

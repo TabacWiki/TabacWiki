@@ -1,0 +1,78 @@
+{
+    "bowlinggreen": {
+        "blender": "New York Pipe Club",
+        "name": "Bowling Green",
+        "blendType": "Straight Virginia",
+        "description": "A malty richness, piquant zest and fully-developed body hallmark this unique pressed cake. The remarkable balance of three hearty reds with both yellow and stoved black Virginia is of an appropriately historic character, perfect for cellaring. Linger in a \"New York State-of-Mind\" with Bowling Green.",
+        "contents": "Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/New York Pipe Club - Bowling Green.jpg",
+        "averageRating": 2.33,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

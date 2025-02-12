@@ -1,0 +1,78 @@
+{
+    "blendb-94": {
+        "blender": "Peretti",
+        "name": "Blend B-94",
+        "blendType": "Burley Based",
+        "description": "A blend we have made up specially for smokers who have desired a rich, smooth, rum-cured tobacco.  Its unique flavor and pleasant aroma have made it a favorite.",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Cube",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Blend B-94.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "coolmixture": {
+        "blender": "Davidoff",
+        "name": "Cool Mixture",
+        "blendType": "",
+        "description": "A very cool burning mixture.  Perfect for a hot burning pipe, outdoor smoking or the fast paced smoker.",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/Davidoff - Cool Mixture.jpg",
+        "averageRating": 2.11,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "blackcordial": {
+        "blender": "Lane Limited",
+        "name": "Black Cordial",
+        "blendType": "Aromatic",
+        "description": "Highly aromatic. A new generation of pipe tobacco. A blend of four new and unusual black fire cured grades with added highlights of sweet Virginia. Dramatically new and different in taste and appearance.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - Black Cordial.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.75,
+                    "Mild": 43.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 18.75,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 6.6666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 30.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 10.0,
+                    "Tolerable": 5.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.428571428571,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 0.0,
+                    "Very Full": 7.1428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            }
+        }
+    }
+}

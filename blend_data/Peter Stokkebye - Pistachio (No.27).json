@@ -1,0 +1,78 @@
+{
+    "pistachio(no.27)": {
+        "blender": "Peter Stokkebye",
+        "name": "Pistachio (No.27)",
+        "blendType": "Aromatic",
+        "description": "Blended with the worlds finest quality Golden Red Virginia tobaccos and a full touch of aromatic Black Cavendish. Loose Ribbon cut, Pistachio nut flavor.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Pistachio (No.27).jpg",
+        "averageRating": 2.36,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 45.454545454545,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 27.272727272727,
+                    "Medium to Full": 0.0,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

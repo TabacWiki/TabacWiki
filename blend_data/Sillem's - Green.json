@@ -1,0 +1,78 @@
+{
+    "green": {
+        "blender": "Sillem's",
+        "name": "Green",
+        "blendType": "Aromatic",
+        "description": "Bright, loose, and highly aromatic, this elegant composition will tempt you and you will never forget it. Different sugar sweet Virginia tobaccos, with brown and black mellow varieties of cavendish. This blend has a dense, sumptuous, exotic smell of Pina Colada, deliciously topped with the aroma of nuts. A high class tobacco which will delight you and the people around you.",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sillem's - Green.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 25.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 25.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

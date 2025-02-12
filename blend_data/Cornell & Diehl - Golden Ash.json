@@ -1,0 +1,78 @@
+{
+    "goldenash": {
+        "blender": "Cornell & Diehl",
+        "name": "Golden Ash",
+        "blendType": "English",
+        "description": "Rough cut and cube cut Burley, Latakia and golden Virginia flake provide a mild English blend.",
+        "contents": "Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Golden Ash.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "grousemoor": {
+        "blender": "Samuel Gawith",
+        "name": "Grousemoor",
+        "blendType": "Aromatic",
+        "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then \u201crested\u201d. The final stage of production is the addition of a unique melange of flavors. Grousemoor is a \u2018must\u2019 for smokers who want their days to have \u201cSpring in the air\u201d.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Grousemoor.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 213,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 6.5217391304348,
+                    "Mild": 88.04347826087,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.478260869565,
+                    "Medium to Strong": 8.695652173913,
+                    "Strong": 5.4347826086957,
+                    "Very Strong": 1.0869565217391,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 4.5454545454545,
+                    "Extremely Mild": 6.0606060606061,
+                    "Very Mild": 10.606060606061,
+                    "Mild": 31.818181818182,
+                    "Mild to Medium": 60.606060606061,
+                    "Medium": 100.0,
+                    "Medium to Strong": 72.727272727273,
+                    "Strong": 50.0,
+                    "Very Strong": 15.151515151515,
+                    "Extra Strong": 7.5757575757576
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.2553191489362,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.68085106383,
+                    "Pleasant to Tolerable": 53.191489361702,
+                    "Tolerable": 38.297872340426,
+                    "Tolerable to Strong": 3.1914893617021,
+                    "Strong": 6.3829787234043,
+                    "Very Strong": 2.1276595744681,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.2987012987013,
+                    "Very Mild": 6.4935064935065,
+                    "Mild": 31.168831168831,
+                    "Mild to Medium": 90.909090909091,
+                    "Medium": 100.0,
+                    "Medium to Full": 45.454545454545,
+                    "Full": 20.779220779221,
+                    "Very Full": 6.4935064935065,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.1948051948052
+                }
+            }
+        }
+    }
+}

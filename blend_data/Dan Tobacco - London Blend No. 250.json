@@ -1,0 +1,78 @@
+{
+    "londonblendno.250": {
+        "blender": "Dan Tobacco",
+        "name": "London Blend No. 250",
+        "blendType": "English",
+        "description": "A really special flake tobacco, made from the best Virginia grades with 10% latakia and a pinch of perique, sweetly seasoned with natural plum extract.",
+        "contents": "Latakia,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - London Blend No. 250.jpg",
+        "averageRating": 2.8,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 60.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            }
+        }
+    }
+}

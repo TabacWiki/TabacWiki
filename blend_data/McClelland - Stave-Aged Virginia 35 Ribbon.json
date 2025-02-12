@@ -1,0 +1,78 @@
+{
+    "stave-agedvirginia35ribbon": {
+        "blender": "McClelland",
+        "name": "Stave-Aged Virginia 35 Ribbon",
+        "blendType": "Aromatic",
+        "description": "McClelland decided to celebrate their 35th anniversary with an American classic, bourbon. But instead of aging tobacco in the barrel, they aged the barrel in the tobacco. There is a piece of a charred Kentucky Bourbon white oak barrel in each tin imparting its subtle, long-aged whiskey aroma and flavor and soft, mellow character.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Stave-Aged Virginia 35 Ribbon.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 41.176470588235,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 84.615384615385,
+                    "Pleasant to Tolerable": 30.769230769231,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 10.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

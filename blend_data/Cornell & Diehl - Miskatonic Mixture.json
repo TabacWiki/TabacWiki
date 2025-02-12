@@ -1,0 +1,78 @@
+{
+    "miskatonicmixture": {
+        "blender": "Cornell & Diehl",
+        "name": "Miskatonic Mixture",
+        "blendType": "Virginia Based",
+        "description": "Amidst the old tomes in a remote corner of the library, you discover an obscure reference to an occult recipe: a pinch of granulated perique over a bed of Katerini and Virginia, finished with a dash of sweet black cavendish to cure the madness.",
+        "contents": "Black Cavendish,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Miskatonic Mixture.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 16.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

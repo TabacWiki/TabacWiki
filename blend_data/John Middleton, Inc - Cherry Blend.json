@@ -1,0 +1,78 @@
+{
+    "cherryblend": {
+        "blender": "John Middleton, Inc",
+        "name": "Cherry Blend",
+        "blendType": "Aromatic",
+        "description": "Cross cut light burleys with Virginia flake.",
+        "contents": "Burley, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "pouch weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Cherry Blend.jpg",
+        "averageRating": 2.3,
+        "reviewCount": 100,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 19.607843137255,
+                    "Mild": 100.0,
+                    "Mild to Medium": 68.627450980392,
+                    "Medium": 17.647058823529,
+                    "Medium to Strong": 1.9607843137255,
+                    "Strong": 3.921568627451,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 1.9607843137255,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 2.1739130434783,
+                    "Extremely Mild": 10.869565217391,
+                    "Very Mild": 26.086956521739,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.869565217391,
+                    "Medium": 28.260869565217,
+                    "Medium to Strong": 6.5217391304348,
+                    "Strong": 4.3478260869565,
+                    "Very Strong": 2.1739130434783,
+                    "Extra Strong": 2.1739130434783
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.2553191489362,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 36.170212765957,
+                    "Pleasant to Tolerable": 72.340425531915,
+                    "Tolerable": 14.893617021277,
+                    "Tolerable to Strong": 2.1276595744681,
+                    "Strong": 4.2553191489362,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 4.2553191489362
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.8888888888889,
+                    "Very Mild": 15.555555555556,
+                    "Mild": 91.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 22.222222222222,
+                    "Medium to Full": 4.4444444444444,
+                    "Full": 0.0,
+                    "Very Full": 2.2222222222222,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.4444444444444
+                }
+            }
+        }
+    }
+}

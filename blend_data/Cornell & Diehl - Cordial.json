@@ -1,0 +1,78 @@
+{
+    "cordial": {
+        "blender": "Cornell & Diehl",
+        "name": "Cordial",
+        "blendType": "Scottish",
+        "description": "A smooth blend of Virginia, Turkish, Latakia and black Cavendish.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Cordial.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 0.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 10.526315789474,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 37.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 12.5,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

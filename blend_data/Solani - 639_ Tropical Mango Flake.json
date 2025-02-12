@@ -1,0 +1,78 @@
+{
+    "639:tropicalmangoflake": {
+        "blender": "Solani",
+        "name": "639: Tropical Mango Flake",
+        "blendType": "Aromatic",
+        "description": "Virginia and burley combined with some black cavendish steamed with mango juice to create a fabulous aromatic.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Solani - 639: Tropical Mango Flake.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 85.714285714286,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 41.666666666667,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "40thanniversary": {
+        "blender": "McClelland",
+        "name": "40th Anniversary",
+        "blendType": "Straight Virginia",
+        "description": "McClelland's 40th Anniversary offering is dedicated to Virginias, and of course those with a love for Virginia leaf as well. The tobacco itself is a red Virginia flake, promising a rich, mellow, sweet smoking experience, and something that will age superbly.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - 40th Anniversary.jpg",
+        "averageRating": 3.72,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.125,
+                    "Very Mild": 3.125,
+                    "Mild": 0.0,
+                    "Mild to Medium": 3.125,
+                    "Medium": 3.125,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.3478260869565,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 26.086956521739,
+                    "Pleasant to Tolerable": 21.739130434783,
+                    "Tolerable": 4.3478260869565,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 61.111111111111,
+                    "Medium": 100.0,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

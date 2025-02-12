@@ -1,0 +1,78 @@
+{
+    "cherryliqueur": {
+        "blender": "Borkum Riff",
+        "name": "Cherry Liqueur",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff Cherry Liqueur flavored tobacco is a high quality, mild mixture, which combines a delicious blend of light aromatic Virginia and rich, cool smoking burley tobaccos, to create an exquisite taste and aroma, enhanced with the sweetness of a fine cherry liqueur.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Sweden",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Borkum Riff - Cherry Liqueur.jpg",
+        "averageRating": 1.33,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 21.052631578947,
+                    "Very Mild": 31.578947368421,
+                    "Mild": 100.0,
+                    "Mild to Medium": 68.421052631579,
+                    "Medium": 26.315789473684,
+                    "Medium to Strong": 26.315789473684,
+                    "Strong": 26.315789473684,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "flavoring": {
+                "level": "Very Strong",
+                "distribution": {
+                    "None Detected": 9.0909090909091,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 63.636363636364,
+                    "Medium to Strong": 81.818181818182,
+                    "Strong": 90.909090909091,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 54.545454545455
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 18.75,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 18.75,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 93.75,
+                    "Tolerable to Strong": 37.5,
+                    "Strong": 0.0,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 12.5
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 83.333333333333
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "blendingbourbonblackcavendish": {
+        "blender": "Billow",
+        "name": "Blending Bourbon Black Cavendish",
+        "blendType": "Cavendish Based",
+        "description": "This is merely unsweetened black cavendish that has been married with fine Kentucky bourbon to add a true bourbon flavor to a blend you feel needs something extra. Though some enjoy this smoke on it's own, the moisture content and potent flavor is best when added to an existing blend.",
+        "contents": "Black Cavendish",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Billow - Blending Bourbon Black Cavendish.jpg",
+        "averageRating": 0.0,
+        "reviewCount": 0,
+        "ratings": {
+            "strength": {
+                "level": "0",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "0",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "0",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "0",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

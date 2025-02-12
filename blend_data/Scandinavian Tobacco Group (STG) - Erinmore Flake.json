@@ -1,0 +1,78 @@
+{
+    "erinmoreflake": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Erinmore Flake",
+        "blendType": "Virginia/Burley",
+        "description": "The leaf tobaccos for Erinmore are selected from only premium tobacco growing regions of the world.  The blend consists of mature Virginia, mellow burley and sweet dark air-cured tobaccos. It is pressed into cakes, aged and cut into slices providing a mellow and cool smoke with flowery and fruity note.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Erinmore Flake.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 352,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.7964071856287,
+                    "Mild": 16.766467065868,
+                    "Mild to Medium": 40.119760479042,
+                    "Medium": 100.0,
+                    "Medium to Strong": 62.874251497006,
+                    "Strong": 10.179640718563,
+                    "Very Strong": 2.3952095808383,
+                    "Extremely Strong": 0.59880239520958,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 5.8333333333333,
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 15.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 69.166666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.666666666667,
+                    "Strong": 19.166666666667,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 0.83333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.852941176471,
+                    "Pleasant to Tolerable": 93.382352941176,
+                    "Tolerable": 47.058823529412,
+                    "Tolerable to Strong": 11.029411764706,
+                    "Strong": 8.8235294117647,
+                    "Very Strong": 1.4705882352941,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.73529411764706
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.70921985815603,
+                    "Very Mild": 2.8368794326241,
+                    "Mild": 21.985815602837,
+                    "Mild to Medium": 39.716312056738,
+                    "Medium": 100.0,
+                    "Medium to Full": 74.468085106383,
+                    "Full": 31.914893617021,
+                    "Very Full": 3.5460992907801,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.8368794326241
+                }
+            }
+        }
+    }
+}

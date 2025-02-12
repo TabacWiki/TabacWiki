@@ -1,0 +1,78 @@
+{
+    "sherlock'sreserve": {
+        "blender": "ThePipeRoom.com",
+        "name": "Sherlock's Reserve",
+        "blendType": "English",
+        "description": "Sherlock Holmes kept his tobacco in the toe of a Persian slipper. Could it be that he had a particularly special reserve hidden away among his dusty old books where only he would know? This full English blend is both strong and rich with Latakia, yet smooth and full just the way Holmes liked it.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50g Pouch",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/ThePipeRoom.com - Sherlock's Reserve.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

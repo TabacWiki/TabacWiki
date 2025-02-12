@@ -1,0 +1,78 @@
+{
+    "kendalcreamdeluxeflake": {
+        "blender": "Samuel Gawith",
+        "name": "Kendal Cream Deluxe Flake",
+        "blendType": "Virginia/Burley",
+        "description": "This selection of blended burley and Virginias offers a mild and creamy smoke from a medium density flake. With an added essence, the pipe smoker who derives pleasure from an easy to rub out flake will certainly enjoy Kendal Cream Flake.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Kendal Cream Deluxe Flake.jpg",
+        "averageRating": 2.99,
+        "reviewCount": 152,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.5384615384615,
+                    "Mild": 9.2307692307692,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Strong": 92.307692307692,
+                    "Strong": 13.846153846154,
+                    "Very Strong": 3.0769230769231,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.5384615384615
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 3.6363636363636,
+                    "Extremely Mild": 10.909090909091,
+                    "Very Mild": 21.818181818182,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.818181818182,
+                    "Medium": 70.909090909091,
+                    "Medium to Strong": 25.454545454545,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.6363636363636
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.8387096774194,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 29.032258064516,
+                    "Pleasant to Tolerable": 88.709677419355,
+                    "Tolerable": 41.935483870968,
+                    "Tolerable to Strong": 6.4516129032258,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.6129032258065
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.5555555555556,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 20.37037037037,
+                    "Mild to Medium": 29.62962962963,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 48.148148148148,
+                    "Very Full": 1.8518518518519,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.8518518518519
+                }
+            }
+        }
+    }
+}

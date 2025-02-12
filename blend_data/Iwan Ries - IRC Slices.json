@@ -1,0 +1,78 @@
+{
+    "ircslices": {
+        "blender": "Iwan Ries",
+        "name": "IRC Slices",
+        "blendType": "Virginia/Perique",
+        "description": "Old Belt flue cured Virginia flake with a touch of perique.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "1.5 ounce tin, 7 ounce tin, 1.5 pound bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Iwan Ries - IRC Slices.jpg",
+        "averageRating": 3.18,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "tabacwiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TabacWiki/TabacWiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TabacWiki/TabacWiki/issues"
+  },
+  "homepage": "https://github.com/TabacWiki/TabacWiki#readme",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

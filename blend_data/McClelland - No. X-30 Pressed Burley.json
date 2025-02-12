@@ -1,0 +1,78 @@
+{
+    "no.x-30pressedburley": {
+        "blender": "McClelland",
+        "name": "No. X-30 Pressed Burley",
+        "blendType": "Burley Based",
+        "description": "This rich burley blend is pressed before cutting to give it a rubbed flake appearance and a density in smoking that assures coolness. X-30 is a hearty tobacco with burley's characteristic depth of flavor made smooth by McClelland's exclusive heat-seasoning process.",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. X-30 Pressed Burley.jpg",
+        "averageRating": 2.33,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

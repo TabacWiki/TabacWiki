@@ -1,0 +1,78 @@
+{
+    "melange": {
+        "blender": "Stanwell",
+        "name": "Melange",
+        "blendType": "Aromatic",
+        "description": "A modern approach to a traditional mixture. Black cavendish, toasted burley, Orientals and bright Virginias are gently mixed with apricot and natural sweetness. Soft and mellow with a pleasing aroma and a delicate  taste.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch and tin, 4 ounce bag",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Stanwell - Melange.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 99,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 13.207547169811,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.490566037736,
+                    "Medium": 32.075471698113,
+                    "Medium to Strong": 3.7735849056604,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 4.7619047619048,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.47619047619,
+                    "Strong": 21.428571428571,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 1.6393442622951,
+                    "Pleasant": 62.295081967213,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.5573770491803,
+                    "Tolerable": 6.5573770491803,
+                    "Tolerable to Strong": 3.2786885245902,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.705882352941,
+                    "Mild": 58.823529411765,
+                    "Mild to Medium": 97.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Full": 29.411764705882,
+                    "Full": 20.588235294118,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.9411764705882
+                }
+            }
+        }
+    }
+}

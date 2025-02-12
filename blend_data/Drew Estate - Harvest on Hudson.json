@@ -1,0 +1,78 @@
+{
+    "harvestonhudson": {
+        "blender": "Drew Estate",
+        "name": "Harvest on Hudson",
+        "blendType": "Aromatic",
+        "description": "We used to go up Hudson in the Fall to go apple picking at the orchards, and this is the memory of those times all packed into your bowl. Mild and wonderfully flavorful, with notes of freshly cut apples and a smooth blend of Virginia, burley and cavendish tobaccos.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Drew Estate - Harvest on Hudson.jpg",
+        "averageRating": 2.7,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 88.888888888889,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 12.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

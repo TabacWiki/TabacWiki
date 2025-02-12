@@ -1,0 +1,78 @@
+{
+    "devil'sholiday": {
+        "blender": "Dan Tobacco",
+        "name": "Devil's Holiday",
+        "blendType": "Aromatic",
+        "description": "Inspired by a compilation of 1933-1934 Benny Carter recordings by the same name, Dan Tobacco's Devil's Holiday is a gentle Black Cavendish with tips of Golden Virginia, flavored with sweet wild forest berries. Hellishly good and heavenly delicious.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Devil's Holiday.jpg",
+        "averageRating": 2.77,
+        "reviewCount": 90,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.1282051282051,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 100.0,
+                    "Mild to Medium": 69.230769230769,
+                    "Medium": 46.153846153846,
+                    "Medium to Strong": 12.820512820513,
+                    "Strong": 5.1282051282051,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 2.5641025641026,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 3.3333333333333,
+                    "Mild to Medium": 23.333333333333,
+                    "Medium": 56.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 76.666666666667,
+                    "Very Strong": 43.333333333333,
+                    "Extra Strong": 16.666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 64.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.0,
+                    "Tolerable": 4.0,
+                    "Tolerable to Strong": 2.0,
+                    "Strong": 6.0,
+                    "Very Strong": 2.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 4.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 43.333333333333,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 40.0,
+                    "Very Full": 3.3333333333333,
+                    "Extra Full": 13.333333333333,
+                    "Overwhelming": 10.0
+                }
+            }
+        }
+    }
+}

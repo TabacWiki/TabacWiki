@@ -1,0 +1,78 @@
+{
+    "chinablackwhiskey": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "China Black Whiskey",
+        "blendType": "Aromatic",
+        "description": "China Black Whiskey - Bourbon Whiskey is distinctive. Only spirits produced in Bourbon County, Kentucky can be called bourbon; otherwise, they are labeled sour mash whiskey. The distinctiveness of bourbon, in turn, makes China Black Whiskey a distinctive pipe blend. A blend of golden cavendish, black cavendish and Oriental. Sweetly aromatic and delightfully mild without a bite.",
+        "contents": "Black Cavendish,  Cavendish,  Oriental/Turkish",
+        "cut": "Coarse Cut",
+        "packaging": "14 ounce tin, 50 grams pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - China Black Whiskey.jpg",
+        "averageRating": 2.6,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 75.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

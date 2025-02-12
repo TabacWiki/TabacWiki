@@ -1,0 +1,78 @@
+{
+    "half&halfregular": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Half & Half Regular",
+        "blendType": "Aromatic",
+        "description": "An equal measure of dark and bright traditional American granulated tobacco from Denmark.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 14 ounce tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Half & Half Regular.jpg",
+        "averageRating": 2.21,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 42.105263157895,
+                    "Mild": 100.0,
+                    "Mild to Medium": 73.684210526316,
+                    "Medium": 52.631578947368,
+                    "Medium to Strong": 21.052631578947,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 18.75,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.75,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.25,
+                    "Medium to Strong": 43.75,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 12.5
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.695652173913,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.391304347826,
+                    "Pleasant to Tolerable": 43.478260869565,
+                    "Tolerable": 43.478260869565,
+                    "Tolerable to Strong": 8.695652173913,
+                    "Strong": 8.695652173913,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 4.3478260869565,
+                    "Overwhelming": 4.3478260869565
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 17.647058823529,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 76.470588235294,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.823529411765,
+                    "Medium to Full": 23.529411764706,
+                    "Full": 5.8823529411765,
+                    "Very Full": 5.8823529411765,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 23.529411764706
+                }
+            }
+        }
+    }
+}

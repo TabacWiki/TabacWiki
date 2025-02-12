@@ -1,0 +1,78 @@
+{
+    "whitelightning": {
+        "blender": "Cornell & Diehl",
+        "name": "White Lightning",
+        "blendType": "Aromatic",
+        "description": "A concentrated mixture of red and bright Virginias is combined with a good measure of Perique, and spiked with a bit of applejack, followed by the flavors of raspberry and vanilla for an electrifying smoking experience.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - White Lightning.jpg",
+        "averageRating": 2.33,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

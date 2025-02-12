@@ -1,0 +1,78 @@
+{
+    "blackwoodsflake": {
+        "blender": "McClelland",
+        "name": "Blackwoods Flake",
+        "blendType": "Straight Virginia",
+        "description": "The characteristic, natural sweetness of mellow, red Virginias mingles inextricably with the richness and inherently spicy aroma of black stoved Virginias in this doubly aged red and black all-Virginia cake mixture. An artistic achievement in tobaccos for the pipe, this beautiful mottled flake is incomparable in smoothness, balance and refinement.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Blackwoods Flake.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 209,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.8,
+                    "Very Mild": 2.4,
+                    "Mild": 12.0,
+                    "Mild to Medium": 46.4,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.8,
+                    "Strong": 3.2,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.8
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.576642335766,
+                    "Very Mild": 8.029197080292,
+                    "Mild": 12.408759124088,
+                    "Mild to Medium": 7.2992700729927,
+                    "Medium": 4.3795620437956,
+                    "Medium to Strong": 2.9197080291971,
+                    "Strong": 0.72992700729927,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.72992700729927
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.3956043956044,
+                    "Pleasant": 81.318681318681,
+                    "Very Pleasant": 8.7912087912088,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 51.648351648352,
+                    "Tolerable to Strong": 4.3956043956044,
+                    "Strong": 4.3956043956044,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.0989010989011
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.4347826086957,
+                    "Very Mild": 2.1739130434783,
+                    "Mild": 15.217391304348,
+                    "Mild to Medium": 34.782608695652,
+                    "Medium": 100.0,
+                    "Medium to Full": 69.565217391304,
+                    "Full": 23.913043478261,
+                    "Very Full": 2.1739130434783,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

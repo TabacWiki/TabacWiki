@@ -1,0 +1,78 @@
+{
+    "deluxemixture": {
+        "blender": "Peterson",
+        "name": "De Luxe Mixture",
+        "blendType": "Aromatic",
+        "description": "This black cavendish aromatic is a selection of matured Virginia tobaccos from Brazil and Africa blended with a loose cut mellow black cavendish. A tasteful flavour consisting of vanilla, walnut and honey has been added.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - De Luxe Mixture.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 71,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 17.142857142857,
+                    "Very Mild": 34.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 51.428571428571,
+                    "Medium": 20.0,
+                    "Medium to Strong": 2.8571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 7.6923076923077,
+                    "Extremely Mild": 11.538461538462,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 57.692307692308,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.692307692308,
+                    "Medium to Strong": 34.615384615385,
+                    "Strong": 11.538461538462,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.4516129032258,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 96.774193548387,
+                    "Pleasant to Tolerable": 38.709677419355,
+                    "Tolerable": 9.6774193548387,
+                    "Tolerable to Strong": 3.2258064516129,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 10.0,
+                    "Mild": 73.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 46.666666666667,
+                    "Medium to Full": 10.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

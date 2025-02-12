@@ -1,0 +1,78 @@
+{
+    "no.12mixture": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "No. 12 Mixture",
+        "blendType": "Virginia/Latakia",
+        "description": "A blend of flue cured bright Virginias from Malawi, Zimbabwe and Brazil and latakia from Cyprus. With this blend you not only have to like latakia, you have to positively \"crave\" the taste as this blend contains 45%. This is the best selling mixture in the US, by a comfortable margin.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - No. 12 Mixture.jpg",
+        "averageRating": 3.04,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.75,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 27.272727272727,
+                    "Very Pleasant": 18.181818181818,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 70.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

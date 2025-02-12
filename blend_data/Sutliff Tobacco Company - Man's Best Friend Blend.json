@@ -1,0 +1,78 @@
+{
+    "man'sbestfriendblend": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Man's Best Friend Blend",
+        "blendType": "American",
+        "description": "Another American Classic in the English vein. Smooth toasted Burley cubes blended with premium grade Latakia and Lemon Virginia Flake. Cased with a uniquely mild rum top dressing to produce a subtle pleasing flavor and room aroma.  Perfect for fans of Barking Dog.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Cube",
+        "packaging": "1.5 or 8 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Man's Best Friend Blend.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 14.285714285714,
+                    "Very Full": 7.1428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

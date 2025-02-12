@@ -1,0 +1,78 @@
+{
+    "blackdiamond": {
+        "blender": "W.O. Larsen",
+        "name": "Black Diamond",
+        "blendType": "Aromatic",
+        "description": "A black cavendish with a brilliant, mild flavour. The best from burley, Virginia and Orient Blattgut, specially broadly cut. A black cavendish, for a long time matured and black tobacco diamonds loosely pressed, provides for brilliant, mild flavour.",
+        "contents": "Black Cavendish,  Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/W.O. Larsen - Black Diamond.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 60.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

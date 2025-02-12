@@ -1,0 +1,78 @@
+{
+    "cocktailhour": {
+        "blender": "Villiger",
+        "name": "Cocktail Hour",
+        "blendType": "Aromatic",
+        "description": "A disc cut blend of dark fired and sun cured tobaccos to relax with over the setting sun. A unique hand stripped, spun cut tobacco blend consisting of flue cured Virginia from the USA and Brazil, blended with air cured tobacco from Malawi. A flue cured wrapper leaf from Brazil completes the blend.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Villiger - Cocktail Hour.jpg",
+        "averageRating": 2.27,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

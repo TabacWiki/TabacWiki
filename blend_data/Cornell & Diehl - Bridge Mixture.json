@@ -1,0 +1,78 @@
+{
+    "bridgemixture": {
+        "blender": "Cornell & Diehl",
+        "name": "Bridge Mixture",
+        "blendType": "Other",
+        "description": "A sophisticated blend of bright & red Virginias, unsweetened red Virginia cavendish, Turkish, Cyprian latakia and perique with a touch of 20 year old dark fired Kentucky burley for a kicker.",
+        "contents": "Cavendish,  Kentucky,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bridge Mixture.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 38.461538461538,
+                    "Medium to Strong": 100.0,
+                    "Strong": 15.384615384615,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 41.666666666667,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 100.0,
+                    "Full": 55.555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

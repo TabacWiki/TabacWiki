@@ -1,0 +1,78 @@
+{
+    "matchreadyrubbed": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Match Ready Rubbed",
+        "blendType": "Burley Based",
+        "description": "This is a match to the old Edgeworth Ready Rubbed. Smooth, but rich mahogany burley has been specially processed with a subtle top note for a comforting flavor that can be enjoyed at any time of day.",
+        "contents": "Burley",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Ready Rubbed.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.0,
+                    "Medium": 24.0,
+                    "Medium to Strong": 8.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 3.7037037037037,
+                    "Extremely Mild": 14.814814814815,
+                    "Very Mild": 29.62962962963,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.518518518519,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 3.7037037037037,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 32.142857142857,
+                    "Tolerable": 17.857142857143,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 69.565217391304,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.434782608696,
+                    "Medium to Full": 21.739130434783,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

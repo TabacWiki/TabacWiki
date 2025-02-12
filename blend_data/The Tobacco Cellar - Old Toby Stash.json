@@ -1,0 +1,78 @@
+{
+    "oldtobystash": {
+        "blender": "The Tobacco Cellar",
+        "name": "Old Toby Stash",
+        "blendType": "",
+        "description": "Old Toby's Stash is a custom, premium blend that encompasses eight different leaves. From Dark Black Cavendish, Burley, Golden Virginias and Golden Cavendish, this blend is a true aromatic treat.\n\nThe flavor is rich with Blueberries, Raspberries, Vanilla and Caramel. The tobacco is full of flavor and the room aroma is like no other. After smoking, this will leave the room smelling like fresh muffins.",
+        "contents": "Burley,  Cavendish,  Virginia,  Black Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "1 Ounce Packages",
+        "country": "United States",
+        "production": "",
+        "imagePath": "../blend_pictures/The Tobacco Cellar - Old Toby Stash.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

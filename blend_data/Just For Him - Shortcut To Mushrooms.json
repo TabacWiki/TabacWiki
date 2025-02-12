@@ -1,0 +1,78 @@
+{
+    "shortcuttomushrooms": {
+        "blender": "Just For Him",
+        "name": "Shortcut To Mushrooms",
+        "blendType": "Aromatic",
+        "description": "This is the fourth blend in the Middle Earth Pipeweed Series! Rich, dark Latakia is blended with mushrooms straight from Farmer Maggot's field to produce a truly unique smooth, creamy, earthy smoke with a hint of sweetness.",
+        "contents": "Black Cavendish,  Latakia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Just For Him - Shortcut To Mushrooms.jpg",
+        "averageRating": 3.49,
+        "reviewCount": 88,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.3809523809524,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 76.190476190476,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.714285714286,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 5.5555555555556,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.888888888889,
+                    "Medium to Strong": 19.444444444444,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 32.558139534884,
+                    "Pleasant to Tolerable": 60.46511627907,
+                    "Tolerable": 23.255813953488,
+                    "Tolerable to Strong": 11.627906976744,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.9411764705882,
+                    "Very Mild": 2.9411764705882,
+                    "Mild": 23.529411764706,
+                    "Mild to Medium": 67.647058823529,
+                    "Medium": 100.0,
+                    "Medium to Full": 67.647058823529,
+                    "Full": 17.647058823529,
+                    "Very Full": 5.8823529411765,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

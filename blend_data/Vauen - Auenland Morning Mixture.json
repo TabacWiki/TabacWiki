@@ -1,0 +1,78 @@
+{
+    "auenlandmorningmixture": {
+        "blender": "Vauen",
+        "name": "Auenland Morning Mixture",
+        "blendType": "Aromatic",
+        "description": "A full-bodied mixture with a high proportion of black cavendish, diverse bright Virginias and nutty burley. Rounded off with fragrant vanilla, ripe mirabelle and cappuccino. The assortment of various cuts of tobacco assures a gentle consistent smoke.",
+        "contents": "Black Cavendish, Burley",
+        "cut": "Mixture",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Vauen - Auenland Morning Mixture.jpg",
+        "averageRating": 3.6,
+        "reviewCount": 5,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

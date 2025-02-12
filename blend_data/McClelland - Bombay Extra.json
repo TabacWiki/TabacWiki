@@ -1,0 +1,78 @@
+{
+    "bombayextra": {
+        "blender": "McClelland",
+        "name": "Bombay Extra",
+        "blendType": "English",
+        "description": "We began with Bombay Court, darkened the Virginias, added a touch of perique and increased the latakia, resulting in an enriched version of a unique and popular formula. This blend provides added depth and complexity for those seeking a richer, fuller, Oriental Mixture for after dinner or evening enjoyment.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Bombay Extra.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 40,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 29.166666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.666666666667,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 29.62962962963,
+                    "Very Mild": 14.814814814815,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 3.7037037037037,
+                    "Medium": 0.0,
+                    "Medium to Strong": 7.4074074074074,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 41.176470588235,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 47.058823529412,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 29.411764705882,
+                    "Strong": 29.411764705882,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 18.75,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 68.75,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

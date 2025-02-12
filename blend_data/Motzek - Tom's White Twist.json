@@ -1,0 +1,78 @@
+{
+    "tom'swhitetwist": {
+        "blender": "Motzek",
+        "name": "Tom's White Twist",
+        "blendType": "Other",
+        "description": "White burley, Virginia & perique tobaccos are spun in twist-shape and are baked. Highly aromatic white burleys, earthy, nutty with a fine herbal note, are rounded with ripe-sweet Virginias and some lively, slightly peppery perique. Creamy, tasteful spice, paired with the smoothness and flowerly mildness.",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Rope",
+        "packaging": "100 grams pouch",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Motzek - Tom's White Twist.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

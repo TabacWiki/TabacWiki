@@ -1,0 +1,78 @@
+{
+    "blackstoker": {
+        "blender": "Uhle's",
+        "name": "Black Stoker",
+        "blendType": "Aromatic",
+        "description": "Cavendish toasted to a smoke black color with just a sprinkling of cured dark brown Cavendish. Flavored firstly with Old Colony Rum...let set a fortnight...again reworked with Chocolate Flavoring...extremely mild and pleasant.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Black Stoker.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 80.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 57.142857142857,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

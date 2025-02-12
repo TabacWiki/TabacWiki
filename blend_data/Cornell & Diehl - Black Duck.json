@@ -1,0 +1,78 @@
+{
+    "blackduck": {
+        "blender": "Cornell & Diehl",
+        "name": "Black Duck",
+        "blendType": "English",
+        "description": "Richly earthy and woodsy, this blend of unsweetened brown and black Cavendish (specially cured Kentucky Burley), Latakia and Turkish Oriental leaf is a hearty full-bodied blend indeed. Certainly not an elegant smoke, it is nonetheless charming and rather complex once the initial surprise at its strength and earthiness subsides.",
+        "contents": "Black Cavendish,  Cavendish,  Kentucky,  Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "50g Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Black Duck.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 13.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 6.6666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 0.0,
+                    "Mild": 5.5555555555556,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 14.285714285714,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 57.142857142857,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 100.0,
+                    "Medium to Full": 88.888888888889,
+                    "Full": 55.555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 11.111111111111,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

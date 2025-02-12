@@ -1,0 +1,78 @@
+{
+    "aromaticchoice": {
+        "blender": "Mac Baren",
+        "name": "Aromatic Choice",
+        "blendType": "Aromatic",
+        "description": "Aromatic Choice makes pipe smoking as easy as possible. Filling your pipe is effortless, and smoking it is even easier, especially if you are a less experienced pipe smoker. The tobacco is a loose cut blend of golden Virginia, the modern Mac Baren cavendish, and it is smoothed-out with a unique burley. The flavor profile comes from selected Virginia tobaccos, which add an inherent sweetness to the blend. Some of the modern Mac Baren cavendish is added to provide a light, sweet taste with faint hint of tanginess. The air-cured burley balances the recipe for a wonderful smoke. The taste of Aromatic Choice is reminiscent of the flavor of ripe exotic fruits. It tamps well, smokes great, and offers a pleasant and relaxing time. The packaging is made of environmentally-friendly recycled cardboard with a handsome reclosable collar, which aids in keeping the packaging sealed after opening, so that Aromatic Choice tobacco can retain its soft and natural moisture.",
+        "contents": "Black Cavendish, Burley, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Aromatic Choice.jpg",
+        "averageRating": 1.91,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 35.294117647059,
+                    "Very Mild": 100.0,
+                    "Mild": 58.823529411765,
+                    "Mild to Medium": 11.764705882353,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 42.857142857143,
+                    "Extra Strong": 14.285714285714
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 31.25,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 69.230769230769,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 7.6923076923077,
+                    "Medium to Full": 0.0,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

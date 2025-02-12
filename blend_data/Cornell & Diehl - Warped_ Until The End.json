@@ -1,0 +1,78 @@
+{
+    "warped:untiltheend": {
+        "blender": "Cornell & Diehl",
+        "name": "Warped: Until The End",
+        "blendType": "Other",
+        "description": "Until the End pipe tobacco is fragrant, comforting, mellow, and rich \u2014 a broken flake boasting a combination of top grade sun grown Ecuadorian cigar leaf, Virginias, the same cigar leaf cavendish used in Kings Stride, and a specially selected dark fired Kentucky grade that's a tad less smoky than normal varieties. Also like the wine blend that shares its name, Until the End delivers deep, robust, and earthy flavors, sure to be a loyal companion from the charring light onward.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Kentucky,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "two ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Warped: Until The End.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cherrycavendish": {
+        "blender": "Admiral's Choice",
+        "name": "Cherry Cavendish",
+        "blendType": "Aromatic",
+        "description": "A best-selling mild-to-medium blend of Cavendish tobaccos, with a mild cherry top flavoring that is very smooth.",
+        "contents": "Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Admiral's Choice - Cherry Cavendish.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 62.5,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

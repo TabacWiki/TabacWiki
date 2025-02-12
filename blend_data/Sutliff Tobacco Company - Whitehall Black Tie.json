@@ -1,0 +1,78 @@
+{
+    "whitehallblacktie": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Whitehall Black Tie",
+        "blendType": "Aromatic",
+        "description": "The Lady killer. A black cavendish with aroma that has taken the public's fancy, like no other pipe tobacco in history. Our No.1 seller. The mildest tobacco available anywhere. Black Tie- You'll love it and everyone will love you for using it.",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Cube",
+        "packaging": "14 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Whitehall Black Tie.jpg",
+        "averageRating": 2.07,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 37.5,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 14.285714285714,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 71.428571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

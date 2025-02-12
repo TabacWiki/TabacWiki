@@ -1,0 +1,78 @@
+{
+    "bluemountain/balkanblue": {
+        "blender": "McClelland",
+        "name": "Blue Mountain/Balkan Blue",
+        "blendType": "Balkan",
+        "description": "Rich with the finest Mountain Latakia, a classic full Balkan pipe tobacco mixture, smooth and deeply fragrant. The inspiration for this elegant mixture was a 21-year-old tin of the legendary #759.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Blue Mountain/Balkan Blue.jpg",
+        "averageRating": 3.45,
+        "reviewCount": 91,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.1739130434783,
+                    "Very Mild": 6.5217391304348,
+                    "Mild": 34.782608695652,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.04347826087,
+                    "Medium to Strong": 8.695652173913,
+                    "Strong": 6.5217391304348,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 35.294117647059,
+                    "Very Mild": 21.56862745098,
+                    "Mild": 9.8039215686275,
+                    "Mild to Medium": 13.725490196078,
+                    "Medium": 11.764705882353,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 1.9607843137255,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.8571428571429,
+                    "Pleasant": 54.285714285714,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 82.857142857143,
+                    "Tolerable to Strong": 11.428571428571,
+                    "Strong": 17.142857142857,
+                    "Very Strong": 2.8571428571429,
+                    "Extra Strong": 2.8571428571429,
+                    "Overwhelming": 2.8571428571429
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.8965517241379,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 17.241379310345,
+                    "Mild to Medium": 48.275862068966,
+                    "Medium": 100.0,
+                    "Medium to Full": 96.551724137931,
+                    "Full": 55.172413793103,
+                    "Very Full": 24.137931034483,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

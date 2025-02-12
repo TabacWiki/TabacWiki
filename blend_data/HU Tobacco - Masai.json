@@ -1,0 +1,78 @@
+{
+    "masai": {
+        "blender": "HU Tobacco",
+        "name": "Masai",
+        "blendType": "English",
+        "description": "The Masai \u2013 a pleasantly sweet, medium strong blend. A basis of Honeydew Virginia ready rubbed is blended with strong Malawi burley, dark fired Kentucky and some Cypriot latakia. The result is a medium-strong mixture with the balanced sweetness of slightly smoky and chocolaty tones. The Masai \u2013 an interesting and perfectly balanced blend of spice and sweetness.",
+        "contents": "Burley,  Kentucky,  Latakia,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/HU Tobacco - Masai.jpg",
+        "averageRating": 3.67,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

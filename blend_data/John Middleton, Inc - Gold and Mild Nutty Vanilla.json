@@ -1,0 +1,78 @@
+{
+    "goldandmildnuttyvanilla": {
+        "blender": "John Middleton, Inc",
+        "name": "Gold and Mild Nutty Vanilla",
+        "blendType": "Aromatic",
+        "description": "Cavendish cut. Brown Burleys and Cavendish Virginia. Some broad cut black Cavendish. Good balance of tobacco with nutty/vanilla character. Pleasing flavor. Mellow, soft, and fluffy. Aromatic and slow burning.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "1.5oz Pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Gold and Mild Nutty Vanilla.jpg",
+        "averageRating": 1.0,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Extremely Mild (Flat)",
+                "distribution": {
+                    "Extremely Mild (Flat)": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

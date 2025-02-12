@@ -1,0 +1,78 @@
+{
+    "piratekake": {
+        "blender": "Cornell & Diehl",
+        "name": "Pirate Kake",
+        "blendType": "English",
+        "description": "A smooth, robust blend with lots (75%!) of exceptional latakia accompanied by Turkish and burley, Pirate Cake by Cornell & Diehl is a latakia lover's treasure.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Pirate Kake.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 198,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.3888888888889,
+                    "Very Mild": 1.3888888888889,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 48.611111111111,
+                    "Medium": 100.0,
+                    "Medium to Strong": 70.833333333333,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 19.444444444444,
+                    "Extremely Strong": 2.7777777777778,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 1.7857142857143,
+                    "Mild": 5.3571428571429,
+                    "Mild to Medium": 2.9761904761905,
+                    "Medium": 1.1904761904762,
+                    "Medium to Strong": 2.9761904761905,
+                    "Strong": 1.7857142857143,
+                    "Very Strong": 1.7857142857143,
+                    "Extra Strong": 0.5952380952381
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 2.0833333333333,
+                    "Pleasant": 29.166666666667,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 45.833333333333,
+                    "Tolerable": 58.333333333333,
+                    "Tolerable to Strong": 85.416666666667,
+                    "Strong": 100.0,
+                    "Very Strong": 95.833333333333,
+                    "Extra Strong": 20.833333333333,
+                    "Overwhelming": 14.583333333333
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.8571428571429,
+                    "Mild to Medium": 15.714285714286,
+                    "Medium": 22.857142857143,
+                    "Medium to Full": 62.857142857143,
+                    "Full": 100.0,
+                    "Very Full": 77.142857142857,
+                    "Extra Full": 25.714285714286,
+                    "Overwhelming": 7.1428571428571
+                }
+            }
+        }
+    }
+}

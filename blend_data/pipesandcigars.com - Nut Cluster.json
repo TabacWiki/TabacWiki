@@ -1,0 +1,78 @@
+{
+    "nutcluster": {
+        "blender": "pipesandcigars.com",
+        "name": "Nut Cluster",
+        "blendType": "Aromatic",
+        "description": "This month we're going nuts! Nut Cluster features the mellow, slightly-sweet flavor of filberts and pistachios, with a subtle, creamy vanilla note added to make it smooth and rich. This gentle smoking blend of Virginia, Burley and black Cavendish is a treat at any time of day, and has a mild, pleasant aroma.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "Unknown",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Nut Cluster.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 2,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

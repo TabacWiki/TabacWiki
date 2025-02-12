@@ -1,0 +1,78 @@
+{
+    "fayyumkake": {
+        "blender": "HU Tobacco",
+        "name": "Fayyum Kake",
+        "blendType": "English",
+        "description": "The Fayyum Kake: Following the success of FbM\u2019s Fayyum Blend, HU Tobacco decided to provide this remarkable mixture of dark fired Virginia, Kentucky, black cavendish and its generous measure of latakia in \u201cKake\u201d form. The tobacco is pressed in cakes for one week and then cut into plugs. This process enhances the already exquisitely balanced choice of leaf for an ethereally smoky, deeply rich and incredibly complex smoking pleasure.",
+        "contents": "Black Cavendish,  Kentucky,  Latakia,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/HU Tobacco - Fayyum Kake.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 100.0,
+                    "Very Strong": 75.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 100.0,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

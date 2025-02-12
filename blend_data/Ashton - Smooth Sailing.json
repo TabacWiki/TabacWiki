@@ -1,0 +1,78 @@
+{
+    "smoothsailing": {
+        "blender": "Ashton",
+        "name": "Smooth Sailing",
+        "blendType": "Aromatic",
+        "description": "Pleasantly palatable and wonderfully smooth, this aromatic mixture is slightly nutty, boasting flavors of maple, coconut and dark chocolate.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Ashton - Smooth Sailing.jpg",
+        "averageRating": 2.57,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 3.448275862069,
+                    "Very Mild": 20.689655172414,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.827586206897,
+                    "Medium": 20.689655172414,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 6.25
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.4074074074074,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 59.259259259259,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 14.814814814815,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 50.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 81.25,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

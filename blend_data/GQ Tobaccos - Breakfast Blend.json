@@ -1,0 +1,78 @@
+{
+    "breakfastblend": {
+        "blender": "GQ Tobaccos",
+        "name": "Breakfast Blend",
+        "blendType": "Oriental",
+        "description": "Not everyone who loves the creamy flavours of Oriental blends is keen on latakia and our Breakfast Blend is just that. Built on a foundation of Turkish Izmir, this tobacco is creamy, with a little sourness. To give the tobacco a little more body and deep flavours we have added Kentucky and dark fired Virginias. These two rich tobaccos add a leathery and woody edge and create, what we think is a stunning Oriental. Slow burning thanks to the broken flake and thicker ribbon cuts, needs very few relights.",
+        "contents": "Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/GQ Tobaccos - Breakfast Blend.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 28.571428571429,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

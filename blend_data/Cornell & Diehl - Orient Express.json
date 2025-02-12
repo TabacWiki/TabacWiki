@@ -1,0 +1,78 @@
+{
+    "orientexpress": {
+        "blender": "Cornell & Diehl",
+        "name": "Orient Express",
+        "blendType": "Balkan",
+        "description": "1/2 Odessa and 1/2 unpressed Pirate Kake. Designed to lessen the latakia content of Pirate Kake, but still a robust blend.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Orient Express.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.5555555555556,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 22.222222222222,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 37.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

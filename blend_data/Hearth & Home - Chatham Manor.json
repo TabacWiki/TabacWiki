@@ -1,0 +1,78 @@
+{
+    "chathammanor": {
+        "blender": "Hearth & Home",
+        "name": "Chatham Manor",
+        "blendType": "Virginia/Burley",
+        "description": "A smooth blend consisting of white burley and Virginia with a light chocolate top note.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "14 ounce tub, 2 ounce pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Chatham Manor.jpg",
+        "averageRating": 3.28,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 70.833333333333,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 10.526315789474,
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 21.052631578947,
+                    "Mild": 100.0,
+                    "Mild to Medium": 78.947368421053,
+                    "Medium": 21.052631578947,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.4074074074074,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 7.4074074074074,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 45.833333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 4.1666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "parksquare": {
+        "blender": "Peretti",
+        "name": "Park Square",
+        "blendType": "Virginia/Perique",
+        "description": "Red Virginia, matured Virginia, and stoved Virginia are delicately spiced with just the right amount of perique to create a rich and complex blend whose character evolves and emerges throughout the bowl.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Park Square.jpg",
+        "averageRating": 3.32,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 30.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

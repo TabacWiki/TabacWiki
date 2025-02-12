@@ -1,0 +1,78 @@
+{
+    "special(mellow)virginia": {
+        "blender": "Benson & Hedges",
+        "name": "Special (Mellow) Virginia",
+        "blendType": "Virginia/Burley",
+        "description": "A rich blend of pipe tobacco for a mature, satisfying smoke.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Benson & Hedges - Special (Mellow) Virginia.jpg",
+        "averageRating": 2.48,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.526315789474,
+                    "Very Mild": 15.789473684211,
+                    "Mild": 100.0,
+                    "Mild to Medium": 89.473684210526,
+                    "Medium": 68.421052631579,
+                    "Medium to Strong": 21.052631578947,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 4.7619047619048,
+                    "Extremely Mild": 19.047619047619,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 9.5238095238095,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.538461538462,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.076923076923,
+                    "Pleasant to Tolerable": 38.461538461538,
+                    "Tolerable": 42.307692307692,
+                    "Tolerable to Strong": 3.8461538461538,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 27.777777777778,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

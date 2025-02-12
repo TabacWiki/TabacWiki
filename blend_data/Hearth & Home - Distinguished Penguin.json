@@ -1,0 +1,78 @@
+{
+    "distinguishedpenguin": {
+        "blender": "Hearth & Home",
+        "name": "Distinguished Penguin",
+        "blendType": "Scottish",
+        "description": "This is a light/dark mixture (technically, it's considered a Scottish blend) of Carolina and Virginia flake-cut, with Stoved Virginia, a light amount of Latakia, and a bit of unflavored toasted Black Cavendish. A mild and slightly sweet smoke with character.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Distinguished Penguin.jpg",
+        "averageRating": 3.03,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.0,
+                    "Very Mild": 8.0,
+                    "Mild": 4.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 47.058823529412,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 17.647058823529,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Full": 30.769230769231,
+                    "Full": 7.6923076923077,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

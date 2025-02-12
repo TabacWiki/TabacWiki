@@ -1,0 +1,78 @@
+{
+    "goldbrick": {
+        "blender": "Wessex",
+        "name": "Gold Brick",
+        "blendType": "Straight Virginia",
+        "description": "An uncut plug of rich old-fashioned Virginia to slice and rub out.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "3. 5 ounce cellophane wrapper",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Gold Brick.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 12.5,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 0.0,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

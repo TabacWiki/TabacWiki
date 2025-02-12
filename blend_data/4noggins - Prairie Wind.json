@@ -1,0 +1,78 @@
+{
+    "prairiewind": {
+        "blender": "4noggins",
+        "name": "Prairie Wind",
+        "blendType": "Virginia/Perique",
+        "description": "Three types of Virginia tobaccos, blended with a good amount of Perique, make Prairie Wind easy burning, well balanced, and cool on the palate. A wonderful VaPer for an all day smoke.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Prairie Wind.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 23.076923076923,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.538461538462,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 53.846153846154,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Full": 23.076923076923,
+                    "Full": 23.076923076923,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

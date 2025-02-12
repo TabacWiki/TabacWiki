@@ -1,0 +1,78 @@
+{
+    "wingfieldmixture": {
+        "blender": "Robert Lewis",
+        "name": "Wingfield Mixture",
+        "blendType": "Other",
+        "description": "In this mixture, fine matured Virginias have been carefully blended. This is a very cool smoke with outstanding taste. The blend was named after Walter Wingfield, the inventor of the original version of lawn tennis and a long time customer of the Robert Lewis shop.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert Lewis - Wingfield Mixture.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 37.5,
+                    "Medium to Strong": 37.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 23.529411764706,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 72.727272727273,
+                    "Tolerable": 9.0909090909091,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Full": 57.142857142857,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

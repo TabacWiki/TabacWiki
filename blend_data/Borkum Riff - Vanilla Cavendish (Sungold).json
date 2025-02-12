@@ -1,0 +1,78 @@
+{
+    "vanillacavendish(sungold)": {
+        "blender": "Borkum Riff",
+        "name": "Vanilla Cavendish (Sungold)",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff Vanilla Cavendish is a premium quality refined mix of dark Kentucky and burley tobacco enhanced with the finest vanilla. The blend is heavily fermented to give a balanced, harmonious smoke with a fresh, accessible nature.",
+        "contents": "Burley,  Cavendish,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Sweden",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Borkum Riff - Vanilla Cavendish (Sungold).jpg",
+        "averageRating": 1.63,
+        "reviewCount": 45,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.4074074074074,
+                    "Very Mild": 29.62962962963,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 14.814814814815,
+                    "Medium to Strong": 3.7037037037037,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 8.695652173913,
+                    "Extremely Mild": 13.04347826087,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 100.0,
+                    "Mild to Medium": 39.130434782609,
+                    "Medium": 30.434782608696,
+                    "Medium to Strong": 8.695652173913,
+                    "Strong": 0.0,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 41.666666666667,
+                    "Tolerable to Strong": 4.1666666666667,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 4.1666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 36.842105263158,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 100.0,
+                    "Mild to Medium": 52.631578947368,
+                    "Medium": 42.105263157895,
+                    "Medium to Full": 15.789473684211,
+                    "Full": 5.2631578947368,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

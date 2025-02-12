@@ -1,0 +1,78 @@
+{
+    "morley'sbest": {
+        "blender": "Cornell & Diehl",
+        "name": "Morley's Best",
+        "blendType": "Burley Based",
+        "description": "This is a combination of three burleys (rough cut, white & cubed), Virginia flake and Cyprian Latakia.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Morley's Best.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 68,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 2.0833333333333,
+                    "Very Strong": 2.0833333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.280701754386,
+                    "Very Mild": 7.0175438596491,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 3.5087719298246,
+                    "Medium": 0.0,
+                    "Medium to Strong": 3.5087719298246,
+                    "Strong": 1.7543859649123,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.125,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.125
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 2.7777777777778,
+                    "Mild": 2.7777777777778,
+                    "Mild to Medium": 19.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 11.111111111111,
+                    "Very Full": 2.7777777777778,
+                    "Extra Full": 2.7777777777778,
+                    "Overwhelming": 2.7777777777778
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "yachtclub": {
+        "blender": "Brigham Enterprises Inc.",
+        "name": "Yacht Club",
+        "blendType": "Straight Virginia",
+        "description": "Matured Virginia presented in an English style thick cut, broken flake. Medium and dark brown matured Virginia is complimented with the addition of stoved black Virginia to create a really rich, deep natural tobacco flavour and aroma.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Brigham Enterprises Inc. - Yacht Club.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 5,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 50.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

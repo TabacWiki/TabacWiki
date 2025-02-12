@@ -1,0 +1,78 @@
+{
+    "virginiamemory": {
+        "blender": "Hearth & Home",
+        "name": "Virginia Memory",
+        "blendType": "Straight Virginia",
+        "description": "From P&C's website: Hearth & Home Virginia Memory is the first true flake in the Marquee Series. Flue-cured tobaccos from two continents are rolled, then pressed and sliced. There's a remarkable natural sweetness, and the flavor profile is the traditional hay and grass notes that one would expect from premium flue-cured tobaccos.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Virginia Memory.jpg",
+        "averageRating": 2.56,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

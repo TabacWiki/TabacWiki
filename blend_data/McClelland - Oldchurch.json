@@ -1,0 +1,78 @@
+{
+    "oldchurch": {
+        "blender": "McClelland",
+        "name": "Oldchurch",
+        "blendType": "Aromatic",
+        "description": "An aromatic pipe tobacco of incredible delicacy. We spice this Matured Virgina with zesty Carolina and cake-age the blend for an added measure of smoothness before spinning into ribbon form and adding jet-black Cavendish for depth and richness.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50g Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Oldchurch.jpg",
+        "averageRating": 2.83,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 0.0,
+                    "Full": 25.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

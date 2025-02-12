@@ -1,0 +1,78 @@
+{
+    "battleground": {
+        "blender": "310 Pipe & Tobacco",
+        "name": "Battleground",
+        "blendType": "Scottish",
+        "description": "This blend is a result of my grandfathers 30+ years of experience and passion for creating the perfect mouthwatering blend of Aromatic and English tobaccos. In this Aromatic/English house blend, lush Black Cavendish dances with Perique and Latakia to make this mild to medium blend a steppingstone worldwide favorite. Great for the beginner to the experienced smoker who enjoys a full body smoke with no bite and a wonderful aroma. We sell more of this blend than all others combined!",
+        "contents": "Black Cavendish,  Latakia,  Perique",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/310 Pipe & Tobacco - Battleground.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

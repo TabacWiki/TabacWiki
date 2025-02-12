@@ -1,0 +1,78 @@
+{
+    "darktwistrollcake": {
+        "blender": "Mac Baren",
+        "name": "Dark Twist Roll Cake",
+        "blendType": "Virginia Based",
+        "description": "One of Mac Baren's oldest blends, Dark Twist is made in roll cake style. Sweet, mature Virginias and Dark-Fired Kentucky are cased with maple sugar to enhance the natural flavors making for a robust blend with a soft, subtle note.",
+        "contents": "Black Cavendish,  Kentucky,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "40 grams pouch, 50 grams pouch, 100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Dark Twist Roll Cake.jpg",
+        "averageRating": 3.03,
+        "reviewCount": 195,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.1739130434783,
+                    "Very Mild": 5.4347826086957,
+                    "Mild": 51.086956521739,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.565217391304,
+                    "Medium to Strong": 6.5217391304348,
+                    "Strong": 1.0869565217391,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 10.46511627907,
+                    "Extremely Mild": 30.232558139535,
+                    "Very Mild": 44.186046511628,
+                    "Mild": 100.0,
+                    "Mild to Medium": 39.53488372093,
+                    "Medium": 19.767441860465,
+                    "Medium to Strong": 4.6511627906977,
+                    "Strong": 2.3255813953488,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.1627906976744
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.5210084033613,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 15.966386554622,
+                    "Pleasant to Tolerable": 44.53781512605,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.84033613445378,
+                    "Strong": 3.3613445378151,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.84033613445378
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 60.416666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.125,
+                    "Full": 6.25,
+                    "Very Full": 2.0833333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

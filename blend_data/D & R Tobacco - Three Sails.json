@@ -1,0 +1,78 @@
+{
+    "threesails": {
+        "blender": "D & R Tobacco",
+        "name": "Three Sails",
+        "blendType": "Straight Virginia",
+        "description": "A light bodied, British style Virginia Blend. Special leaf selection and processing, and an extra-fine cut give this exceptional blend its unique character and elegance. An impressive presentation of color and appearance, and satisfying flavor and aroma makes Three Sails an unforgettable blend. contains 100% flue-cured Gold Leaf tobaccos with natural preservatives added.",
+        "contents": "Virginia",
+        "cut": "Shag",
+        "packaging": "40 grams tin, 3.5 ounce tin, 16 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/D & R Tobacco - Three Sails.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 25.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.8461538461538,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 3.8461538461538,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 54.545454545455,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 90.909090909091,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

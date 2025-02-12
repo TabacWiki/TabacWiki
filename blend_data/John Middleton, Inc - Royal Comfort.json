@@ -1,0 +1,78 @@
+{
+    "royalcomfort": {
+        "blender": "John Middleton, Inc",
+        "name": "Royal Comfort",
+        "blendType": "Aromatic",
+        "description": "A European Cavendish. Brown and black with a touch of golden Virginia. Extremely mild and smooth.",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5oz Pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Royal Comfort.jpg",
+        "averageRating": 1.8,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

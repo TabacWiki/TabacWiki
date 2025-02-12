@@ -1,0 +1,78 @@
+{
+    "rollcake": {
+        "blender": "Mac Baren",
+        "name": "Roll Cake",
+        "blendType": "Virginia/Burley",
+        "description": "A deluxe roll cake tobacco blended from spun, ripe Virginia, burley tobaccos and cavendish. A unique composition. Mild to medium strength.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Roll Cake.jpg",
+        "averageRating": 2.72,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.5,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 88.888888888889,
+                    "Extremely Mild": 77.777777777778,
+                    "Very Mild": 100.0,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 27.777777777778,
+                    "Medium": 27.777777777778,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.1081081081081,
+                    "Pleasant to Tolerable": 64.864864864865,
+                    "Tolerable": 16.216216216216,
+                    "Tolerable to Strong": 2.7027027027027,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.7037037037037,
+                    "Very Mild": 14.814814814815,
+                    "Mild": 37.037037037037,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.185185185185,
+                    "Medium to Full": 18.518518518519,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.7037037037037
+                }
+            }
+        }
+    }
+}

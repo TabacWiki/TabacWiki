@@ -1,0 +1,78 @@
+{
+    "jackpot": {
+        "blender": "Grand Croupier",
+        "name": "Jack Pot",
+        "blendType": "Aromatic",
+        "description": "Like aromatics? Feel some just don't have enough variety of flavor? Well in Grand Croupier's Jack Pot, we've got an aromatic with all the flavors. The secret is combining all the random sorts of excess batches from an artisanal blender: an all-sorts, if you will, albeit an all-sorts composed entirely of quality components. Price is low, quantity is plentiful, and if our past blind review of Grand Croupier's everything-of-all-sorts offering is any indication, you can expect a good smoke for the mere pittance of a minimum bet.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Grand Croupier - Jack Pot.jpg",
+        "averageRating": 1.83,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

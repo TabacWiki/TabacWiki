@@ -1,0 +1,78 @@
+{
+    "scarletpassion": {
+        "blender": "W.O. Larsen",
+        "name": "Scarlet Passion",
+        "blendType": "Aromatic",
+        "description": "A superior aromatic mixture characterized by extra mild black cavendish tobaccos, mature Virginia and a touch of burley. It has been flavored with an extremely mild blend of sweet vanilla type flavors and fresh fruity notes to obtain a longmlasting taste and a very pleasant aroma. Easy to fill into a pipe, slow burning with a cool smoke.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin, 50 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/W.O. Larsen - Scarlet Passion.jpg",
+        "averageRating": 2.97,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 13.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 76.923076923077,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 23.076923076923,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

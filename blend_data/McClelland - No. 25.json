@@ -1,0 +1,78 @@
+{
+    "no.25": {
+        "blender": "McClelland",
+        "name": "No. 25",
+        "blendType": "Straight Virginia",
+        "description": "A balanced mixture of our smoothest and most refined red and black aged Virginia cake tobaccos in a fully rubbed form. Ideal after dinner when a rich, satisfying flavor is most desired.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 25.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 40,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 36.842105263158,
+                    "Mild to Medium": 68.421052631579,
+                    "Medium": 100.0,
+                    "Medium to Strong": 31.578947368421,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.875,
+                    "Very Mild": 12.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 3.125,
+                    "Medium": 0.0,
+                    "Medium to Strong": 3.125,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 26.666666666667,
+                    "Pleasant to Tolerable": 73.333333333333,
+                    "Tolerable": 73.333333333333,
+                    "Tolerable to Strong": 13.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 6.6666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 12.5,
+                    "Full": 12.5,
+                    "Very Full": 4.1666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "quailrun": {
+        "blender": "McCranie's",
+        "name": "Quail Run",
+        "blendType": "Aromatic",
+        "description": "Light-bodied orange and lemon Matured Virginia is blended with a small amount of Black Cavendish and then specially heat-seasoned to develop its complex, delicate flavors. Exceptionally soft and mild day after day. This is our most popular sweet blend.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "",
+        "imagePath": "../blend_pictures/McCranie's - Quail Run.jpg",
+        "averageRating": 2.8,
+        "reviewCount": 5,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

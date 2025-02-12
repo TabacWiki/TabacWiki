@@ -1,0 +1,78 @@
+{
+    "syrianfullbalkan": {
+        "blender": "McClelland",
+        "name": "Syrian Full Balkan",
+        "blendType": "Balkan",
+        "description": "Syrian Latakia is prized for its unique, exotic fragrance. It adds a magnificent, rich aromatic character to this mild, cool smoking, elegant Balkan blend.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Syrian Full Balkan.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 19.230769230769,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 11.538461538462,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 3.8461538461538,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.333333333333,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 13.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 91.666666666667,
+                    "Medium": 41.666666666667,
+                    "Medium to Full": 50.0,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

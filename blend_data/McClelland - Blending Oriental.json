@@ -1,0 +1,78 @@
+{
+    "blendingoriental": {
+        "blender": "McClelland",
+        "name": "Blending Oriental",
+        "blendType": "Other",
+        "description": "The finest Oriental leaves from Greece and Turkey, cut in classic English style ribbon form to add their delicate, spicy, exotic scent and gentle sweetness to your own Oriental mixtures.",
+        "contents": "Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Blending Oriental.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

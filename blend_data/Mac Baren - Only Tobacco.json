@@ -1,0 +1,78 @@
+{
+    "onlytobacco": {
+        "blender": "Mac Baren",
+        "name": "Only Tobacco",
+        "blendType": "Virginia Based",
+        "description": "Only Tobacco is an entirely new blend. Sugar, water and selected Virginia tobaccos form the basis - mixed with burley and a spicy touch of Orient tobacco. The play of colours is dominated by loose cut golden Virginia tobacco and brown burley cuttings. The room note is gentle, with a soft tobacco sweetness. Only Tobacco is designed for the experienced pipe smoker.",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/Mac Baren - Only Tobacco.jpg",
+        "averageRating": 1.36,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 40.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 40.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 75.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

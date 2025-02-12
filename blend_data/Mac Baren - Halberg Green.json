@@ -1,0 +1,78 @@
+{
+    "halberggreen": {
+        "blender": "Mac Baren",
+        "name": "Halberg Green",
+        "blendType": "Aromatic",
+        "description": "From three different continents Mac Baren has gathered the best bright Virginias and ripe burleys to press into cakes, before then cutting them and hand-blending the results with exclusive ribbon cut and slow-burning cross-cut Virginias. Finally, it's all carefully topped with a complex aromatic of berries and exotic fruits, to produce a fine balance with the natural tobacco flavors.",
+        "contents": "Burley, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Mac Baren - Halberg Green.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 37.5,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

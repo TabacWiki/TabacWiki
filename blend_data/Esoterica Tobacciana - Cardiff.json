@@ -1,0 +1,78 @@
+{
+    "cardiff": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Cardiff",
+        "blendType": "Straight Virginia",
+        "description": "An outstanding, well balanced mixture of four Virginias, pressed until reddish-brown and then fully rubbed up. A truly traditional tobacco for the most discerning palate.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Cardiff.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 75.0,
+                    "Extremely Mild": 62.5,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 70.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

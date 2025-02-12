@@ -1,0 +1,78 @@
+{
+    "captainblackcopper": {
+        "blender": "Lane Limited",
+        "name": "Captain Black Copper",
+        "blendType": "Aromatic",
+        "description": "Captain Black Copper is a smooth, bite free blend of rich, nutty burley, Lane's renowned black cavendish and a bit of bright flake cut Virginia, topped with a warm vanilla note that delivers a mellow sweetness  and an aroma that everyone will love.",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "12 ounce tin weight, 12 ounce pouch weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Copper.jpg",
+        "averageRating": 3.34,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 100.0,
+                    "Mild to Medium": 19.047619047619,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 37.5,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 52.941176470588,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 5.8823529411765,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 30.0,
+                    "Medium to Full": 20.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

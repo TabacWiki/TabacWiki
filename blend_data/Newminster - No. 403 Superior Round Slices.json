@@ -1,0 +1,78 @@
+{
+    "no.403superiorroundslices": {
+        "blender": "Newminster",
+        "name": "No. 403 Superior Round Slices",
+        "blendType": "Virginia/Burley",
+        "description": "Whole Virginia leaves used as the wrapper and filler are combined with a center of dark-fired Kentucky, and are then rolled into ropes and cut into coins. The coins are slightly aromatic and medium to full in strength.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "Bulk",
+        "country": "Unknown",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Newminster - No. 403 Superior Round Slices.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.6774193548387,
+                    "Mild to Medium": 38.709677419355,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.935483870968,
+                    "Strong": 3.2258064516129,
+                    "Very Strong": 3.2258064516129,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.125,
+                    "Very Mild": 28.125,
+                    "Mild": 18.75,
+                    "Mild to Medium": 3.125,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 52.380952380952,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.952380952381,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.375,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 6.25,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

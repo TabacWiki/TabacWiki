@@ -1,0 +1,78 @@
+{
+    "threestarcordialbutteredrum": {
+        "blender": "Iwan Ries",
+        "name": "Three Star Cordial Buttered Rum",
+        "blendType": "Aromatic",
+        "description": "Pure 100% top grade leaf with no additives or fillers that marries well & burns slow. No heel or residue. These blends are made from the highest quality tobacco. Buttered Rum has a rich, smooth and creamy flavor for a nice all day smoke.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Iwan Ries - Three Star Cordial Buttered Rum.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 60.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 13.333333333333,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 40.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

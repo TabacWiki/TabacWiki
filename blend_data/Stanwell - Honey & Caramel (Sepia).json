@@ -1,0 +1,78 @@
+{
+    "honey&caramel(sepia)": {
+        "blender": "Stanwell",
+        "name": "Honey & Caramel (Sepia)",
+        "blendType": "Aromatic",
+        "description": "A mixture of black cavendish, some burley and a bright Virginia. Refined with the aromas of honey, caramel and a little vanilla.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 50 and 100 grams tins",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/Stanwell - Honey & Caramel (Sepia).jpg",
+        "averageRating": 3.0,
+        "reviewCount": 5,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

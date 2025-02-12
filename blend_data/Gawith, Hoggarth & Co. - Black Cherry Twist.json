@@ -1,0 +1,78 @@
+{
+    "blackcherrytwist": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Black Cherry Twist",
+        "blendType": "Aromatic",
+        "description": "This is a twist made from the same ingredients as the Black and Brown Irish X. It has additional Black Currant flavoring added during manufacture. Again, this is a very strong tobacco as it does not undergo the pressure cooking process.",
+        "contents": "Burley,  Virginia",
+        "cut": "Rope",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Black Cherry Twist.jpg",
+        "averageRating": 2.57,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 58.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 50.0,
+                    "Extremely Strong": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 100.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 62.5,
+                    "Medium": 50.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 55.555555555556,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 55.555555555556,
+                    "Strong": 55.555555555556,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 90.0,
+                    "Full": 100.0,
+                    "Very Full": 40.0,
+                    "Extra Full": 10.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

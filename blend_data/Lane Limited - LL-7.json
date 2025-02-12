@@ -1,0 +1,78 @@
+{
+    "ll-7": {
+        "blender": "Lane Limited",
+        "name": "LL-7",
+        "blendType": "Aromatic",
+        "description": "A majestic combination of toasted cavendish enhanced with premium burleys and Virginias that provides zesty flavor, enchanting aroma and an unsurpassed smoke.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - LL-7.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 32.142857142857,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 5.8823529411765,
+                    "Extremely Mild": 11.764705882353,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 52.941176470588,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.823529411765,
+                    "Medium to Strong": 29.411764705882,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.3478260869565,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 86.95652173913,
+                    "Pleasant to Tolerable": 13.04347826087,
+                    "Tolerable": 4.3478260869565,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

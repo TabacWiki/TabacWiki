@@ -1,0 +1,78 @@
+{
+    "rumflake": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Rum Flake",
+        "blendType": "Aromatic",
+        "description": "The 'Christmas cake' of all our tobaccos. A very rich, sweet fully flavoured blend. The main feature is the high proportion of naturally sweet sun-cured tobaccos in the blend - over 40%. Only 30% Virginia leaf, with the rest of the blend coming from burleys and dark-air cured contribute to a strong, but rewarding smoke. The whole blend is cased in maple sugars to further enhance the natural sweetness of the sun cured leaf and then rounded off with a dash of rum.",
+        "contents": "Burley,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Rum Flake.jpg",
+        "averageRating": 3.03,
+        "reviewCount": 125,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.3333333333333,
+                    "Very Mild": 1.3333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 56.0,
+                    "Strong": 10.666666666667,
+                    "Very Strong": 4.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 2.2727272727273,
+                    "Extremely Mild": 4.5454545454545,
+                    "Very Mild": 11.363636363636,
+                    "Mild": 68.181818181818,
+                    "Mild to Medium": 77.272727272727,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.545454545455,
+                    "Strong": 15.909090909091,
+                    "Very Strong": 2.2727272727273,
+                    "Extra Strong": 4.5454545454545
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.869565217391,
+                    "Pleasant": 93.478260869565,
+                    "Very Pleasant": 32.608695652174,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 8.695652173913,
+                    "Strong": 4.3478260869565,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.1739130434783,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.9607843137255,
+                    "Very Mild": 3.921568627451,
+                    "Mild": 3.921568627451,
+                    "Mild to Medium": 15.686274509804,
+                    "Medium": 98.039215686275,
+                    "Medium to Full": 100.0,
+                    "Full": 29.411764705882,
+                    "Very Full": 9.8039215686275,
+                    "Extra Full": 1.9607843137255,
+                    "Overwhelming": 7.843137254902
+                }
+            }
+        }
+    }
+}

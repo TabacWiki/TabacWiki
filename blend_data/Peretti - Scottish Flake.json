@@ -1,0 +1,78 @@
+{
+    "scottishflake": {
+        "blender": "Peretti",
+        "name": "Scottish Flake",
+        "blendType": "Aromatic",
+        "description": "A blend of mature Virginias are cured with red wine, pressed in a cake, and steam treated. The result is a jet black cake which delivers load of thick rich smoke.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Peretti - Scottish Flake.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 57.142857142857,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 28.571428571429,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 16.666666666667,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

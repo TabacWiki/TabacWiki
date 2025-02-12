@@ -1,0 +1,78 @@
+{
+    "virginiaflake": {
+        "blender": "Mac Baren",
+        "name": "Virginia Flake",
+        "blendType": "Straight Virginia",
+        "description": "Manufactured from choice, fully ripe and matured Virginia tobaccos - mainly American. An elegant flavor with a full and pleasant mild taste has been added.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, one pound box",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Virginia Flake.jpg",
+        "averageRating": 2.58,
+        "reviewCount": 101,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.3255813953488,
+                    "Very Mild": 18.604651162791,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.209302325581,
+                    "Medium to Strong": 4.6511627906977,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 34.782608695652,
+                    "Extremely Mild": 26.086956521739,
+                    "Very Mild": 41.304347826087,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.086956521739,
+                    "Medium": 10.869565217391,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 2.1739130434783,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.0,
+                    "Pleasant to Tolerable": 62.0,
+                    "Tolerable": 26.0,
+                    "Tolerable to Strong": 4.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.953488372093,
+                    "Very Mild": 18.604651162791,
+                    "Mild": 74.418604651163,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.186046511628,
+                    "Medium to Full": 6.9767441860465,
+                    "Full": 2.3255813953488,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.3255813953488
+                }
+            }
+        }
+    }
+}

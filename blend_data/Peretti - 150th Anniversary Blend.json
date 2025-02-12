@@ -1,0 +1,78 @@
+{
+    "150thanniversaryblend": {
+        "blender": "Peretti",
+        "name": "150th Anniversary Blend",
+        "blendType": "Straight Virginia",
+        "description": "The culmination of two years experimentation in blending, cutting, pressing and, of course, sampling, has produced a fine matured Viriginia that we trust you will savor for many years to come.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "8 ounce tin,16 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - 150th Anniversary Blend.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

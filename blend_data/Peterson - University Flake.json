@@ -1,0 +1,78 @@
+{
+    "universityflake": {
+        "blender": "Peterson",
+        "name": "University Flake",
+        "blendType": "Virginia/Burley",
+        "description": "Peterson's University Flake features a traditional mix of Virginia and Burley tobaccos that are slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. A subtle plum flavor further enhances this remarkable blend.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - University Flake.jpg",
+        "averageRating": 2.98,
+        "reviewCount": 395,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 2.2857142857143,
+                    "Very Mild": 1.7142857142857,
+                    "Mild": 6.8571428571429,
+                    "Mild to Medium": 26.285714285714,
+                    "Medium": 73.142857142857,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.714285714286,
+                    "Very Strong": 5.1428571428571,
+                    "Extremely Strong": 1.1428571428571,
+                    "Overwhelming": 0.57142857142857
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 15.286624203822,
+                    "Extremely Mild": 23.566878980892,
+                    "Very Mild": 40.127388535032,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.777070063694,
+                    "Medium": 33.12101910828,
+                    "Medium to Strong": 8.2802547770701,
+                    "Strong": 2.5477707006369,
+                    "Very Strong": 1.2738853503185,
+                    "Extra Strong": 0.63694267515924
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.688311688312,
+                    "Pleasant to Tolerable": 93.506493506493,
+                    "Tolerable": 59.090909090909,
+                    "Tolerable to Strong": 10.38961038961,
+                    "Strong": 3.8961038961039,
+                    "Very Strong": 1.9480519480519,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.875,
+                    "Very Mild": 3.125,
+                    "Mild": 16.25,
+                    "Mild to Medium": 30.625,
+                    "Medium": 100.0,
+                    "Medium to Full": 85.0,
+                    "Full": 27.5,
+                    "Very Full": 2.5,
+                    "Extra Full": 0.625,
+                    "Overwhelming": 1.875
+                }
+            }
+        }
+    }
+}

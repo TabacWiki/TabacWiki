@@ -1,0 +1,78 @@
+{
+    "no.2015virginiaperiqueflake": {
+        "blender": "McClelland",
+        "name": "No. 2015 Virginia Perique Flake",
+        "blendType": "Virginia/Perique",
+        "description": "This tobacco is made from rich, orange and red Virginias to which enough St. James perique has been added to create a refreshing smoke.",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 2015 Virginia Perique Flake.jpg",
+        "averageRating": 3.45,
+        "reviewCount": 154,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 29.62962962963,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.37037037037,
+                    "Strong": 0.92592592592593,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.4074074074074,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 5.1851851851852,
+                    "Mild to Medium": 2.2222222222222,
+                    "Medium": 3.7037037037037,
+                    "Medium to Strong": 1.4814814814815,
+                    "Strong": 0.74074074074074,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 70.588235294118,
+                    "Very Pleasant": 4.4117647058824,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.882352941176,
+                    "Tolerable to Strong": 13.235294117647,
+                    "Strong": 2.9411764705882,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.2048192771084,
+                    "Very Mild": 2.4096385542169,
+                    "Mild": 6.0240963855422,
+                    "Mild to Medium": 32.530120481928,
+                    "Medium": 100.0,
+                    "Medium to Full": 51.807228915663,
+                    "Full": 10.843373493976,
+                    "Very Full": 2.4096385542169,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

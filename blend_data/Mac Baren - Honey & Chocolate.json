@@ -1,0 +1,78 @@
+{
+    "honey&chocolate": {
+        "blender": "Mac Baren",
+        "name": "Honey & Chocolate",
+        "blendType": "Aromatic",
+        "description": "A fine loose cut blend made of a very special kind of cavendish. The long and delicate cavendish process makes this blend soft and smooth with a taste of honey and chocolate.",
+        "contents": "Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Mac Baren - Honey & Chocolate.jpg",
+        "averageRating": 2.68,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 15.625,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.625,
+                    "Medium to Strong": 21.875,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 3.125,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 12.5,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 12.5
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.8965517241379,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 68.965517241379,
+                    "Pleasant to Tolerable": 41.379310344828,
+                    "Tolerable": 27.586206896552,
+                    "Tolerable to Strong": 3.448275862069,
+                    "Strong": 6.8965517241379,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 15.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 95.0,
+                    "Medium to Full": 100.0,
+                    "Full": 20.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

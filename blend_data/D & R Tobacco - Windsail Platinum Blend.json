@@ -1,0 +1,78 @@
+{
+    "windsailplatinumblend": {
+        "blender": "D & R Tobacco",
+        "name": "Windsail Platinum Blend",
+        "blendType": "Straight Virginia",
+        "description": "A premium, medium bodied Virginia Blend composed of the finest quality 100% flue-cured Gold Leaf tobaccos. Delight in the light yellow leaf color, savor the pleasant and distinctive aroma, and enjoy the smooth and satisfying taste. No chemical flavorings added",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "16 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/D & R Tobacco - Windsail Platinum Blend.jpg",
+        "averageRating": 2.2,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

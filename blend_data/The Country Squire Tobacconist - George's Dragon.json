@@ -1,0 +1,78 @@
+{
+    "george'sdragon": {
+        "blender": "The Country Squire Tobacconist",
+        "name": "George's Dragon",
+        "blendType": "Virginia Based",
+        "description": "Amidst the scorching embers and shimmering scales, you gaze unflinchingly into the fiery maw of the serpentine guardian, your heart aflame with the unwavering courage to challenge this ancient, otherworldly force. Only a tobacco comprised of ripe-air cured and rich flue-cured Virginia leaf with a touch of Burley could give you the strength to face this deadly foe.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - George's Dragon.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 28.571428571429,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

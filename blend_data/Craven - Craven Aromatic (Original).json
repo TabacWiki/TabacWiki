@@ -1,0 +1,78 @@
+{
+    "cravenaromatic(original)": {
+        "blender": "Craven",
+        "name": "Craven Aromatic (Original)",
+        "blendType": "Aromatic",
+        "description": "A cool smoking blend of Virginia and burley tobaccos with a sweet aromatic top note.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk; 25g Pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Craven - Craven Aromatic (Original).jpg",
+        "averageRating": 2.0,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 50.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 12.5,
+                    "Medium to Full": 0.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

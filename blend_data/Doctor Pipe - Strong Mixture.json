@@ -1,0 +1,78 @@
+{
+    "strongmixture": {
+        "blender": "Doctor Pipe",
+        "name": "Strong Mixture",
+        "blendType": "Other",
+        "description": "The 'Strong Mixture' blend is considered the most full-bodied in the entire portfolio of 'Doctor Pipe' line products, being highly recommended for more experienced pipe smokers who can appreciate the natural flavor of the leaves used in its composition and who are more accustomed to high levels of nicotine. The recipe is made up of Arapiraca which is a traditional Brazilian rope tobacco, well known for its fruity and vinegary aroma; Kentucky, with its smoky touch and body power; and, finally, a base of Black Cavendish, with smoothness and sweetness, complete the recipe, providing a true show of flavors and nuances for the experienced pipe smoker to appreciate.",
+        "contents": "Brazilian Leaf, Cavendish, Kentucky",
+        "cut": "Ribbon",
+        "packaging": "50 tin weight, 50 pouch weight",
+        "country": "Brazil",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Doctor Pipe - Strong Mixture.jpg",
+        "averageRating": 2.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

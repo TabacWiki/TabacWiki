@@ -1,0 +1,78 @@
+{
+    "redvirginiacavendish": {
+        "blender": "Cornell & Diehl",
+        "name": "Red Virginia Cavendish",
+        "blendType": "Cavendish Based",
+        "description": "Blending Tobacco. Red Virginia Cavendish.",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Red Virginia Cavendish.jpg",
+        "averageRating": 2.81,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

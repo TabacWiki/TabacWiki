@@ -1,0 +1,78 @@
+{
+    "classicenglish(mixtureno.70)": {
+        "blender": "Brebbia",
+        "name": "Classic English (Mixture No. 70)",
+        "blendType": "English",
+        "description": "The classical English mixture of various spicy tobaccos such as Syrian latakia and Louisiana perique. Cross cut, fully aromatic, cool burning. High class quality tobacco for the demanding pipe smoker. A unique smooth, mellow and long lasting blend.",
+        "contents": "Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Brebbia - Classic English (Mixture No. 70).jpg",
+        "averageRating": 2.4,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

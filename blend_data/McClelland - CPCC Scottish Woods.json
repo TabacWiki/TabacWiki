@@ -1,0 +1,78 @@
+{
+    "cpccscottishwoods": {
+        "blender": "McClelland",
+        "name": "CPCC Scottish Woods",
+        "blendType": "Scottish",
+        "description": "This Scottish mixture is full-bodied and deeply flavored with the finest grades of delicately spiced Oriental tobaccos and cool smoking latakia, lively, refreshing, and very satisfying. Discover why this blend has achieved such a great following of discerning pipe smokers.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - CPCC Scottish Woods.jpg",
+        "averageRating": 3.71,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.5555555555556,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 71.428571428571,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 85.714285714286,
+                    "Medium to Full": 100.0,
+                    "Full": 57.142857142857,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

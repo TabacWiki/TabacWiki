@@ -1,0 +1,78 @@
+{
+    "mildenglish": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Mild English",
+        "blendType": "English",
+        "description": "A blend of Burley, Golden VA, and Cavendish. Has a touch of Latakia to make a fuller-bodied smoke. VERY MILD!",
+        "contents": "Burley, Cavendish, Latakia, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Mild English.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 60.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 20.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

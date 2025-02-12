@@ -1,0 +1,78 @@
+{
+    "bothyflake": {
+        "blender": "Samuel Gawith",
+        "name": "Bothy Flake",
+        "blendType": "Virginia/Latakia",
+        "description": "A traditional blend of pressed Virginias with a hint of latakia and a dash of Highland malt whiskey make Bothy Flake a medium strength, aromatic and easy smoking tobacco. A Kearvaig Pipe Club Tobacco.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Bothy Flake.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 40,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.333333333333,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 47.058823529412,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.823529411765,
+                    "Tolerable to Strong": 17.647058823529,
+                    "Strong": 17.647058823529,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 0.0,
+                    "Mild to Medium": 19.047619047619,
+                    "Medium": 100.0,
+                    "Medium to Full": 61.904761904762,
+                    "Full": 23.809523809524,
+                    "Very Full": 4.7619047619048,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

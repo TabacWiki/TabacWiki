@@ -1,0 +1,78 @@
+{
+    "greenriverblackcavendish": {
+        "blender": "pipesandcigars.com",
+        "name": "Green River Black Cavendish",
+        "blendType": "Other",
+        "description": "This is another very versatile component. Green River burley is treated with sugar water and toasted until the sugar caramelizes and the tobacco is almost black. It has a mild brown-sugar flavor and a slightly sweet note. In Latakia blends, it will mellow the flavor. In Virginia or Virginia/perique blends, it adds a warm softness, and it can sweeten burley blends without adding flavoring. Moderate in nicotine, average burn rate.",
+        "contents": "Black Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Green River Black Cavendish.jpg",
+        "averageRating": 3.25,
+        "reviewCount": 4,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

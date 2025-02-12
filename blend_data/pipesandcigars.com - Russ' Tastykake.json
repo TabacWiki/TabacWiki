@@ -1,0 +1,78 @@
+{
+    "russ'tastykake": {
+        "blender": "pipesandcigars.com",
+        "name": "Russ' Tastykake",
+        "blendType": "English",
+        "description": "A few years ago, when Russ was still pressing tobaccos himself, he made a new blend based on \u201cTen to Midnight\u201d (A dark, full Balkan-style tobacco containing bright and matured Carolina and Virginias,  Turkish and Orientals, and Latakia), but with some Perique and black cavendish added to it. The Cavendish is steamed green river Burley with no flavor in the steam press.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Russ' Tastykake.jpg",
+        "averageRating": 3.36,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

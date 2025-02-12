@@ -1,0 +1,78 @@
+{
+    "crossgrainflake": {
+        "blender": "Former",
+        "name": "Cross Grain Flake",
+        "blendType": "Virginia/Perique",
+        "description": "A full bodied \"sweet\" traditional flake tobacco prepared with only the finest grade of Virginia leaf with a pinch of perique. Aged to perfection in order to bring out the best in this cool smoking, magnificent flake.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Former - Cross Grain Flake.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 90.909090909091,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 87.5,
+                    "Very Mild": 62.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 46.153846153846,
+                    "Tolerable": 23.076923076923,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

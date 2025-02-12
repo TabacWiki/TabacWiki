@@ -1,0 +1,78 @@
+{
+    "rlp-6": {
+        "blender": "Lane Limited",
+        "name": "RLP-6",
+        "blendType": "Aromatic",
+        "description": "Blended with just the right proportion of golden Virginia and burley, the basic blend of toasted cavendish tobaccos takes on a zesty dimension. This mixture gets better as you smoke it all day long.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - RLP-6.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 115,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 12.328767123288,
+                    "Very Mild": 23.287671232877,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.986301369863,
+                    "Medium": 2.7397260273973,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 8.0,
+                    "Mild": 64.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.0,
+                    "Medium to Strong": 12.0,
+                    "Strong": 6.0,
+                    "Very Strong": 4.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.3333333333333,
+                    "Pleasant": 86.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 15.0,
+                    "Tolerable": 3.3333333333333,
+                    "Tolerable to Strong": 1.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.0,
+                    "Very Mild": 6.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 48.0,
+                    "Medium to Full": 12.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.0
+                }
+            }
+        }
+    }
+}

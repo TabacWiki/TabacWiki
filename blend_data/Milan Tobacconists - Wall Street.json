@@ -1,0 +1,78 @@
+{
+    "wallstreet": {
+        "blender": "Milan Tobacconists",
+        "name": "Wall Street",
+        "blendType": "Aromatic",
+        "description": "A mild burley blend with a mixture of Virginias and aged maduro cavendish. Subtle notes of chocolate covered hazelnuts, and a hint of creme make for a sweet finish.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Milan Tobacconists - Wall Street.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

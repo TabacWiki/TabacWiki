@@ -1,0 +1,78 @@
+{
+    "slicedblacktwist": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Sliced Black Twist",
+        "blendType": "Straight Virginia",
+        "description": "Manufactured by spinning dark fired leaves into a rope. Black Bogie, cooked longer than Brown Bogie makes it milder with a smoky aroma. It's a true old fashioned stout smoke with good strength perfect for the more experienced pipe smoker. Ready sliced for your convenience.",
+        "contents": "Virginia",
+        "cut": "Curly Cut",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Sliced Black Twist.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 0.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 100.0,
+                    "Very Strong": 57.142857142857,
+                    "Extremely Strong": 14.285714285714,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 11.111111111111,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 100.0,
+                    "Very Strong": 22.222222222222,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

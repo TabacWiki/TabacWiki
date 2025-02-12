@@ -1,0 +1,78 @@
+{
+    "standardmixture": {
+        "blender": "Peterson",
+        "name": "Standard Mixture",
+        "blendType": "English",
+        "description": "A balanced blend of Virginia, latakia and Turkish tobaccos, fine rich flavour.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Standard Mixture.jpg",
+        "averageRating": 3.2,
+        "reviewCount": 190,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.75757575757576,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 23.484848484848,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.484848484848,
+                    "Strong": 3.7878787878788,
+                    "Very Strong": 0.75757575757576,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 1.6129032258065,
+                    "Very Mild": 1.0752688172043,
+                    "Mild": 4.8387096774194,
+                    "Mild to Medium": 2.6881720430108,
+                    "Medium": 3.2258064516129,
+                    "Medium to Strong": 0.53763440860215,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.4096385542169,
+                    "Pleasant": 26.506024096386,
+                    "Very Pleasant": 6.0240963855422,
+                    "Pleasant to Tolerable": 73.493975903614,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 36.144578313253,
+                    "Strong": 8.433734939759,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.2048192771084,
+                    "Overwhelming": 1.2048192771084
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.1578947368421,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 30.526315789474,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.947368421053,
+                    "Full": 20.0,
+                    "Very Full": 3.1578947368421,
+                    "Extra Full": 1.0526315789474,
+                    "Overwhelming": 1.0526315789474
+                }
+            }
+        }
+    }
+}

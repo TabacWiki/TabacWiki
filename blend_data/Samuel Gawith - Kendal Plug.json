@@ -1,0 +1,78 @@
+{
+    "kendalplug": {
+        "blender": "Samuel Gawith",
+        "name": "Kendal Plug",
+        "blendType": "Straight Virginia",
+        "description": "A Plug which starts as the Best Brown, blended and pressed Virginias and nothing else. Medium strength.  Firm favourite for the pipe smoker looking for a medium strength, gentle and slow burning tobacco. Manufactured using hand-stripped flue cured Virginias with no flavours added, Kendal Plug will reward with a cool, sweet smoke with a delectable aroma and good sidestream.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Kendal Plug.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 3.7037037037037,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.62962962963,
+                    "Strong": 7.4074074074074,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.421052631579,
+                    "Very Mild": 2.6315789473684,
+                    "Mild": 7.8947368421053,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 0.0,
+                    "Medium to Strong": 2.6315789473684,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 26.923076923077,
+                    "Pleasant to Tolerable": 30.769230769231,
+                    "Tolerable": 30.769230769231,
+                    "Tolerable to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 12.5,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 8.3333333333333,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

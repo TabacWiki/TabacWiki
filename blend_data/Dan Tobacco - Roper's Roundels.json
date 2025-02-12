@@ -1,0 +1,78 @@
+{
+    "roper'sroundels": {
+        "blender": "Dan Tobacco",
+        "name": "Roper's Roundels",
+        "blendType": "Virginia/Perique",
+        "description": "To make this tobacco, sweet Virginia was pressed into a plate with a pinch of perique. It was then wrapped around a Black Cavendish heart and pressed again. The roll was then cut into slices. Together this results in a tasty, sweet and spicy taste that is dominated by Virginia.",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Roper's Roundels.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 37.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

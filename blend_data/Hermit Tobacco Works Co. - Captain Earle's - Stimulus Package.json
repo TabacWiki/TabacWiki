@@ -1,0 +1,78 @@
+{
+    "captainearle's-stimuluspackage": {
+        "blender": "Hermit Tobacco Works Co.",
+        "name": "Captain Earle's - Stimulus Package",
+        "blendType": "English",
+        "description": "Captain Earle's Stimulus Package is a true delight for lovers of latakia. Rich and full bodied, Stimulus Package is pressed to deliver a perfectly balanced blend to the true aficionado of full English tobaccos.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce and 8 ounce tins",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hermit Tobacco Works Co. - Captain Earle's - Stimulus Package.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 100.0,
+                    "Medium to Strong": 35.294117647059,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 71.428571428571,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 15.384615384615,
+                    "Medium to Full": 100.0,
+                    "Full": 69.230769230769,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

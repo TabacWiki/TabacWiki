@@ -1,0 +1,78 @@
+{
+    "kentuckyclub": {
+        "blender": "John Middleton, Inc",
+        "name": "Kentucky Club",
+        "blendType": "Burley Based",
+        "description": "Original Kentucky Club pipe mixture. The label on the tin reads as follows: \"White Burley - recognized as a better tobacco since 1867 - makes Kentucky Club the smooth, mild, satisfying pipe smoking brand with the grand aroma.  An aromatic that you, and the family too, will enjoy.\n\n\"Kentucky Club's White Burley blend never tires your taste. Its delightful flavor, enjoyable taste, satisfying mildness, and grand aroma give you the greatest enjoyment in pipe smoking.\"",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "2 ounce pouch, 2 ounce tin.",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Kentucky Club.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.526315789474,
+                    "Very Mild": 31.578947368421,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.315789473684,
+                    "Medium": 42.105263157895,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 46.666666666667,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 100.0,
+                    "Mild": 53.333333333333,
+                    "Mild to Medium": 20.0,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 13.333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 15.0,
+                    "Pleasant to Tolerable": 55.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.5555555555556,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 22.222222222222,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            }
+        }
+    }
+}

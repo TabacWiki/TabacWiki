@@ -1,0 +1,78 @@
+{
+    "captainbob'sblend": {
+        "blender": "Cornell & Diehl",
+        "name": "Captain Bob's Blend",
+        "blendType": "Aromatic",
+        "description": "Captain Bob's Blend.  Named and developed for friend and customer Capt. Bob Coffey. A blend of Virginias and burleys with just a dash of Latakia and perique and finished with a refreshing flavor.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Captain Bob's Blend.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 44,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 15.0,
+                    "Mild to Medium": 35.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 70.0,
+                    "Strong": 5.0,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 5.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 84.210526315789,
+                    "Pleasant to Tolerable": 36.842105263158,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 5.2631578947368,
+                    "Overwhelming": 10.526315789474
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.8461538461538,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 26.923076923077,
+                    "Medium": 100.0,
+                    "Medium to Full": 23.076923076923,
+                    "Full": 19.230769230769,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

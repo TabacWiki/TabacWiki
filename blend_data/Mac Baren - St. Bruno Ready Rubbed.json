@@ -1,0 +1,78 @@
+{
+    "st.brunoreadyrubbed": {
+        "blender": "Mac Baren",
+        "name": "St. Bruno Ready Rubbed",
+        "blendType": "Aromatic",
+        "description": "Blend of Virginia and Kentucky. Slow burning and cool with a pleasant aroma.",
+        "contents": "Kentucky, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - St. Bruno Ready Rubbed.jpg",
+        "averageRating": 3.03,
+        "reviewCount": 127,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 1.9607843137255,
+                    "Very Mild": 1.9607843137255,
+                    "Mild": 19.607843137255,
+                    "Mild to Medium": 31.372549019608,
+                    "Medium": 96.078431372549,
+                    "Medium to Strong": 100.0,
+                    "Strong": 23.529411764706,
+                    "Very Strong": 3.921568627451,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 21.276595744681,
+                    "Extremely Mild": 12.765957446809,
+                    "Very Mild": 34.042553191489,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.191489361702,
+                    "Medium": 46.808510638298,
+                    "Medium to Strong": 23.404255319149,
+                    "Strong": 4.2553191489362,
+                    "Very Strong": 4.2553191489362,
+                    "Extra Strong": 2.1276595744681
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.8181818181818,
+                    "Pleasant": 90.909090909091,
+                    "Very Pleasant": 11.363636363636,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 84.090909090909,
+                    "Tolerable to Strong": 13.636363636364,
+                    "Strong": 15.909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.9230769230769,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Full": 71.153846153846,
+                    "Full": 38.461538461538,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

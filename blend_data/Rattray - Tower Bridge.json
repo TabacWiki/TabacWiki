@@ -1,0 +1,78 @@
+{
+    "towerbridge": {
+        "blender": "Rattray",
+        "name": "Tower Bridge",
+        "blendType": "Aromatic",
+        "description": "Tower Bridge is an exceptional blend of black cavendish, golden and red Virginias, mixed with luxury broken flake. This mixture captures the spirit of a Caribbean summer day: aromatic tropical fruits, vanilla and rum bring beach-feeling and will lift your spirits!",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Tower Bridge.jpg",
+        "averageRating": 2.89,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "sunsetharborflake": {
+        "blender": "Cornell & Diehl",
+        "name": "Sunset Harbor Flake",
+        "blendType": "Balkan",
+        "description": "For those who love the sea few things in life are more satisfying after a long day on the salt than dropping anchor in a quiet harbor and enjoying a beautiful sunset. C&D invites you to enhance the experience with a bowl of Sunset Harbor Flake, a classic Balkan style blend made with the finest Izmir Oriental to add a touch of spice to the end of a perfect day.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Sunset Harbor Flake.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 34,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Strong": 58.823529411765,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 5.8823529411765,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.241379310345,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 10.344827586207,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 8.3333333333333,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 100.0,
+                    "Full": 53.333333333333,
+                    "Very Full": 13.333333333333,
+                    "Extra Full": 6.6666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

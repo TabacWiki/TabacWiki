@@ -1,0 +1,78 @@
+{
+    "brigham\u2019sown": {
+        "blender": "Mr. B's",
+        "name": "Brigham\u2019s Own",
+        "blendType": "Aromatic",
+        "description": "This blend consists of world famous Green River black cavendish which is expertly blended with burley and Virginia tobaccos. The outstanding flavour and aroma are achieved by the addition of a secret flavouring recipe.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "45 grams pouch",
+        "country": "Canada",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mr. B's - Brigham\u2019s Own.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 62.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 28.571428571429,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 0.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 36.363636363636,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 9.0909090909091,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

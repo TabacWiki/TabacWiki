@@ -1,0 +1,78 @@
+{
+    "darkburley": {
+        "blender": "Cornell & Diehl",
+        "name": "Dark Burley",
+        "blendType": "Burley Based",
+        "description": "Blending Tobacco. A high grade, air-cured dark Burley from the fields of Kentucky. Mild, but delivering a fine flavor, this versatile leaf performs equally well as a base for your personal mixture experimentation, or a go-to, stand alone smoke.",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Dark Burley.jpg",
+        "averageRating": 2.83,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 75.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 25.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 71.428571428571,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "sam'sflake": {
+        "blender": "Samuel Gawith",
+        "name": "Sam's Flake",
+        "blendType": "Oriental",
+        "description": "The 2nd in our Mayor's Collection. Sam's Flake is a combination of flue cured Virginias and Turkish leaf which after blending is pressed in the hot oven, cut and then treated to a light flavouring which adds another flavour dimension to the tobacco. Good smoke and room aroma with a medium strength.",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 40g, 100g, 250g pouches, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Sam's Flake.jpg",
+        "averageRating": 2.93,
+        "reviewCount": 80,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.7142857142857,
+                    "Mild": 45.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 94.285714285714,
+                    "Medium to Strong": 8.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.129032258065,
+                    "Extremely Mild": 48.387096774194,
+                    "Very Mild": 64.516129032258,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.161290322581,
+                    "Medium": 12.903225806452,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.888888888889,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.344827586207,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 48.275862068966,
+                    "Mild to Medium": 86.206896551724,
+                    "Medium": 100.0,
+                    "Medium to Full": 48.275862068966,
+                    "Full": 3.448275862069,
+                    "Very Full": 3.448275862069,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

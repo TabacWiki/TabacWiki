@@ -1,0 +1,78 @@
+{
+    "307:mochastrips": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "307: Mocha Strips",
+        "blendType": "Aromatic",
+        "description": "Cake cut burley, Virginia and Turkish with Dutch flavorings added. All pressed tobacco to insure retention of flavors and aroma.",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "2oz, 8oz, 1lb, 5lb",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - 307: Mocha Strips.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "redrapparee": {
+        "blender": "Rattray",
+        "name": "Red Rapparee",
+        "blendType": "Scottish",
+        "description": "Exhilarating and elusive, quaint and seductive. Prepared from choice red Virginias and heavily flavored with Orientals, giving it a red tinge. It burns in the pipe with the spontaneity of a fine cigar.  \n\nNew description: A charming, perfectly balanced dark mixture of Virginia tobaccos, Orientals, black cavendish and a luxurious quantity of latakia. The ash is pale grey and similar to that of a good cigar. A wonderful, spicy mixture.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Red Rapparee.jpg",
+        "averageRating": 3.39,
+        "reviewCount": 189,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.8348623853211,
+                    "Mild": 8.256880733945,
+                    "Mild to Medium": 36.697247706422,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.284403669725,
+                    "Strong": 5.5045871559633,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 19.565217391304,
+                    "Very Mild": 10.869565217391,
+                    "Mild": 9.4202898550725,
+                    "Mild to Medium": 5.7971014492754,
+                    "Medium": 5.0724637681159,
+                    "Medium to Strong": 1.4492753623188,
+                    "Strong": 0.72463768115942,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.1538461538462,
+                    "Pleasant": 44.615384615385,
+                    "Very Pleasant": 12.307692307692,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 55.384615384615,
+                    "Strong": 24.615384615385,
+                    "Very Strong": 1.5384615384615,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.0240963855422,
+                    "Mild to Medium": 19.277108433735,
+                    "Medium": 100.0,
+                    "Medium to Full": 87.951807228916,
+                    "Full": 34.939759036145,
+                    "Very Full": 4.8192771084337,
+                    "Extra Full": 1.2048192771084,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

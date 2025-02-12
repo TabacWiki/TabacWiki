@@ -1,0 +1,78 @@
+{
+    "blendedflake": {
+        "blender": "Butera",
+        "name": "Blended Flake",
+        "blendType": "Virginia Based",
+        "description": "A blend of rich, red matured Virginias, hand selected Orientals, flue cured North Carolina whole leaf, and long cut St. James perique. Heavily pressed and aged in cakes.",
+        "contents": "Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Butera - Blended Flake.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 21.052631578947,
+                    "Medium": 100.0,
+                    "Medium to Strong": 31.578947368421,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 58.333333333333,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 12.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.25,
+                    "Full": 6.25,
+                    "Very Full": 6.25,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

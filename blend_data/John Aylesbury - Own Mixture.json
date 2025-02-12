@@ -1,0 +1,78 @@
+{
+    "ownmixture": {
+        "blender": "John Aylesbury",
+        "name": "Own Mixture",
+        "blendType": "English",
+        "description": "This interesting blend produced in a traditional English way convinces by it's unique character. The tobacco is traditionally pressed, cut and roasted and processed in a sophisticated manner. It's blended with Oriental, Louisiana perique, the finest latakia and aromatic Virginia tobaccos which make this blend a classic experience of English style. An exquisite tobacco for friends of handmade flakes.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Aylesbury - Own Mixture.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

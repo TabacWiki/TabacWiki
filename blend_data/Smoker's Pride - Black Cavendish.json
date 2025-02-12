@@ -1,0 +1,78 @@
+{
+    "blackcavendish": {
+        "blender": "Smoker's Pride",
+        "name": "Black Cavendish",
+        "blendType": "Cavendish Based",
+        "description": "Smoker\u2019s Pride Black Cavendish is a slowly steam processed form of burley with a warm, sweet flavor and outstanding vanilla aroma.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Smoker's Pride - Black Cavendish.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 59,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 31.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 31.428571428571,
+                    "Medium": 5.7142857142857,
+                    "Medium to Strong": 5.7142857142857,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 70.833333333333,
+                    "Medium": 54.166666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 67.567567567568,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 8.1081081081081,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 2.7027027027027,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.384615384615,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 100.0,
+                    "Mild to Medium": 96.153846153846,
+                    "Medium": 30.769230769231,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

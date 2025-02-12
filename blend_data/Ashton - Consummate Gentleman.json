@@ -1,0 +1,78 @@
+{
+    "consummategentleman": {
+        "blender": "Ashton",
+        "name": "Consummate Gentleman",
+        "blendType": "English",
+        "description": "A proper English mixture composed of only the finest Virginia, Maryland and burley tobaccos with a pinch of latakia. The result is a remarkable blend that is medium bodied and traditionally English in character.",
+        "contents": "Burley,  Latakia,  Maryland,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Ashton - Consummate Gentleman.jpg",
+        "averageRating": 3.04,
+        "reviewCount": 74,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.7027027027027,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 37.837837837838,
+                    "Mild to Medium": 72.972972972973,
+                    "Medium": 100.0,
+                    "Medium to Strong": 5.4054054054054,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.7619047619048,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 7.9365079365079,
+                    "Mild to Medium": 6.3492063492063,
+                    "Medium": 4.7619047619048,
+                    "Medium to Strong": 1.5873015873016,
+                    "Strong": 1.5873015873016,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 38.235294117647,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.588235294118,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 2.9411764705882,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.9411764705882
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.8571428571429,
+                    "Very Mild": 11.428571428571,
+                    "Mild": 22.857142857143,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.142857142857,
+                    "Full": 0.0,
+                    "Very Full": 5.7142857142857,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

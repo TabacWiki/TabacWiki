@@ -1,0 +1,78 @@
+{
+    "no.910kentuckycavendish": {
+        "blender": "McClelland",
+        "name": "No. 910 Kentucky Cavendish",
+        "blendType": "Aromatic",
+        "description": "Full flavored Cavendish-cut tobacco made primarily from Kentucky Burleys. A small bit of Virginia added to round the whole thing. A special steaming process sweetens the blend and marries all the flavors. A blended cherry/berry topper has been added.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 910 Kentucky Cavendish.jpg",
+        "averageRating": 2.4,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

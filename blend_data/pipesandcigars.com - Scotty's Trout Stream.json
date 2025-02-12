@@ -1,0 +1,78 @@
+{
+    "scotty'stroutstream": {
+        "blender": "pipesandcigars.com",
+        "name": "Scotty's Trout Stream",
+        "blendType": "Aromatic",
+        "description": "This is a mixture of golden cavendish slices mixed with a sweet black cavendish. Perfect for tying flies or stepping out of your tent on a cool misty morning.",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Scotty's Trout Stream.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 93,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 25.396825396825,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.984126984127,
+                    "Medium": 3.1746031746032,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 57.894736842105,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.052631578947,
+                    "Medium to Strong": 13.157894736842,
+                    "Strong": 15.789473684211,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 3.125,
+                    "Tolerable to Strong": 1.5625,
+                    "Strong": 0.0,
+                    "Very Strong": 1.5625,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 69.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 47.222222222222,
+                    "Medium to Full": 19.444444444444,
+                    "Full": 8.3333333333333,
+                    "Very Full": 2.7777777777778,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "specialreserve2014": {
+        "blender": "Peterson",
+        "name": "Special Reserve 2014",
+        "blendType": "Aromatic",
+        "description": "With absolute best bright Virginia, ripe burley leaves and tobacco grades carefully selected from the tobacco fields of three continents, our Special Reserve 2014 is created. A portion of the tobacco blend is pressed to form cakes, then cut into small pieces and hand blended with exclusive ribbon cut and cross cut Virginias. The result is a delightful scent of berries mixed with a hint of exotic fruits, which makes it an exquisite smoking pleasure.",
+        "contents": "Burley, Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin weight",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Peterson - Special Reserve 2014.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 75.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 25.0,
+                    "Very Strong": 75.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 66.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

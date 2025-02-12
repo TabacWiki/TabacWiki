@@ -1,0 +1,78 @@
+{
+    "blendno.52": {
+        "blender": "Peretti",
+        "name": "Blend No.52",
+        "blendType": "Burley Based",
+        "description": "A distinct blend of burley, red Virginia and Dubeck brought back to life by the blenders at Peretti. This mixture offers sweetness and subtle piquancy. Currently available in limited quantities.",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "8 ounce tin, bulk",
+        "country": "United States",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Peretti - Blend No.52.jpg",
+        "averageRating": 3.18,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

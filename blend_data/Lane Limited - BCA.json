@@ -1,0 +1,78 @@
+{
+    "bca": {
+        "blender": "Lane Limited",
+        "name": "BCA",
+        "blendType": "Aromatic",
+        "description": "Fire-cured Cavendish tobaccos discreetly flavored to produce an extremely mild, slow burning cool smoke.",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk, 50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - BCA.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 153,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 21.978021978022,
+                    "Very Mild": 35.164835164835,
+                    "Mild": 100.0,
+                    "Mild to Medium": 24.175824175824,
+                    "Medium": 3.2967032967033,
+                    "Medium to Strong": 1.0989010989011,
+                    "Strong": 1.0989010989011,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 4.5454545454545,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 84.090909090909,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.909090909091,
+                    "Medium to Strong": 59.090909090909,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 2.2727272727273
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 1.0309278350515,
+                    "Pleasant": 62.886597938144,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.1855670103093,
+                    "Tolerable": 3.0927835051546,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 1.0309278350515,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.0309278350515
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.7037037037037,
+                    "Very Mild": 42.592592592593,
+                    "Mild": 94.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.185185185185,
+                    "Medium to Full": 25.925925925926,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.8518518518519
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "wildrose": {
+        "blender": "House of Calabash",
+        "name": "Wild Rose",
+        "blendType": "Aromatic",
+        "description": "Three light turkish\u2019s with white burley, and red  virginia makes for a poplular, dry and even smoking  mixture.  This light aromatic provides a good room  note and like my other aromatics is an excellant  choice for public smoking. I found this blend to be  very balanced for aromatic\u2019s  and a good everyday  smoke acceptable to you and to others.",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/House of Calabash - Wild Rose.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

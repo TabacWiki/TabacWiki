@@ -1,0 +1,78 @@
+{
+    "international": {
+        "blender": "Iwan Ries",
+        "name": "International",
+        "blendType": "Virginia/Burley",
+        "description": "A full bodied and exceptional rich non-aromatic for a palate that will appreciate the robust flavors in this blend.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 7 ounce bag",
+        "country": "United States",
+        "production": "",
+        "imagePath": "../blend_pictures/Iwan Ries - International.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 60.0,
+                    "Strong": 0.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 71.428571428571,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 40.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

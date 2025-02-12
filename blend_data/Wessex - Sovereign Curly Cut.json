@@ -1,0 +1,78 @@
+{
+    "sovereigncurlycut": {
+        "blender": "Wessex",
+        "name": "Sovereign Curly Cut",
+        "blendType": "Virginia/Perique",
+        "description": "2002 tin description: Naturally aromatic pipe tobacco flavoured with traditional West Country Regimental Cider.",
+        "contents": "Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Sovereign Curly Cut.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 35.0,
+                    "Mild to Medium": 15.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 4.7619047619048,
+                    "Pleasant to Tolerable": 52.380952380952,
+                    "Tolerable": 23.809523809524,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 78.947368421053,
+                    "Medium": 100.0,
+                    "Medium to Full": 10.526315789474,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

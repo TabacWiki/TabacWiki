@@ -1,0 +1,78 @@
+{
+    "blackdelightmildtropical": {
+        "blender": "Charles Fairmorn",
+        "name": "Black Delight Mild Tropical",
+        "blendType": "Aromatic",
+        "description": "The idyllic charm of a South Sea Island has inspired this mixture. Through the sweet smell of Black Cavendish one can sense the sparkle of sunny Virginia. With its tropical flavor \"Black Delight\" offers you cool tobacco pleasure. After a pipe-full you will feel like sitting in the shade of a South Sea palm tree.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50g Pouch, 100g Tin",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Charles Fairmorn - Black Delight Mild Tropical.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

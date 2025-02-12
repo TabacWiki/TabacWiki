@@ -1,0 +1,78 @@
+{
+    "engine99": {
+        "blender": "Cornell & Diehl",
+        "name": "Engine 99",
+        "blendType": "English",
+        "description": "This is a full English blend -- a combination of Red Odessa and the unpressed components of Pirate Kake.\n\nA full bodied blend with enough latakia to pull ol' #99 up a mountain grade with flavor to spare. Loaded with latakia, perique, Virginias, burleys, and Orientals.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Engine 99.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 61,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 25.925925925926,
+                    "Medium": 96.296296296296,
+                    "Medium to Strong": 100.0,
+                    "Strong": 18.518518518519,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 1.7857142857143,
+                    "Mild": 0.0,
+                    "Mild to Medium": 1.7857142857143,
+                    "Medium": 1.7857142857143,
+                    "Medium to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 15.0,
+                    "Pleasant to Tolerable": 55.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 70.0,
+                    "Strong": 35.0,
+                    "Very Strong": 15.0,
+                    "Extra Strong": 5.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 79.166666666667,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

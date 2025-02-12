@@ -1,0 +1,78 @@
+{
+    "kentuckynougat": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Kentucky Nougat",
+        "blendType": "Aromatic",
+        "description": "Blended from superior golden African Virginias, Burleys and mellow black cavendish, with a mellow topping of creamy toffee and cocoa.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk, 50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Kentucky Nougat.jpg",
+        "averageRating": 3.12,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 100.0,
+                    "Strong": 57.142857142857,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 70.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

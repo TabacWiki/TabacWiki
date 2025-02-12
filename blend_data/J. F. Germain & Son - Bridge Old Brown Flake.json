@@ -1,0 +1,78 @@
+{
+    "bridgeoldbrownflake": {
+        "blender": "J. F. Germain & Son",
+        "name": "Bridge Old Brown Flake",
+        "blendType": "Straight Virginia",
+        "description": "Pipe Tobacco. Many years back our old recipe for brown flake was always packed loose and slightly broken open.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Bridge Old Brown Flake.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

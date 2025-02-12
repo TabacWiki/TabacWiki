@@ -1,0 +1,78 @@
+{
+    "darkhorse": {
+        "blender": "John Patton",
+        "name": "Dark Horse",
+        "blendType": "Other",
+        "description": "Virginia, 2 Burleys, Turkish, Oriental, Cigar Leaf and Perique produce a medium strength blend with a smooth, full range of flavors. The 'Dark Horse' blend is an adjustment of 'Soulmate's Kiss' in which Cigar Leaf replaces the Latakia.  It is the newest John Patton blend.",
+        "contents": "Burley,  Cigar Leaf,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Patton - Dark Horse.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "no.1mediumlatakiamixture": {
+        "blender": "Astley's",
+        "name": "No. 1 Medium Latakia Mixture",
+        "blendType": "English",
+        "description": "A classic London mixture with red Virginia, Latakia, Turkish and black cavendish in well balanced proportions.",
+        "contents": "Black Cavendish, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Astley's - No. 1 Medium Latakia Mixture.jpg",
+        "averageRating": 2.76,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 83.333333333333,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "countrylawyer": {
+        "blender": "BriarWorks International",
+        "name": "Country Lawyer",
+        "blendType": "Cigar Leaf Based",
+        "description": "BriarWorks International's Country Lawyer: Spicy and full bodied, this courthouse blend is sure to charm the jury with no objections. Case closed.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce jar",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/BriarWorks International - Country Lawyer.jpg",
+        "averageRating": 3.36,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 58.333333333333,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.764705882353,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 60.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 87.5,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

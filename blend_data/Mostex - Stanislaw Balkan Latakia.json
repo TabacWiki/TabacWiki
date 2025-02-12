@@ -1,0 +1,78 @@
+{
+    "stanislawbalkanlatakia": {
+        "blender": "Mostex",
+        "name": "Stanislaw Balkan Latakia",
+        "blendType": "English",
+        "description": "Made from selected Virginias, Orientals, 10% black Kentucky, 40% Latakia with a pinch of Louisiana perique.",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Czech Republic",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mostex - Stanislaw Balkan Latakia.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 25.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 12.5,
+                    "Very Strong": 12.5,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 0.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 100.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 100.0,
+                    "Full": 71.428571428571,
+                    "Very Full": 28.571428571429,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

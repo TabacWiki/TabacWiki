@@ -1,0 +1,78 @@
+{
+    "lochness": {
+        "blender": "Drucquer & Sons",
+        "name": "Loch Ness",
+        "blendType": "English",
+        "description": "Artfully developed by Gregory Pease, Loch Ness is a Scottish-style crumble plug mixture comprising ribbons of small-leaf Oriental, smoky Cypriot Latakia, and rare Louisiana perique, elevated by bright lemon and matured red Virginia tobaccos. Once blended, the loose mixture is pressed and aged in cakes to meld flavors, then cut into plugs \u2014 combining the flavor-enhancing benefits of the pressing process with an easy, straightforward preparation for the pipe.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "100 grams Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Drucquer & Sons - Loch Ness.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "holidayseason2012": {
+        "blender": "Peterson",
+        "name": "Holiday Season 2012",
+        "blendType": "Aromatic",
+        "description": "This mixture creates harmony and comfort - the perfect antidote for this hectic season. Delicious Virginia tobaccos of different shades and cuts are blended in proportion with three kinds of exquisite black cavendish. When smoked this tobacco presents itself as substantial and opulent as well as soft and cool. The fragrance is refined and strong in expression and combines delicious aromas of hazelnut, caramel and baked apples.",
+        "contents": "Black Cavendish, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "100 grams tin weight",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Peterson - Holiday Season 2012.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

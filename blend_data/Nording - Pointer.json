@@ -1,0 +1,78 @@
+{
+    "pointer": {
+        "blender": "Nording",
+        "name": "Pointer",
+        "blendType": "Aromatic",
+        "description": "A blend of the best Virginia and burley tobaccos subtly flavored and aged under pressure in the Danish tradition. To make a point, it's mellow and satisfying.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Nording - Pointer.jpg",
+        "averageRating": 2.75,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 71.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 22.222222222222,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

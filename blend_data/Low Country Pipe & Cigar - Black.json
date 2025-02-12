@@ -1,0 +1,78 @@
+{
+    "black": {
+        "blender": "Low Country Pipe & Cigar",
+        "name": "Black",
+        "blendType": "Virginia/Latakia",
+        "description": "A bold, swarthy blend of bright Virginias, stoved reds and fragrant latakia with a hint of sweetness.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Low Country Pipe & Cigar - Black.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Strong": 71.428571428571,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 85.714285714286,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Full": 57.142857142857,
+                    "Full": 28.571428571429,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "threeblindmoose": {
+        "blender": "4noggins",
+        "name": "Three Blind Moose",
+        "blendType": "Aromatic",
+        "description": "A blend of burley and dark, light & black cavendish tobaccos that, when combined, make a delightful aromatic with a hint of butterscotch in the background. Three Blind Moose could easily be an all day blend enjoyed in public while fending off comments from strangers, such as \"What a lovely tobacco that is young man. What is it called?\"",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Three Blind Moose.jpg",
+        "averageRating": 3.47,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.5555555555556,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.888888888889,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 35.714285714286,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 57.894736842105,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 5.2631578947368,
+                    "Tolerable": 5.2631578947368,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 20.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

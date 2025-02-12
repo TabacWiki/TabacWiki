@@ -1,0 +1,78 @@
+{
+    "nuttyirishman": {
+        "blender": "Cornell & Diehl",
+        "name": "Nutty Irishman",
+        "blendType": "Aromatic",
+        "description": "Imagine a bottle of Frangelico and a bottle of Irish Mist having a head on collision and you'll have an idea of the flavor and aroma of Nutty Irishman, though the end product has a uniqueness that goes beyond the characterization.",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Nutty Irishman.jpg",
+        "averageRating": 2.59,
+        "reviewCount": 33,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.777777777778,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 20.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 6.6666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 93.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 13.333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 21.428571428571,
+                    "Full": 7.1428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "mississippimud": {
+        "blender": "Cornell & Diehl",
+        "name": "Mississippi Mud",
+        "blendType": "English",
+        "description": "An unusual blend of perique, Latakia & unsweetened black cavendish. A truly cool smoke with a flavor unlike any other.",
+        "contents": "Black Cavendish,  Latakia,  Perique",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Mississippi Mud.jpg",
+        "averageRating": 3.16,
+        "reviewCount": 86,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 67.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 32.5,
+                    "Very Strong": 17.5,
+                    "Extremely Strong": 7.5,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.777777777778,
+                    "Very Mild": 12.962962962963,
+                    "Mild": 9.2592592592593,
+                    "Mild to Medium": 9.2592592592593,
+                    "Medium": 3.7037037037037,
+                    "Medium to Strong": 7.4074074074074,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 1.8518518518519,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 35.714285714286,
+                    "Very Pleasant": 3.5714285714286,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 78.571428571429,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 64.285714285714,
+                    "Very Strong": 21.428571428571,
+                    "Extra Strong": 3.5714285714286,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.7142857142857,
+                    "Very Mild": 2.8571428571429,
+                    "Mild": 5.7142857142857,
+                    "Mild to Medium": 2.8571428571429,
+                    "Medium": 37.142857142857,
+                    "Medium to Full": 74.285714285714,
+                    "Full": 100.0,
+                    "Very Full": 34.285714285714,
+                    "Extra Full": 8.5714285714286,
+                    "Overwhelming": 2.8571428571429
+                }
+            }
+        }
+    }
+}

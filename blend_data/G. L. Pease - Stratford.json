@@ -1,0 +1,78 @@
+{
+    "stratford": {
+        "blender": "G. L. Pease",
+        "name": "Stratford",
+        "blendType": "Virginia/Perique",
+        "description": "Stratford is an enticing blend of delicately sweet brights and rich, ripe, red Virginia tobaccos, seasoned with just the right measure of fine Louisiana perique. The wonderfully nuanced interplay of sugar and spice is sure to delight the lover of this time honored combination. The room note is soft and subtle, the taste zesty and piquant. This is the one for the Virginia/Perique fans.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Stratford.jpg",
+        "averageRating": 3.19,
+        "reviewCount": 61,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.5,
+                    "Very Mild": 5.0,
+                    "Mild": 15.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 2.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 2.5,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.4745762711864,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.7796610169492,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 57.692307692308,
+                    "Very Pleasant": 19.230769230769,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.538461538462,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.125,
+                    "Very Mild": 9.375,
+                    "Mild": 18.75,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 21.875,
+                    "Full": 6.25,
+                    "Very Full": 3.125,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

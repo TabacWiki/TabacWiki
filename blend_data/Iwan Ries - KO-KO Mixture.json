@@ -1,0 +1,78 @@
+{
+    "ko-komixture": {
+        "blender": "Iwan Ries",
+        "name": "KO-KO Mixture",
+        "blendType": "Burley Based",
+        "description": "One of our oldest blends and still a favorite non-aromatic with a burley base and IRC special touches. A basic blend for every day smoking.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 7 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Iwan Ries - KO-KO Mixture.jpg",
+        "averageRating": 2.22,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

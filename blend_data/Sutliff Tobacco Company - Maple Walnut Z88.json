@@ -1,0 +1,78 @@
+{
+    "maplewalnutz88": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Maple Walnut Z88",
+        "blendType": "Aromatic",
+        "description": "Maple Walnut starts with a blend of Burley and Virginia  which is topped with the warm sweetness of maple, and the mellow nuttiness of walnut. This is a smooth-smoking, old-fashioned type tobacco.",
+        "contents": "Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Maple Walnut Z88.jpg",
+        "averageRating": 2.85,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 40.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 0.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

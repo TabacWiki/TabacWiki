@@ -1,0 +1,78 @@
+{
+    "bourbonbleu": {
+        "blender": "Cornell & Diehl",
+        "name": "Bourbon Bleu",
+        "blendType": "Virginia/Burley",
+        "description": "Perhaps the most well-known street in the French Quarter, the oldest district in New Orleans, this Cellar Series blend takes its name from the colorful Bourbon street, whose distinct blue shutters have lined the rue for years . In this equally memorable blend, bright and red Virginias are mixed with just the right amount of dark-fired Kentucky and long-cut Perique, then married together with bourbon before being press to form an old-fashioned crumble cake.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2oz, 8oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bourbon Bleu.jpg",
+        "averageRating": 2.82,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 18.181818181818,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 45.454545454545,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 46.666666666667,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

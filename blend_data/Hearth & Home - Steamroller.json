@@ -1,0 +1,78 @@
+{
+    "steamroller": {
+        "blender": "Hearth & Home",
+        "name": "Steamroller",
+        "blendType": "Virginia Based",
+        "description": "Over the last couple of years, we\u2019ve gotten a number of requests for a strong and robust blend with full depth and body. We\u2019ve gone through about eight different versions until we put together the iteration that we now call Steamroller. It\u2019s an appropriate name, as this is the strongest pipe blend we have ever made. Rich and toasty red Virginia is married with two different types of darker Burleys, some unflavored black Cavendish to take the edge off, and a bit of Latakia and Perique for depth of flavor and zest. For those of you who enjoyed Five Brothers and the unscented Lakeland blends for their power and richness, Steamroller will be right up your alley.",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Steamroller.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 66.666666666667,
+                    "Extremely Strong": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

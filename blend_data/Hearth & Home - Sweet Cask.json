@@ -1,0 +1,78 @@
+{
+    "sweetcask": {
+        "blender": "Hearth & Home",
+        "name": "Sweet Cask",
+        "blendType": "Virginia/Burley",
+        "description": "From Pipes&Cigars website: Hearth & Home Mid-Town Series Sweet Cask is a wonderfully mellow blend of burley and Virginia with a sweet added flavor that's mild enough to be an all-day tobacco. For those times when you want to enjoy something simple and pleasant that's eminently affordable, give Sweet Cask a try.",
+        "contents": "Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "14 ounce tub, 2 ounce pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Sweet Cask.jpg",
+        "averageRating": 2.76,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 100.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

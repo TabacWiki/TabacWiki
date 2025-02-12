@@ -1,0 +1,78 @@
+{
+    "cinnamon(no.46)": {
+        "blender": "Peter Stokkebye",
+        "name": "Cinnamon (No.46)",
+        "blendType": "Aromatic",
+        "description": "This Unique tobacco blend is consisting of mild Black Cavendish and selected orange flue cured tobacco from 3 continents. This blend is mild and carefully flavored with vanilla, chocolate and cinnamon.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Cinnamon (No.46).jpg",
+        "averageRating": 2.78,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 83.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

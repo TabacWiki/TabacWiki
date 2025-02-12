@@ -1,0 +1,78 @@
+{
+    "mymixture965": {
+        "blender": "Peterson",
+        "name": "My Mixture 965",
+        "blendType": "English",
+        "description": "Peterson's My Mixture 965 is for the connoisseurs of full bodied tobacco. Choicest small latakia imparts a rich nutty flavor and coolness. Macedonia bright is added for sweetness. Brown cavendish completes this blend beloved by English mixture aficionados.",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - My Mixture 965.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 565,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.3690036900369,
+                    "Very Mild": 1.1070110701107,
+                    "Mild": 4.0590405904059,
+                    "Mild to Medium": 28.413284132841,
+                    "Medium": 100.0,
+                    "Medium to Strong": 71.586715867159,
+                    "Strong": 19.926199261993,
+                    "Very Strong": 4.4280442804428,
+                    "Extremely Strong": 0.7380073800738,
+                    "Overwhelming": 1.1070110701107
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 32.022471910112,
+                    "Very Mild": 10.112359550562,
+                    "Mild": 10.955056179775,
+                    "Mild to Medium": 6.4606741573034,
+                    "Medium": 7.5842696629213,
+                    "Medium to Strong": 6.7415730337079,
+                    "Strong": 1.4044943820225,
+                    "Very Strong": 0.28089887640449,
+                    "Extra Strong": 0.84269662921348
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.1611374407583,
+                    "Pleasant": 40.284360189573,
+                    "Very Pleasant": 9.9526066350711,
+                    "Pleasant to Tolerable": 70.616113744076,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 42.654028436019,
+                    "Strong": 19.431279620853,
+                    "Very Strong": 5.2132701421801,
+                    "Extra Strong": 0.4739336492891,
+                    "Overwhelming": 2.8436018957346
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.7621145374449,
+                    "Very Mild": 0.44052863436123,
+                    "Mild": 7.488986784141,
+                    "Mild to Medium": 21.145374449339,
+                    "Medium": 77.092511013216,
+                    "Medium to Full": 100.0,
+                    "Full": 52.863436123348,
+                    "Very Full": 11.453744493392,
+                    "Extra Full": 2.6431718061674,
+                    "Overwhelming": 1.7621145374449
+                }
+            }
+        }
+    }
+}

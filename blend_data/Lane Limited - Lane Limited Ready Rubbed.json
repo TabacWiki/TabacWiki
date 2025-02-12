@@ -1,0 +1,78 @@
+{
+    "lanelimitedreadyrubbed": {
+        "blender": "Lane Limited",
+        "name": "Lane Limited Ready Rubbed",
+        "blendType": "Burley Based",
+        "description": "For years, smokers revered the dark blue tin and pouch of Edgeworth Ready Rubbed, widely considered one of the smoothest burley blends ever. Toward the end of its run it was made by Lane Limited, and Lane production was acclaimed, but Lane lost the right to use the name. Due to huge demand, Lane is bringing back this blend under the new name Lane Limited Ready Rubbed. An old favorite has returned.",
+        "contents": "Burley",
+        "cut": "Ready Rubbed",
+        "packaging": "14 ounce tin, 1.5 ounce pouch",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Lane Limited - Lane Limited Ready Rubbed.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 48,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 34.782608695652,
+                    "Mild": 100.0,
+                    "Mild to Medium": 73.913043478261,
+                    "Medium": 21.739130434783,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 19.047619047619,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 47.619047619048,
+                    "Medium": 19.047619047619,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 15.789473684211,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 52.631578947368,
+                    "Pleasant to Tolerable": 78.947368421053,
+                    "Tolerable": 31.578947368421,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 61.904761904762,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

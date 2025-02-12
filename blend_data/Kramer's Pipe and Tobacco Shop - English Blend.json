@@ -1,0 +1,78 @@
+{
+    "englishblend": {
+        "blender": "Kramer's Pipe and Tobacco Shop",
+        "name": "English Blend",
+        "blendType": "English",
+        "description": "A clean, crisp, cool smoke with just a hint of natural sweetness, Kramer's English Blend was a favorite tobacco of Leonard Nimoy, Tony Curtis, Charles Bronson, and Richard M. Sherman.",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Kramer's Pipe and Tobacco Shop - English Blend.jpg",
+        "averageRating": 2.7,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

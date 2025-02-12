@@ -1,0 +1,78 @@
+{
+    "naturalvirginia&burley": {
+        "blender": "Low Country Pipe & Cigar",
+        "name": "Natural Virginia & Burley",
+        "blendType": "Virginia/Burley",
+        "description": "Low Country's Natural Virginia & Burley: Select old belt red Virginias are blended with a healthy measure of dark burley leaf, resulting in a sweet, yet nutty smoking experience.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Low Country Pipe & Cigar - Natural Virginia & Burley.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 100.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 40.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 10.0,
+                    "Full": 30.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

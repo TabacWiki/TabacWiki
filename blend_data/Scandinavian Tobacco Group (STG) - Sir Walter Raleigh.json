@@ -1,0 +1,78 @@
+{
+    "sirwalterraleigh": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Sir Walter Raleigh",
+        "blendType": "Burley Based",
+        "description": "An aromatic burley blend with hints of cocoa and Oriental spice, the Sir Walter Raleigh regular mixture has been a popular favorite of countless smokers for generations. A traditional blend of burley tobaccos made in Kentucky.",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce pouch, 7 ounce can",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Sir Walter Raleigh.jpg",
+        "averageRating": 2.78,
+        "reviewCount": 243,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.2238805970149,
+                    "Very Mild": 16.417910447761,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.746268656716,
+                    "Medium": 23.134328358209,
+                    "Medium to Strong": 3.7313432835821,
+                    "Strong": 1.4925373134328,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.74626865671642
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 26.363636363636,
+                    "Very Mild": 49.090909090909,
+                    "Mild": 100.0,
+                    "Mild to Medium": 26.363636363636,
+                    "Medium": 19.090909090909,
+                    "Medium to Strong": 1.8181818181818,
+                    "Strong": 0.90909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.8181818181818
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.950495049505,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.772277227723,
+                    "Pleasant to Tolerable": 82.178217821782,
+                    "Tolerable": 48.514851485149,
+                    "Tolerable to Strong": 3.960396039604,
+                    "Strong": 2.970297029703,
+                    "Very Strong": 1.980198019802,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 19.318181818182,
+                    "Very Mild": 26.136363636364,
+                    "Mild": 97.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.045454545455,
+                    "Medium to Full": 14.772727272727,
+                    "Full": 2.2727272727273,
+                    "Very Full": 2.2727272727273,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            }
+        }
+    }
+}

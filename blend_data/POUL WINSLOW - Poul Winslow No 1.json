@@ -1,0 +1,78 @@
+{
+    "poulwinslowno1": {
+        "blender": "POUL WINSLOW",
+        "name": "Poul Winslow No 1",
+        "blendType": "Aromatic",
+        "description": "The No 1 is an exotic blend of black cavendish, burley and long cuts of Virginia from 3 continents. The tobacco is carefully blended in order to preserve the characteristics of each individual tobacco type. The tobacco has been cased with fine aroma of vanilla, prune and coconut and a dash of original Jamaica rum. It has the taste of a true modern master blend.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/POUL WINSLOW - Poul Winslow No 1.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 80.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

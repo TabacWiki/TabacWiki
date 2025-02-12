@@ -1,0 +1,78 @@
+{
+    "blackcherry": {
+        "blender": "Samuel Gawith",
+        "name": "Black Cherry",
+        "blendType": "Aromatic",
+        "description": "Rich black cavendishes together with a generous amount of sweet cherry generate a room aroma second to none. With satisfaction for both the smoker and the surrounding company, Black Cherry Cavendish is a \"must\" for lovers of aromatic tobaccos.",
+        "contents": "Black Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Black Cherry.jpg",
+        "averageRating": 2.74,
+        "reviewCount": 38,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 73.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 90.909090909091,
+                    "Medium to Strong": 100.0,
+                    "Strong": 54.545454545455,
+                    "Very Strong": 18.181818181818,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 15.789473684211,
+                    "Pleasant": 78.947368421053,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 15.789473684211,
+                    "Tolerable": 10.526315789474,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 6.25,
+                    "Mild": 37.5,
+                    "Mild to Medium": 56.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 31.25,
+                    "Full": 25.0,
+                    "Very Full": 6.25,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

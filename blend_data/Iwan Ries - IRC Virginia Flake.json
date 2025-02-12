@@ -1,0 +1,78 @@
+{
+    "ircvirginiaflake": {
+        "blender": "Iwan Ries",
+        "name": "IRC Virginia Flake",
+        "blendType": "Straight Virginia",
+        "description": "Light flake. Similar to Dunhill Light Flake.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Iwan Ries - IRC Virginia Flake.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 38.461538461538,
+                    "Mild to Medium": 100.0,
+                    "Medium": 76.923076923077,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 100.0,
+                    "Medium to Full": 23.076923076923,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

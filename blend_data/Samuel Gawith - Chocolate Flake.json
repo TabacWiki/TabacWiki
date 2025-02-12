@@ -1,0 +1,78 @@
+{
+    "chocolateflake": {
+        "blender": "Samuel Gawith",
+        "name": "Chocolate Flake",
+        "blendType": "Virginia Based",
+        "description": "The first of a collection dedicated to Samuel Gawith 1st, Chocolate Flake is a luxury blend of Virginias, burley and long-leaf latakias. To complete the luxury a rich, dark chocolate has been added after cutting. Excellent smoking qualities with good smoke and a delicious room note. Medium strength.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Chocolate Flake.jpg",
+        "averageRating": 3.01,
+        "reviewCount": 181,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.0,
+                    "Mild to Medium": 49.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.0,
+                    "Strong": 1.0,
+                    "Very Strong": 1.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 7.5757575757576,
+                    "Extremely Mild": 25.757575757576,
+                    "Very Mild": 48.484848484848,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 37.878787878788,
+                    "Medium to Strong": 12.121212121212,
+                    "Strong": 0.0,
+                    "Very Strong": 1.5151515151515,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 78.378378378378,
+                    "Very Pleasant": 25.675675675676,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 45.945945945946,
+                    "Tolerable to Strong": 12.162162162162,
+                    "Strong": 4.0540540540541,
+                    "Very Strong": 1.3513513513514,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 5.0,
+                    "Mild": 16.25,
+                    "Mild to Medium": 46.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.25,
+                    "Full": 17.5,
+                    "Very Full": 5.0,
+                    "Extra Full": 1.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

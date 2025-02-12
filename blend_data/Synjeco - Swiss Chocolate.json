@@ -1,0 +1,78 @@
+{
+    "swisschocolate": {
+        "blender": "Synjeco",
+        "name": "Swiss Chocolate",
+        "blendType": "",
+        "description": "This Blend was specially made for the World Championship in Pipesmoking 2005 in Poznan (Poland). It was supposed to be a limited edition, but following many requests from our pipesmoker friends, we decide to go ahead with this Premium tobacco.\nHigh grade Virginias with a 3% of Latakia and a chocolate aroma make this blend exclusive: it is not an english mixture, but also not an aromatic mixture... For the Connaisseur!",
+        "contents": "Virginia,  Latakia",
+        "cut": "Ribbon",
+        "packaging": "50g Tin",
+        "country": "Switzerland",
+        "production": "",
+        "imagePath": "../blend_pictures/Synjeco - Swiss Chocolate.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 2,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "barrister": {
+        "blender": "Cornell & Diehl",
+        "name": "Barrister",
+        "blendType": "Burley Based",
+        "description": "By order of the Crown, you are hereby called to appear before the Barrister, an honorific blend of Latakia and other choice tobaccos to advocate for a rich, complex smoking experience. This noble mixture will have you soliciting your tobacconist for more after only a brief recess.\n\nA unique mixture of white burley (rough cut & short cut), Virginia, dark burley and fine cut latakia.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2oz Tin only",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Barrister.jpg",
+        "averageRating": 2.75,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

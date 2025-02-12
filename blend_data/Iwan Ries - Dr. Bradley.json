@@ -1,0 +1,78 @@
+{
+    "dr.bradley": {
+        "blender": "Iwan Ries",
+        "name": "Dr. Bradley",
+        "blendType": "American",
+        "description": "One of our premier creations with its rich taste. Hinting towards the aromatic side, there is no aromatic tasted or aroma - just quality and character.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Iwan Ries - Dr. Bradley.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 61.111111111111,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 41.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 42.105263157895,
+                    "Medium": 100.0,
+                    "Medium to Full": 21.052631578947,
+                    "Full": 5.2631578947368,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

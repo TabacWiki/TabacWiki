@@ -1,0 +1,78 @@
+{
+    "dobloned'oro": {
+        "blender": "Savinelli",
+        "name": "Doblone d'Oro",
+        "blendType": "Virginia/Perique",
+        "description": "The choicest Virginias, burleys and dark fired Kenyan leaf are enhanced with an impeccable addition of spicy perique, then aged to perfection before being spun into enticingly beautiful, zesty coins. A delightfully vivacious and flavorful smoke.",
+        "contents": "Burley,  Kentucky,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Doblone d'Oro.jpg",
+        "averageRating": 3.62,
+        "reviewCount": 44,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 40.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 17.857142857143,
+                    "Mild": 17.857142857143,
+                    "Mild to Medium": 3.5714285714286,
+                    "Medium": 10.714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 68.75,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 87.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 31.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 45.833333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 4.1666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

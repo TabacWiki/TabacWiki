@@ -1,0 +1,78 @@
+{
+    "redribbon,vintage1983": {
+        "blender": "McCranie's",
+        "name": "Red Ribbon, vintage 1983",
+        "blendType": "Straight Virginia",
+        "description": "This beautifully aged red Virginia is brimming with the rich mellow flavor only nature can provide. It is a special allotment of a 1983 crop North Carolina leaf that we have secured for our discriminating pipe smokers. Available in flake or fully rubbed.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McCranie's - Red Ribbon, vintage 1983.jpg",
+        "averageRating": 3.6,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.5454545454545,
+                    "Mild": 59.090909090909,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.909090909091,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.1081081081081,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 8.1081081081081,
+                    "Mild to Medium": 5.4054054054054,
+                    "Medium": 2.7027027027027,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 45.454545454545,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 22.727272727273,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.0,
+                    "Mild": 55.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.0,
+                    "Full": 5.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

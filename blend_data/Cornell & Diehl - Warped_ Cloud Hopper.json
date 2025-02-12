@@ -1,0 +1,78 @@
+{
+    "warped:cloudhopper": {
+        "blender": "Cornell & Diehl",
+        "name": "Warped: Cloud Hopper",
+        "blendType": "Cigar Leaf Based",
+        "description": "Finest Virginia, Cigar Leaf, & Perique Blended by aficionados Kyle Gelllis & Jeremy Reeves\n\nAn adventurous medley of AA Dominican Criollo, traditional Italian air-cured leaf, Yellow and Red Virginia tobaccos. Complex tones of earth, warm spice, coffee, and cream comfort weary travelers as a delicate sweetness and exhilarating notes of citrus give them the energy to keep pushing forward, A modest portion of Perique adds an unexpected stop along the journey, inspiring and enchanting all who wander.",
+        "contents": "Burley, Cigar Leaf, Perique, Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin weight",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Warped: Cloud Hopper.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 10.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 36.363636363636,
+                    "Medium to Full": 100.0,
+                    "Full": 18.181818181818,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

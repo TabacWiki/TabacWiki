@@ -1,0 +1,78 @@
+{
+    "thebanker'smixture": {
+        "blender": "James Fox",
+        "name": "The Banker's Mixture",
+        "blendType": "Cigar Leaf Based",
+        "description": "The incomparable aroma of this fine tobacco is due to the superfine pure Havana leaf which has been skilfully added to give the flavour of a fine Cuban cigar.",
+        "contents": "Burley,  Cigar Leaf,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/James Fox - The Banker's Mixture.jpg",
+        "averageRating": 2.8,
+        "reviewCount": 40,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 12.5,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.166666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.888888888889,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 5.5555555555556,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 58.823529411765,
+                    "Very Pleasant": 5.8823529411765,
+                    "Pleasant to Tolerable": 47.058823529412,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 23.529411764706,
+                    "Strong": 23.529411764706,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

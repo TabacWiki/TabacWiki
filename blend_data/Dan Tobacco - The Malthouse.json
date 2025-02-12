@@ -1,0 +1,78 @@
+{
+    "themalthouse": {
+        "blender": "Dan Tobacco",
+        "name": "The Malthouse",
+        "blendType": "Aromatic",
+        "description": "A superb mixture consisting of finest Virginia varietals which where fermented in a press, after it was added Scottish malt whiskey. Afterwards it's stored and for 12 weeks until it's aged to perfect maturity. To add depth to the taste we added one exceptionally full-bodied, mellow black cavendish.\n\nThe Malthouse offers you a mellow pleasure with a subtle classical, spicy note.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams pouch, 200 grams bulk bag",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - The Malthouse.jpg",
+        "averageRating": 2.5,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 42.857142857143,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Full": 12.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

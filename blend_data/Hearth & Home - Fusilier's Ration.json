@@ -1,0 +1,78 @@
+{
+    "fusilier'sration": {
+        "blender": "Hearth & Home",
+        "name": "Fusilier's Ration",
+        "blendType": "English",
+        "description": "Russ Ouellette's interpretation of the classic Bengal Slices contains Cyprian latakia, Oriental leaf, bright Virginias and a hint of unflavored black cavendish. Lightly scented and hot pressed.",
+        "contents": "Black Cavendish, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "1.76 ounce tin weight",
+        "country": "Unknown",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Fusilier's Ration.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.0,
+                    "Mild": 24.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 46.666666666667,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 73.684210526316,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 63.157894736842,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 21.052631578947,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 54.545454545455,
+                    "Medium to Full": 100.0,
+                    "Full": 40.909090909091,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

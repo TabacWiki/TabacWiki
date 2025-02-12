@@ -1,0 +1,78 @@
+{
+    "redcarpet": {
+        "blender": "Cornell & Diehl",
+        "name": "Red Carpet",
+        "blendType": "Virginia/Perique",
+        "description": "The perfect blend of red Va.s and perique, pressed and sliced into flake form.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Red Carpet.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.666666666667,
+                    "Strong": 10.0,
+                    "Very Strong": 6.6666666666667,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 2.3809523809524,
+                    "Mild to Medium": 2.3809523809524,
+                    "Medium": 2.3809523809524,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.3809523809524,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 93.75,
+                    "Tolerable": 81.25,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 22.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Full": 86.363636363636,
+                    "Full": 22.727272727273,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.5454545454545
+                }
+            }
+        }
+    }
+}

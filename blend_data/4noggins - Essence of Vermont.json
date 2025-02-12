@@ -1,0 +1,78 @@
+{
+    "essenceofvermont": {
+        "blender": "4noggins",
+        "name": "Essence of Vermont",
+        "blendType": "American",
+        "description": "A wide cut, hearty burley with the essence of fresh maple, blended with enough St. James Parish perique to give it an aged sweetness with a slight hint of spiced raisins. Easy to smoke, it is the perfect all day baccy that won't assault your taste buds.",
+        "contents": "Burley,  Perique",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Essence of Vermont.jpg",
+        "averageRating": 3.32,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 10.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 8.3333333333333,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

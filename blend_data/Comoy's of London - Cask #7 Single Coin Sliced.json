@@ -1,0 +1,78 @@
+{
+    "cask#7singlecoinsliced": {
+        "blender": "Comoy's of London",
+        "name": "Cask #7 Single Coin Sliced",
+        "blendType": "Virginia/Perique",
+        "description": "A broad coin cut flake, Comoy's Cask No.7 wraps a mix of Virginias and pure perique around a dark center of smooth black cavendish, topped with a slight aromatic.",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "3.5 ounce tin, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Comoy's of London - Cask #7 Single Coin Sliced.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 90.909090909091,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 75.0,
+                    "Very Mild": 50.0,
+                    "Mild": 62.5,
+                    "Mild to Medium": 12.5,
+                    "Medium": 25.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.636363636364,
+                    "Medium to Full": 36.363636363636,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

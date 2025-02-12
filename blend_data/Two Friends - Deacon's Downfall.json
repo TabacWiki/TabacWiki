@@ -1,0 +1,78 @@
+{
+    "deacon'sdownfall": {
+        "blender": "Two Friends",
+        "name": "Deacon's Downfall",
+        "blendType": "English",
+        "description": "Dark and mysterious! Rich with Latakia, black cavendish, dark stoved Virginias and perique. A bit of Oriental leaf adds an exotic spice. This is a tobacco for those seeking a big, powerful flavor that isn't harsh or overwhelming. One bowl, and you'll know just what caused the Deacon's Downfall!",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Two Friends - Deacon's Downfall.jpg",
+        "averageRating": 2.94,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 92.857142857143,
+                    "Strong": 21.428571428571,
+                    "Very Strong": 7.1428571428571,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 87.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 87.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 35.714285714286,
+                    "Medium to Full": 100.0,
+                    "Full": 64.285714285714,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

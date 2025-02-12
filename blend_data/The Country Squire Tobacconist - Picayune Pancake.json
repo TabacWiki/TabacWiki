@@ -1,0 +1,78 @@
+{
+    "picayunepancake": {
+        "blender": "The Country Squire Tobacconist",
+        "name": "Picayune Pancake",
+        "blendType": "Aromatic",
+        "description": "Take a step through the garden gate and take delight in a Southern breakfast.\nPicayune Pancake was whipped up in the kitchen with Toasted Cavendish mixed with a variety of Virginias with cased and natural sweetness to combine for a rich but complex smoking experience. Flavorful with a pleasant room note while still kind to the mouth.",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Picayune Pancake.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 85.714285714286,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 0.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 77.777777777778,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

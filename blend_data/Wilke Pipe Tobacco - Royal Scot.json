@@ -1,0 +1,78 @@
+{
+    "royalscot": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Royal Scot",
+        "blendType": "Aromatic",
+        "description": "The famous Royal Scot, a most aromatic blend, remains unique and unlike any other aromatic ever made. The flavoring for this classic mixture has been a closely held secret for over 100 years. This melange of plugged Virginia, North Carolina and burley can be smoked as is, or used to enhance your own favorite blend.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Royal Scot.jpg",
+        "averageRating": 2.71,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 75.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

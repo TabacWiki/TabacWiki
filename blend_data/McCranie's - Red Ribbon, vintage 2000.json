@@ -1,0 +1,78 @@
+{
+    "redribbon,vintage2000": {
+        "blender": "McCranie's",
+        "name": "Red Ribbon, vintage 2000",
+        "blendType": "Straight Virginia",
+        "description": "A beautifully aged red Virginia like no other. Brimming with rich, mellow flavor as only nature can provide. A special allotment of prime 2000 crop North Carolina leaf has been secured for our discriminating pipe smokers. The softest, most enjoyable straight Virginia we've ever smoked. With a light vacuum seal, the tobacco will continue to mellow with age.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McCranie's - Red Ribbon, vintage 2000.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 36.363636363636,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 18.75,
+                    "Mild": 6.25,
+                    "Mild to Medium": 12.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 72.727272727273,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.727272727273,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 0.0,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

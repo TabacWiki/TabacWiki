@@ -1,0 +1,78 @@
+{
+    "no.2045orientalmixture": {
+        "blender": "McClelland",
+        "name": "No. 2045 Oriental Mixture",
+        "blendType": "Oriental",
+        "description": "This is a soft and sweet, rich in light Orientals and Carolina tobaccos with less latakia than No.2040.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 2045 Oriental Mixture.jpg",
+        "averageRating": 2.97,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 56.25,
+                    "Medium": 31.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 41.666666666667,
+                    "Very Mild": 58.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 15.384615384615,
+                    "Pleasant to Tolerable": 69.230769230769,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 29.411764705882,
+                    "Mild to Medium": 100.0,
+                    "Medium": 41.176470588235,
+                    "Medium to Full": 5.8823529411765,
+                    "Full": 11.764705882353,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

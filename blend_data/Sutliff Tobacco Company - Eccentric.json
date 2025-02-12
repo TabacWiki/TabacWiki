@@ -1,0 +1,78 @@
+{
+    "eccentric": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Eccentric",
+        "blendType": "English",
+        "description": "Latakia takes the front seat and makes itself present throughout the smoke. Red Virginia is the base component, combined with Katerini Orientals - adding a more subtle spice to the blend. A special Virginia is blended with light Burley tobacco. The first impression of this plug cut is a smoky note, with Virginia sweetness and spices from the Katerini tobacco, all mixing for your pleasure.",
+        "contents": "Burley, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Eccentric.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 4,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

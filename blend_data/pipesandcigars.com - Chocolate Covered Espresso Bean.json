@@ -1,0 +1,78 @@
+{
+    "chocolatecoveredespressobean": {
+        "blender": "pipesandcigars.com",
+        "name": "Chocolate Covered Espresso Bean",
+        "blendType": "Aromatic",
+        "description": "Coffee and chocolate are used together in so many foods and drinks that we thought that it was time to offer you a pipe tobacco with these two great flavors. The chocolate flavor is deep and rich, more of a dark chocolate. Then we bring in a black coffee note. To keep the blend from being bitter, we add a creamy vanilla to balance everything.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "Unknown",
+        "production": "",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Chocolate Covered Espresso Bean.jpg",
+        "averageRating": 2.33,
+        "reviewCount": 5,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 50.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

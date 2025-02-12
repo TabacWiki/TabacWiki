@@ -1,0 +1,78 @@
+{
+    "richdarkhoneydew": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Rich Dark Honeydew",
+        "blendType": "Aromatic",
+        "description": "Combining the natural sweetness of ripe Virginias and Burleys with the flavors of maple and honeydew, Gawith, Hoggarth & Co's Rich Dark Honeydew is a lively aromatic with a subtle Lakeland essence.",
+        "contents": "Burley,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Rich Dark Honeydew.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 25.0,
+                    "Very Strong": 12.5,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

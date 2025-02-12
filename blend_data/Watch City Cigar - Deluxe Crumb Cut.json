@@ -1,0 +1,78 @@
+{
+    "deluxecrumbcut": {
+        "blender": "Watch City Cigar",
+        "name": "Deluxe Crumb Cut",
+        "blendType": "Burley Based",
+        "description": "A naturally sweet crumb cut burley with a little stoved cavendish is cased lightly with cocoa and licorice and then given mild \"coumarin\" type flavoring. Delicious, easy burning and not too sweet!",
+        "contents": "Black Cavendish,  Burley,  Latakia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Watch City Cigar - Deluxe Crumb Cut.jpg",
+        "averageRating": 3.79,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 87.5,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 100.0,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 18.181818181818,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

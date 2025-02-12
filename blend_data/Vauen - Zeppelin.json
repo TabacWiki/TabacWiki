@@ -1,0 +1,78 @@
+{
+    "zeppelin": {
+        "blender": "Vauen",
+        "name": "Zeppelin",
+        "blendType": "Aromatic",
+        "description": "Mild pipe tobacco with some herbal notes. Smokes smooth and cool, with a spicy aroma and a masculine scent.",
+        "contents": "Cavendish,  Kentucky,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Vauen - Zeppelin.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 75.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

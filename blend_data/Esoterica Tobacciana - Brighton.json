@@ -1,0 +1,78 @@
+{
+    "brighton": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Brighton",
+        "blendType": "Straight Virginia",
+        "description": "A notably smooth blend of six Virginia tobaccos, light in color, soft and satisfying.",
+        "contents": "Virginia",
+        "cut": "Shag",
+        "packaging": "8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Brighton.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 30.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 71.428571428571,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 100.0,
+                    "Medium": 18.181818181818,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

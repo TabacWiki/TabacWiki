@@ -1,0 +1,78 @@
+{
+    "kentuckybird": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Kentucky Bird",
+        "blendType": "Aromatic",
+        "description": "A pipe tobacco with natural flowers. Mild Virginia and sun cured Kentucky tobaccos, blended with natural flowers, create a new dimension for pipe smokers. A unique Concept symbolized by the beauty of the Cardinal - the official bird of Kentucky.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 50 grams pouch, 100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Kentucky Bird.jpg",
+        "averageRating": 2.37,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 18.75,
+                    "Very Mild": 62.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 81.25,
+                    "Medium": 18.75,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 12.5,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.6666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 53.333333333333,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 53.333333333333,
+                    "Strong": 20.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 6.6666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 23.809523809524,
+                    "Tolerable": 28.571428571429,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 52.941176470588,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.823529411765,
+                    "Medium to Full": 23.529411764706,
+                    "Full": 5.8823529411765,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.8823529411765,
+                    "Overwhelming": 11.764705882353
+                }
+            }
+        }
+    }
+}

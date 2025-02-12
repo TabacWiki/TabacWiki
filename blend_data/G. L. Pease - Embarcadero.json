@@ -1,0 +1,78 @@
+{
+    "embarcadero": {
+        "blender": "G. L. Pease",
+        "name": "Embarcadero",
+        "blendType": "Oriental",
+        "description": "Rich, ripe red virginias are combined with top grade Izmir leaf, pressed and aged in cakes, then sliced into flakes and tinned. The result is a wonderfully fragrant, natural blend with subdued sweetness, more \"brut\" than \"demi-sec\", delightful toasty flavors, and hints of nuttiness and roasted coffee. Satisfying and refreshing; a comforting smoke, with enough complexity to keep it interesting.",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Embarcadero.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 88,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.666666666667,
+                    "Mild to Medium": 23.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 3.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.068493150685,
+                    "Very Mild": 5.4794520547945,
+                    "Mild": 2.7397260273973,
+                    "Mild to Medium": 5.4794520547945,
+                    "Medium": 4.1095890410959,
+                    "Medium to Strong": 1.3698630136986,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.5641025641026,
+                    "Pleasant": 69.230769230769,
+                    "Very Pleasant": 10.25641025641,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 46.153846153846,
+                    "Tolerable to Strong": 17.948717948718,
+                    "Strong": 2.5641025641026,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.5641025641026
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 36.538461538462,
+                    "Full": 13.461538461538,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.9230769230769
+                }
+            }
+        }
+    }
+}

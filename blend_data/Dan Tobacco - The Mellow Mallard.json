@@ -1,0 +1,78 @@
+{
+    "themellowmallard": {
+        "blender": "Dan Tobacco",
+        "name": "The Mellow Mallard",
+        "blendType": "Straight Virginia",
+        "description": "The rich aromatic pipe tobacco - Sweet golden and brown Virginia leaf matured for extra smoothness.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - The Mellow Mallard.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 33,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 43.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 86.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

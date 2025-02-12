@@ -1,0 +1,78 @@
+{
+    "wintertimeflake": {
+        "blender": "Samuel Gawith",
+        "name": "Winter Time Flake",
+        "blendType": "Virginia/Latakia",
+        "description": "Winter Time Flake Pipe Tobacco by Samuel Gawith is a blend of pressed Virginia leaves. With a higher sugar content and the spiciness of the latakia, experience a cool but rich, slow burn tobacco. For the experienced smoker.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Winter Time Flake.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 15.384615384615,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.0,
+                    "Very Mild": 4.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 27.272727272727,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 72.727272727273,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 69.230769230769,
+                    "Medium to Full": 100.0,
+                    "Full": 15.384615384615,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 15.384615384615
+                }
+            }
+        }
+    }
+}

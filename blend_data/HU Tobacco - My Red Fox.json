@@ -1,0 +1,78 @@
+{
+    "myredfox": {
+        "blender": "HU Tobacco",
+        "name": "My Red Fox",
+        "blendType": "Straight Virginia",
+        "description": "Virginia ready rubbed flakes paired with bright Virginia ribbon cut form the base of the Red Fox. The used Virginias are rich in sugars and make for a pleasant sweetness and malty aroma without the hay-ish and grassy notes. Sweet, creamy, uncomplicated and still enticing - that's Red Fox! It's the perfect companion for any time of the day. Who prefers straight Virginias and malty sweet notes over the hay-ish Virginias, will be spot on with the Red Fox.",
+        "contents": "Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/HU Tobacco - My Red Fox.jpg",
+        "averageRating": 3.7,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

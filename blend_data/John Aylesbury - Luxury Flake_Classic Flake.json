@@ -1,0 +1,78 @@
+{
+    "luxuryflake/classicflake": {
+        "blender": "John Aylesbury",
+        "name": "Luxury Flake/Classic Flake",
+        "blendType": "Straight Virginia",
+        "description": "Only top quality Virginias are the base for this truly excellent Danish mixture. A Navy Cut, with a fine and smooth taste, featuring true tobacco Virginia sweetness. A blend that is going to enchant not only the flake lover.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Aylesbury - Luxury Flake/Classic Flake.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 30.769230769231,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.545454545455,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

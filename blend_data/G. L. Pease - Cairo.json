@@ -1,0 +1,78 @@
+{
+    "cairo": {
+        "blender": "G. L. Pease",
+        "name": "Cairo",
+        "blendType": "Oriental",
+        "description": "Cairo is a wonderfully complex mixture of red, orange and bright Virginia tobaccos, exotic Oriental leaf, and just a whisper of perique. The flavor is naturally sweet, slightly nutty, delicately spicy and rich. Subtle citrus-like notes harmoniously support the more robust flavors of the darker Virginias. A medium bodied tobacco with a delicate aroma, Cairo will satisfy Virginia lovers and the connoisseur of Oriental mixtures alike.",
+        "contents": "Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Cairo.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 121,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.6666666666667,
+                    "Very Mild": 1.6666666666667,
+                    "Mild": 28.333333333333,
+                    "Mild to Medium": 65.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.333333333333,
+                    "Strong": 5.0,
+                    "Very Strong": 3.3333333333333,
+                    "Extremely Strong": 1.6666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.205128205128,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 6.4102564102564,
+                    "Mild to Medium": 14.102564102564,
+                    "Medium": 5.1282051282051,
+                    "Medium to Strong": 1.2820512820513,
+                    "Strong": 1.2820512820513,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.5217391304348,
+                    "Pleasant": 91.304347826087,
+                    "Very Pleasant": 10.869565217391,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 73.913043478261,
+                    "Tolerable to Strong": 2.1739130434783,
+                    "Strong": 6.5217391304348,
+                    "Very Strong": 2.1739130434783,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.5087719298246,
+                    "Very Mild": 3.5087719298246,
+                    "Mild": 19.298245614035,
+                    "Mild to Medium": 70.175438596491,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.070175438596,
+                    "Full": 7.0175438596491,
+                    "Very Full": 1.7543859649123,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.5087719298246
+                }
+            }
+        }
+    }
+}

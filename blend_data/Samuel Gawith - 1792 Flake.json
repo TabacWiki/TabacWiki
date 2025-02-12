@@ -1,0 +1,78 @@
+{
+    "1792flake": {
+        "blender": "Samuel Gawith",
+        "name": "1792 Flake",
+        "blendType": "Virginia Based",
+        "description": "",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - 1792 Flake.jpg",
+        "averageRating": 3.05,
+        "reviewCount": 409,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.51813471502591,
+                    "Very Mild": 0.0,
+                    "Mild": 1.0362694300518,
+                    "Mild to Medium": 1.5544041450777,
+                    "Medium": 10.362694300518,
+                    "Medium to Strong": 41.450777202073,
+                    "Strong": 100.0,
+                    "Very Strong": 53.367875647668,
+                    "Extremely Strong": 20.20725388601,
+                    "Overwhelming": 7.2538860103627
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 10.31746031746,
+                    "Extremely Mild": 5.5555555555556,
+                    "Very Mild": 15.079365079365,
+                    "Mild": 29.365079365079,
+                    "Mild to Medium": 34.126984126984,
+                    "Medium": 100.0,
+                    "Medium to Strong": 75.396825396825,
+                    "Strong": 65.079365079365,
+                    "Very Strong": 19.047619047619,
+                    "Extra Strong": 7.1428571428571
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.950495049505,
+                    "Pleasant": 58.415841584158,
+                    "Very Pleasant": 20.792079207921,
+                    "Pleasant to Tolerable": 80.19801980198,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 77.227722772277,
+                    "Strong": 62.376237623762,
+                    "Very Strong": 24.752475247525,
+                    "Extra Strong": 7.9207920792079,
+                    "Overwhelming": 13.861386138614
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.58823529411765,
+                    "Very Mild": 0.58823529411765,
+                    "Mild": 1.7647058823529,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 22.941176470588,
+                    "Medium to Full": 46.470588235294,
+                    "Full": 100.0,
+                    "Very Full": 62.352941176471,
+                    "Extra Full": 17.058823529412,
+                    "Overwhelming": 10.0
+                }
+            }
+        }
+    }
+}

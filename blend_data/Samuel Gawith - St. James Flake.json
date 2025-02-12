@@ -1,0 +1,78 @@
+{
+    "st.jamesflake": {
+        "blender": "Samuel Gawith",
+        "name": "St. James Flake",
+        "blendType": "Virginia/Perique",
+        "description": "Genuine perique is added to an already delicious and flavoursome blend of fine bright Virginias to give St. James the light peppery characteristic enjoyed by so many pipe smokers. Medium strength.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 250 grams box, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - St. James Flake.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 189,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.88495575221239,
+                    "Mild": 5.3097345132743,
+                    "Mild to Medium": 26.548672566372,
+                    "Medium": 100.0,
+                    "Medium to Strong": 38.938053097345,
+                    "Strong": 13.274336283186,
+                    "Very Strong": 0.88495575221239,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 29.133858267717,
+                    "Very Mild": 12.59842519685,
+                    "Mild": 12.59842519685,
+                    "Mild to Medium": 5.511811023622,
+                    "Medium": 1.5748031496063,
+                    "Medium to Strong": 1.5748031496063,
+                    "Strong": 1.5748031496063,
+                    "Very Strong": 0.78740157480315,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.2253521126761,
+                    "Pleasant": 76.056338028169,
+                    "Very Pleasant": 5.6338028169014,
+                    "Pleasant to Tolerable": 91.549295774648,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 12.676056338028,
+                    "Strong": 5.6338028169014,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 7.7777777777778,
+                    "Mild to Medium": 12.222222222222,
+                    "Medium": 71.111111111111,
+                    "Medium to Full": 100.0,
+                    "Full": 30.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.2222222222222
+                }
+            }
+        }
+    }
+}

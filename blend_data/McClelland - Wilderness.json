@@ -1,0 +1,78 @@
+{
+    "wilderness": {
+        "blender": "McClelland",
+        "name": "Wilderness",
+        "blendType": "Balkan",
+        "description": "This remarkable blend formulated by Fred Hanna provides a multi-layered, rich, taste experience. The highest quality Syrian latakia combines with a small amount of Cyprian to form the base for an exquisite array of rare and precious Orientals - sweet Drama, exotic Yenidje, and more. Red Virginias complement the blend, adding sweetness, richness, strength, and creaminess. Smoke this mixture and listen for the echoes of savored  memories.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Wilderness.jpg",
+        "averageRating": 3.61,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 29.62962962963,
+                    "Mild to Medium": 100.0,
+                    "Medium": 74.074074074074,
+                    "Medium to Strong": 14.814814814815,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 6.8181818181818,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 2.2727272727273,
+                    "Medium": 0.0,
+                    "Medium to Strong": 6.8181818181818,
+                    "Strong": 2.2727272727273,
+                    "Very Strong": 2.2727272727273,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 20.833333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 41.666666666667,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 54.166666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 54.166666666667,
+                    "Full": 12.5,
+                    "Very Full": 4.1666666666667,
+                    "Extra Full": 4.1666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

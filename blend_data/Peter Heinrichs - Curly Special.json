@@ -1,0 +1,78 @@
+{
+    "curlyspecial": {
+        "blender": "Peter Heinrichs",
+        "name": "Curly Special",
+        "blendType": "Virginia/Perique",
+        "description": "Rare Virginias are spun into \"twist\" then sliced to the size of small coins. Each disk is a complete blend. Costly to produce, this spun cut can be smoked for its slow burning classic Virginia flavor or mixed into a favorite blend for a change of pace.",
+        "contents": "Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin, 200 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Heinrichs - Curly Special.jpg",
+        "averageRating": 2.97,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.727272727273,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 57.142857142857,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 70.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "leonardo": {
+        "blender": "Savinelli",
+        "name": "Leonardo",
+        "blendType": "Aromatic",
+        "description": "For connoisseurs with the highest demands, grandiose tobaccos were composed for this Leonardo blend: two sorts of black cavendish, brown cavendish and three different Virginias were refined with a touch of hand-ground burley flake. This results in a delicate, sweetish-deep and creamy aroma with a breathtaking scent of coffee, chocolate and vanilla.",
+        "contents": "Black Cavendish, Burley, Cavendish, Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Leonardo.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 33.333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

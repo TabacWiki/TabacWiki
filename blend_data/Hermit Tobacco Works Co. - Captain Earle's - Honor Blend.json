@@ -1,0 +1,78 @@
+{
+    "captainearle's-honorblend": {
+        "blender": "Hermit Tobacco Works Co.",
+        "name": "Captain Earle's - Honor Blend",
+        "blendType": "Oriental",
+        "description": "Captain Earle's Honor Blend is a blend of red Virginia, mild cavendish, Turkish and perique tobaccos. Blended for the connoisseur of seeking an all natural, non-latakia blend.",
+        "contents": "Cavendish,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce and 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hermit Tobacco Works Co. - Captain Earle's - Honor Blend.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 20.0,
+                    "Very Strong": 5.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.833333333333,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 4.1666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 15.789473684211,
+                    "Medium": 26.315789473684,
+                    "Medium to Full": 100.0,
+                    "Full": 31.578947368421,
+                    "Very Full": 10.526315789474,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

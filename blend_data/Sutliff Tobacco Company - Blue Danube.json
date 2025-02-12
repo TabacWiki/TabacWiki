@@ -1,0 +1,78 @@
+{
+    "bluedanube": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Blue Danube",
+        "blendType": "Aromatic",
+        "description": "Aromatic Golden Cavendish with Burley and rich Virginias.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 oz tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Blue Danube.jpg",
+        "averageRating": 2.56,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 85.714285714286,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

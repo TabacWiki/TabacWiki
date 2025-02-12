@@ -1,0 +1,78 @@
+{
+    "countrydoctor": {
+        "blender": "House of Windsor",
+        "name": "Country Doctor",
+        "blendType": "American",
+        "description": "Mostly Cube Cut Burley with Ribbon Cuts of Virginia, Latakia and Perique. Colors range from black, dark brown to tan and yellow.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Cube",
+        "packaging": "1.5 oz. pouch, 2 oz. tin, 10 oz. tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/House of Windsor - Country Doctor.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 27.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Strong": 27.777777777778,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 5.5555555555556,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 31.25,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 68.75,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 93.75,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 68.75,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 73.684210526316,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.315789473684,
+                    "Full": 5.2631578947368,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

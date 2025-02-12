@@ -1,0 +1,78 @@
+{
+    "goldblock": {
+        "blender": "Mac Baren",
+        "name": "Gold Block",
+        "blendType": "Aromatic",
+        "description": "Virginia, burley tobaccos sweetened by a secret process. Smoke this tobacco peacefully.\n\nPouch blurb: \"An aromatic blend of bright Virginia and rich burley tobaccos. Finest quality leaf for a subtle smoke.\"",
+        "contents": "Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin weight, 50 grams pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Gold Block.jpg",
+        "averageRating": 2.1,
+        "reviewCount": 78,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 24.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.777777777778,
+                    "Medium": 17.777777777778,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.2222222222222,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 24.242424242424,
+                    "Extremely Mild": 45.454545454545,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 42.307692307692,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.769230769231,
+                    "Pleasant to Tolerable": 84.615384615385,
+                    "Tolerable": 57.692307692308,
+                    "Tolerable to Strong": 7.6923076923077,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 52.0,
+                    "Very Mild": 72.0,
+                    "Mild": 92.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 4.0,
+                    "Full": 4.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.0
+                }
+            }
+        }
+    }
+}

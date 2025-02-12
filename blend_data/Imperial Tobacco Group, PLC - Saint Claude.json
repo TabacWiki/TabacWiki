@@ -1,0 +1,78 @@
+{
+    "saintclaude": {
+        "blender": "Imperial Tobacco Group, PLC",
+        "name": "Saint Claude",
+        "blendType": "Virginia Based",
+        "description": "",
+        "contents": "Kentucky, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "country": "France",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Imperial Tobacco Group, PLC - Saint Claude.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 70.0,
+                    "Strong": 60.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 20.0,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 87.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 62.5,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Full": 36.363636363636,
+                    "Full": 45.454545454545,
+                    "Very Full": 27.272727272727,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

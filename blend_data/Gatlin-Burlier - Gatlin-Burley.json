@@ -1,0 +1,78 @@
+{
+    "gatlin-burley": {
+        "blender": "Gatlin-Burlier",
+        "name": "Gatlin-Burley",
+        "blendType": "Burley Based",
+        "description": "A blend of burley lightly laced with latakia, and top-noted for flavor.",
+        "contents": "Burley,  Latakia",
+        "cut": "Shag",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gatlin-Burlier - Gatlin-Burley.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 12.5,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

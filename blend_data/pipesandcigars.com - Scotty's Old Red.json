@@ -1,0 +1,78 @@
+{
+    "scotty'soldred": {
+        "blender": "pipesandcigars.com",
+        "name": "Scotty's Old Red",
+        "blendType": "Straight Virginia",
+        "description": "Dark stoved Virginia and fiery red Virginia mixed together in one of our most popular blends.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/pipesandcigars.com - Scotty's Old Red.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.076923076923,
+                    "Pleasant to Tolerable": 15.384615384615,
+                    "Tolerable": 7.6923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 100.0,
+                    "Medium": 18.181818181818,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

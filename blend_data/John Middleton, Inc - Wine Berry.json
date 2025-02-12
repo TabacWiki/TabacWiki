@@ -1,0 +1,78 @@
+{
+    "wineberry": {
+        "blender": "John Middleton, Inc",
+        "name": "Wine Berry",
+        "blendType": "Aromatic",
+        "description": "Middleton's Wine Berry premium pipe tobacco is made with a superior blend of Middleton's smoothest smoking tobaccos. The unique combination of Burley, Stoved Virginia and Black tobaccos marry well with it's Dark Forest Berry taste and delightful Aroma. Wine Berry Premium is always smooth, definitely superior... Absolutely Middleton.",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Wine Berry.jpg",
+        "averageRating": 2.23,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 80.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 33.333333333333,
+                    "Extra Strong": 66.666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 20.0,
+                    "Overwhelming": 40.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

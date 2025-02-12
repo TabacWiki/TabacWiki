@@ -1,0 +1,78 @@
+{
+    "sweetmapletwist": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Sweet Maple Twist",
+        "blendType": "Aromatic",
+        "description": "This is a twist made from the same ingredients as the Black and Brown Irish X. It has additional maple flavoring added during manufacture. Again, this is a very strong tobacco as it does not undergo the pressure cooking process.\n\nSweet Maple Twist (Also called Brown Twist Sweet Maple) - The main feature of this tobacco is the addition of maple sugars to the 'filter' leaf. This is then spun into a rope form before being made into a roll which is cold-pressed overnight",
+        "contents": "Virginia",
+        "cut": "Rope",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Sweet Maple Twist.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 80.0,
+                    "Very Strong": 80.0,
+                    "Extremely Strong": 30.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 100.0,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 25.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 55.555555555556,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 22.222222222222,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.25,
+                    "Medium": 12.5,
+                    "Medium to Full": 56.25,
+                    "Full": 100.0,
+                    "Very Full": 12.5,
+                    "Extra Full": 12.5,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

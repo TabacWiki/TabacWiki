@@ -1,0 +1,78 @@
+{
+    "mv-1000": {
+        "blender": "Lane Limited",
+        "name": "MV-1000",
+        "blendType": "Aromatic",
+        "description": "A blend of the finest matured golden Virginia tobaccos, enhanced by a subtle aromatic fragrance.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - MV-1000.jpg",
+        "averageRating": 2.58,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.095238095238,
+                    "Medium": 9.5238095238095,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 63.636363636364,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 54.545454545455,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 0.0,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 47.368421052632,
+                    "Pleasant to Tolerable": 31.578947368421,
+                    "Tolerable": 5.2631578947368,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 73.333333333333,
+                    "Medium": 40.0,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

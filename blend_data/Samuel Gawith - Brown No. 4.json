@@ -1,0 +1,78 @@
+{
+    "brownno.4": {
+        "blender": "Samuel Gawith",
+        "name": "Brown No. 4",
+        "blendType": "Virginia Based",
+        "description": "Brown No.4 is a full flavoured full strength tobacco made by Samuel Gawith in Kendal. It is spun from Dark Fired Virginia's and is a slow burning tobacco. Despite popular belief, the brown twist is a stronger strength and flavour than the black twist. This tobacco is definitely not for those new to pipe smoking!\n\nAs per Gawith&Hoggarth the only components in this rope are dark fired and dark air cured leaf. There is no cigar leaf, that taste comes from the dark air cured tobacco used. The outer wrapper leaf is a dark fired variety.",
+        "contents": "Virginia",
+        "cut": "Rope",
+        "packaging": "25 grams pouch, 50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Brown No. 4.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 127,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 1.9607843137255,
+                    "Medium": 3.921568627451,
+                    "Medium to Strong": 13.725490196078,
+                    "Strong": 100.0,
+                    "Very Strong": 82.352941176471,
+                    "Extremely Strong": 56.862745098039,
+                    "Overwhelming": 19.607843137255
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.131313131313,
+                    "Very Mild": 7.0707070707071,
+                    "Mild": 7.0707070707071,
+                    "Mild to Medium": 1.010101010101,
+                    "Medium": 3.030303030303,
+                    "Medium to Strong": 5.0505050505051,
+                    "Strong": 7.0707070707071,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 4.0816326530612,
+                    "Pleasant": 12.244897959184,
+                    "Very Pleasant": 4.0816326530612,
+                    "Pleasant to Tolerable": 36.734693877551,
+                    "Tolerable": 40.816326530612,
+                    "Tolerable to Strong": 51.020408163265,
+                    "Strong": 100.0,
+                    "Very Strong": 32.65306122449,
+                    "Extra Strong": 2.0408163265306,
+                    "Overwhelming": 6.1224489795918
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 1.5625,
+                    "Mild": 0.0,
+                    "Mild to Medium": 3.125,
+                    "Medium": 7.8125,
+                    "Medium to Full": 18.75,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 32.8125,
+                    "Overwhelming": 1.5625
+                }
+            }
+        }
+    }
+}

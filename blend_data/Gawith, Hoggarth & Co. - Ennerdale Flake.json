@@ -1,0 +1,78 @@
+{
+    "ennerdaleflake": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Ennerdale Flake",
+        "blendType": "Arom\u00e1tico",
+        "description": "",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Actualmente disponible",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Ennerdale Flake.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 205,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 38.095238095238,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.984126984127,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.79365079365079,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.79365079365079
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.8985507246377,
+                    "Mild": 10.144927536232,
+                    "Mild to Medium": 23.188405797101,
+                    "Medium": 71.014492753623,
+                    "Medium to Strong": 100.0,
+                    "Strong": 69.565217391304,
+                    "Very Strong": 31.884057971014,
+                    "Extra Strong": 21.739130434783
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.7777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 45.833333333333,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 43.055555555556,
+                    "Tolerable to Strong": 13.888888888889,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 1.3888888888889,
+                    "Overwhelming": 4.1666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.9382716049383,
+                    "Mild to Medium": 23.456790123457,
+                    "Medium": 81.481481481481,
+                    "Medium to Full": 100.0,
+                    "Full": 48.148148148148,
+                    "Very Full": 8.641975308642,
+                    "Extra Full": 3.7037037037037,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

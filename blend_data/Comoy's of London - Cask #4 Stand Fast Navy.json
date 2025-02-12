@@ -1,0 +1,78 @@
+{
+    "cask#4standfastnavy": {
+        "blender": "Comoy's of London",
+        "name": "Cask #4 Stand Fast Navy",
+        "blendType": "Virginia/Perique",
+        "description": "Comoy's \"Cask No.4\" is a simple navy flake; mature Virginias and spicy perique, pressed and cut, ready to be rubbed out or folded and stuffed for a slow smoke.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "3.5 ounce tin, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Comoy's of London - Cask #4 Stand Fast Navy.jpg",
+        "averageRating": 3.08,
+        "reviewCount": 34,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 8.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 5.5555555555556,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 27.777777777778,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.909090909091,
+                    "Mild to Medium": 100.0,
+                    "Medium": 31.818181818182,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

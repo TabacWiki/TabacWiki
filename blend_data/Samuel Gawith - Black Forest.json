@@ -1,0 +1,78 @@
+{
+    "blackforest": {
+        "blender": "Samuel Gawith",
+        "name": "Black Forest",
+        "blendType": "Aromatic",
+        "description": "Rich black cavendish tobaccos blended with bright Virginia, create a smooth smoke with a subtle honey flavouring.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Black Forest.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 70.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 50.0,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

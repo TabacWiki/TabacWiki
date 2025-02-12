@@ -1,0 +1,78 @@
+{
+    "tordenskjoldvirginiaslices": {
+        "blender": "Dan Tobacco",
+        "name": "Tordenskjold Virginia Slices",
+        "blendType": "Virginia/Perique",
+        "description": "A full bodied, golden flake from the best Virginia grades and Louisiana perique.\n\nThis tobacco gives you a very smooth smoking pleasure with the naturally smooth taste, which the friends of an excellent flakes appreciate it so much.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Tordenskjold Virginia Slices.jpg",
+        "averageRating": 3.04,
+        "reviewCount": 51,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 52.380952380952,
+                    "Mild to Medium": 95.238095238095,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 9.5238095238095,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 94.444444444444,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 50.0,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.1666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 37.5,
+                    "Pleasant to Tolerable": 41.666666666667,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.7619047619048,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 76.190476190476,
+                    "Medium to Full": 42.857142857143,
+                    "Full": 4.7619047619048,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

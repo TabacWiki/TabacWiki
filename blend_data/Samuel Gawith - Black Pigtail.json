@@ -1,0 +1,78 @@
+{
+    "blackpigtail": {
+        "blender": "Samuel Gawith",
+        "name": "Black Pigtail",
+        "blendType": "Virginia/Burley",
+        "description": "The pouch aroma is both oily and spicy. Due to the tiny diameter of the twist, you will have to cut so many little discs in order to fill a small bowl. You can easily keep the discs whole, without any rubbing. Once you cut them, you see a very deep reddish brown color, especially under direct light. It's truly a strong tobacco; the first puff is overwhelming; the taste settles down gradually and becomes increasingly sweetish, spicy, and creamy. At a certain point, the strength starts growing on you again till the end of the bowl. Best smoked in a small bowl after a good meal.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Rope",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Black Pigtail.jpg",
+        "averageRating": 2.5,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 50.0,
+                    "Extremely Strong": 50.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 33.333333333333,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 66.666666666667,
+                    "Overwhelming": 33.333333333333
+                }
+            }
+        }
+    }
+}

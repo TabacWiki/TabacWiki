@@ -1,0 +1,78 @@
+{
+    "goldenmixture": {
+        "blender": "Fribourg & Treyer",
+        "name": "Golden Mixture",
+        "blendType": "Straight Virginia",
+        "description": "A choice blend of golden Virginia tobaccos.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Fribourg & Treyer - Golden Mixture.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.333333333333,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 4.5454545454545,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.047619047619,
+                    "Pleasant to Tolerable": 23.809523809524,
+                    "Tolerable": 19.047619047619,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.333333333333,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 6.6666666666667,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

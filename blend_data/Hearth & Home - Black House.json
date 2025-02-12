@@ -1,0 +1,78 @@
+{
+    "blackhouse": {
+        "blender": "Hearth & Home",
+        "name": "Black House",
+        "blendType": "Balkan",
+        "description": "The winning blend from the Chicagoland Pipe Show 2011. Virginia, Kentucky, Turkish, and some black cavendish.",
+        "contents": "Black Cavendish,  Kentucky,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Black House.jpg",
+        "averageRating": 3.56,
+        "reviewCount": 103,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.8360655737705,
+                    "Mild to Medium": 22.950819672131,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.622950819672,
+                    "Strong": 9.8360655737705,
+                    "Very Strong": 3.2786885245902,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 1.1111111111111,
+                    "Mild": 5.5555555555556,
+                    "Mild to Medium": 2.2222222222222,
+                    "Medium": 4.4444444444444,
+                    "Medium to Strong": 3.3333333333333,
+                    "Strong": 1.1111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.8780487804878,
+                    "Pleasant": 56.09756097561,
+                    "Very Pleasant": 19.512195121951,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 65.853658536585,
+                    "Tolerable to Strong": 19.512195121951,
+                    "Strong": 9.7560975609756,
+                    "Very Strong": 4.8780487804878,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.5106382978723,
+                    "Mild to Medium": 17.021276595745,
+                    "Medium": 51.063829787234,
+                    "Medium to Full": 100.0,
+                    "Full": 48.936170212766,
+                    "Very Full": 14.893617021277,
+                    "Extra Full": 4.2553191489362,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "butternutburley": {
+        "blender": "4noggins",
+        "name": "Butternut Burley",
+        "blendType": "Aromatic",
+        "description": "Imagine a blend of warm butter with just a hint of vanilla and honey, then add sweet nutty overtones to round out the flavor. After the bowl is done, expect a pleasant lingering sensation on your palate with no bitterness at all. Mild enough to be an all-day smoke, Butternut Burley leaves a pleasant room note sure to be a hit even with the non-smokers in the crowd. Butternut Burley is the perfect tobacco to introduce a beginning pipe smoker to the fine art, and is sure to be a favorite of seasoned veterans as well",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Butternut Burley.jpg",
+        "averageRating": 3.63,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 22.222222222222,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 11.111111111111,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "vermontmaplecavendish": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Vermont Maple Cavendish",
+        "blendType": "Aromatic",
+        "description": "Inspired by the unforgettable aroma that rises from Vermont sugar houses in early spring. A well balanced blend of Virginia and Carolina tobaccos along with fermented black cavendish and just the right amount of Vermont maple syrup.",
+        "contents": "Black Cavendish,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Vermont Maple Cavendish.jpg",
+        "averageRating": 3.37,
+        "reviewCount": 44,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.4516129032258,
+                    "Very Mild": 6.4516129032258,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.161290322581,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 29.166666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.833333333333,
+                    "Strong": 12.5,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.512820512821,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 2.5641025641026,
+                    "Tolerable": 2.5641025641026,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 81.25,
+                    "Medium to Full": 18.75,
+                    "Full": 6.25,
+                    "Very Full": 6.25,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

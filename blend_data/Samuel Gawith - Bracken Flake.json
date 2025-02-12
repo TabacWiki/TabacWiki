@@ -1,0 +1,78 @@
+{
+    "brackenflake": {
+        "blender": "Samuel Gawith",
+        "name": "Bracken Flake",
+        "blendType": "Virginia/Burley",
+        "description": "We have blended a carefully balanced selection of Kentucky & dark fired leaf to give this medium to strong flake. For the pipe smoker who seeks a satisfying smoke, then experience Bracken Flake, with its unique and alluring aroma, brought about by the application of a long-used essence.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Samuel Gawith - Bracken Flake.jpg",
+        "averageRating": 2.93,
+        "reviewCount": 95,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 90.0,
+                    "Strong": 100.0,
+                    "Very Strong": 30.0,
+                    "Extremely Strong": 12.5,
+                    "Overwhelming": 10.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 23.333333333333,
+                    "Extremely Mild": 26.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 63.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.333333333333,
+                    "Medium to Strong": 30.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 10.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 12.0,
+                    "Pleasant": 24.0,
+                    "Very Pleasant": 12.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 68.0,
+                    "Tolerable to Strong": 88.0,
+                    "Strong": 76.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 4.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0408163265306,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.0408163265306,
+                    "Medium": 14.285714285714,
+                    "Medium to Full": 46.938775510204,
+                    "Full": 100.0,
+                    "Very Full": 40.816326530612,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 10.204081632653
+                }
+            }
+        }
+    }
+}

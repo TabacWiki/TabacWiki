@@ -1,0 +1,78 @@
+{
+    "bengalslicesaromatic": {
+        "blender": "James B. Russell",
+        "name": "Bengal Slices Aromatic",
+        "blendType": "Aromatic",
+        "description": "Mildly aromatic version of Bengal Slices.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/James B. Russell - Bengal Slices Aromatic.jpg",
+        "averageRating": 2.0,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 50.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

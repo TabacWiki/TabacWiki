@@ -1,0 +1,78 @@
+{
+    "kendalblackcherry": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Kendal Black Cherry",
+        "blendType": "Aromatic",
+        "description": "Kendal Black Cherry: Sweet black Cavendish prepared by a special double fermentation process, enhanced by the addition of ripe black cherry flavour for a unique cherry aroma.",
+        "contents": "Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Kendal Black Cherry.jpg",
+        "averageRating": 2.71,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 85.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 28.571428571429,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 22.222222222222,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 28.571428571429,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 42.857142857143,
+                    "Full": 28.571428571429,
+                    "Very Full": 28.571428571429,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

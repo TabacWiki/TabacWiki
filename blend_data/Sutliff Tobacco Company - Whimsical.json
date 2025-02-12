@@ -1,0 +1,78 @@
+{
+    "whimsical": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Whimsical",
+        "blendType": "Virginia/Perique",
+        "description": "Featuring peppery and spicy true St. James Perique - this blend is balanced out by Red and Bright Virginias. A hint of tanginess completes the blend and makes it pleasing alongside the natural Virginia sweetness and zesty St. James Perique.",
+        "contents": "Burley, Perique, Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Whimsical.jpg",
+        "averageRating": 3.67,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

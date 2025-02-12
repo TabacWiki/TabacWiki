@@ -1,0 +1,78 @@
+{
+    "symphony": {
+        "blender": "Mac Baren",
+        "name": "Symphony",
+        "blendType": "Burley Based",
+        "description": "A very harmonious ready rubbed tobacco dominated by the selected burley tobaccos and with a minor part of Virginia and the original Mac Baren Cavendish. In this blend the tobaccos are adjusted to bring out the slight natural sweetness and with the tender note of chocolate - which is found in all excellent burley tobaccos.",
+        "contents": "Burley, Cavendish, Virginia",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Symphony.jpg",
+        "averageRating": 2.74,
+        "reviewCount": 70,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 3.5714285714286,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 26.666666666667,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 56.666666666667,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 3.3333333333333,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.5555555555556,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.444444444444,
+                    "Pleasant to Tolerable": 58.333333333333,
+                    "Tolerable": 27.777777777778,
+                    "Tolerable to Strong": 2.7777777777778,
+                    "Strong": 2.7777777777778,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 18.518518518519,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Full": 29.62962962963,
+                    "Full": 3.7037037037037,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

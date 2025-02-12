@@ -1,0 +1,78 @@
+{
+    "nobitedelite": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "No Bite DeLite",
+        "blendType": "Aromatic",
+        "description": "No Bite DeLite is hand blended from premium tobaccos.  Dan Boswell has  created a blend that caresses the palate with aromatic flavors such as caramel, truly capturing the Virginias and cavendish complexities and full-bodied flavor, but without the bite.",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Cube",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - No Bite DeLite.jpg",
+        "averageRating": 3.56,
+        "reviewCount": 55,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.8947368421053,
+                    "Very Mild": 23.684210526316,
+                    "Mild": 100.0,
+                    "Mild to Medium": 23.684210526316,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 2.6315789473684,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 26.315789473684,
+                    "Mild": 89.473684210526,
+                    "Mild to Medium": 100.0,
+                    "Medium": 68.421052631579,
+                    "Medium to Strong": 31.578947368421,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 84.375,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 15.789473684211,
+                    "Mild": 94.736842105263,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.947368421053,
+                    "Medium to Full": 5.2631578947368,
+                    "Full": 21.052631578947,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.2631578947368,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

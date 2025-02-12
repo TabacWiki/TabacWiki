@@ -1,0 +1,78 @@
+{
+    "spilmanmixture": {
+        "blender": "E. Hoffman Company",
+        "name": "Spilman Mixture",
+        "blendType": "English",
+        "description": "The return of an old favorite, Spilman Mixture is a classically complex English blend of Virginia, Latakia, Turkish and cubed Burley that hasn't been available for 70 years! The reinvention of this classic tobacco took years of research and development. Presented in a detailed recreation of the original can, right down to the replica tax stamp, Spilman Mixture features the coarse cut favored by pipe smokers in the last century, and an honest, straight forward tobacco flavor. As the can says, \"Discriminating Smokers smoke and recommend Spilman Mixture on account of its purity. Spilman Mixture is of incomparable Quality. The combination contains the choicest tobaccos. Its rich aroma is guaranteed to be Nature's own.\" Spilman Mixture is irresistible for anyone interested in trying what their great-great grandfather smoked.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5oz tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/E. Hoffman Company - Spilman Mixture.jpg",
+        "averageRating": 2.93,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 6.0606060606061,
+                    "Very Mild": 3.030303030303,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.454545454545,
+                    "Medium to Strong": 6.0606060606061,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 61.904761904762,
+                    "Very Mild": 71.428571428571,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.7037037037037,
+                    "Pleasant": 92.592592592593,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.740740740741,
+                    "Tolerable to Strong": 3.7037037037037,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.4074074074074
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.344827586207,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 24.137931034483,
+                    "Mild to Medium": 72.413793103448,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.689655172414,
+                    "Full": 6.8965517241379,
+                    "Very Full": 3.448275862069,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.448275862069
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "aroma": {
+        "blender": "Savinelli",
+        "name": "Aroma",
+        "blendType": "Aromatic",
+        "description": "A full bodied, slightly sweet mix with a tempting aroma of almonds, topped with a bourbon vanilla flavor. Smooth black cavendish, dark Virginias, some broad leaf with a touch of Oriental.",
+        "contents": "Black Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Aroma.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 100.0,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 28.571428571429,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 21.428571428571,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 33.333333333333,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

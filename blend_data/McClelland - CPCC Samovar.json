@@ -1,0 +1,78 @@
+{
+    "cpccsamovar": {
+        "blender": "McClelland",
+        "name": "CPCC Samovar",
+        "blendType": "Oriental",
+        "description": "A rich full Oriental mixture, pleasantly fragrant with just enough rare Syrian latakia to satisfy without overwhelming. Warm spiritually satisfying, this dark, full Oriental pipe mixture is redolent with exotic Syrian latakia. Soothing as a cup of rich Russian tea.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - CPCC Samovar.jpg",
+        "averageRating": 3.64,
+        "reviewCount": 39,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.142857142857,
+                    "Very Mild": 2.8571428571429,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.8571428571429,
+                    "Medium": 0.0,
+                    "Medium to Strong": 2.8571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 53.333333333333,
+                    "Very Pleasant": 26.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 30.769230769231,
+                    "Medium": 76.923076923077,
+                    "Medium to Full": 100.0,
+                    "Full": 100.0,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

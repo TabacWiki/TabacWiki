@@ -1,0 +1,78 @@
+{
+    "blendd-7485": {
+        "blender": "Peretti",
+        "name": "Blend D-7485",
+        "blendType": "American",
+        "description": "A masterpiece of the blender's art.  A rich, spicy blend that lends itself to gracious living.  A luxury tobacco which is cool and mild. Made originally for the late Hon. Ramsay MacDonald. A blend that lends itself to gracious living. D-7485 blends a number of tobaccos to provide a cool, mild smoke. It is considered by many to be a perfect \"all day\" smoke.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Blend D-7485.jpg",
+        "averageRating": 3.55,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 100.0,
+                    "Medium": 36.363636363636,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 37.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

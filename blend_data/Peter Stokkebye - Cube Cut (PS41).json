@@ -1,0 +1,78 @@
+{
+    "cubecut(ps41)": {
+        "blender": "Peter Stokkebye",
+        "name": "Cube Cut (PS41)",
+        "blendType": "American",
+        "description": "An American blend of air-cured toasted burley leaves from Tennessee and aged red Virginias that have been Cavendish pressed for 36 hours. The pressed cakes are cross cut into small squares for easy filling of the pipe and slow burning. Natural and mellow tobacco taste.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Cube",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Cube Cut (PS41).jpg",
+        "averageRating": 3.1,
+        "reviewCount": 87,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.1282051282051,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Strong": 5.1282051282051,
+                    "Strong": 2.5641025641026,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 82.142857142857,
+                    "Extremely Mild": 75.0,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.714285714286,
+                    "Medium": 21.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.947368421053,
+                    "Pleasant to Tolerable": 76.315789473684,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 30.952380952381,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.952380952381,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

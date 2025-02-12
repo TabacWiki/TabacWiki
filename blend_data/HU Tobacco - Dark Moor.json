@@ -1,0 +1,78 @@
+{
+    "darkmoor": {
+        "blender": "HU Tobacco",
+        "name": "Dark Moor",
+        "blendType": "Virginia/Burley",
+        "description": "When the first wafts of mist rise in the late summer and early autumn, the time has come for dark, strong tobaccos. The Dark Moor unites the best brown Virginias in its base, which have been refined with Kentucky and perique. Peaty-smoky Kentucky leaves, nuanced with a hint of perique, in harmony with these brown Virginias result in a sweet, strong blend, which carries an unmistakable smoky-spicy character. This character is reflected not only in a deep, harmonious blend, but also in our created labels that express his soul. A soul that rises in the mist in the morning and loves to join a whisky in the evening.",
+        "contents": "Kentucky, Perique, Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/HU Tobacco - Dark Moor.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "stogie": {
+        "blender": "Hearth & Home",
+        "name": "Stogie",
+        "blendType": "Cigar Leaf Based",
+        "description": "Here's a great transition for the cigar smoker who wants to smoke a pipe but would miss the flavor of a cigar, or for the pipe smoker who enjoys the occasional stogie. The blend uses a blend of burleys (including dark-fired), some Virginia and Oriental, a touch of unflavored black cavendish and perique and maduro cigar leaf for a mildly sweet, earthy flavor.",
+        "contents": "Black Cavendish,  Burley,  Cigar Leaf,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Stogie.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 9.0909090909091,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 22.222222222222,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 30.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

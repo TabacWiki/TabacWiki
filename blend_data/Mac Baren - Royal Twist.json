@@ -1,0 +1,78 @@
+{
+    "royaltwist": {
+        "blender": "Mac Baren",
+        "name": "Royal Twist",
+        "blendType": "Other",
+        "description": "Continuing a 400 year old tradition, Royal Twist is a limited-edition spun-cut blend, its recipe originating in the 1960s. A whole leaf wrapper encases a core of Virginias, dark fired Kentucky, and perique, handspun into ropes and sliced into coins -- resulting a naturally sweet, complex, and spicy smoking experience.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "3.5 ounce tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Royal Twist.jpg",
+        "averageRating": 3.8,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 12.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 11.111111111111,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 100.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

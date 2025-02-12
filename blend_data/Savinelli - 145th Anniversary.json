@@ -1,0 +1,78 @@
+{
+    "145thanniversary": {
+        "blender": "Savinelli",
+        "name": "145th Anniversary",
+        "blendType": "Virginia/Perique",
+        "description": "Handcrafted in partnership with Cornell & Diehl, Savinelli\u2019s 145th Anniversary blend is a unique, cake-cut Virginia/Perique mixture designed to showcase the marque\u2019s Italian heritage. Spicy, piquant perique elevates a base of matured bright and red Virginias, enhanced by double-fermented dark-fired Kentucky from the Tuscan Tiber Valley region of Italy \u2014 a location recognized for its 300-year history of tobacco cultivation. Redolent with notes of chocolate, dark fruits, and a hint of citrus, Savinelli\u2019s 145th Anniversary is a distinctive Va/Per with excellent balance, its underlying smokiness pairing exceptionally well with a caff\u00e8 ristretto.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - 145th Anniversary.jpg",
+        "averageRating": 3.5,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

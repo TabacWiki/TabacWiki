@@ -1,0 +1,78 @@
+{
+    "danishblackvanillaflake": {
+        "blender": "Planta",
+        "name": "Danish Black Vanilla Flake",
+        "blendType": "Aromatic",
+        "description": "Mild black cavendish and nutty burley are refined with aromatic vanilla. This mixture is pressed under high pressure and cut into flakes. A softly and aromatically smoking pleasure with marvelous fragrance, unmistakable.",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Planta - Danish Black Vanilla Flake.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 64.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 47.058823529412,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 17.647058823529,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 8.3333333333333,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

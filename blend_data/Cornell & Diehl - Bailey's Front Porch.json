@@ -1,0 +1,78 @@
+{
+    "bailey'sfrontporch": {
+        "blender": "Cornell & Diehl",
+        "name": "Bailey's Front Porch",
+        "blendType": "American",
+        "description": "You'll want to sit on your own front porch while you savor this blend of burleys, Cyprian latakia, perique and golden Virginia.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bailey's Front Porch.jpg",
+        "averageRating": 2.94,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.086956521739,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 0.0,
+                    "Mild to Medium": 4.3478260869565,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Full": 81.818181818182,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

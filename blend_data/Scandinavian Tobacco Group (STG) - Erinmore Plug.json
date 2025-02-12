@@ -1,0 +1,78 @@
+{
+    "erinmoreplug": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Erinmore Plug",
+        "blendType": "Aromatic",
+        "description": "As Velvan Plug but with the international famous fruity sweet aromatic taste of Erinmore.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams foil wrap",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Erinmore Plug.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 66.666666666667,
+                    "Very Strong": 33.333333333333,
+                    "Extra Strong": 33.333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

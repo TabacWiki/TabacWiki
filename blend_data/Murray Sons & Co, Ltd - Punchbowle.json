@@ -1,0 +1,78 @@
+{
+    "punchbowle": {
+        "blender": "Murray Sons & Co, Ltd",
+        "name": "Punchbowle",
+        "blendType": "Other",
+        "description": "A cool full bodied mixture, with added latakia and a fine bouquet. For the experienced smoker.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Murray Sons & Co, Ltd - Punchbowle.jpg",
+        "averageRating": 2.89,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 91.666666666667,
+                    "Strong": 25.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 0.0,
+                    "Medium": 26.315789473684,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 57.142857142857,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 28.571428571429,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.384615384615,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Full": 100.0,
+                    "Full": 23.076923076923,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

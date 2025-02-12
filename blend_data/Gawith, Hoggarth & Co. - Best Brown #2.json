@@ -1,0 +1,78 @@
+{
+    "bestbrown#2": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Best Brown #2",
+        "blendType": "Virginia/Burley",
+        "description": "Medium strength flake tobacco. Blended from the finest Virginia and burleys.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Best Brown #2.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 76,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.0,
+                    "Mild": 14.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 12.0,
+                    "Strong": 0.0,
+                    "Very Strong": 2.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 70.833333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 45.833333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 90.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 3.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.6315789473684,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 42.105263157895,
+                    "Medium": 100.0,
+                    "Medium to Full": 57.894736842105,
+                    "Full": 7.8947368421053,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.6315789473684
+                }
+            }
+        }
+    }
+}

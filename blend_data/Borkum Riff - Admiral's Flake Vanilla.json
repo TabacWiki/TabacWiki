@@ -1,0 +1,78 @@
+{
+    "admiral'sflakevanilla": {
+        "blender": "Borkum Riff",
+        "name": "Admiral's Flake Vanilla",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff Admiral's Flake Vanilla is a pressed tobacco with an attractive colour and aroma, made from the choicest raw tobaccos, a premium quality refined mix of dark Kentucky and burley tobacco. The mild vanilla flavour produces a tobacco with an elegant, soft body and a long finish.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Sweden",
+        "production": "",
+        "imagePath": "../blend_pictures/Borkum Riff - Admiral's Flake Vanilla.jpg",
+        "averageRating": 3.36,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

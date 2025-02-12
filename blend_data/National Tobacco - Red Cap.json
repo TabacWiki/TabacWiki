@@ -1,0 +1,78 @@
+{
+    "redcap": {
+        "blender": "National Tobacco",
+        "name": "Red Cap",
+        "blendType": "Virginia/Burley",
+        "description": "Aromatic Virginia, burley, and other premium air-cured tobaccos.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "16 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/National Tobacco - Red Cap.jpg",
+        "averageRating": 1.53,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 10.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 60.0,
+                    "Very Mild": 20.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 60.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

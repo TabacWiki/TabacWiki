@@ -1,0 +1,78 @@
+{
+    "black": {
+        "blender": "Sillem's",
+        "name": "Black",
+        "blendType": "Aromatic",
+        "description": "Extravagant is the right word to characterize this mixture. We have revolutionized the traditional old English art of blending. The main ingredient is the finest spicy smoky latakia. By adding highly aromatic black cavendish, this blend becomes smoother. A small portion of burley gives a slight toasted aroma, and a pinch of bright Virginia brings a subtle sweet note. Mellow, but yet full bodied aromas of honey and fruit essences result in a unique flavor. This tobacco will surely be a delight.",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sillem's - Black.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 92,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.7560975609756,
+                    "Mild": 95.121951219512,
+                    "Mild to Medium": 100.0,
+                    "Medium": 41.463414634146,
+                    "Medium to Strong": 21.951219512195,
+                    "Strong": 2.4390243902439,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.4516129032258,
+                    "Extremely Mild": 3.2258064516129,
+                    "Very Mild": 16.129032258065,
+                    "Mild": 61.290322580645,
+                    "Mild to Medium": 93.548387096774,
+                    "Medium": 100.0,
+                    "Medium to Strong": 51.612903225806,
+                    "Strong": 6.4516129032258,
+                    "Very Strong": 12.903225806452,
+                    "Extra Strong": 6.4516129032258
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 1.9607843137255,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 62.745098039216,
+                    "Pleasant to Tolerable": 37.254901960784,
+                    "Tolerable": 9.8039215686275,
+                    "Tolerable to Strong": 1.9607843137255,
+                    "Strong": 3.921568627451,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 30.555555555556,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 47.222222222222,
+                    "Full": 33.333333333333,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 2.7777777777778,
+                    "Overwhelming": 2.7777777777778
+                }
+            }
+        }
+    }
+}

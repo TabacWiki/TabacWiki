@@ -1,0 +1,78 @@
+{
+    "auenland-theshire": {
+        "blender": "Vauen",
+        "name": "Auenland - The Shire",
+        "blendType": "Aromatic",
+        "description": "Virginia tobacco of different shades and cutting widths, delicately rounded off with ripe, dark Cavendish and a hint of Burley. Fruit aromas of juicy oranges and sweet peaches give this mixture its delicious taste. An extremely gentle, excellent mixture with perfect burn.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Vauen - Auenland - The Shire.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 46.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 83.333333333333,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 16.666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 53.333333333333,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.6666666666667,
+                    "Tolerable": 6.6666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 6.6666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 28.571428571429,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 14.285714285714,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

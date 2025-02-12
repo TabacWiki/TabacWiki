@@ -1,0 +1,78 @@
+{
+    "jesse'sown": {
+        "blender": "4noggins",
+        "name": "Jesse's Own",
+        "blendType": "English",
+        "description": "Sweet Virginia, and a little Maryland, gives this blend a profound flavor with a touch of precious Oriental for a soft tangy flavor. This is complimented by a hint of Cyprian Latakia and Perique. If you like Virginia's or a light English blend, then this is a wonderful all day smoke.",
+        "contents": "Latakia,  Maryland,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Jesse's Own.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.363636363636,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

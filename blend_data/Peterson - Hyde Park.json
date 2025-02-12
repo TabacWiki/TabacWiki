@@ -1,0 +1,78 @@
+{
+    "hydepark": {
+        "blender": "Peterson",
+        "name": "Hyde Park",
+        "blendType": "Virginia/Burley",
+        "description": "Hyde Park is a traditional English blend of bright and dark fired Virginias, sun cured Indian and burleys tobaccos. This luxurious smoking experience is achieved by the addition of rum and maple sugars to pressed mahogany tobacco",
+        "contents": "Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Hyde Park.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 92,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Strong": 82.222222222222,
+                    "Strong": 4.4444444444444,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 9.6774193548387,
+                    "Extremely Mild": 25.806451612903,
+                    "Very Mild": 29.032258064516,
+                    "Mild": 74.193548387097,
+                    "Mild to Medium": 100.0,
+                    "Medium": 41.935483870968,
+                    "Medium to Strong": 38.709677419355,
+                    "Strong": 6.4516129032258,
+                    "Very Strong": 3.2258064516129,
+                    "Extra Strong": 3.2258064516129
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 15.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 22.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 42.5,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.5
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.5555555555556,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 5.5555555555556,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.7777777777778
+                }
+            }
+        }
+    }
+}

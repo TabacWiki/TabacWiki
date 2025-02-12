@@ -1,0 +1,78 @@
+{
+    "redwood": {
+        "blender": "Two Friends",
+        "name": "Redwood",
+        "blendType": "Virginia/Perique",
+        "description": "A mixture for Virginia lovers! We start with naturally sweet red and stoved red Virginia tobaccos, add enough perique to provide some body and spice things up a bit, and finish the blend with a pinch of unflavored black toasted cavendish. The color is reminiscent of the hues of a redwood forest; the flavor is rich and soothing, and the room aroma is as pleasing as a walk in the woods after a gentle spring rain.",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Two Friends - Redwood.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 73.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 12.5,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 4.1666666666667,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 0.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

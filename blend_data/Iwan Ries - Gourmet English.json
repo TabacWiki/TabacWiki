@@ -1,0 +1,78 @@
+{
+    "gourmetenglish": {
+        "blender": "Iwan Ries",
+        "name": "Gourmet English",
+        "blendType": "English",
+        "description": "A fine, well-balanced blend of naturally aromatic Turkish, smoked latakia and mellow, aged Virginia tobaccos, rich in flavor, smooth, cool-burning.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Iwan Ries - Gourmet English.jpg",
+        "averageRating": 3.65,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 71.428571428571,
+                    "Full": 42.857142857143,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

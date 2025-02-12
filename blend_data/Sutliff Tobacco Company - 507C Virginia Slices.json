@@ -1,0 +1,78 @@
+{
+    "507cvirginiaslices": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "507C Virginia Slices",
+        "blendType": "Straight Virginia",
+        "description": "The ultimate in natural quality tobacco. 100% A-1 bright matured Virginias pressed and single cut in the classic British European tradition.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - 507C Virginia Slices.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 51,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 17.241379310345,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.620689655172,
+                    "Medium": 20.689655172414,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.947368421053,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.814814814815,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 18.518518518519,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.909090909091,
+                    "Medium to Full": 13.636363636364,
+                    "Full": 4.5454545454545,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

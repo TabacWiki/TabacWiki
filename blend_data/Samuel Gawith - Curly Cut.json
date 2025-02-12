@@ -1,0 +1,78 @@
+{
+    "curlycut": {
+        "blender": "Samuel Gawith",
+        "name": "Curly Cut",
+        "blendType": "Straight Virginia",
+        "description": "A mixture of flue cured and dark fired stripped leaf which has undergone a steaming process prior to being hand spun into a rope of tobacco. The rope is then sliced on a four inch mouth cutting machine to give the tobacco its curly cut characteristics. Prior to packing, the finished blend is dressed with vanilla, giving the tobacco a cool but flavorful smoke.",
+        "contents": "Virginia",
+        "cut": "Curly Cut",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "",
+        "imagePath": "../blend_pictures/Samuel Gawith - Curly Cut.jpg",
+        "averageRating": 1.57,
+        "reviewCount": 7,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 100.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

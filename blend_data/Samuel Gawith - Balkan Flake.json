@@ -1,0 +1,78 @@
+{
+    "balkanflake": {
+        "blender": "Samuel Gawith",
+        "name": "Balkan Flake",
+        "blendType": "Virginia/Latakia",
+        "description": "A beautifully formed dark flake of pressed Virginias and a generous helping of latakia. Relax and enjoy this medium strength tobacco with its \"smokey\" flavour and cool, smooth characteristics.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk, 50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Balkan Flake.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 182,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.7857142857143,
+                    "Very Mild": 2.6785714285714,
+                    "Mild": 5.3571428571429,
+                    "Mild to Medium": 43.75,
+                    "Medium": 100.0,
+                    "Medium to Strong": 22.321428571429,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.89285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.89285714285714
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 23.4375,
+                    "Very Mild": 8.59375,
+                    "Mild": 10.15625,
+                    "Mild to Medium": 4.6875,
+                    "Medium": 7.03125,
+                    "Medium to Strong": 1.5625,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.144927536232,
+                    "Pleasant": 49.275362318841,
+                    "Very Pleasant": 8.695652173913,
+                    "Pleasant to Tolerable": 50.724637681159,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 37.68115942029,
+                    "Strong": 28.985507246377,
+                    "Very Strong": 7.2463768115942,
+                    "Extra Strong": 1.4492753623188,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.9411764705882,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 45.588235294118,
+                    "Medium": 100.0,
+                    "Medium to Full": 89.705882352941,
+                    "Full": 38.235294117647,
+                    "Very Full": 10.294117647059,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

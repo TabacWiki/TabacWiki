@@ -1,0 +1,78 @@
+{
+    "navycutflake": {
+        "blender": "Player's",
+        "name": "Navy Cut Flake",
+        "blendType": "Virginia/Burley",
+        "description": "One of John Players classic blends, a beautiful flake comprised of Virginia and burley. Cold pressed with a smidgen of rum into an eye catching flake of brown with golden highlights. A very fragrant smoke with a wonderful citrus and grassy aroma. Not overly strong but very smooth and cool to smoke.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams pouch",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Player's - Navy Cut Flake.jpg",
+        "averageRating": 3.35,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 100.0,
+                    "Medium": 81.818181818182,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 50.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Full": 36.363636363636,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

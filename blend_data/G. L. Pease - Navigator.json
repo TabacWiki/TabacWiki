@@ -1,0 +1,78 @@
+{
+    "navigator": {
+        "blender": "G. L. Pease",
+        "name": "Navigator",
+        "blendType": "Virginia/Burley",
+        "description": "For centuries, men of the sea have known the pleaures of fine Virginia tobaccos, pressed and aged with a drop of rum. The addition of rich dark fired Kentucky leaf brings a new dimension to the flavour and aroma of this timeless combination. Chart your course for a new world of enjoyment, light a bowl, and set sail with Navigator.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin, 8 ounce tin, 16 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Navigator.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 78.947368421053,
+                    "Medium to Strong": 100.0,
+                    "Strong": 57.894736842105,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 83.333333333333,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 41.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 15.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.5555555555556,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 27.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 44.444444444444,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 5.5555555555556,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

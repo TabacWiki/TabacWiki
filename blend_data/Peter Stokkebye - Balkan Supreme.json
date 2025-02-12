@@ -1,0 +1,78 @@
+{
+    "balkansupreme": {
+        "blender": "Peter Stokkebye",
+        "name": "Balkan Supreme",
+        "blendType": "Balkan",
+        "description": "Balkan blend reputed to be like the old Balkan Sobranie.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Balkan Supreme.jpg",
+        "averageRating": 3.32,
+        "reviewCount": 117,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.1724137931034,
+                    "Mild": 15.51724137931,
+                    "Mild to Medium": 62.068965517241,
+                    "Medium": 100.0,
+                    "Medium to Strong": 32.758620689655,
+                    "Strong": 6.8965517241379,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.7241379310345
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.631578947368,
+                    "Very Mild": 9.4736842105263,
+                    "Mild": 7.3684210526316,
+                    "Mild to Medium": 1.0526315789474,
+                    "Medium": 1.0526315789474,
+                    "Medium to Strong": 3.1578947368421,
+                    "Strong": 1.0526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.0526315789474
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.909090909091,
+                    "Very Pleasant": 2.2727272727273,
+                    "Pleasant to Tolerable": 84.090909090909,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 38.636363636364,
+                    "Strong": 22.727272727273,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.0816326530612,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 22.448979591837,
+                    "Medium": 63.265306122449,
+                    "Medium to Full": 100.0,
+                    "Full": 51.020408163265,
+                    "Very Full": 6.1224489795918,
+                    "Extra Full": 2.0408163265306,
+                    "Overwhelming": 2.0408163265306
+                }
+            }
+        }
+    }
+}

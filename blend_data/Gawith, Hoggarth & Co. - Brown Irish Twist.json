@@ -1,0 +1,78 @@
+{
+    "brownirishtwist": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Brown Irish Twist",
+        "blendType": "Straight Virginia",
+        "description": "Manufactured by spinning tobacco dark fired leaves into a rope.\n\nBrown Irish, the thicker version of Brown Bogie, is a true old fashioned stout smoke, perfect, with a good strength more suited for the experienced pipe smoker.",
+        "contents": "Virginia",
+        "cut": "Rope",
+        "packaging": "25 grams, 50 grams 500 grams pouches, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Brown Irish Twist.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 57.142857142857,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 75.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 20.0,
+                    "Full": 100.0,
+                    "Very Full": 80.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

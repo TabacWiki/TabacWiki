@@ -1,0 +1,78 @@
+{
+    "essenzacipriota": {
+        "blender": "Savinelli",
+        "name": "Essenza Cipriota",
+        "blendType": "English",
+        "description": "Exhibiting a fragrance redolent of the exotic mysteries of the east, a blend of well-aged Virginias, cool burning burleys, alluring latakia and Macedonian leaf, form a fascinatingly nuanced, medium bodied smoke.",
+        "contents": "Burley, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Essenza Cipriota.jpg",
+        "averageRating": 2.83,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 75.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 57.142857142857,
+                    "Tolerable": 28.571428571429,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 100.0,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

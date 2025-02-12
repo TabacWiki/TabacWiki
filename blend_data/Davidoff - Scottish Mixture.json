@@ -1,0 +1,78 @@
+{
+    "scottishmixture": {
+        "blender": "Davidoff",
+        "name": "Scottish Mixture",
+        "blendType": "Scottish",
+        "description": "Scottish Mixture\u2019s smooth, flavorful and mild middle-cut blend is enduringly popular. The fresh and delicately flowery aroma comes from select grades of Virginia, burley, Kentucky and a small portion of Oriental tobaccos \u2013 refined with a dash of the finest Scotch whisky.",
+        "contents": "Burley,  Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Davidoff - Scottish Mixture.jpg",
+        "averageRating": 2.55,
+        "reviewCount": 76,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.7142857142857,
+                    "Very Mild": 5.7142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 8.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 56.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.0,
+                    "Medium": 52.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.2258064516129,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 38.709677419355,
+                    "Pleasant to Tolerable": 93.548387096774,
+                    "Tolerable": 38.709677419355,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.344827586207,
+                    "Very Mild": 13.793103448276,
+                    "Mild": 65.51724137931,
+                    "Mild to Medium": 100.0,
+                    "Medium": 86.206896551724,
+                    "Medium to Full": 13.793103448276,
+                    "Full": 3.448275862069,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

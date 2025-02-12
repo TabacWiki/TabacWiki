@@ -1,0 +1,78 @@
+{
+    "cannonplug": {
+        "blender": "Samuel Gawith",
+        "name": "Cannon Plug",
+        "blendType": "Aromatic",
+        "description": "Part of our traditional English range of plugs, Cannon is derived from the Best Brown cake with a sweet Honey Dew flavour.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Cannon Plug.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 26.315789473684,
+                    "Medium": 100.0,
+                    "Medium to Strong": 94.736842105263,
+                    "Strong": 21.052631578947,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 6.25,
+                    "Medium": 12.5,
+                    "Medium to Strong": 75.0,
+                    "Strong": 56.25,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 37.5
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 56.25,
+                    "Tolerable": 43.75,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 31.25,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 6.25,
+                    "Overwhelming": 6.25
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 69.230769230769,
+                    "Medium to Full": 53.846153846154,
+                    "Full": 100.0,
+                    "Very Full": 84.615384615385,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 30.769230769231
+                }
+            }
+        }
+    }
+}

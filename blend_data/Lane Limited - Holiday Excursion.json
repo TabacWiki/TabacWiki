@@ -1,0 +1,78 @@
+{
+    "holidayexcursion": {
+        "blender": "Lane Limited",
+        "name": "Holiday Excursion",
+        "blendType": "American",
+        "description": "",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "8 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Lane Limited - Holiday Excursion.jpg",
+        "averageRating": 2.29,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 63.636363636364,
+                    "Mild to Medium": 100.0,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 6.6666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

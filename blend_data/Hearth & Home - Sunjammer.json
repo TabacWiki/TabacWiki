@@ -1,0 +1,78 @@
+{
+    "sunjammer": {
+        "blender": "Hearth & Home",
+        "name": "Sunjammer",
+        "blendType": "Scottish",
+        "description": "A smooth and sweet blend of bright and red Virginias, Macedonian and other Orientals, smoky latakia and a touch of unflavored toasted black cavendish. A traditional Scottish-type mixture, a great alternative for the Dunhill 965 smoker who is looking for the same kind of medium bodied, slightly sweet latakia blend, but would like something a bit different.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Sunjammer.jpg",
+        "averageRating": 3.37,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 91.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 91.666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.793103448276,
+                    "Very Mild": 0.0,
+                    "Mild": 6.8965517241379,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 100.0,
+                    "Medium to Full": 53.846153846154,
+                    "Full": 7.6923076923077,
+                    "Very Full": 15.384615384615,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

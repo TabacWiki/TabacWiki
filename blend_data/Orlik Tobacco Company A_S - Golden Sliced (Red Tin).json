@@ -1,0 +1,78 @@
+{
+    "goldensliced(redtin)": {
+        "blender": "Orlik Tobacco Company A/S",
+        "name": "Golden Sliced (Red Tin)",
+        "blendType": "Virginia/Perique",
+        "description": "A blend of golden, fully ripe Virginia leaves from the traditional districts of the United States and a smidgen of perique. Natural sweetness and freshness with hints of citrus.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin and pouch, 100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Orlik Tobacco Company A/S - Golden Sliced (Red Tin).jpg",
+        "averageRating": 3.33,
+        "reviewCount": 451,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.41322314049587,
+                    "Very Mild": 6.6115702479339,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.909090909091,
+                    "Medium to Strong": 7.4380165289256,
+                    "Strong": 2.0661157024793,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 55.263157894737,
+                    "Very Mild": 40.0,
+                    "Mild": 37.368421052632,
+                    "Mild to Medium": 19.473684210526,
+                    "Medium": 7.8947368421053,
+                    "Medium to Strong": 3.1578947368421,
+                    "Strong": 1.0526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6576576576577,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.117117117117,
+                    "Pleasant to Tolerable": 68.468468468468,
+                    "Tolerable": 29.279279279279,
+                    "Tolerable to Strong": 2.7027027027027,
+                    "Strong": 0.9009009009009,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.1746031746032,
+                    "Very Mild": 7.9365079365079,
+                    "Mild": 53.439153439153,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 17.460317460317,
+                    "Full": 5.2910052910053,
+                    "Very Full": 0.52910052910053,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

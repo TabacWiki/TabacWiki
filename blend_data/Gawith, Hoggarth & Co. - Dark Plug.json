@@ -1,0 +1,78 @@
+{
+    "darkplug": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Dark Plug",
+        "blendType": "Virginia/Burley",
+        "description": "A blend of dark fired Virginias and Indian fire-cured with a casing of distinctive aromatics presented straight from the press in a plug.",
+        "contents": "Burley, Virginia",
+        "cut": "Plug",
+        "packaging": "bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Dark Plug.jpg",
+        "averageRating": 3.7,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 65.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 45.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 22.727272727273,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 46.153846153846,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 61.538461538462,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 38.461538461538,
+                    "Strong": 38.461538461538,
+                    "Very Strong": 46.153846153846,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 15.384615384615
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.7619047619048,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 100.0,
+                    "Very Full": 71.428571428571,
+                    "Extra Full": 9.5238095238095,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

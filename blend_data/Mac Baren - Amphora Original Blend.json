@@ -1,0 +1,78 @@
+{
+    "amphoraoriginalblend": {
+        "blender": "Mac Baren",
+        "name": "Amphora Original Blend",
+        "blendType": "Burley Based",
+        "description": "A well-rounded blend, emphasizing the chocolate flavor of burley tobacco.\n\nCenturies of tobacco craftsmanship go into Amphora Original blend to bring out the rich chocolately undertones of the finest burley tobaccos, balanced with Orientals, Kentucky, and Virginia leaf. The result is a smooth textured and easy burning blend of rare distinction.",
+        "contents": "Burley, Cavendish, Kentucky, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Amphora Original Blend.jpg",
+        "averageRating": 2.82,
+        "reviewCount": 112,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 6.0,
+                    "Very Mild": 12.0,
+                    "Mild": 62.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.0,
+                    "Medium to Strong": 8.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 40.47619047619,
+                    "Extremely Mild": 61.904761904762,
+                    "Very Mild": 59.52380952381,
+                    "Mild": 100.0,
+                    "Mild to Medium": 19.047619047619,
+                    "Medium": 11.904761904762,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 81.25,
+                    "Tolerable": 45.833333333333,
+                    "Tolerable to Strong": 2.0833333333333,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 2.0833333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.904761904762,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 38.095238095238,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.47619047619,
+                    "Medium to Full": 40.47619047619,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "exotiquemixture": {
+        "blender": "Smokers' Haven",
+        "name": "Exotique Mixture",
+        "blendType": "Balkan",
+        "description": "Rich, flavorful, delicious, tasty, mellow. This tells the complete story on our all new Exotique Mixture. Only the finest grade of choice ribbon cut Virginia leaf, the most flavorful latakia, the most mellow of Turkish tobaccos carefully blended together to achieve this rich tasting Exotique Mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United Kingdom",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Smokers' Haven - Exotique Mixture.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 31.578947368421,
+                    "Mild to Medium": 100.0,
+                    "Medium": 94.736842105263,
+                    "Medium to Strong": 21.052631578947,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 2.2727272727273,
+                    "Very Mild": 0.0,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 13.333333333333,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 86.666666666667,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 15.789473684211,
+                    "Medium": 100.0,
+                    "Medium to Full": 84.210526315789,
+                    "Full": 36.842105263158,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

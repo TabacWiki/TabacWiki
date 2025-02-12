@@ -1,0 +1,78 @@
+{
+    "uhle'sirisharomatic": {
+        "blender": "Uhle's",
+        "name": "Uhle's Irish Aromatic",
+        "blendType": "Aromatic",
+        "description": "A rich long cut of Burley, Cavendish, Virginia, Turkish, and Latakia tobaccos.  These leaves are enhanced with the clean aroma of an Irish essence.",
+        "contents": "Black Cavendish,  Cavendish,  Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz vaccuum-sealed bags",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Uhle's Irish Aromatic.jpg",
+        "averageRating": 3.27,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 85.714285714286,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

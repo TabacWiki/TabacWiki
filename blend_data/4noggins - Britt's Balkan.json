@@ -1,0 +1,78 @@
+{
+    "britt'sbalkan": {
+        "blender": "4noggins",
+        "name": "Britt's Balkan",
+        "blendType": "Balkan",
+        "description": "A true Balkan with the main note being Orientals, a nice proportion of Latakia with Turkish on a base of Red, Bright & Flake Virginias, and a slight hint of Vanilla. A classic Balkan. Full but not overpowering.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/4noggins - Britt's Balkan.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 19.047619047619,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 52.380952380952,
+                    "Strong": 9.5238095238095,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 10.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 35.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 45.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.636363636364,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 4.5454545454545,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.814814814815,
+                    "Mild to Medium": 25.925925925926,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.740740740741,
+                    "Full": 25.925925925926,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

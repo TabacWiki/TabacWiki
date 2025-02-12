@@ -1,0 +1,78 @@
+{
+    "londonflake": {
+        "blender": "Peretti",
+        "name": "London Flake",
+        "blendType": "Virginia/Perique",
+        "description": "Pre-2018 version: \"Made of orange and red Virginia which has a dash of St. James Perique giving it a deep and satisfying flavor. It is a dark matured flake which smokes smooth and cool.\"\n\nNew (March 2018): \"One of the most popular blends in flakes is found here in this Virginia/Perique flake. The orange and lemon Virginias provide a nice level of sweetness which is well complimented by the spicy kick of the perique.\"",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - London Flake.jpg",
+        "averageRating": 2.92,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

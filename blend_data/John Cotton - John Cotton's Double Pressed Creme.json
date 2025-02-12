@@ -1,0 +1,78 @@
+{
+    "johncotton'sdoublepressedcreme": {
+        "blender": "John Cotton",
+        "name": "John Cotton's Double Pressed Creme",
+        "blendType": "Aromatic",
+        "description": "It begins as a flake tobacco made of Virginia and black cavendish and then rubbed out. The tobaccos are given time to allow the leaf to re-oxygenate to liven the flavor and to prepare for the next step. Then the tobaccos are pressed again into a crumble cake, so further fermentation can take place. But what really makes the difference is a subtle bit of vanilla to give it a slight sweetness and a pleasant room note.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Cotton - John Cotton's Double Pressed Creme.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

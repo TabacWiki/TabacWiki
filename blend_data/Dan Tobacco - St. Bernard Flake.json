@@ -1,0 +1,78 @@
+{
+    "st.bernardflake": {
+        "blender": "Dan Tobacco",
+        "name": "St. Bernard Flake",
+        "blendType": "Virginia/Perique",
+        "description": "A medium to full strength blend of finest selected sweet Virginia leaf with a pinch of mature Louisiana perique for a pleasant rich aroma processed in accordance with classic English tobacco traditions.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 250 grams bag",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - St. Bernard Flake.jpg",
+        "averageRating": 3.48,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 13.333333333333,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 27.272727272727,
+                    "Pleasant": 27.272727272727,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 63.636363636364,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 100.0,
+                    "Full": 88.888888888889,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

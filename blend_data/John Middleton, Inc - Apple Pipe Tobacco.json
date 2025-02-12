@@ -1,0 +1,78 @@
+{
+    "applepipetobacco": {
+        "blender": "John Middleton, Inc",
+        "name": "Apple Pipe Tobacco",
+        "blendType": "Aromatic",
+        "description": "Apple Pipe Tobacco, a unique taste in smoking, is a superior blend of top quality... Burley and Virginia tobaccos flavored with the taste of apples. Apple tobacco brings to the pipe smoker the smoothness of fine tobaccos, the crisp taste of fresh apples and the refreshing aroma of both. Apples and tobacco, a natural combination.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Apple Pipe Tobacco.jpg",
+        "averageRating": 2.25,
+        "reviewCount": 56,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.714285714286,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 25.0,
+                    "Medium to Strong": 10.714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 4.5454545454545,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.272727272727,
+                    "Medium": 50.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 4.5454545454545
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.625,
+                    "Pleasant to Tolerable": 28.125,
+                    "Tolerable": 18.75,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 3.125,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 29.166666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 20.833333333333,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.1666666666667
+                }
+            }
+        }
+    }
+}

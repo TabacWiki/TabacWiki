@@ -1,0 +1,78 @@
+{
+    "vanillacavendish": {
+        "blender": "Smoker's Pride",
+        "name": "Vanilla Cavendish",
+        "blendType": "Aromatic",
+        "description": "Vanilla flavored cavendish, very mild.",
+        "contents": "Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12 ounce bag",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Smoker's Pride - Vanilla Cavendish.jpg",
+        "averageRating": 2.18,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 27.777777777778,
+                    "Mild": 100.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 2.7777777777778,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 21.052631578947,
+                    "Very Mild": 42.105263157895,
+                    "Mild": 100.0,
+                    "Mild to Medium": 63.157894736842,
+                    "Medium": 52.631578947368,
+                    "Medium to Strong": 36.842105263158,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.448275862069,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 65.51724137931,
+                    "Pleasant to Tolerable": 6.8965517241379,
+                    "Tolerable": 24.137931034483,
+                    "Tolerable to Strong": 6.8965517241379,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 36.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 52.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 4.0,
+                    "Full": 8.0,
+                    "Very Full": 4.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "burleyflake#5": {
+        "blender": "Cornell & Diehl",
+        "name": "Burley Flake #5",
+        "blendType": "Burley Based",
+        "description": "C&D's Burley Flake #5 is a robust, sweet blend of light and dark burleys, with zesty red and bright Virginias and just the right amount of dark-fired Kentucky.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Burley Flake #5.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 45.454545454545,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 40.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 60.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 71.428571428571,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

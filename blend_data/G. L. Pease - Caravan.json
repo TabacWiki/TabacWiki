@@ -1,0 +1,78 @@
+{
+    "caravan": {
+        "blender": "G. L. Pease",
+        "name": "Caravan",
+        "blendType": "Balkan",
+        "description": "Rich, smoky Cyprian latakia and a variety of wonderful Oriental tobaccos set the stage for the blend. Lemon and red Virginias provide support, while adding a hint of sweetness. Finally, just a touch of air cured leaf is added for body. Caravan is full and exotic; rich and spicy. A classic Balkan style blend with our own special touch.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Caravan.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 82,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 1.9607843137255,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.634920634921,
+                    "Very Mild": 3.1746031746032,
+                    "Mild": 12.698412698413,
+                    "Mild to Medium": 3.1746031746032,
+                    "Medium": 3.1746031746032,
+                    "Medium to Strong": 3.1746031746032,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.3170731707317,
+                    "Pleasant": 19.512195121951,
+                    "Very Pleasant": 7.3170731707317,
+                    "Pleasant to Tolerable": 63.414634146341,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 19.512195121951,
+                    "Strong": 7.3170731707317,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 3.125,
+                    "Mild to Medium": 37.5,
+                    "Medium": 84.375,
+                    "Medium to Full": 100.0,
+                    "Full": 43.75,
+                    "Very Full": 9.375,
+                    "Extra Full": 3.125,
+                    "Overwhelming": 6.25
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cellarreserve": {
+        "blender": "East India Trading Co.",
+        "name": "Cellar Reserve",
+        "blendType": "Aromatic",
+        "description": "Cellar Reserve is a richly aromatic blend of sweet Virginia, nutty burley and soft black cavendish with notes of rum, vanilla and caramel. A splash of Louisiana perique is added for body, a deep fruitiness and just a hint of spice.",
+        "contents": "Black Cavendish,  Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/East India Trading Co. - Cellar Reserve.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 25.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "sam'sblend": {
+        "blender": "Cornell & Diehl",
+        "name": "Sam's Blend",
+        "blendType": "American",
+        "description": "A smooth blend of Cyprian Latakia,Perique and unsweetened black Cavendish. An all-day smoke",
+        "contents": "Black Cavendish,  Latakia,  Perique",
+        "cut": "Coarse Cut",
+        "packaging": "2oz tin, 8oz tin",
+        "country": "United States",
+        "production": "",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Sam's Blend.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 20.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 37.5,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

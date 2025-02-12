@@ -1,0 +1,78 @@
+{
+    "campaigndarkflake": {
+        "blender": "Wessex",
+        "name": "Campaign Dark Flake",
+        "blendType": "Straight Virginia",
+        "description": "Dark brown Virginia, full bodied and smooth.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Campaign Dark Flake.jpg",
+        "averageRating": 3.54,
+        "reviewCount": 58,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.8235294117647,
+                    "Mild to Medium": 55.882352941176,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.588235294118,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.621621621622,
+                    "Very Mild": 27.027027027027,
+                    "Mild": 27.027027027027,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.3478260869565,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 4.3478260869565,
+                    "Pleasant to Tolerable": 86.95652173913,
+                    "Tolerable": 69.565217391304,
+                    "Tolerable to Strong": 4.3478260869565,
+                    "Strong": 13.04347826087,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.9411764705882,
+                    "Mild to Medium": 29.411764705882,
+                    "Medium": 100.0,
+                    "Medium to Full": 35.294117647059,
+                    "Full": 20.588235294118,
+                    "Very Full": 2.9411764705882,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

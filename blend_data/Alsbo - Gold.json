@@ -1,0 +1,78 @@
+{
+    "gold": {
+        "blender": "Alsbo",
+        "name": "Gold",
+        "blendType": "Aromatic",
+        "description": "Very mild and light Virginia tobacco with a delightful vanilla/pistacchio aroma and taste.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Alsbo - Gold.jpg",
+        "averageRating": 1.91,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 70.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 11.111111111111
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.047619047619,
+                    "Pleasant to Tolerable": 9.5238095238095,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 44.444444444444,
+                    "Very Mild": 100.0,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "brownvirginiaflake": {
+        "blender": "Wessex",
+        "name": "Brown Virginia Flake",
+        "blendType": "Straight Virginia",
+        "description": "A century-old recipe for natural flake with true tobacco taste. Navy Cut.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Brown Virginia Flake.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

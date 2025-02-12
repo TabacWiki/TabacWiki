@@ -1,0 +1,78 @@
+{
+    "no.27": {
+        "blender": "McClelland",
+        "name": "No. 27",
+        "blendType": "Straight Virginia",
+        "description": "An excellent all day, indoor smoke. This beautiful orange/red, shag cut cake has a mellow flavor and a light subtle aroma with a smooth and toasty character.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 27.jpg",
+        "averageRating": 3.25,
+        "reviewCount": 60,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 63.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 1.8518518518519,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 1.8518518518519,
+                    "Medium": 0.0,
+                    "Medium to Strong": 1.8518518518519,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.5238095238095,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 90.47619047619,
+                    "Tolerable": 80.952380952381,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 53.846153846154,
+                    "Mild to Medium": 65.384615384615,
+                    "Medium": 100.0,
+                    "Medium to Full": 30.769230769231,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

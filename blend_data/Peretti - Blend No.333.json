@@ -1,0 +1,78 @@
+{
+    "blendno.333": {
+        "blender": "Peretti",
+        "name": "Blend No.333",
+        "blendType": "Burley Based",
+        "description": "A splendid blend for those who like a fairly heavy tobacco that is not aromatic, but is full of flavor. Very slow burning and cool.",
+        "contents": "Burley",
+        "cut": "Cube",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Blend No.333.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 3.448275862069,
+                    "Mild to Medium": 27.586206896552,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.689655172414,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 3.448275862069,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 81.818181818182,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 90.909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.391304347826,
+                    "Pleasant to Tolerable": 65.217391304348,
+                    "Tolerable": 17.391304347826,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 4.3478260869565,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 23.333333333333,
+                    "Full": 13.333333333333,
+                    "Very Full": 3.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

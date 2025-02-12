@@ -1,0 +1,78 @@
+{
+    "berrycobbler": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Berry Cobbler",
+        "blendType": "Aromatic",
+        "description": "An aromatic with a great aroma and room note that will remind you of Grandma's cobblers.",
+        "contents": "Black Cavendish, Burley, Cavendish",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Berry Cobbler.jpg",
+        "averageRating": 3.36,
+        "reviewCount": 87,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 25.454545454545,
+                    "Mild": 100.0,
+                    "Mild to Medium": 29.090909090909,
+                    "Medium": 10.909090909091,
+                    "Medium to Strong": 1.8181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.25,
+                    "Extremely Mild": 3.125,
+                    "Very Mild": 6.25,
+                    "Mild": 56.25,
+                    "Mild to Medium": 59.375,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 25.0,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 3.125
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.8169014084507,
+                    "Pleasant": 28.169014084507,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 1.4084507042254,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 1.4084507042254,
+                    "Strong": 1.4084507042254,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.4084507042254
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.5714285714286,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 20.0,
+                    "Full": 11.428571428571,
+                    "Very Full": 2.8571428571429,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.7142857142857
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "kateriniclassic": {
+        "blender": "McClelland",
+        "name": "Katerini Classic",
+        "blendType": "Oriental",
+        "description": "The small, heart-shaped Katerini leaf, grown from Samsun seed on mountain slopes in Greek Western Macedonia, is delicate, elastic, robust. The aroma is subtle. Notice the sweet, mild, curry-like flavor in the mellow Virginia-based blend. Easy to pack, delightful to smoke.",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Katerini Classic.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 0.0,
+                    "Mild": 21.428571428571,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Full": 12.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

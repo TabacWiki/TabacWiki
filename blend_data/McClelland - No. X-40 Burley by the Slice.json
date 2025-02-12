@@ -1,0 +1,78 @@
+{
+    "no.x-40burleybytheslice": {
+        "blender": "McClelland",
+        "name": "No. X-40 Burley by the Slice",
+        "blendType": "Burley Based",
+        "description": "Kentucky and Tennessee White Burley aged until darkened with a very slight top note added, and pressed into cakes. The cakes are then cut and broken up into large flake chunks.",
+        "contents": "Burley,  Kentucky",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. X-40 Burley by the Slice.jpg",
+        "averageRating": 2.43,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 100.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 9.0909090909091,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 0.0,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

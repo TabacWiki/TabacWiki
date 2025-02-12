@@ -1,0 +1,78 @@
+{
+    "townsmancavendishblue": {
+        "blender": "McClelland",
+        "name": "Townsman Cavendish Blue",
+        "blendType": "Aromatic",
+        "description": "A smooth, old-style blend of Burley, Maryland and Virginia tobaccos with Maple sugar flavoring.",
+        "contents": "Burley,  Maryland,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bag",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Townsman Cavendish Blue.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 62.5,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

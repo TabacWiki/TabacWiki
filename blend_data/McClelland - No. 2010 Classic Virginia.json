@@ -1,0 +1,78 @@
+{
+    "no.2010classicvirginia": {
+        "blender": "McClelland",
+        "name": "No. 2010 Classic Virginia",
+        "blendType": "Straight Virginia",
+        "description": "This is a blend of Eastern and Middle Belt lemon, orange, and orange-red Virginias. A sweet, smooth, and zesty smoke.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 2010 Classic Virginia.jpg",
+        "averageRating": 3.15,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 34.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.285714285714,
+                    "Medium to Strong": 8.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 5.0,
+                    "Mild to Medium": 3.3333333333333,
+                    "Medium": 1.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.448275862069,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.241379310345,
+                    "Pleasant to Tolerable": 72.413793103448,
+                    "Tolerable": 44.827586206897,
+                    "Tolerable to Strong": 10.344827586207,
+                    "Strong": 6.8965517241379,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.538461538462,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 42.307692307692,
+                    "Mild to Medium": 84.615384615385,
+                    "Medium": 100.0,
+                    "Medium to Full": 30.769230769231,
+                    "Full": 3.8461538461538,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

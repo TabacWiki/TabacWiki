@@ -1,0 +1,78 @@
+{
+    "springwaterexoticcut": {
+        "blender": "Von Eicken",
+        "name": "Springwater Exotic Cut",
+        "blendType": "Aromatic",
+        "description": "Springwater is a blend of golden sun-cured Virginia ready rubbed flakes and black, shiny cavendish. This fine exotic and cool burning tobacco gets its irresistible note from the Manila fruit aroma, similar to almonds.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Von Eicken - Springwater Exotic Cut.jpg",
+        "averageRating": 2.82,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 37.5,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 75.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "blackpool": {
+        "blender": "Pipe Republic",
+        "name": "Blackpool",
+        "blendType": "Aromatic",
+        "description": "What place are you in? There is an unmistakable smell of caramel, popcorn and carousels. The music sounds loud and merry, different at every corner. Carnies call out to you to spend their coins with you. They promise amusement, joy and blowing hair in exchange. Horses neigh, clowns trip over their feet, children laugh. The artist's sweet, lemony-fruity perfume drifts over to you. We are in Blackpool, the circus, fairground and entertainment center of northern England. These impressions and smells are quintessentially captured in this tobacco. Broken Virginia, Black Cavendish, creamy honey notes, popcorn aroma and caramel extracts take you to this place of pleasure.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "100g Tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Pipe Republic - Blackpool.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Extra Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 100.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

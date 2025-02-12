@@ -1,0 +1,78 @@
+{
+    "royalcajunspecial": {
+        "blender": "McClelland",
+        "name": "Royal Cajun Special",
+        "blendType": "Straight Virginia",
+        "description": "Two dark stoved Virginias and one wide cut lemon Virginia expertly blended with Cajun Black. This blend is one of a kind, ethereally smoky, deeply rich and incredibly complex. Virginia's natural sweetness cooled by Cajun Black's fire-curing and perique style processing.",
+        "contents": "Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Royal Cajun Special.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 81.818181818182,
+                    "Mild to Medium": 100.0,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.25,
+                    "Very Mild": 25.0,
+                    "Mild": 18.75,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 53.333333333333,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 40.0,
+                    "Full": 0.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "heine'sblend": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Heine's Blend",
+        "blendType": "Burley Based",
+        "description": "Cubed burley smoking mixture. Made in the USA.",
+        "contents": "Burley",
+        "cut": "Cube",
+        "packaging": "14 ounce tub",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Heine's Blend.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 37.5,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

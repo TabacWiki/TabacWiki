@@ -1,0 +1,78 @@
+{
+    "hhrustica": {
+        "blender": "Mac Baren",
+        "name": "HH Rustica",
+        "blendType": "Virginia/Burley",
+        "description": "",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - HH Rustica.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 13.04347826087,
+                    "Strong": 82.608695652174,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 17.391304347826,
+                    "Overwhelming": 13.04347826087
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 2.2727272727273,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.2727272727273,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 5.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 35.0,
+                    "Tolerable to Strong": 65.0,
+                    "Strong": 100.0,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 15.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.5555555555556,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 100.0,
+                    "Very Full": 94.444444444444,
+                    "Extra Full": 22.222222222222,
+                    "Overwhelming": 5.5555555555556
+                }
+            }
+        }
+    }
+}

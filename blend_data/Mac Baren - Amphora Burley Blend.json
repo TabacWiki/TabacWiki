@@ -1,0 +1,78 @@
+{
+    "amphoraburleyblend": {
+        "blender": "Mac Baren",
+        "name": "Amphora Burley Blend",
+        "blendType": "Burley Based",
+        "description": "Amphora Burley Blend is, as the name indicates, a burley dominated pipe tobacco, in which a touch of Virginia tobacco has been added for the perfect balance of the blend. Amphora Burley Blend is a harmonious blend based on more than 150 years of experience of tobacco blending.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Amphora Burley Blend.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 92.857142857143,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 23.809523809524,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.7619047619048,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 15.384615384615,
+                    "Pleasant": 76.923076923077,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 31.25,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

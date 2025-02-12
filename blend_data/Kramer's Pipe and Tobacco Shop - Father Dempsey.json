@@ -1,0 +1,78 @@
+{
+    "fatherdempsey": {
+        "blender": "Kramer's Pipe and Tobacco Shop",
+        "name": "Father Dempsey",
+        "blendType": "English",
+        "description": "Though originally blended to match Father Dempsey's own preferred smoke, this full-bodied English mixture is now Kramer's most popular house blend and has been enjoyed by the likes of Cecil B. DeMille, Henry Wilcoxon, Samuel Goldwyn, Gene Barry, Mike Kaplan, Mel Tolkin, Fred McMurray, and many others.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, bulk.",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Kramer's Pipe and Tobacco Shop - Father Dempsey.jpg",
+        "averageRating": 3.45,
+        "reviewCount": 60,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.9411764705882,
+                    "Mild": 17.647058823529,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.470588235294,
+                    "Strong": 2.9411764705882,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 34.090909090909,
+                    "Very Mild": 0.0,
+                    "Mild": 6.8181818181818,
+                    "Mild to Medium": 6.8181818181818,
+                    "Medium": 4.5454545454545,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 72.727272727273,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 95.454545454545,
+                    "Tolerable to Strong": 13.636363636364,
+                    "Strong": 13.636363636364,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 40.909090909091,
+                    "Medium": 95.454545454545,
+                    "Medium to Full": 100.0,
+                    "Full": 40.909090909091,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

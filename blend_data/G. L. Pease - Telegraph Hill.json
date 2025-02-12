@@ -1,0 +1,78 @@
+{
+    "telegraphhill": {
+        "blender": "G. L. Pease",
+        "name": "Telegraph Hill",
+        "blendType": "Virginia/Perique",
+        "description": "A sturdy foundation of Virginia tobaccos, each chosen for its particular character, is enhanced with fine flakes of perique for a refined smoking experience. Telegraph Hill is rich and flavorful, with a satisfying, lingering finish. Each sip builds upon the last, creating a marvelous edifice of taste and aroma. You won't worry about earthquakes if your pipe is filled with this wonderful blend.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Telegraph Hill.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 95,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.3829787234043,
+                    "Mild": 27.659574468085,
+                    "Mild to Medium": 80.851063829787,
+                    "Medium": 100.0,
+                    "Medium to Strong": 10.63829787234,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 4.3956043956044,
+                    "Mild": 1.0989010989011,
+                    "Mild to Medium": 2.1978021978022,
+                    "Medium": 1.0989010989011,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.3255813953488,
+                    "Pleasant": 72.093023255814,
+                    "Very Pleasant": 9.3023255813953,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.813953488372,
+                    "Tolerable to Strong": 4.6511627906977,
+                    "Strong": 2.3255813953488,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0833333333333,
+                    "Very Mild": 2.0833333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 27.083333333333,
+                    "Full": 6.25,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

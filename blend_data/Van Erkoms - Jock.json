@@ -1,0 +1,78 @@
+{
+    "jock": {
+        "blender": "Van Erkoms",
+        "name": "Jock",
+        "blendType": "Aromatic",
+        "description": "",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams packet",
+        "country": "South Africa",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Van Erkoms - Jock.jpg",
+        "averageRating": 3.77,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 100.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 100.0,
+                    "Full": 80.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

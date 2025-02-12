@@ -1,0 +1,78 @@
+{
+    "redvirginia": {
+        "blender": "Robert McConnell",
+        "name": "Red Virginia",
+        "blendType": "Virginia/Perique",
+        "description": "One of the original blends from 1848. Rich chestnut coloured leaf from Carolina combine with Virginia brights tobaccos to produce a mild but satisfying blend. A touch of perique gives a taste of elegance and quality. No latakia is added.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Red Virginia.jpg",
+        "averageRating": 3.01,
+        "reviewCount": 73,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.333333333333,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 2.7777777777778,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 63.636363636364,
+                    "Very Mild": 81.818181818182,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.7777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 86.111111111111,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 2.7777777777778,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 39.393939393939,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.151515151515,
+                    "Full": 3.030303030303,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

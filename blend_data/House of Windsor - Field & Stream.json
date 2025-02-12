@@ -1,0 +1,78 @@
+{
+    "field&stream": {
+        "blender": "House of Windsor",
+        "name": "Field & Stream",
+        "blendType": "Aromatic",
+        "description": "An aromatic blend of choice tobaccos superbly  prepared for the  utmost in smoking pleasure.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Cube",
+        "packaging": "1.5 oz pouch, 10 oz. tin, 2 oz. tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/House of Windsor - Field & Stream.jpg",
+        "averageRating": 2.23,
+        "reviewCount": 51,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 63.636363636364,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 4.5454545454545,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 4.7619047619048,
+                    "Very Mild": 0.0,
+                    "Mild": 23.809523809524,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 90.47619047619,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 4.7619047619048,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 82.352941176471,
+                    "Very Pleasant": 52.941176470588,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.823529411765,
+                    "Tolerable to Strong": 23.529411764706,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 20.0,
+                    "Very Full": 5.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.0
+                }
+            }
+        }
+    }
+}

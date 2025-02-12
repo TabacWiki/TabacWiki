@@ -1,0 +1,78 @@
+{
+    "sugarbarrel": {
+        "blender": "John Middleton, Inc",
+        "name": "Sugar Barrel",
+        "blendType": "Burley Based",
+        "description": "Aromatic smoking mixture.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce pouch, 14 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Sugar Barrel.jpg",
+        "averageRating": 2.87,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.7142857142857,
+                    "Very Mild": 17.142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 5.7142857142857,
+                    "Medium to Strong": 2.8571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 3.5714285714286,
+                    "Very Mild": 32.142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.571428571429,
+                    "Medium": 21.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.448275862069,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 34.48275862069,
+                    "Pleasant to Tolerable": 51.724137931034,
+                    "Tolerable": 10.344827586207,
+                    "Tolerable to Strong": 3.448275862069,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 19.230769230769,
+                    "Mild": 80.769230769231,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Full": 0.0,
+                    "Full": 3.8461538461538,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "englishsummerflake": {
+        "blender": "Samuel Gawith",
+        "name": "English Summer Flake",
+        "blendType": "Straight Virginia",
+        "description": "This flake is made from Virginia tobacco selection of Old and New World. Thanks to a long aging in the press, different parts of tobacco leaves are uniting into one harmonious blend. You can fully enjoy the summer outdoor smoking with this magnificent blend.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - English Summer Flake.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 40.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 60.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 41.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 62.5,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

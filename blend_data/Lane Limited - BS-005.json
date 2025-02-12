@@ -1,0 +1,78 @@
+{
+    "bs-005": {
+        "blender": "Lane Limited",
+        "name": "BS-005",
+        "blendType": "English",
+        "description": "The traditional English blend, distinct, royal and noble. An admirably skilled blend of pure tobaccos. Any smoker whose first love is for the finest quality mixed together without adulteration will fall in love with this one.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "bulk, 50 grams tin",
+        "country": "United States",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Lane Limited - BS-005.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 70.0,
+                    "Strong": 10.0,
+                    "Very Strong": 10.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 27.272727272727,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 54.545454545455,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 18.181818181818,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 0.0,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 18.181818181818,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "openingnight": {
+        "blender": "Cornell & Diehl",
+        "name": "Opening Night",
+        "blendType": "Straight Virginia",
+        "description": "A delicious blend of the finest red and bright Virginias pressed to perfection and sliced into flakes.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Opening Night.jpg",
+        "averageRating": 3.55,
+        "reviewCount": 106,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.5873015873016,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 52.380952380952,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.809523809524,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.7307692307692,
+                    "Very Mild": 1.9230769230769,
+                    "Mild": 0.96153846153846,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.8846153846154,
+                    "Medium to Strong": 0.96153846153846,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.1666666666667,
+                    "Pleasant": 91.666666666667,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 39.583333333333,
+                    "Tolerable to Strong": 2.0833333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 1.6949152542373,
+                    "Mild": 8.4745762711864,
+                    "Mild to Medium": 30.508474576271,
+                    "Medium": 100.0,
+                    "Medium to Full": 44.067796610169,
+                    "Full": 13.559322033898,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.6949152542373
+                }
+            }
+        }
+    }
+}

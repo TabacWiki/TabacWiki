@@ -1,0 +1,78 @@
+{
+    "no.44darkvirginiaflake": {
+        "blender": "Astley's",
+        "name": "No.44 Dark Virginia Flake",
+        "blendType": "Straight Virginia",
+        "description": "A dark Virginia flake that is full of flavor, but easy on the tongue. Citrus notes are detectable.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Astley's - No.44 Dark Virginia Flake.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.0606060606061,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.212121212121,
+                    "Strong": 12.121212121212,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.625,
+                    "Very Mild": 15.625,
+                    "Mild": 21.875,
+                    "Mild to Medium": 3.125,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.538461538462,
+                    "Pleasant": 65.384615384615,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 34.615384615385,
+                    "Tolerable to Strong": 3.8461538461538,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.5714285714286,
+                    "Very Mild": 0.0,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Full": 46.428571428571,
+                    "Full": 10.714285714286,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

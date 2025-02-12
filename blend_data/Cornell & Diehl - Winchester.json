@@ -1,0 +1,78 @@
+{
+    "winchester": {
+        "blender": "Cornell & Diehl",
+        "name": "Winchester",
+        "blendType": "Virginia/Burley",
+        "description": "Red Virginia and unsweetened black Cavendish (Kentucky Green River Burley) are mixed in a blend that is reminiscent of the old Rattray's 'Dark Fragrant.'",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Winchester.jpg",
+        "averageRating": 2.92,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.8823529411765,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 23.529411764706,
+                    "Medium": 100.0,
+                    "Medium to Full": 17.647058823529,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

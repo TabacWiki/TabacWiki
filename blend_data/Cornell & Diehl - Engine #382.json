@@ -1,0 +1,78 @@
+{
+    "engine#382": {
+        "blender": "Cornell & Diehl",
+        "name": "Engine #382",
+        "blendType": "American",
+        "description": "Named for the passenger train driven by the famous Casey Jones, Engine #382 combines dark and white Burley, bright Virginia leaf, and unsweetened black Cavendish with the soft, vanilla-like flavor of Deer Tongue, making for one pleasant and unique smoking experience.",
+        "contents": "Black Cavendish,  Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz tin, Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Engine #382.jpg",
+        "averageRating": 2.4,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

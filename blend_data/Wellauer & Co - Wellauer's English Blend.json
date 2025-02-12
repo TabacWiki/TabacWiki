@@ -1,0 +1,78 @@
+{
+    "wellauer'senglishblend": {
+        "blender": "Wellauer & Co",
+        "name": "Wellauer's English Blend",
+        "blendType": "English",
+        "description": "Classical English mixture with plenty of Syrian latakia, blended with Virginia, Orientals and a pinch of perique.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams pouch, 100 grams tin",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Wellauer & Co - Wellauer's English Blend.jpg",
+        "averageRating": 2.5,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 36.363636363636,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 54.545454545455,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 36.363636363636,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

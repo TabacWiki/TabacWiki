@@ -1,0 +1,78 @@
+{
+    "oakalley": {
+        "blender": "Cornell & Diehl",
+        "name": "Oak Alley",
+        "blendType": "Virginia/Burley",
+        "description": "Arguably the most famous of Louisiana\u2019s antebellum mansions, and certainly the most immediately recognizable, Oak Alley is a splendid namesake for this cellar worthy, new American standard. After establishing an impeccable partnership between sweet red Virginias and white/brown burleys, discreet amounts of perique and Katirini Turkish are added to enhance both the flavor, as well as promote the coolest smoke imaginable.",
+        "contents": "Burley,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Oak Alley.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.764705882353,
+                    "Medium": 100.0,
+                    "Medium to Strong": 64.705882352941,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 81.818181818182,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 54.545454545455,
+                    "Tolerable to Strong": 36.363636363636,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 58.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

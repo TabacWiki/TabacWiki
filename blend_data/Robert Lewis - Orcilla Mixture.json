@@ -1,0 +1,78 @@
+{
+    "orcillamixture": {
+        "blender": "Robert Lewis",
+        "name": "Orcilla Mixture",
+        "blendType": "Oriental",
+        "description": "A classic, fine ribbon Oriental blend. Robert Lewis' Orcilla Mixture is made from the finest Virginia tobaccos available with a whisper of perique. This has been a favorite of discerning smokers for over a century.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert Lewis - Orcilla Mixture.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.5454545454545,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 72.727272727273,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 54.545454545455,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 12.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.25,
+                    "Medium to Full": 12.5,
+                    "Full": 6.25,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "classicamber": {
+        "blender": "Mac Baren",
+        "name": "Classic Amber",
+        "blendType": "Aromatic",
+        "description": "A decade after Vanilla Cream Loose Cut was introduced, a new tobacco in this line was created \u2013 Vanilla Toffee Loose Cut. The composition of the tobacco is almost identical, however, the big difference is in the aroma of the Vanilla Toffee.\n\nThe aroma and taste of this fine tobacco is very well balanced between the vanilla, the toffee and the different tobaccos. The blend, albeit with minor differences, is the same as Vanilla Cream where ripe yellow Virginia is mixed with burleys and a black cavendish based on Virginia tobaccos. On top of this, small pieces of flake are added for both taste and a help to keep the temperature down while smoking. All in all, the Vanilla Toffee Loose Cut is a very pleasant tobacco to smoke with a fine interplay between the sweet taste of vanilla, toffee and the natural tobacco taste.",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin weight, 100 grams pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Classic Amber.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 80.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

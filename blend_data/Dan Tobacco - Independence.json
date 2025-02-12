@@ -1,0 +1,78 @@
+{
+    "independence": {
+        "blender": "Dan Tobacco",
+        "name": "Independence",
+        "blendType": "Aromatic",
+        "description": "The signing of the final draft of the Declaration of Independence was one of the United States defining moments. This momentous event is celebrated in this blend of the finest grades of Virginia tobaccos combined with black cavendish and a small portion of latakia. Rich tasting, even burning, and light to medium bodied.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Independence.jpg",
+        "averageRating": 1.92,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 37.5
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 22.222222222222,
+                    "Pleasant": 22.222222222222,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 22.222222222222
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

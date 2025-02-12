@@ -1,0 +1,78 @@
+{
+    "oldfashioned": {
+        "blender": "W.O. Larsen",
+        "name": "Old Fashioned",
+        "blendType": "Aromatic",
+        "description": "A blend of Virginia and burley leaf that has been selected from the best tobacco fields in the world. No effort has been spared as one part of the blend has been pressed into cakes and aged, while the other part is finished in different cuts. Finally the different parts are blended and top flavored by hand.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/W.O. Larsen - Old Fashioned.jpg",
+        "averageRating": 2.64,
+        "reviewCount": 58,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 26.923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 84.615384615385,
+                    "Medium": 38.461538461538,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 94.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.1282051282051,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 38.461538461538,
+                    "Pleasant to Tolerable": 17.948717948718,
+                    "Tolerable": 5.1282051282051,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.526315789474,
+                    "Very Mild": 26.315789473684,
+                    "Mild": 100.0,
+                    "Mild to Medium": 89.473684210526,
+                    "Medium": 78.947368421053,
+                    "Medium to Full": 36.842105263158,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "blackshag": {
+        "blender": "McClelland",
+        "name": "Black Shag",
+        "blendType": "Straight Virginia",
+        "description": "Sherlock Holmes kept it in the toe of a Persian slipper nailed to the mantelpiece. It was dry and strong. Kept at what we today have deduced to be proper smoking moisture and smoked gently, this excellent stoved shag will provide hours of smoking pleasure. Examine the ash carefully. A shag cut black Virginia tobacco, making it very easy to pack a pipe and burn evenly.",
+        "contents": "Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Black Shag.jpg",
+        "averageRating": 2.56,
+        "reviewCount": 84,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 3.448275862069,
+                    "Very Mild": 13.793103448276,
+                    "Mild": 79.310344827586,
+                    "Mild to Medium": 100.0,
+                    "Medium": 86.206896551724,
+                    "Medium to Strong": 37.931034482759,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 34.782608695652,
+                    "Very Mild": 21.739130434783,
+                    "Mild": 23.913043478261,
+                    "Mild to Medium": 10.869565217391,
+                    "Medium": 10.869565217391,
+                    "Medium to Strong": 2.1739130434783,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.8947368421053,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 13.157894736842,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 52.631578947368,
+                    "Tolerable to Strong": 15.789473684211,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.6315789473684
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 17.857142857143,
+                    "Very Mild": 17.857142857143,
+                    "Mild": 60.714285714286,
+                    "Mild to Medium": 89.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 35.714285714286,
+                    "Full": 7.1428571428571,
+                    "Very Full": 3.5714285714286,
+                    "Extra Full": 3.5714285714286,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

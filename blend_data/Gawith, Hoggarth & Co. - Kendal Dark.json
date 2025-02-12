@@ -1,0 +1,78 @@
+{
+    "kendaldark": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Kendal Dark",
+        "blendType": "Virginia/Burley",
+        "description": "A combination of dark fired and air cured Virginias cut into a fine shag for easy smoking.",
+        "contents": "Burley, Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams tin weight, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Kendal Dark.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 49,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 4.3478260869565,
+                    "Mild to Medium": 0.0,
+                    "Medium": 17.391304347826,
+                    "Medium to Strong": 43.478260869565,
+                    "Strong": 100.0,
+                    "Very Strong": 30.434782608696,
+                    "Extremely Strong": 26.086956521739,
+                    "Overwhelming": 13.04347826087
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.0,
+                    "Very Mild": 24.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 8.0,
+                    "Medium": 16.0,
+                    "Medium to Strong": 12.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.5555555555556,
+                    "Pleasant": 38.888888888889,
+                    "Very Pleasant": 5.5555555555556,
+                    "Pleasant to Tolerable": 55.555555555556,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 38.888888888889,
+                    "Strong": 27.777777777778,
+                    "Very Strong": 27.777777777778,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 15.789473684211,
+                    "Medium": 57.894736842105,
+                    "Medium to Full": 68.421052631579,
+                    "Full": 100.0,
+                    "Very Full": 15.789473684211,
+                    "Extra Full": 15.789473684211,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

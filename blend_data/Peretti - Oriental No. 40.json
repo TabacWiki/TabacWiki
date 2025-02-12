@@ -1,0 +1,78 @@
+{
+    "orientalno.40": {
+        "blender": "Peretti",
+        "name": "Oriental No. 40",
+        "blendType": "Oriental",
+        "description": "A blend entirely made of tobaccos from the Near East. It has richness and full flavor.",
+        "contents": "Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Oriental No. 40.jpg",
+        "averageRating": 3.14,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 16.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 87.5,
+                    "Full": 25.0,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

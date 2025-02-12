@@ -1,0 +1,78 @@
+{
+    "blackparrot": {
+        "blender": "Robert McConnell",
+        "name": "Black Parrot",
+        "blendType": "Virginia/Perique",
+        "description": "Virginia, Carolina & pure Louisiana perique, this unique square-cut tobacco emcompasses flavor, maturity and mellow smoking.",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "",
+        "imagePath": "../blend_pictures/Robert McConnell - Black Parrot.jpg",
+        "averageRating": 2.97,
+        "reviewCount": 34,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 47.368421052632,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.842105263158,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 30.434782608696,
+                    "Very Mild": 8.695652173913,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 8.695652173913,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 92.857142857143,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 21.428571428571,
+                    "Medium": 92.857142857143,
+                    "Medium to Full": 100.0,
+                    "Full": 21.428571428571,
+                    "Very Full": 21.428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

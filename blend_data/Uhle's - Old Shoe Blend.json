@@ -1,0 +1,78 @@
+{
+    "oldshoeblend": {
+        "blender": "Uhle's",
+        "name": "Old Shoe Blend",
+        "blendType": "Aromatic",
+        "description": "With a subtle splash of whiskey, this blend is \u201cas comfortable as an old shoe\u201d.\n\nIngredients: Flavored burley with a pinch of sweet cavendish.",
+        "contents": "Burley,  Cavendish",
+        "cut": "Mixture",
+        "packaging": "1.5 ounce bag, 7 ounce bag, 14 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Old Shoe Blend.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

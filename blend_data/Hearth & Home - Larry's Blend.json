@@ -1,0 +1,78 @@
+{
+    "larry'sblend": {
+        "blender": "Hearth & Home",
+        "name": "Larry's Blend",
+        "blendType": "English",
+        "description": "Larry Loerzel, one of our regular store customers, and connoisseur of English/Balkan blends had tried Ten to Midnight, and although he liked it, he was looking for something a little fuller and different. Based on his preference, we blended a full, traditional Balkan using Orientals that were more buttery and amped up the latakia. This blend is now a big hit among our full bodied English fans; a cool-smoking, very rich mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Larry's Blend.jpg",
+        "averageRating": 3.51,
+        "reviewCount": 106,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.921568627451,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 43.137254901961,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.176470588235,
+                    "Strong": 25.490196078431,
+                    "Very Strong": 3.921568627451,
+                    "Extremely Strong": 1.9607843137255,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.073170731707,
+                    "Very Mild": 6.0975609756098,
+                    "Mild": 8.5365853658537,
+                    "Mild to Medium": 2.4390243902439,
+                    "Medium": 6.0975609756098,
+                    "Medium to Strong": 1.219512195122,
+                    "Strong": 1.219512195122,
+                    "Very Strong": 1.219512195122,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 29.545454545455,
+                    "Very Pleasant": 6.8181818181818,
+                    "Pleasant to Tolerable": 47.727272727273,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 43.181818181818,
+                    "Strong": 31.818181818182,
+                    "Very Strong": 2.2727272727273,
+                    "Extra Strong": 4.5454545454545,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.6511627906977,
+                    "Mild to Medium": 16.279069767442,
+                    "Medium": 41.860465116279,
+                    "Medium to Full": 100.0,
+                    "Full": 76.744186046512,
+                    "Very Full": 30.232558139535,
+                    "Extra Full": 2.3255813953488,
+                    "Overwhelming": 2.3255813953488
+                }
+            }
+        }
+    }
+}

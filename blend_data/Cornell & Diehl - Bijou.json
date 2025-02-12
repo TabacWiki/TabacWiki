@@ -1,0 +1,78 @@
+{
+    "bijou": {
+        "blender": "Cornell & Diehl",
+        "name": "Bijou",
+        "blendType": "Virginia Based",
+        "description": "Choice 2003 vintage, Eastern North Carolina red Virginias crown this jewel. \n\nAccented by sweet bright leaf and rounded by small-leafed Katerini, Bijou is married with a hint of honey before being pressed and sliced into delicate flakes.  This gem requires no adornment. Just time.  \n\nEstimated peak: 10-15 years.",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bijou.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 45,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 31.578947368421,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.315789473684,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 61.538461538462,
+                    "Extremely Mild": 92.307692307692,
+                    "Very Mild": 100.0,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 46.153846153846,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 83.333333333333,
+                    "Tolerable": 61.111111111111,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5454545454545,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 77.272727272727,
+                    "Medium": 100.0,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 9.0909090909091,
+                    "Very Full": 4.5454545454545,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

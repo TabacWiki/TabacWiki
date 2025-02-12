@@ -1,0 +1,78 @@
+{
+    "heavyenglish#503": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Heavy English #503",
+        "blendType": "English",
+        "description": "Lemon Virginias, Smyrna and other Orientals, and Latakia are combined in Sutliff's Heavy English, which despite its name is rather lightly balanced as far as Latakia mixtures go \u2014 some even find it quite suitable for an \"all day\" type of smoke.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Heavy English #503.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

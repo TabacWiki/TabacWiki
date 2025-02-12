@@ -1,0 +1,78 @@
+{
+    "blackmallory": {
+        "blender": "Rattray",
+        "name": "Black Mallory",
+        "blendType": "Scottish",
+        "description": "The basic tobaccos are broadly akin to those of Red Rapparee. Carefully apportioning of the quantities of seasoning leaf brings about a dark full bodied mixture. A notable tobacco.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Black Mallory.jpg",
+        "averageRating": 3.15,
+        "reviewCount": 138,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.8571428571429,
+                    "Very Mild": 0.0,
+                    "Mild": 18.571428571429,
+                    "Mild to Medium": 52.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Strong": 38.571428571429,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.822429906542,
+                    "Very Mild": 10.280373831776,
+                    "Mild": 6.5420560747664,
+                    "Mild to Medium": 3.7383177570093,
+                    "Medium": 4.6728971962617,
+                    "Medium to Strong": 1.8691588785047,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.0816326530612,
+                    "Pleasant": 51.020408163265,
+                    "Very Pleasant": 6.1224489795918,
+                    "Pleasant to Tolerable": 79.591836734694,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 57.142857142857,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 2.0408163265306,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.6666666666667,
+                    "Very Mild": 1.6666666666667,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 71.666666666667,
+                    "Full": 46.666666666667,
+                    "Very Full": 3.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

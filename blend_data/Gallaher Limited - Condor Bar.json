@@ -1,0 +1,78 @@
+{
+    "condorbar": {
+        "blender": "Gallaher Limited",
+        "name": "Condor Bar",
+        "blendType": "Aromatic",
+        "description": "A truly traditional tobacco.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "25 grams pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gallaher Limited - Condor Bar.jpg",
+        "averageRating": 3.64,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 75.0,
+                    "Strong": 100.0,
+                    "Very Strong": 75.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 20.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 66.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 100.0,
+                    "Very Full": 66.666666666667,
+                    "Extra Full": 33.333333333333,
+                    "Overwhelming": 33.333333333333
+                }
+            }
+        }
+    }
+}

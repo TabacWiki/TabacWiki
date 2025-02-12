@@ -1,0 +1,78 @@
+{
+    "armada": {
+        "blender": "Hearth & Home",
+        "name": "Armada",
+        "blendType": "English",
+        "description": "The name implies stately strength, and this blend delivers. A unique combination of Virginias, including a rich flake, Turkish and Orientals, lots of Latakia and spiced up, but cooled down by a judicious splash of St. James Perique, this tobacco has an almost incense-like aroma, with a surprisingly fresh, clean aftertaste.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "1.5oz Tin, Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Armada.jpg",
+        "averageRating": 3.2,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 71.428571428571,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.25,
+                    "Medium": 6.25,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 100.0,
+                    "Full": 100.0,
+                    "Very Full": 28.571428571429,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

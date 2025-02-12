@@ -1,0 +1,78 @@
+{
+    "vintage": {
+        "blender": "Fribourg & Treyer",
+        "name": "Vintage",
+        "blendType": "Straight Virginia",
+        "description": "A specially aged Virginia cut plug. A natural, mid-brown slightly fermented Virginia. This Navy cut gives a full smoke experience for all natural Virginia flake lovers.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Fribourg & Treyer - Vintage.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 64.705882352941,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.941176470588,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 87.5,
+                    "Very Mild": 43.75,
+                    "Mild": 12.5,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.5238095238095,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 47.619047619048,
+                    "Tolerable": 23.809523809524,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 43.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 18.75,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

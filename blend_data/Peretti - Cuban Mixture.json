@@ -1,0 +1,78 @@
+{
+    "cubanmixture": {
+        "blender": "Peretti",
+        "name": "Cuban Mixture",
+        "blendType": "Burley Based",
+        "description": "Our oldest mixture, this combination of seven different tobaccos was originally blended by L. J. Peretti at the turn of the 20th century. Exceptionally mild and smooth, it can be smoked all day by itself or blended with other mixtures for a milder effect.",
+        "contents": "Burley,  Cavendish,  Cigar Leaf,  Kentucky,  Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Cuban Mixture.jpg",
+        "averageRating": 3.69,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 72.727272727273,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 23.076923076923,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 30.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

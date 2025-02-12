@@ -1,0 +1,78 @@
+{
+    "partagaspicaduragranulata": {
+        "blender": "Partagas Cifuentes y Cia",
+        "name": "Partagas Picadura Granulata",
+        "blendType": "Cigar Leaf Based",
+        "description": "Cake of classic Cuban cigar leaf pressed into a 1/3\" thick cake, about 3\"x5\", needs to be rubbed out gently, which reveals a light (weight), dark brown colored Cuban flake pipe tobacco.",
+        "contents": "Cigar Leaf",
+        "cut": "Flake",
+        "packaging": "50g Block",
+        "country": "Unknown",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Partagas Cifuentes y Cia - Partagas Picadura Granulata.jpg",
+        "averageRating": 1.83,
+        "reviewCount": 6,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 66.666666666667,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 33.333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 66.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 25.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

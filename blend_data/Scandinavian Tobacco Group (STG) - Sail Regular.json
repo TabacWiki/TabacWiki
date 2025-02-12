@@ -1,0 +1,78 @@
+{
+    "sailregular": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Sail Regular",
+        "blendType": "Scottish",
+        "description": "Sail Regular is a well balanced blend. Burley and Virginia tobaccos in perfect harmony are the basis, enriched by a selection of Oriental and Brazilian tobaccos.",
+        "contents": "Brazilian Leaf, Burley, Cavendish, Oriental/Turkish, Virginia",
+        "cut": "Broken Flake",
+        "packaging": "pouch weight",
+        "country": "Netherlands",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Sail Regular.jpg",
+        "averageRating": 2.58,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 37.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.375,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.375,
+                    "Pleasant to Tolerable": 40.625,
+                    "Tolerable": 21.875,
+                    "Tolerable to Strong": 3.125,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.0,
+                    "Very Mild": 16.0,
+                    "Mild": 56.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 48.0,
+                    "Medium to Full": 8.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

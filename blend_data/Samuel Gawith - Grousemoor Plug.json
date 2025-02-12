@@ -1,0 +1,78 @@
+{
+    "grousemoorplug": {
+        "blender": "Samuel Gawith",
+        "name": "Grousemoor Plug",
+        "blendType": "Aromatic",
+        "description": "The smell of the tobacco is almost that of a flavored tobacco. When it's burning it produces a very sweet aroma at the beginning and then dissipates into a less evident, and yet pleasant, aroma. The taste is also very sweet, without being irritatingly so. Highly recommended if you're after a traditional British Virginia that is serious and yet sweet.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Grousemoor Plug.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 63.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Strong": 54.545454545455,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 100.0,
+                    "Very Strong": 22.222222222222,
+                    "Extra Strong": 22.222222222222
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 36.363636363636,
+                    "Pleasant to Tolerable": 72.727272727273,
+                    "Tolerable": 18.181818181818,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 88.888888888889,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 22.222222222222
+                }
+            }
+        }
+    }
+}

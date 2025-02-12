@@ -1,0 +1,78 @@
+{
+    "classicvirginia": {
+        "blender": "Wessex",
+        "name": "Classic Virginia",
+        "blendType": "Straight Virginia",
+        "description": "One hundred percent dark red Virginia flake, ready rubbed.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Classic Virginia.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 35.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 15.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 5.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 36.363636363636,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 72.727272727273,
+                    "Tolerable to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 18.75,
+                    "Mild to Medium": 43.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

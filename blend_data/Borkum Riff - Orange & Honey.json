@@ -1,0 +1,78 @@
+{
+    "orange&honey": {
+        "blender": "Borkum Riff",
+        "name": "Orange & Honey",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff Orange & Honey is composed of specially selected tobaccos that help to underscore the mild scent and aroma of orange and the pleasantly rounded and creamy honey notes. Borkum Riff Orange & Honey consists of bright Virginia, richly aromatic Kentucky and cool smoking burley tobacco. The perfect choice for the bon viveur who prefers a fruity tobacco with a soft body.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Sweden",
+        "production": "",
+        "imagePath": "../blend_pictures/Borkum Riff - Orange & Honey.jpg",
+        "averageRating": 1.62,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 37.5,
+                    "Mild": 62.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 60.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 42.857142857143,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

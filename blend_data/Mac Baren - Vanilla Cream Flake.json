@@ -1,0 +1,78 @@
+{
+    "vanillacreamflake": {
+        "blender": "Mac Baren",
+        "name": "Vanilla Cream Flake",
+        "blendType": "Aromatic",
+        "description": "A flake tobacco of select matured Virginia, mild cavendish and a touch of burley rounded off with an aromatic vanilla flavor. This combination gives an unusual blend with a pleasing sweetness and a special taste.",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Vanilla Cream Flake.jpg",
+        "averageRating": 2.77,
+        "reviewCount": 120,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 11.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.666666666667,
+                    "Medium": 26.666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 9.7560975609756,
+                    "Very Mild": 14.634146341463,
+                    "Mild": 56.09756097561,
+                    "Mild to Medium": 100.0,
+                    "Medium": 95.121951219512,
+                    "Medium to Strong": 34.146341463415,
+                    "Strong": 9.7560975609756,
+                    "Very Strong": 7.3170731707317,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.030303030303,
+                    "Pleasant": 71.212121212121,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 19.69696969697,
+                    "Tolerable": 1.5151515151515,
+                    "Tolerable to Strong": 4.5454545454545,
+                    "Strong": 1.5151515151515,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.5151515151515
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.627906976744,
+                    "Very Mild": 16.279069767442,
+                    "Mild": 65.116279069767,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.372093023256,
+                    "Medium to Full": 13.953488372093,
+                    "Full": 9.3023255813953,
+                    "Very Full": 6.9767441860465,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

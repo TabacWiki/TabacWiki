@@ -1,0 +1,78 @@
+{
+    "halavu'dvash-milk&honey": {
+        "blender": "Cornell & Diehl",
+        "name": "Halav U'Dvash - Milk & Honey",
+        "blendType": "Aromatic",
+        "description": "Starting with a complementary base of black and red Virginia cavendish, rough cut burley and dark fired Kentucky are then mixed with exotic Middle Eastern Orientals and a touch of perique to create this smooth, fragrant blend.",
+        "contents": "Black Cavendish,  Cavendish,  Kentucky,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Halav U'Dvash - Milk & Honey.jpg",
+        "averageRating": 2.55,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 21.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 36.363636363636,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 18.181818181818,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

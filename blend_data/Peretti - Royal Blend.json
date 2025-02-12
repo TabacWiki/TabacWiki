@@ -1,0 +1,78 @@
+{
+    "royalblend": {
+        "blender": "Peretti",
+        "name": "Royal Blend",
+        "blendType": "English",
+        "description": "A blend of the choicest matured Virginian and the finest Oriental tobaccos. It contains a high percentage of the finest Yenidje (Turkish) leaf.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Royal Blend.jpg",
+        "averageRating": 3.61,
+        "reviewCount": 39,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 52.631578947368,
+                    "Medium": 100.0,
+                    "Medium to Strong": 57.894736842105,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 6.0606060606061,
+                    "Medium": 6.0606060606061,
+                    "Medium to Strong": 3.030303030303,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 53.846153846154,
+                    "Very Pleasant": 38.461538461538,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.923076923077,
+                    "Tolerable to Strong": 30.769230769231,
+                    "Strong": 30.769230769231,
+                    "Very Strong": 7.6923076923077,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 100.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.5555555555556,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

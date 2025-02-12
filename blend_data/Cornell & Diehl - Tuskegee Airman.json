@@ -1,0 +1,78 @@
+{
+    "tuskegeeairman": {
+        "blender": "Cornell & Diehl",
+        "name": "Tuskegee Airman",
+        "blendType": "English",
+        "description": "Cornell & Diehl pays tribute to America's African American airmen with Tuskegee Airman, the second in their new series. A blend of Virginias, perique, Turkish and latakia is pressed to marry the flavors then sliced for easy packing.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 oz. Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Tuskegee Airman.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 21.052631578947,
+                    "Medium": 100.0,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 29.411764705882,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.764705882353,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 70.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 15.789473684211,
+                    "Medium": 100.0,
+                    "Medium to Full": 10.526315789474,
+                    "Full": 5.2631578947368,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "englishmixture": {
+        "blender": "Brigham Enterprises Inc.",
+        "name": "English Mixture",
+        "blendType": "English",
+        "description": "Brigham's English Mixture. A perfect introduction to English style pipe tobacco. This blend is a traditional mixture of red Virginia, Turkish, burley, latakia and perique. This blend would be considered medium strength as English tobaccos go.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "45 grams pouch",
+        "country": "Canada",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Brigham Enterprises Inc. - English Mixture.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

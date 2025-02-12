@@ -1,0 +1,78 @@
+{
+    "solitude": {
+        "blender": "Brigham Enterprises Inc.",
+        "name": "Solitude",
+        "blendType": "Cavendish Based",
+        "description": "This toasted black cavendish blend consists of selected Virginia and burley grades, heat-treated and bulk cured a full week.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "45 grams pouch",
+        "country": "Canada",
+        "production": "",
+        "imagePath": "../blend_pictures/Brigham Enterprises Inc. - Solitude.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 16.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 8.3333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 40.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "latakiablend": {
+        "blender": "Mac Baren",
+        "name": "Latakia Blend",
+        "blendType": "Virginia/Latakia",
+        "description": "A \"roll cake\" tobacco, spun from well matured Virginia and cavendish with a special touch of latakia, bringing out a fresh and wonderful aroma. The tin description reports: whole Virginia leaves that are specially selected are used as wrapper for all our spun tobaccos. The inlay for this very special blend is a mix of Virginia, original Mac Baren cavendish and just a touch of Syrian Latakia leaves. In combination these tobaccos give Latakia Blend its fresh and satisfying smoke. Like all our spun tobaccos only a little top flavour has been added. These tobaccos are the closest you get to the natural tobacco taste.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Mac Baren - Latakia Blend.jpg",
+        "averageRating": 2.43,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 20.833333333333,
+                    "Very Mild": 12.5,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 79.166666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 4.1666666666667
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 36.363636363636,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 54.545454545455,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 31.818181818182,
+                    "Medium": 22.727272727273,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 15.384615384615,
+                    "Pleasant": 84.615384615385,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 65.384615384615,
+                    "Tolerable to Strong": 3.8461538461538,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 61.904761904762,
+                    "Mild to Medium": 90.47619047619,
+                    "Medium": 100.0,
+                    "Medium to Full": 19.047619047619,
+                    "Full": 9.5238095238095,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "browntwistsliced": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Brown Twist Sliced",
+        "blendType": "Straight Virginia",
+        "description": "All our twist tobacco varieties are manufactured by the same spinning process using dark fired wrapper leaves. The filler is again, predominantly dark fired leaf with the addition of a small percentage of dark air cured Indian leaf. They are therefore strong tobaccos. Same as Black Twist but \"the brown form\"... comes straight from the spinning machine, instead of undergoing a further process of cooling under pressure to turn it into black tobacco.",
+        "contents": "Virginia",
+        "cut": "Curly Cut",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Brown Twist Sliced.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 40,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 100.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 50.0,
+                    "Overwhelming": 28.571428571429
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.925925925926,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 14.814814814815,
+                    "Mild to Medium": 3.7037037037037,
+                    "Medium": 14.814814814815,
+                    "Medium to Strong": 3.7037037037037,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 43.75,
+                    "Very Pleasant": 18.75,
+                    "Pleasant to Tolerable": 18.75,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 37.5,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 12.5,
+                    "Overwhelming": 6.25
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 57.142857142857,
+                    "Overwhelming": 14.285714285714
+                }
+            }
+        }
+    }
+}

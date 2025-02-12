@@ -1,0 +1,78 @@
+{
+    "frostymint2008": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Frosty Mint 2008",
+        "blendType": "Aromatic",
+        "description": "If ever invigorating could be used to describe a pipe blend, this surely would be the one. Chocolate and Mint, applied to Black Cavendish, pressed Virginia ribbon and rich Burley.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Frosty Mint 2008.jpg",
+        "averageRating": 2.82,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 20.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 10.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "flavoring": {
+                "level": "Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 45.454545454545,
+                    "Very Strong": 72.727272727273,
+                    "Extra Strong": 100.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.769230769231,
+                    "Pleasant to Tolerable": 30.769230769231,
+                    "Tolerable": 23.076923076923,
+                    "Tolerable to Strong": 7.6923076923077,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.6923076923077
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 66.666666666667,
+                    "Extra Full": 66.666666666667,
+                    "Overwhelming": 83.333333333333
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "scotchflake": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Scotch Flake",
+        "blendType": "Straight Virginia",
+        "description": "A very sweet 100% Virginia tobacco, Scotch Flake is a combination of flue cured Virginias from Brazil and Zimbabwe, augmented with a smaller amount of sun cured to add sweetness and body. Similar in content to Broken Scotch Cake, it's darker appearance is a result of it being pressed prior to slicing into flakes.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Scotch Flake.jpg",
+        "averageRating": 3.25,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 100.0,
+                    "Medium": 31.818181818182,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 58.333333333333,
+                    "Mild": 50.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 55.555555555556,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 52.631578947368,
+                    "Medium": 100.0,
+                    "Medium to Full": 5.2631578947368,
+                    "Full": 0.0,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

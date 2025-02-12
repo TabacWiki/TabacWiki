@@ -1,0 +1,78 @@
+{
+    "scottishblend": {
+        "blender": "Robert McConnell",
+        "name": "Scottish Blend",
+        "blendType": "Scottish",
+        "description": "One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century.",
+        "contents": "Black Cavendish,  Kentucky,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Scottish Blend.jpg",
+        "averageRating": 2.87,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 52.380952380952,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 20.833333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 4.1666666666667,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 54.545454545455,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.909090909091,
+                    "Tolerable to Strong": 4.5454545454545,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 6.25,
+                    "Mild": 18.75,
+                    "Mild to Medium": 56.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 87.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

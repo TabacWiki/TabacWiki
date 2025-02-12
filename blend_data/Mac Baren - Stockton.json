@@ -1,0 +1,78 @@
+{
+    "stockton": {
+        "blender": "Mac Baren",
+        "name": "Stockton",
+        "blendType": "Virginia Based",
+        "description": "A spun tobacco, cut in small birds eyes. A very special, mild and cool smoke.  Cavendish and dark-fired Kentucky this blend has a mellow sweetness with spicy, smoky undertones.",
+        "contents": "Cavendish,  Kentucky,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Stockton.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 3.8461538461538,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 72.222222222222,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 5.5555555555556,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.047619047619,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 38.095238095238,
+                    "Tolerable to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 5.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 35.0,
+                    "Full": 5.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

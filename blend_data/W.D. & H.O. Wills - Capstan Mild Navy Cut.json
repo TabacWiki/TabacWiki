@@ -1,0 +1,78 @@
+{
+    "capstanmildnavycut": {
+        "blender": "W.D. & H.O. Wills",
+        "name": "Capstan Mild Navy Cut",
+        "blendType": "Straight Virginia",
+        "description": "",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/W.D. & H.O. Wills - Capstan Mild Navy Cut.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 30.0,
+                    "Mild": 90.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 44.444444444444,
+                    "Extremely Mild": 77.777777777778,
+                    "Very Mild": 100.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

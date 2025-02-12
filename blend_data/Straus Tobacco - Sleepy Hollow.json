@@ -1,0 +1,78 @@
+{
+    "sleepyhollow": {
+        "blender": "Straus Tobacco",
+        "name": "Sleepy Hollow",
+        "blendType": "Aromatic",
+        "description": "Cinnamon spice with strong notes of pumpkin and warm bread. Mild vanilla right behind the pumpkin. Has a nice smokiness on the finish.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Straus Tobacco - Sleepy Hollow.jpg",
+        "averageRating": 3.58,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.363636363636,
+                    "Strong": 36.363636363636,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 36.363636363636,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 33.333333333333,
+                    "Very Full": 22.222222222222,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

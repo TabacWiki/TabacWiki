@@ -1,0 +1,78 @@
+{
+    "blend71:longgoldenflake": {
+        "blender": "Reiner",
+        "name": "Blend 71: Long Golden Flake",
+        "blendType": "Virginia/Perique",
+        "description": "A very special blend of golden Virginias, a little \"white\" burley, and a touch of perique to make things interesting. Pressed into long flakes, sliced, then rolled in the tin in long strips.",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Reiner - Blend 71: Long Golden Flake.jpg",
+        "averageRating": 3.61,
+        "reviewCount": 137,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.4925373134328,
+                    "Mild": 25.373134328358,
+                    "Mild to Medium": 91.044776119403,
+                    "Medium": 100.0,
+                    "Medium to Strong": 10.44776119403,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 55.932203389831,
+                    "Very Mild": 40.677966101695,
+                    "Mild": 28.813559322034,
+                    "Mild to Medium": 10.169491525424,
+                    "Medium": 16.949152542373,
+                    "Medium to Strong": 6.7796610169492,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.5471698113208,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.981132075472,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.490566037736,
+                    "Tolerable to Strong": 3.7735849056604,
+                    "Strong": 1.8867924528302,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.4285714285714,
+                    "Very Mild": 2.8571428571429,
+                    "Mild": 11.428571428571,
+                    "Mild to Medium": 55.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Full": 38.571428571429,
+                    "Full": 7.1428571428571,
+                    "Very Full": 1.4285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

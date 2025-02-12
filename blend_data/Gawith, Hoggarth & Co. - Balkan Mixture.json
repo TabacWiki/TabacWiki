@@ -1,0 +1,78 @@
+{
+    "balkanmixture": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Balkan Mixture",
+        "blendType": "Balkan",
+        "description": "Gawith, Hoggarth & Co. takes the finest Virginia tobacco and dark fire-cured tobacco from India and expertly blends them with Latakia to give the smoker a unique taste and aroma for this Balkan Mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Balkan Mixture.jpg",
+        "averageRating": 3.17,
+        "reviewCount": 109,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.6129032258065,
+                    "Very Mild": 1.6129032258065,
+                    "Mild": 9.6774193548387,
+                    "Mild to Medium": 38.709677419355,
+                    "Medium": 100.0,
+                    "Medium to Strong": 35.483870967742,
+                    "Strong": 8.0645161290323,
+                    "Very Strong": 1.6129032258065,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 26.785714285714,
+                    "Mild to Medium": 10.714285714286,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 5.3571428571429,
+                    "Very Strong": 1.7857142857143,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.25641025641,
+                    "Pleasant": 46.153846153846,
+                    "Very Pleasant": 5.1282051282051,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 92.307692307692,
+                    "Tolerable to Strong": 25.641025641026,
+                    "Strong": 20.512820512821,
+                    "Very Strong": 7.6923076923077,
+                    "Extra Strong": 2.5641025641026,
+                    "Overwhelming": 2.5641025641026
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.5,
+                    "Mild to Medium": 32.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 87.5,
+                    "Full": 47.5,
+                    "Very Full": 22.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.5
+                }
+            }
+        }
+    }
+}

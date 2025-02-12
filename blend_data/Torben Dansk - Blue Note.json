@@ -1,0 +1,78 @@
+{
+    "bluenote": {
+        "blender": "Torben Dansk",
+        "name": "Blue Note",
+        "blendType": "Aromatic",
+        "description": "Mild, golden Virginias, that possesses a naturally high sweetness, are mixed with a mild black cavendish. A fresh flavor of exotic fruits and a touch of bourbon vanilla is added to make this an extraordinarily mild blend.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 250 grams bulk",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Torben Dansk - Blue Note.jpg",
+        "averageRating": 2.71,
+        "reviewCount": 197,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.8333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 35.833333333333,
+                    "Medium": 17.5,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 5.9701492537313,
+                    "Very Mild": 1.4925373134328,
+                    "Mild": 22.388059701493,
+                    "Mild to Medium": 43.283582089552,
+                    "Medium": 62.686567164179,
+                    "Medium to Strong": 100.0,
+                    "Strong": 59.701492537313,
+                    "Very Strong": 25.373134328358,
+                    "Extra Strong": 5.9701492537313
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 1.7241379310345,
+                    "Pleasant": 52.586206896552,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 17.241379310345,
+                    "Tolerable": 5.1724137931034,
+                    "Tolerable to Strong": 3.448275862069,
+                    "Strong": 6.0344827586207,
+                    "Very Strong": 0.86206896551724,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.7241379310345
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 82.539682539683,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Full": 26.984126984127,
+                    "Full": 17.460317460317,
+                    "Very Full": 1.5873015873016,
+                    "Extra Full": 1.5873015873016,
+                    "Overwhelming": 3.1746031746032
+                }
+            }
+        }
+    }
+}

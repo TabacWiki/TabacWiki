@@ -1,0 +1,78 @@
+{
+    "yalemixture": {
+        "blender": "Cornell & Diehl",
+        "name": "Yale Mixture",
+        "blendType": "Virginia/Latakia",
+        "description": "If this were a wine it would be full bodied, rich but not sweet (like Cabernet Sauvignon).  An all natural Virginia based blend with Latakia. This is a re-creation of the legendary Carreras Craven's Mixture.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Yale Mixture.jpg",
+        "averageRating": 2.83,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.076923076923,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.0833333333333,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 57.894736842105,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 94.736842105263,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 26.315789473684,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 70.588235294118,
+                    "Medium": 100.0,
+                    "Medium to Full": 88.235294117647,
+                    "Full": 17.647058823529,
+                    "Very Full": 11.764705882353,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "marblekake": {
+        "blender": "Hearth & Home",
+        "name": "Marble Kake",
+        "blendType": "Straight Virginia",
+        "description": "A firmly-pressed crumble cake blend of bright and red Virginias, it comes as a solid cake which can be broken or sliced and rubbed-out, and the flavor changes depending upon how you prepare it. Knowledgeable Virginia fans often compare it to Hamborger Veermaster as a smooth, but tasty Virginia blend.",
+        "contents": "Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Marble Kake.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 3.448275862069,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 41.379310344828,
+                    "Mild to Medium": 100.0,
+                    "Medium": 55.172413793103,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 5.4545454545455,
+                    "Very Mild": 1.8181818181818,
+                    "Mild": 1.8181818181818,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 60.714285714286,
+                    "Tolerable": 42.857142857143,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.4074074074074,
+                    "Very Mild": 0.0,
+                    "Mild": 18.518518518519,
+                    "Mild to Medium": 70.37037037037,
+                    "Medium": 100.0,
+                    "Medium to Full": 14.814814814815,
+                    "Full": 3.7037037037037,
+                    "Very Full": 3.7037037037037,
+                    "Extra Full": 3.7037037037037,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "krumblekake": {
+        "blender": "Smokers' Haven",
+        "name": "Krumble Kake",
+        "blendType": "English",
+        "description": "So versatile you can carry a month's supply on you at all times. Choice Virginia, latakia and Turkish tobaccos blended and then compressed & sliced for the smoker who likes a rich taste but doesn't like to mess around.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin, 8 ounce foil pack",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Smokers' Haven - Krumble Kake.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 87.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 37.5,
+                    "Strong": 12.5,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 25.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Full": 81.818181818182,
+                    "Full": 27.272727272727,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "plumpuddingbourbonbarrelaged": {
+        "blender": "Seattle Pipe Club",
+        "name": "Plum Pudding Bourbon Barrel Aged",
+        "blendType": "Balkan",
+        "description": "Plum Pudding BOURBON BARREL AGED ~ How to improve upon perfection?  Sipping his favorite bourbon gave Master Blender Joe Lankford an idea.  World famous original Plum Pudding packed into charred oak Kentucky bourbon barrels, aged 30 days, pressed into cakes and crumble kake cut.  The result?  Heavenly marriage of spirits & the best Balkan blend ever made.  A chunk of bourbon barrel rests in every tin.  Complex, smoky, spicy and still positively addictive.  Plum Pudding Bourbon Barrel Aged is Joe\u2019s dream come true.  Enjoy the ingredients: Latakia, Turkish Orientals, Virginias, Cavendish and Perique.",
+        "contents": "Black Cavendish,  Cavendish,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Seattle Pipe Club - Plum Pudding Bourbon Barrel Aged.jpg",
+        "averageRating": 3.71,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 42.105263157895,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.789473684211,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 18.181818181818,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 63.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 90.0,
+                    "Tolerable": 90.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 10.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 11.764705882353,
+                    "Medium": 41.176470588235,
+                    "Medium to Full": 100.0,
+                    "Full": 11.764705882353,
+                    "Very Full": 11.764705882353,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

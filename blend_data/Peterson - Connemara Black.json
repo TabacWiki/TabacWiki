@@ -1,0 +1,78 @@
+{
+    "connemarablack": {
+        "blender": "Peterson",
+        "name": "Connemara Black",
+        "blendType": "Aromatic",
+        "description": "Peterson's Connemara Black is a different take on one of the most popular types of pipe tobacco - cherry aromatics. Soft, superb black cavendish is blended with mature, ripe Virginias, and accented with a singularly sweet and zesty cherry note. Cool enough to enjoy all day, Connemara Black has an outstanding room note that everyone will love.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "40 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Connemara Black.jpg",
+        "averageRating": 2.14,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 28.571428571429
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 60.0,
+                    "Full": 40.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

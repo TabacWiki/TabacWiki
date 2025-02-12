@@ -1,0 +1,78 @@
+{
+    "no.23blackberrybrandy": {
+        "blender": "Newminster",
+        "name": "No. 23 Blackberry Brandy",
+        "blendType": "Virginia/Burley",
+        "description": "Tobacco selection: Air-cured Burleys from Mexico and flue-cured Virginias from Brazil and USA. Sweet fruit taste perfectly balanced with brandy. A fine smoking blend on its own. Loose cut mixed with cut plug.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Unknown",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Newminster - No. 23 Blackberry Brandy.jpg",
+        "averageRating": 2.32,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 54.545454545455,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 9.0909090909091,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

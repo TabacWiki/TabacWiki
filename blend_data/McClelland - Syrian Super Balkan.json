@@ -1,0 +1,78 @@
+{
+    "syriansuperbalkan": {
+        "blender": "McClelland",
+        "name": "Syrian Super Balkan",
+        "blendType": "Balkan",
+        "description": "A lavishly flavorful Balkan blend using the finest dark frangrant, cool-smoking Syrian Latakia, and seasoned with top-grade Louisiana Perique. Rich and mellow.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Syrian Super Balkan.jpg",
+        "averageRating": 2.56,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 38.461538461538,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 7.6923076923077,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 77.777777777778,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 70.0,
+                    "Medium to Full": 70.0,
+                    "Full": 20.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

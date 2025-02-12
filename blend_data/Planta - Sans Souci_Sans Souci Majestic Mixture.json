@@ -1,0 +1,78 @@
+{
+    "sanssouci/sanssoucimajesticmixture": {
+        "blender": "Planta",
+        "name": "Sans Souci/Sans Souci Majestic Mixture",
+        "blendType": "Aromatic",
+        "description": "Epitome of a fine, exclusive mixture. The noble aroma exudes elegance and finesse. Comprised of bright high quality Virginia tobaccos of light strength, refined with ripe, dark black cavendish. Captivates by its gentle mildness, with tender fruity flavour.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 100 grams tin, bulk",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Planta - Sans Souci/Sans Souci Majestic Mixture.jpg",
+        "averageRating": 2.62,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 10.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

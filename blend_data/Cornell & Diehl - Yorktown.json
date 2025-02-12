@@ -1,0 +1,78 @@
+{
+    "yorktown": {
+        "blender": "Cornell & Diehl",
+        "name": "Yorktown",
+        "blendType": "Straight Virginia",
+        "description": "For Yorktown, the folks at Cornell & Diehl combine stoved red Virginia with bright Virginia and restoved it. Straight red Virginia is then added to this remarkable base for sweetness. The acme of mixtures for the Virginia purist!",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Yorktown.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 38.095238095238,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 2.3809523809524,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 70.588235294118,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 82.352941176471,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 26.315789473684,
+                    "Mild to Medium": 100.0,
+                    "Medium": 84.210526315789,
+                    "Medium to Full": 36.842105263158,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

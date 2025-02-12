@@ -1,0 +1,78 @@
+{
+    "frogmortonacrossthepond": {
+        "blender": "McClelland",
+        "name": "Frog Morton Across the Pond",
+        "blendType": "English",
+        "description": "Remarkably cool-smoking, delightfully fragrant. Frog Morton journeyed far across the pond to find the exotic components for this rich, smooth pipe tobacco blend enhanced with rare Syrian Latakia. He says it was worth the trip.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50g Tin, 100g Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Frog Morton Across the Pond.jpg",
+        "averageRating": 2.85,
+        "reviewCount": 140,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 8.9285714285714,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 56.521739130435,
+                    "Very Mild": 69.565217391304,
+                    "Mild": 65.217391304348,
+                    "Mild to Medium": 26.086956521739,
+                    "Medium": 17.391304347826,
+                    "Medium to Strong": 2.1739130434783,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.1739130434783
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 1.6949152542373,
+                    "Pleasant": 69.491525423729,
+                    "Very Pleasant": 16.949152542373,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.016949152542,
+                    "Tolerable to Strong": 13.559322033898,
+                    "Strong": 1.6949152542373,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.320754716981,
+                    "Very Mild": 20.754716981132,
+                    "Mild": 58.490566037736,
+                    "Mild to Medium": 100.0,
+                    "Medium": 64.150943396226,
+                    "Medium to Full": 33.962264150943,
+                    "Full": 5.6603773584906,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "maplestreet": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Maple Street",
+        "blendType": "Aromatic",
+        "description": "A fantastic blend of complementary ingredients: rum and maple applied to golden Virginia and mellow white burley. Perfect for fans of Mapleton or Rum & Maple.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Maple Street.jpg",
+        "averageRating": 2.94,
+        "reviewCount": 83,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 4.4444444444444,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 51.111111111111,
+                    "Medium": 20.0,
+                    "Medium to Strong": 4.4444444444444,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 7.1428571428571,
+                    "Extremely Mild": 3.5714285714286,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 53.571428571429,
+                    "Mild to Medium": 96.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 39.285714285714,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 3.5714285714286
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 97.5,
+                    "Pleasant to Tolerable": 22.5,
+                    "Tolerable": 2.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.5,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.5
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.8965517241379,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 79.310344827586,
+                    "Medium to Full": 13.793103448276,
+                    "Full": 6.8965517241379,
+                    "Very Full": 3.448275862069,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.8965517241379
+                }
+            }
+        }
+    }
+}

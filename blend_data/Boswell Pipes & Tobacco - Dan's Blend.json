@@ -1,0 +1,78 @@
+{
+    "dan'sblend": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Dan's Blend",
+        "blendType": "Aromatic",
+        "description": "A blend of Golden Virginias. Mild, nice blend. If  you like Virginias this is a wonderful smoke.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Dan's Blend.jpg",
+        "averageRating": 3.14,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 42.857142857143,
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 100.0,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 8.3333333333333,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "luxurynavyflake": {
+        "blender": "Peter Stokkebye",
+        "name": "Luxury Navy Flake",
+        "blendType": "Virginia/Perique",
+        "description": "Very mature Old Belt flue cured Virginias spiced with Louisiana perique.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Luxury Navy Flake.jpg",
+        "averageRating": 3.18,
+        "reviewCount": 249,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.6086956521739,
+                    "Very Mild": 8.695652173913,
+                    "Mild": 53.913043478261,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 13.04347826087,
+                    "Strong": 2.6086956521739,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.601503759398,
+                    "Very Mild": 26.315789473684,
+                    "Mild": 24.812030075188,
+                    "Mild to Medium": 7.5187969924812,
+                    "Medium": 6.015037593985,
+                    "Medium to Strong": 2.2556390977444,
+                    "Strong": 0.75187969924812,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.0816326530612,
+                    "Pleasant": 91.836734693878,
+                    "Very Pleasant": 12.244897959184,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 64.285714285714,
+                    "Tolerable to Strong": 6.1224489795918,
+                    "Strong": 4.0816326530612,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5871559633028,
+                    "Very Mild": 9.1743119266055,
+                    "Mild": 30.275229357798,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.559633027523,
+                    "Medium to Full": 29.357798165138,
+                    "Full": 8.256880733945,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.91743119266055,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

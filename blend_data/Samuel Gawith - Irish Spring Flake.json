@@ -1,0 +1,78 @@
+{
+    "irishspringflake": {
+        "blender": "Samuel Gawith",
+        "name": "Irish Spring Flake",
+        "blendType": "Virginia/Perique",
+        "description": "Irish Spring Pipe Tobacco by Samuel Gawith is Virginias blended with a touch of spicy Louisiana perique. The distinctive flavour comes from the old sherry barrels the perique matured in.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Samuel Gawith - Irish Spring Flake.jpg",
+        "averageRating": 3.35,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 80.0,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 71.428571428571,
+                    "Tolerable": 42.857142857143,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

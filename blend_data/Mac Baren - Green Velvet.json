@@ -1,0 +1,78 @@
+{
+    "greenvelvet": {
+        "blender": "Mac Baren",
+        "name": "Green Velvet",
+        "blendType": "Aromatic",
+        "description": "Black as night. Soft as velvet. Green Velvet, a new tobacco blend consists solely of fermented Virginia tobaccos. A unique pro-tobacco production technology gives a slightly glossy surface.\n\nDespite the dark colour of the velvet tobacco - a result of the fermentation process - it is soft, gentle and very 'tongue-friendly'. The tobacco burns slowly and develops more and more flavour and aroma.",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "",
+        "imagePath": "../blend_pictures/Mac Baren - Green Velvet.jpg",
+        "averageRating": 2.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 100.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 50.0
+                }
+            }
+        }
+    }
+}

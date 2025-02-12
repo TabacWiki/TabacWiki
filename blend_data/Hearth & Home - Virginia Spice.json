@@ -1,0 +1,78 @@
+{
+    "virginiaspice": {
+        "blender": "Hearth & Home",
+        "name": "Virginia Spice",
+        "blendType": "Other",
+        "description": "Virginia, perique, and cigar leaf. For the pipe smoker who really enjoys the clean, sweet spiciness of a mixture of matured Virginias, but who wants something a little different. The difference comes from the use of cool smoking perique for a bit of plum and pepper, with cigar leaf added for a hint of round richness.",
+        "contents": "Cigar Leaf,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin,  bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Virginia Spice.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.739130434783,
+                    "Mild to Medium": 30.434782608696,
+                    "Medium": 100.0,
+                    "Medium to Strong": 39.130434782609,
+                    "Strong": 8.695652173913,
+                    "Very Strong": 4.3478260869565,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 47.619047619048,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 23.809523809524,
+                    "Mild to Medium": 0.0,
+                    "Medium": 9.5238095238095,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 55.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.0,
+                    "Tolerable to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 52.941176470588,
+                    "Medium": 58.823529411765,
+                    "Medium to Full": 100.0,
+                    "Full": 41.176470588235,
+                    "Very Full": 5.8823529411765,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            }
+        }
+    }
+}

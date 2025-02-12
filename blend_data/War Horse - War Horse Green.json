@@ -1,0 +1,78 @@
+{
+    "warhorsegreen": {
+        "blender": "War Horse",
+        "name": "War Horse Green",
+        "blendType": "Virginia/Burley",
+        "description": "From P&C's web site: War Horse Green uses the same base tobaccos as War Horse Bar, but with a unique and decidedly more aromatic top note than the original. There are notes here similar to a number of European tobaccos, but made here in the US. Give this singular take on Euro-style blends a try. We think you'll be back time and again.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/War Horse - War Horse Green.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 55.555555555556,
+                    "Medium to Strong": 88.888888888889,
+                    "Strong": 100.0,
+                    "Very Strong": 22.222222222222,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 80.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 30.0,
+                    "Strong": 20.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 100.0,
+                    "Full": 80.0,
+                    "Very Full": 30.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

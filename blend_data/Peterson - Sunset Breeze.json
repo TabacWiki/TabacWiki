@@ -1,0 +1,78 @@
+{
+    "sunsetbreeze": {
+        "blender": "Peterson",
+        "name": "Sunset Breeze",
+        "blendType": "Aromatic",
+        "description": "This excellent mixture is a blend of first choice Virginia, burley and black cavendish. A promise for a unique smoking experiences which is crowned by a wonderful amaretto aroma.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Sunset Breeze.jpg",
+        "averageRating": 2.74,
+        "reviewCount": 178,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.8947368421053,
+                    "Very Mild": 23.684210526316,
+                    "Mild": 100.0,
+                    "Mild to Medium": 93.421052631579,
+                    "Medium": 28.947368421053,
+                    "Medium to Strong": 3.9473684210526,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 2.2988505747126,
+                    "Extremely Mild": 5.7471264367816,
+                    "Very Mild": 4.5977011494253,
+                    "Mild": 26.436781609195,
+                    "Mild to Medium": 26.436781609195,
+                    "Medium": 100.0,
+                    "Medium to Strong": 49.425287356322,
+                    "Strong": 8.0459770114943,
+                    "Very Strong": 4.5977011494253,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.247191011236,
+                    "Pleasant": 96.629213483146,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 11.23595505618,
+                    "Tolerable": 5.6179775280899,
+                    "Tolerable to Strong": 2.247191011236,
+                    "Strong": 2.247191011236,
+                    "Very Strong": 2.247191011236,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.594202898551,
+                    "Very Mild": 14.492753623188,
+                    "Mild": 62.31884057971,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 20.289855072464,
+                    "Full": 11.594202898551,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

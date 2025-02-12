@@ -1,0 +1,78 @@
+{
+    "plumcakemixture": {
+        "blender": "J. F. Germain & Son",
+        "name": "Plum Cake Mixture",
+        "blendType": "Virginia Based",
+        "description": "Blended from Virginia tobacco with dark cavendish and extra matured black cavendish. Flavoured with a delicate and barely discernable plum topping whose ingredients are known only to the owners of the company.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "shag",
+        "packaging": "50 grams tin, 50 grams pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Plum Cake Mixture.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 56,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 3.5714285714286,
+                    "Very Mild": 17.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 67.857142857143,
+                    "Medium": 32.142857142857,
+                    "Medium to Strong": 0.0,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 5.2631578947368,
+                    "Extremely Mild": 15.789473684211,
+                    "Very Mild": 31.578947368421,
+                    "Mild": 63.157894736842,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.947368421053,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 21.052631578947,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.809523809524,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 9.5238095238095,
+                    "Strong": 9.5238095238095,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 94.444444444444,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 0.0,
+                    "Very Full": 5.5555555555556,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

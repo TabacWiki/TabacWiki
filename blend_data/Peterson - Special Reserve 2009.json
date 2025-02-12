@@ -1,0 +1,78 @@
+{
+    "specialreserve2009": {
+        "blender": "Peterson",
+        "name": "Special Reserve 2009",
+        "blendType": "Aromatic",
+        "description": "This delightful blend consists of golden, reddish and dark Virginia sorts, delightfully refined with brown and some black cavendish. An irresistible aroma of sweetish white wine generates a wonderful smell.",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Peterson - Special Reserve 2009.jpg",
+        "averageRating": 2.85,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 75.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 71.428571428571,
+                    "Pleasant to Tolerable": 14.285714285714,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 75.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

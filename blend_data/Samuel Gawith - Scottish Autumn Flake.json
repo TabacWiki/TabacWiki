@@ -1,0 +1,78 @@
+{
+    "scottishautumnflake": {
+        "blender": "Samuel Gawith",
+        "name": "Scottish Autumn Flake",
+        "blendType": "Straight Virginia",
+        "description": "Scottish Autumn Pipe Tobacco by Samuel Gawith has the natural ripeness of the long-pressed Virginias. Along with the slow-burn this makes Scottish Autumn a most suitable flake for smoking on its own, or blending with other tobaccos.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Scottish Autumn Flake.jpg",
+        "averageRating": 3.73,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 100.0,
+                    "Medium": 89.473684210526,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 84.210526315789,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 21.052631578947,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 93.75,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 31.25,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 12.5,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 68.75,
+                    "Full": 18.75,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

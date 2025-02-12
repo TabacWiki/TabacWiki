@@ -1,0 +1,78 @@
+{
+    "canalboat": {
+        "blender": "Cornell & Diehl",
+        "name": "Canal Boat",
+        "blendType": "Burley Based",
+        "description": "A smooth blend of nutty cubed burley enhanced with Cyprian Latakia and sweetened black cavendish.",
+        "contents": "Black Cavendish,  Burley,  Latakia",
+        "cut": "Cube",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Canal Boat.jpg",
+        "averageRating": 2.57,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 87.5,
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 61.538461538462,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 7.6923076923077,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 69.230769230769,
+                    "Medium": 100.0,
+                    "Medium to Full": 23.076923076923,
+                    "Full": 7.6923076923077,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

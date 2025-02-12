@@ -1,0 +1,78 @@
+{
+    "norwegianblend(no.80)": {
+        "blender": "Peter Stokkebye",
+        "name": "Norwegian Blend (No.80)",
+        "blendType": "Virginia/Burley",
+        "description": "A quality blend consisting of milder Virginia tobaccos, some air cured burley and fine Oriental tobaccos.",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Norwegian Blend (No.80).jpg",
+        "averageRating": 2.96,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 81.818181818182,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.545454545455,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 23.529411764706,
+                    "Very Mild": 23.529411764706,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 0.0,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.545454545455,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

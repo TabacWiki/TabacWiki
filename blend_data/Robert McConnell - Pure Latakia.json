@@ -1,0 +1,78 @@
+{
+    "purelatakia": {
+        "blender": "Robert McConnell",
+        "name": "Pure Latakia",
+        "blendType": "Other",
+        "description": "Best Cyprian tobacco for blending. Intended for blending.",
+        "contents": "Latakia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Pure Latakia.jpg",
+        "averageRating": 3.71,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 15.0,
+                    "Very Strong": 5.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.6315789473684,
+                    "Medium": 2.6315789473684,
+                    "Medium to Strong": 2.6315789473684,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 26.666666666667,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 73.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 13.333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 46.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 73.333333333333,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 13.333333333333,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

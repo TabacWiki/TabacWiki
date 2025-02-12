@@ -1,0 +1,78 @@
+{
+    "apricots&cream": {
+        "blender": "Cornell & Diehl",
+        "name": "Apricots & Cream",
+        "blendType": "Aromatic",
+        "description": "An all black mixture of unsweetened black Cavendish and Green River Vanilla, flavored with apricot brandy for a most mild smoke. (The ladies like the aroma. It's been called a \"marriage saver!\")",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Apricots & Cream.jpg",
+        "averageRating": 2.6,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 17.857142857143,
+                    "Medium": 21.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 3.5714285714286,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 23.076923076923,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 38.461538461538,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 100.0,
+                    "Medium to Strong": 61.538461538462,
+                    "Strong": 61.538461538462,
+                    "Very Strong": 15.384615384615,
+                    "Extra Strong": 7.6923076923077
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.3333333333333,
+                    "Pleasant": 26.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 13.333333333333,
+                    "Tolerable": 3.3333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 3.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 20.0,
+                    "Full": 13.333333333333,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

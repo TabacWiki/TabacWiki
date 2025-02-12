@@ -1,0 +1,78 @@
+{
+    "mixture:scottishblend": {
+        "blender": "Mac Baren",
+        "name": "Mixture: Scottish Blend",
+        "blendType": "Aromatic",
+        "description": "A mild and lightly aromatic Scottish Blend, manufactured from ready rubbed, matured Virginia tobaccos, golden brown burley, cavendish and loose, ripe Virginia. Mixture is one of the most popular pipe tobaccos in the world, and is the leading brand tax free, a position which Mixture has been able to maintain through decades.",
+        "contents": "Burley, Cavendish, Kentucky, Virginia",
+        "cut": "Mixture",
+        "packaging": "200 grams tin weight, 200 grams pouch weight, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Mixture: Scottish Blend.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 369,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 10.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 98.125,
+                    "Medium": 36.25,
+                    "Medium to Strong": 4.375,
+                    "Strong": 0.625,
+                    "Very Strong": 0.625,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 10.179640718563,
+                    "Extremely Mild": 19.161676646707,
+                    "Very Mild": 34.730538922156,
+                    "Mild": 100.0,
+                    "Mild to Medium": 48.502994011976,
+                    "Medium": 25.748502994012,
+                    "Medium to Strong": 5.9880239520958,
+                    "Strong": 1.1976047904192,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.5918367346939,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 51.530612244898,
+                    "Tolerable": 24.489795918367,
+                    "Tolerable to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.6666666666667,
+                    "Very Mild": 10.0,
+                    "Mild": 49.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 17.333333333333,
+                    "Full": 7.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.66666666666667
+                }
+            }
+        }
+    }
+}

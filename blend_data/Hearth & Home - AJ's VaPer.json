@@ -1,0 +1,78 @@
+{
+    "aj'svaper": {
+        "blender": "Hearth & Home",
+        "name": "AJ's VaPer",
+        "blendType": "Virginia/Perique",
+        "description": "A Virginia/perique consisting of red Virginias combined with a generous portion of perique and some Green River black Cavendish.",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - AJ's VaPer.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 3.5714285714286,
+                    "Medium": 3.5714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 93.75,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 45.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 29.166666666667,
+                    "Full": 4.1666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

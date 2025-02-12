@@ -1,0 +1,78 @@
+{
+    "7seasblackblend": {
+        "blender": "Mac Baren",
+        "name": "7 Seas Black Blend",
+        "blendType": "Aromatic",
+        "description": "Virginia blend, toasted to a deep black color. Has a sweet but complex aroma and flavor.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight, 100 grams pouch weight, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - 7 Seas Black Blend.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 17.391304347826,
+                    "Very Mild": 21.739130434783,
+                    "Mild": 100.0,
+                    "Mild to Medium": 34.782608695652,
+                    "Medium": 8.695652173913,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.6666666666667,
+                    "Extremely Mild": 13.333333333333,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 60.0,
+                    "Mild to Medium": 53.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 6.6666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 46.153846153846,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 15.384615384615,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 80.0,
+                    "Mild to Medium": 73.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

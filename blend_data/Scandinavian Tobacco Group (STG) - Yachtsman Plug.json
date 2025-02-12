@@ -1,0 +1,78 @@
+{
+    "yachtsmanplug": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Yachtsman Plug",
+        "blendType": "Aromatic",
+        "description": "A very traditional style of pipe tobacco presentation providing a link with established craftsmanship of Irish tobacco blenders. Expensive top quality heavy bodied flue cured Virginias are purchased from established leaf auctions in Africa and Brazil. To this full natural flavoured tobacco is added aromatic burley to balance and smooth the blend. Conditioned with water, the blend is slowly pressed in large steam presses for several days to meld the rich and varied aromas. The cakes are then divided into plug form, allowing the smoker to cut it and rub it out to his own preference.",
+        "contents": "Burley,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Yachtsman Plug.jpg",
+        "averageRating": 3.18,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 100.0,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 80.0,
+                    "Very Mild": 80.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 62.5,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

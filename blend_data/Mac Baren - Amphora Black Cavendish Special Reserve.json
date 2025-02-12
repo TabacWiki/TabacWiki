@@ -1,0 +1,78 @@
+{
+    "amphorablackcavendishspecialreserve": {
+        "blender": "Mac Baren",
+        "name": "Amphora Black Cavendish Special Reserve",
+        "blendType": "Aromatic",
+        "description": "Black Cavendish is a rich superior blend of the finest double fermented dark and spicy tobaccos. Blended for the connoisseur. Finest Virginia tobaccos are double fermented to produce a rich, dark tobacco which combines perfectly with the amber tones of the burley, Oriental, and Kentucky leaf. The result is a finely balanced blend with a luxurious slow burn and a full bodied and spicy bouquet.",
+        "contents": "Black Cavendish, Burley, Kentucky, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Amphora Black Cavendish Special Reserve.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.5714285714286,
+                    "Mild": 46.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.714285714286,
+                    "Medium to Strong": 10.714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 3.5714285714286,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.25,
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 6.25,
+                    "Mild": 68.75,
+                    "Mild to Medium": 93.75,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 12.5,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.1666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 29.166666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 4.1666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.5238095238095,
+                    "Very Mild": 0.0,
+                    "Mild": 19.047619047619,
+                    "Mild to Medium": 100.0,
+                    "Medium": 76.190476190476,
+                    "Medium to Full": 38.095238095238,
+                    "Full": 23.809523809524,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

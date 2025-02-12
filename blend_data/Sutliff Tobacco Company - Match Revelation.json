@@ -1,0 +1,78 @@
+{
+    "matchrevelation": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Match Revelation",
+        "blendType": "American",
+        "description": "This is a match to House of Windsor \"Revelation.\" The original was one of Albert Einstein's favorites, and this blend captures the essential character of the old classic, combining yellow and red Virginias, cube cut Burley, smoky latakia and zesty Perique with a soft, dark fruit top note.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Revelation.jpg",
+        "averageRating": 2.8,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 5.5555555555556,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 35.714285714286,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 93.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

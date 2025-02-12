@@ -1,0 +1,78 @@
+{
+    "earlyday": {
+        "blender": "Villiger",
+        "name": "Early Day",
+        "blendType": "English",
+        "description": "Mature Golden Virginia blended with oriental leaf and latakia from the Balkan Region.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50g Tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Villiger - Early Day.jpg",
+        "averageRating": 3.08,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 77.777777777778,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

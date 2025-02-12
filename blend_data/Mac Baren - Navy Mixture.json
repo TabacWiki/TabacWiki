@@ -1,0 +1,78 @@
+{
+    "navymixture": {
+        "blender": "Mac Baren",
+        "name": "Navy Mixture",
+        "blendType": "Aromatic",
+        "description": "An exclusive and satisfying blend, manufactured from high class, full ripe Virginia and matured burley tobaccos, rounded by a tasty, dark cavendish.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Mac Baren - Navy Mixture.jpg",
+        "averageRating": 2.56,
+        "reviewCount": 30,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 25.0,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 18.181818181818,
+                    "Extremely Mild": 36.363636363636,
+                    "Very Mild": 72.727272727273,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 42.857142857143,
+                    "Tolerable": 4.7619047619048,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 55.555555555556,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Full": 44.444444444444,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

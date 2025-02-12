@@ -1,0 +1,78 @@
+{
+    "solentmixture": {
+        "blender": "Mac Baren",
+        "name": "Solent Mixture",
+        "blendType": "English",
+        "description": "A fine composition of choice Virginias with a fully ripe cavendish and Syrian latakia, giving this classical mixture its satisfying taste. Solent is specially manufactured from quality selected tobaccos.",
+        "contents": "Burley, Cavendish, Latakia, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Solent Mixture.jpg",
+        "averageRating": 3.16,
+        "reviewCount": 50,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 11.538461538462,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.076923076923,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 27.777777777778,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.111111111111,
+                    "Medium": 50.0,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 76.190476190476,
+                    "Very Pleasant": 9.5238095238095,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.904761904762,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 3.448275862069,
+                    "Mild to Medium": 37.931034482759,
+                    "Medium": 100.0,
+                    "Medium to Full": 27.586206896552,
+                    "Full": 17.241379310345,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.448275862069,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

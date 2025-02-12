@@ -1,0 +1,78 @@
+{
+    "readyrubbed(re-release)": {
+        "blender": "Dunhill",
+        "name": "Ready Rubbed (re-release)",
+        "blendType": "Aromatic",
+        "description": "Dunhill Ready Rubbed pipe tobacco is a mixture of mature, flue-cured leaves from the USA, Brazil and Africa are blended with sun-cured and smoky fired tobaccos from Indonesia and India. These are then pressed into cavendish and topped with a subtle flavour.",
+        "contents": "Oriental/Turkish, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin weight",
+        "country": "Denmark",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Dunhill - Ready Rubbed (re-release).jpg",
+        "averageRating": 2.94,
+        "reviewCount": 45,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 89.473684210526,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.631578947368,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 60.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 46.666666666667,
+                    "Mild": 80.0,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 54.166666666667,
+                    "Tolerable": 20.833333333333,
+                    "Tolerable to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

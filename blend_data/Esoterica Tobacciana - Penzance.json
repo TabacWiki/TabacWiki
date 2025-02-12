@@ -1,0 +1,78 @@
+{
+    "penzance": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Penzance",
+        "blendType": "Balkan",
+        "description": "A wonderful complex secret recipe of the finest Virginia, choice Turkish and Orientals and Cyprian latakia, all hand blended together, hard pressed and broad cut into thick flakes. Long matured and easily crumbled to facilitate pipe filling.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Penzance.jpg",
+        "averageRating": 3.48,
+        "reviewCount": 418,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 3.1390134529148,
+                    "Very Mild": 2.6905829596413,
+                    "Mild": 13.452914798206,
+                    "Mild to Medium": 35.42600896861,
+                    "Medium": 100.0,
+                    "Medium to Strong": 39.461883408072,
+                    "Strong": 11.210762331839,
+                    "Very Strong": 2.2421524663677,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.89686098654709
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 29.056603773585,
+                    "Very Mild": 11.698113207547,
+                    "Mild": 14.339622641509,
+                    "Mild to Medium": 5.6603773584906,
+                    "Medium": 7.1698113207547,
+                    "Medium to Strong": 3.7735849056604,
+                    "Strong": 2.2641509433962,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.5094339622642
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 1.3513513513514,
+                    "Pleasant": 40.540540540541,
+                    "Very Pleasant": 9.4594594594595,
+                    "Pleasant to Tolerable": 72.297297297297,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.675675675676,
+                    "Strong": 22.972972972973,
+                    "Very Strong": 10.135135135135,
+                    "Extra Strong": 2.027027027027,
+                    "Overwhelming": 4.7297297297297
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.6231884057971,
+                    "Very Mild": 2.8985507246377,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 27.536231884058,
+                    "Medium": 60.144927536232,
+                    "Medium to Full": 100.0,
+                    "Full": 90.579710144928,
+                    "Very Full": 34.057971014493,
+                    "Extra Full": 2.8985507246377,
+                    "Overwhelming": 6.5217391304348
+                }
+            }
+        }
+    }
+}

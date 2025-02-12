@@ -1,0 +1,78 @@
+{
+    "backdownsouth": {
+        "blender": "BriarWorks International",
+        "name": "Back Down South",
+        "blendType": "Virginia/Perique",
+        "description": "Travel down south with BriarWorks' Back Down South, a hearty Virginia-Perique Flake that's perfect for front-porch sittin'. With flavors of figs, dark chocolate, and a slight peppery spice, this one is sure to satisfy any lover of Virginia/Perique blends.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce jar",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/BriarWorks International - Back Down South.jpg",
+        "averageRating": 2.68,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 80.0,
+                    "Very Mild": 80.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 62.5,
+                    "Medium": 62.5,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "navyflake": {
+        "blender": "Mac Baren",
+        "name": "Navy Flake",
+        "blendType": "Burley Based",
+        "description": "Carefully selected Burley, Virginia and the original Mac Baren Cavendish have been pressed and stored for weeks before being cut into slices. The pressing process ensures a slow burning tobacco.",
+        "contents": "Burley, Cavendish, Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Navy Flake.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 307,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.112676056338,
+                    "Very Mild": 5.6338028169014,
+                    "Mild": 34.507042253521,
+                    "Mild to Medium": 100.0,
+                    "Medium": 81.69014084507,
+                    "Medium to Strong": 11.267605633803,
+                    "Strong": 3.5211267605634,
+                    "Very Strong": 2.112676056338,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.2,
+                    "Extremely Mild": 19.2,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.4,
+                    "Medium": 34.4,
+                    "Medium to Strong": 8.0,
+                    "Strong": 2.4,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.906976744186,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.93023255814,
+                    "Pleasant to Tolerable": 51.162790697674,
+                    "Tolerable": 20.348837209302,
+                    "Tolerable to Strong": 2.906976744186,
+                    "Strong": 0.0,
+                    "Very Strong": 0.58139534883721,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0420168067227,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 26.890756302521,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 34.453781512605,
+                    "Full": 12.605042016807,
+                    "Very Full": 1.6806722689076,
+                    "Extra Full": 0.84033613445378,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1m": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "1M",
+        "blendType": "Aromatic",
+        "description": "A blend of burley, Virginia and world famous Green River black cavendish, expertly blended for the utmost in taste then topped with a secret flavoring recipe to achieve outstanding flavor and aroma.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz, 8oz, 1lb, 5lb",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - 1M.jpg",
+        "averageRating": 2.46,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 55.555555555556,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 83.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 53.846153846154,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.769230769231,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

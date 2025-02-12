@@ -1,0 +1,78 @@
+{
+    "pensionersmixture": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Pensioners Mixture",
+        "blendType": "Aromatic",
+        "description": "This blend is made from 'a little bit of everything' , the bits and pieces of tobacco left over throughout the manufacturing process. Flavoured with an aromatic scent. The blend does vary from time to time.\n\nOne to try, a great mild to medium smoke.",
+        "contents": "Unknown",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Pensioners Mixture.jpg",
+        "averageRating": 2.5,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 33.333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

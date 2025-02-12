@@ -1,0 +1,78 @@
+{
+    "briarfox": {
+        "blender": "Cornell & Diehl",
+        "name": "Briar Fox",
+        "blendType": "Virginia Based",
+        "description": "An exceptionally smooth crumble cake of Virginias and burleys.",
+        "contents": "Burley,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Briar Fox.jpg",
+        "averageRating": 3.01,
+        "reviewCount": 162,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.1111111111111,
+                    "Very Mild": 2.2222222222222,
+                    "Mild": 10.0,
+                    "Mild to Medium": 43.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.777777777778,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 1.1111111111111,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.428571428571,
+                    "Very Mild": 5.7142857142857,
+                    "Mild": 9.2857142857143,
+                    "Mild to Medium": 1.4285714285714,
+                    "Medium": 1.4285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.1538461538462,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 6.1538461538462,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 78.461538461538,
+                    "Tolerable to Strong": 26.153846153846,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0632911392405,
+                    "Very Mild": 3.7974683544304,
+                    "Mild": 8.8607594936709,
+                    "Mild to Medium": 43.037974683544,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.696202531646,
+                    "Full": 12.658227848101,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

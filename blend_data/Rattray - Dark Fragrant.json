@@ -1,0 +1,78 @@
+{
+    "darkfragrant": {
+        "blender": "Rattray",
+        "name": "Dark Fragrant",
+        "blendType": "Cavendish Based",
+        "description": "Dark Fragrant encompasses the need to relax. Rich in flavor, smooth in body, a high proportion of black cavendish is seasoned with a pinch of perique to enhance this sublime mixture.",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Dark Fragrant.jpg",
+        "averageRating": 2.81,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 8.8235294117647,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.764705882353,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 52.0,
+                    "Very Mild": 60.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 4.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.5555555555556,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 55.555555555556,
+                    "Tolerable": 27.777777777778,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.695652173913,
+                    "Very Mild": 30.434782608696,
+                    "Mild": 73.913043478261,
+                    "Mild to Medium": 95.652173913043,
+                    "Medium": 100.0,
+                    "Medium to Full": 13.04347826087,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

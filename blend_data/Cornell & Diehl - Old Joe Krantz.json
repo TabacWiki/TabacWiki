@@ -1,0 +1,78 @@
+{
+    "oldjoekrantz": {
+        "blender": "Cornell & Diehl",
+        "name": "Old Joe Krantz",
+        "blendType": "Burley Based",
+        "description": "Ribbon and coarse cut burleys, perique and red Virginia. Shades of brown with the characteristic mustiness of perique.",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Old Joe Krantz.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 187,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 1.1904761904762,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 100.0,
+                    "Strong": 67.857142857143,
+                    "Very Strong": 26.190476190476,
+                    "Extremely Strong": 5.952380952381,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.429447852761,
+                    "Very Mild": 5.521472392638,
+                    "Mild": 3.0674846625767,
+                    "Mild to Medium": 1.2269938650307,
+                    "Medium": 3.680981595092,
+                    "Medium to Strong": 3.0674846625767,
+                    "Strong": 0.0,
+                    "Very Strong": 0.61349693251534,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.5974025974026,
+                    "Pleasant": 31.168831168831,
+                    "Very Pleasant": 5.1948051948052,
+                    "Pleasant to Tolerable": 51.948051948052,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 42.857142857143,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 5.1948051948052,
+                    "Extra Strong": 1.2987012987013,
+                    "Overwhelming": 2.5974025974026
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 1.4285714285714,
+                    "Mild": 5.7142857142857,
+                    "Mild to Medium": 8.5714285714286,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 94.285714285714,
+                    "Very Full": 25.714285714286,
+                    "Extra Full": 5.7142857142857,
+                    "Overwhelming": 5.7142857142857
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "amphoramellowblend": {
+        "blender": "Mac Baren",
+        "name": "Amphora Mellow Blend",
+        "blendType": "Aromatic",
+        "description": "A popular blend of fine tobacco with a suggestion of mint and balsam. Enjoyably mellow. The blond character of the finest Oriental leaf is enhanced with the lightest hint of mint and rounded off with choice burley, Kentucky, and Virginia leaf.",
+        "contents": "Burley, Kentucky, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Amphora Mellow Blend.jpg",
+        "averageRating": 2.19,
+        "reviewCount": 14,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 50.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

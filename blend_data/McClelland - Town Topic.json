@@ -1,0 +1,78 @@
+{
+    "towntopic": {
+        "blender": "McClelland",
+        "name": "Town Topic",
+        "blendType": "Aromatic",
+        "description": "Delightfully fragrant in the room, soft on the palate, this smooth blend has long-lasting good taste. Delicately maple flavored in a time-honored tradition for a smoke that's the talk of the town.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "50g Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Town Topic.jpg",
+        "averageRating": 3.04,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 15.625,
+                    "Medium": 3.125,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.75,
+                    "Strong": 18.75,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 58.620689655172,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 3.448275862069,
+                    "Tolerable": 3.448275862069,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 100.0,
+                    "Mild to Medium": 63.157894736842,
+                    "Medium": 57.894736842105,
+                    "Medium to Full": 15.789473684211,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

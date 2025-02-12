@@ -1,0 +1,78 @@
+{
+    "darkflakescented": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Dark Flake Scented",
+        "blendType": "Aromatic",
+        "description": "This flake is a blend of dark fired Virginias, and Indian air cured tobaccos. This is the same strong, full-bodied tobacco leaf that comprises unflavored Dark Flake, but seasoned with the addition of traditional British flavorings, as well as tonquin, maple, and licorice. Designed for those experienced smokers who want the full strength of Dark Flake but enjoy a more traditionally flavored British Flake.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Dark Flake Scented.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 4.3478260869565,
+                    "Medium": 8.695652173913,
+                    "Medium to Strong": 43.478260869565,
+                    "Strong": 100.0,
+                    "Very Strong": 56.521739130435,
+                    "Extremely Strong": 8.695652173913,
+                    "Overwhelming": 8.695652173913
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 6.6666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 26.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 60.0,
+                    "Very Strong": 40.0,
+                    "Extra Strong": 13.333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 73.333333333333,
+                    "Tolerable to Strong": 53.333333333333,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.1666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 100.0,
+                    "Very Full": 75.0,
+                    "Extra Full": 12.5,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

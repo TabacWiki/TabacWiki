@@ -1,0 +1,78 @@
+{
+    "763:whiteandblack": {
+        "blender": "Solani",
+        "name": "763: White and Black",
+        "blendType": "Virginia Based",
+        "description": "A delicious flake with dark Virginia, black cavendish and Syrian latakia.",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Solani - 763: White and Black.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.4390243902439,
+                    "Very Mild": 2.4390243902439,
+                    "Mild": 9.7560975609756,
+                    "Mild to Medium": 46.341463414634,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.7560975609756,
+                    "Strong": 7.3170731707317,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 2.4390243902439,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 81.25,
+                    "Very Mild": 93.75,
+                    "Mild": 93.75,
+                    "Mild to Medium": 37.5,
+                    "Medium": 43.75,
+                    "Medium to Strong": 0.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 53.846153846154,
+                    "Very Pleasant": 11.538461538462,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 19.230769230769,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.4054054054054,
+                    "Very Mild": 0.0,
+                    "Mild": 8.1081081081081,
+                    "Mild to Medium": 21.621621621622,
+                    "Medium": 100.0,
+                    "Medium to Full": 48.648648648649,
+                    "Full": 13.513513513514,
+                    "Very Full": 2.7027027027027,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

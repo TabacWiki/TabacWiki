@@ -1,0 +1,78 @@
+{
+    "sixpence": {
+        "blender": "G. L. Pease",
+        "name": "Sixpence",
+        "blendType": "Virginia/Perique",
+        "description": "You enter the dark paneled room, its walls lined with ancient books. An antique table stands beside a leather club chair. Upon it, next to a small silver coin, an open tobacco tin entices you with an aroma deep, rich, authentic. You fill your bowl, strike a match. The first puff stops time as the smoky magic weaves its spell...  Sixpence. The mystery continues.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2 oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Sixpence.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 44.117647058824,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 52.941176470588,
+                    "Extremely Mild": 64.705882352941,
+                    "Very Mild": 100.0,
+                    "Mild": 94.117647058824,
+                    "Mild to Medium": 35.294117647059,
+                    "Medium": 47.058823529412,
+                    "Medium to Strong": 11.764705882353,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 16.0,
+                    "Pleasant": 72.0,
+                    "Very Pleasant": 8.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 72.0,
+                    "Tolerable to Strong": 12.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 19.230769230769,
+                    "Mild to Medium": 34.615384615385,
+                    "Medium": 100.0,
+                    "Medium to Full": 80.769230769231,
+                    "Full": 26.923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.8461538461538,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

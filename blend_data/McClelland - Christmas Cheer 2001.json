@@ -1,0 +1,78 @@
+{
+    "christmascheer2001": {
+        "blender": "McClelland",
+        "name": "Christmas Cheer 2001",
+        "blendType": "Straight Virginia",
+        "description": "Hand-blended, premium pressed Virginia flake tobaccos. A fine vintage, naturally sweet, in limited quantity.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams or 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Christmas Cheer 2001.jpg",
+        "averageRating": 3.35,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "anthology2023": {
+        "blender": "Cornell & Diehl",
+        "name": "Anthology 2023",
+        "blendType": "Straight Virginia",
+        "description": "ANTHOLOGY: 2023 is a celebration and personification of 31 years of passion and expertise. This special-edition blend highlights some of our signature techniques paired with some of our favorite components - including 2013 Steamed Virginia Red, 2019 & 2022 North Carolina Reds, and 2019 Georgia Reds. The result is a unique approach to the Virginia family, delivering a naturally sweet and tangy sourdough profile with notes of earth, crushed allspice, black currant, and rich dark molasses.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "2 oz tin weight",
+        "country": "United States",
+        "production": "-- Unknown --",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Anthology 2023.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

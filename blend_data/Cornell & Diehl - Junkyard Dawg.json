@@ -1,0 +1,78 @@
+{
+    "junkyarddawg": {
+        "blender": "Cornell & Diehl",
+        "name": "Junkyard Dawg",
+        "blendType": "American",
+        "description": "A revival of a classic American blend that smokers of 30 years ago will instantly recognize. Contains burleys, Latakia and bright Virginia.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Mixture",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Junkyard Dawg.jpg",
+        "averageRating": 3.27,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.0,
+                    "Mild to Medium": 4.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 31.578947368421,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 63.157894736842,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 10.526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 93.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.75,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 6.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

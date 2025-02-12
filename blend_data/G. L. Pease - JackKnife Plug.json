@@ -1,0 +1,78 @@
+{
+    "jackknifeplug": {
+        "blender": "G. L. Pease",
+        "name": "JackKnife Plug",
+        "blendType": "Virginia/Burley",
+        "description": "JackKnife Plug: dark-fired Kentucky leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2 ounce blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Plug",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - JackKnife Plug.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 136,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 3.2786885245902,
+                    "Very Mild": 0.0,
+                    "Mild": 3.2786885245902,
+                    "Mild to Medium": 1.6393442622951,
+                    "Medium": 36.065573770492,
+                    "Medium to Strong": 100.0,
+                    "Strong": 80.327868852459,
+                    "Very Strong": 22.950819672131,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.6393442622951
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.084033613445,
+                    "Very Mild": 5.0420168067227,
+                    "Mild": 4.2016806722689,
+                    "Mild to Medium": 1.6806722689076,
+                    "Medium": 0.84033613445378,
+                    "Medium to Strong": 1.6806722689076,
+                    "Strong": 3.3613445378151,
+                    "Very Strong": 0.84033613445378,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 42.307692307692,
+                    "Very Pleasant": 13.461538461538,
+                    "Pleasant to Tolerable": 61.538461538462,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 34.615384615385,
+                    "Strong": 26.923076923077,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 1.9230769230769,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.9230769230769,
+                    "Very Mild": 1.9230769230769,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 11.538461538462,
+                    "Medium": 51.923076923077,
+                    "Medium to Full": 96.153846153846,
+                    "Full": 100.0,
+                    "Very Full": 17.307692307692,
+                    "Extra Full": 3.8461538461538,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

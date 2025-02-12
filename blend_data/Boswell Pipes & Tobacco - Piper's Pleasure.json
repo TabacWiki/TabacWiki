@@ -1,0 +1,78 @@
+{
+    "piper'spleasure": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Piper's Pleasure",
+        "blendType": "Aromatic",
+        "description": "Piper's Pleasure- Aroma - one of the most important aspects of any smoking tobacco. Perfect burning quality. Rich flavors of chocolate, vanilla, coffee, and a mild sweetness.  A mild, slow burning, cool smoke.",
+        "contents": "Black Cavendish, Burley",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Piper's Pleasure.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 4.5454545454545,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.363636363636,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 88.235294117647,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 5.8823529411765,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 35.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 21.428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

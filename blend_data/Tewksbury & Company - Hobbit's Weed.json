@@ -1,0 +1,78 @@
+{
+    "hobbit'sweed": {
+        "blender": "Tewksbury & Company",
+        "name": "Hobbit's Weed",
+        "blendType": "Aromatic",
+        "description": "This is a full-flavored blend with fire-cured Cavendish added for mellowing the robust king of Burley tobaccos. Then we added mild Cherry flavoring and a dash of Vanilla for a semi-sweet, pleasant, slow burning smoke. Our #1 selling blend.",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Tewksbury & Company - Hobbit's Weed.jpg",
+        "averageRating": 3.43,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 34.285714285714,
+                    "Medium": 11.428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 38.095238095238,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 57.142857142857,
+                    "Strong": 19.047619047619,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 4.7619047619048
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 24.444444444444,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.6666666666667,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 4.4444444444444,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 35.483870967742,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.709677419355,
+                    "Medium to Full": 9.6774193548387,
+                    "Full": 9.6774193548387,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.2258064516129
+                }
+            }
+        }
+    }
+}

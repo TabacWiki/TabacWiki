@@ -1,0 +1,78 @@
+{
+    "darkflakearomatic": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Dark Flake Aromatic",
+        "blendType": "Aromatic",
+        "description": "A very strong, but very cool smoke is the result of combining in equal proportions only Malawi Dark Fired Leaf and Indian dark air-cured leaf. After maturing through processing and stoving, Gawith Hoggarth applies the traditional British flavors of licorice, maple and tonquin bean.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Dark Flake Aromatic.jpg",
+        "averageRating": 3.83,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 100.0,
+                    "Very Strong": 70.0,
+                    "Extremely Strong": 20.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 37.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 66.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 45.454545454545,
+                    "Full": 100.0,
+                    "Very Full": 54.545454545455,
+                    "Extra Full": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "abacus": {
+        "blender": "Cult",
+        "name": "Abacus",
+        "blendType": "Aromatic",
+        "description": "Introducing the next entry in the Cult pipe tobacco lineup - Cult Abacus. After the incredible success of Blood Red Moon last year, people were wondering what Cult would do as a follow up. The answer is Abacus, a smooth, easy smoking blend of especially mild burleys, zesty Virginias and steamed black cavendish with a soft and warm combination of cocoa, vanilla and hazelnut for a mellow, intriguing flavor and a crowd-pleasing room note.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.75 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cult - Abacus.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 9.0909090909091
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 88.888888888889,
+                    "Pleasant to Tolerable": 11.111111111111,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            }
+        }
+    }
+}

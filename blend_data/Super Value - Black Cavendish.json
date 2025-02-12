@@ -1,0 +1,78 @@
+{
+    "blackcavendish": {
+        "blender": "Super Value",
+        "name": "Black Cavendish",
+        "blendType": "Aromatic",
+        "description": "Black Cavendish is a pleasant medium-strength blend of slowly-steamed Black Cavendish tobaccos with a lovely aroma, one that can be smoked all day.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12-oz. Bag, 1.5-oz. Pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Super Value - Black Cavendish.jpg",
+        "averageRating": 2.0,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.789473684211,
+                    "Very Mild": 26.315789473684,
+                    "Mild": 100.0,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 10.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 20.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 58.333333333333,
+                    "Pleasant to Tolerable": 58.333333333333,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 10.0,
+                    "Medium to Full": 10.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

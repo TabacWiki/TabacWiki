@@ -1,0 +1,78 @@
+{
+    "naturalblend": {
+        "blender": "Smoker's Pride",
+        "name": "Natural Blend",
+        "blendType": "Burley Based",
+        "description": "A mild, satisfying blend of quality tobaccos.",
+        "contents": "Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Smoker's Pride - Natural Blend.jpg",
+        "averageRating": 2.05,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 62.5,
+                    "Very Mild": 62.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 45.454545454545,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 0.0,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 71.428571428571,
+                    "Very Mild": 85.714285714286,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            }
+        }
+    }
+}

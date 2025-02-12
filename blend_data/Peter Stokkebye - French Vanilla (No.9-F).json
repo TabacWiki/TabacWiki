@@ -1,0 +1,78 @@
+{
+    "frenchvanilla(no.9-f)": {
+        "blender": "Peter Stokkebye",
+        "name": "French Vanilla (No.9-F)",
+        "blendType": "Aromatic",
+        "description": "Developed and processed with similar leaf tobacco as the Vanilla Creme. Twice as much vanilla flavor has been added to provide a higher aroma and slightly sweeter taste.",
+        "contents": "Cavendish",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - French Vanilla (No.9-F).jpg",
+        "averageRating": 2.07,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 100.0,
+                    "Mild to Medium": 35.294117647059,
+                    "Medium": 11.764705882353,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 42.857142857143,
+                    "Extra Strong": 14.285714285714
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 58.333333333333,
+                    "Pleasant to Tolerable": 41.666666666667,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 0.0,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

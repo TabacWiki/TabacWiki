@@ -1,0 +1,78 @@
+{
+    "clanaromatic(original)": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Clan Aromatic (Original)",
+        "blendType": "Aromatic",
+        "description": "A blend of 14 different tobaccos. Mild, cool and slow burning with unique aromatic qualities.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Kentucky,  Maryland,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Clan Aromatic (Original).jpg",
+        "averageRating": 2.06,
+        "reviewCount": 161,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 8.4507042253521,
+                    "Very Mild": 21.12676056338,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.788732394366,
+                    "Medium": 45.070422535211,
+                    "Medium to Strong": 7.0422535211268,
+                    "Strong": 5.6338028169014,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 11.363636363636,
+                    "Extremely Mild": 20.454545454545,
+                    "Very Mild": 29.545454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 95.454545454545,
+                    "Medium to Strong": 31.818181818182,
+                    "Strong": 11.363636363636,
+                    "Very Strong": 6.8181818181818,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 32.0,
+                    "Pleasant to Tolerable": 37.333333333333,
+                    "Tolerable": 41.333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 5.3333333333333,
+                    "Very Strong": 1.3333333333333,
+                    "Extra Strong": 1.3333333333333,
+                    "Overwhelming": 5.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.80701754386,
+                    "Very Mild": 22.80701754386,
+                    "Mild": 70.175438596491,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.684210526316,
+                    "Medium to Full": 15.789473684211,
+                    "Full": 3.5087719298246,
+                    "Very Full": 3.5087719298246,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.7543859649123
+                }
+            }
+        }
+    }
+}

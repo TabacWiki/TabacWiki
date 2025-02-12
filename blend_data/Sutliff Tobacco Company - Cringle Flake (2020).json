@@ -1,0 +1,78 @@
+{
+    "cringleflake(2020)": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Cringle Flake (2020)",
+        "blendType": "Virginia/Perique",
+        "description": "Decade old red Virginias are stoved to perfection, bringing the natural flavors to the forefront. Then, they are combined with 2003 vintage perique, pressed, and sliced into broken flakes.",
+        "contents": "Perique, Virginia",
+        "cut": "Flake",
+        "packaging": "1.5 ounce tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Cringle Flake (2020).jpg",
+        "averageRating": 3.56,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 22.222222222222,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

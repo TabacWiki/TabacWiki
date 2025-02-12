@@ -1,0 +1,78 @@
+{
+    "crosseyedcricket": {
+        "blender": "Cornell & Diehl",
+        "name": "Cross Eyed Cricket",
+        "blendType": "Aromatic",
+        "description": "Unsweetened black cavendish base with Turkish, latakia & perique. Lightly flavored with a rum punch.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Cross Eyed Cricket.jpg",
+        "averageRating": 2.55,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 4.5454545454545,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 86.363636363636,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 15.384615384615,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 53.846153846154,
+                    "Medium to Strong": 100.0,
+                    "Strong": 84.615384615385,
+                    "Very Strong": 38.461538461538,
+                    "Extra Strong": 30.769230769231
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 42.857142857143,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 30.769230769231,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 23.076923076923,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            }
+        }
+    }
+}

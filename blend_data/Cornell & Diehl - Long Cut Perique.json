@@ -1,0 +1,78 @@
+{
+    "longcutperique": {
+        "blender": "Cornell & Diehl",
+        "name": "Long Cut Perique",
+        "blendType": "Other",
+        "description": "Perique is a special spice tobacco originating from St. James Parish, Louisiana, the only place where it is made. Compressed, heated, and fermented, the result is a strong peppery/fig flavor. It's worthwhile noting that, due to its length, this particular cut of the condiment leaf can be difficult to blend and shouldn't be used unless called for in specific recipes.",
+        "contents": "Perique",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Long Cut Perique.jpg",
+        "averageRating": 3.63,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 100.0,
+                    "Very Strong": 25.0,
+                    "Extremely Strong": 25.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 100.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 20.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "mixturewithbourbonwhiskey(bronze)": {
+        "blender": "Borkum Riff",
+        "name": "Mixture with Bourbon Whiskey (Bronze)",
+        "blendType": "Aromatic",
+        "description": "Selected quality, bright aromatic Virginia and rich, cool smoking burley tobaccos are blended to give an exquisite taste and aroma, enhanced by the finest Kentucky bourbon whiskey traditionally matured for over eight years to develop its full complex flavour. Serious yet dynamic, Borkum Riff Bourbon Whiskey has a unique, captivating taste and aroma. Infused with eight year old Kentucky Bourbon, it combines the natural flavour of the tobacco with a distinctive aroma that is both traditional and discreetly masculine.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "42.5 grams (US) 50 g (Canada) pouch, 250 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Borkum Riff - Mixture with Bourbon Whiskey (Bronze).jpg",
+        "averageRating": 1.66,
+        "reviewCount": 282,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 15.533980582524,
+                    "Very Mild": 25.242718446602,
+                    "Mild": 84.466019417476,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.834951456311,
+                    "Medium to Strong": 23.300970873786,
+                    "Strong": 11.650485436893,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.8252427184466
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 26.027397260274,
+                    "Extremely Mild": 36.986301369863,
+                    "Very Mild": 38.356164383562,
+                    "Mild": 97.260273972603,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.082191780822,
+                    "Medium to Strong": 17.808219178082,
+                    "Strong": 16.438356164384,
+                    "Very Strong": 6.8493150684932,
+                    "Extra Strong": 12.328767123288
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 29.761904761905,
+                    "Pleasant": 85.714285714286,
+                    "Very Pleasant": 34.52380952381,
+                    "Pleasant to Tolerable": 78.571428571429,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 20.238095238095,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 2.3809523809524,
+                    "Overwhelming": 4.7619047619048
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 47.058823529412,
+                    "Very Mild": 28.235294117647,
+                    "Mild": 75.294117647059,
+                    "Mild to Medium": 100.0,
+                    "Medium": 61.176470588235,
+                    "Medium to Full": 28.235294117647,
+                    "Full": 8.2352941176471,
+                    "Very Full": 3.5294117647059,
+                    "Extra Full": 1.1764705882353,
+                    "Overwhelming": 16.470588235294
+                }
+            }
+        }
+    }
+}

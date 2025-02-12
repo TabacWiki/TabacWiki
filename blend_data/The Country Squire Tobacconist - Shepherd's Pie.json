@@ -1,0 +1,78 @@
+{
+    "shepherd'spie": {
+        "blender": "The Country Squire Tobacconist",
+        "name": "Shepherd's Pie",
+        "blendType": "English",
+        "description": "Frog Morton, eat your heart out! A decidedly English-style tobacco that is incredibly kind to the mouth and packed with flavor! A generous helping of latakia is accompanied by noticeable Turkish Izmir, ribbon cut Virginias, unflavored black cavendish, and a dash of soft burley. A complex blend and a non-aromatic treat!",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Shepherd's Pie.jpg",
+        "averageRating": 3.56,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 62.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 23.076923076923,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 38.461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 37.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.5,
+                    "Medium to Full": 37.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

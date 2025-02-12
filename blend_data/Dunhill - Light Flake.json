@@ -1,0 +1,78 @@
+{
+    "lightflake": {
+        "blender": "Dunhill",
+        "name": "Light Flake",
+        "blendType": "Straight Virginia",
+        "description": "Medium strength flake of selected grades of lemon and bronze Virginias. One of Dunhill's most expert blends of highest quality.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Dunhill - Light Flake.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 101,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.9230769230769,
+                    "Very Mild": 1.9230769230769,
+                    "Mild": 32.692307692308,
+                    "Mild to Medium": 51.923076923077,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 1.9230769230769,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 47.5,
+                    "Very Mild": 55.0,
+                    "Mild": 35.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 2.5,
+                    "Strong": 7.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 18.181818181818,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 29.545454545455,
+                    "Tolerable to Strong": 4.5454545454545,
+                    "Strong": 2.2727272727273,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.4390243902439,
+                    "Very Mild": 7.3170731707317,
+                    "Mild": 34.146341463415,
+                    "Mild to Medium": 65.853658536585,
+                    "Medium": 100.0,
+                    "Medium to Full": 46.341463414634,
+                    "Full": 14.634146341463,
+                    "Very Full": 2.4390243902439,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.4390243902439
+                }
+            }
+        }
+    }
+}

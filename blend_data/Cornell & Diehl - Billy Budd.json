@@ -1,0 +1,78 @@
+{
+    "billybudd": {
+        "blender": "Cornell & Diehl",
+        "name": "Billy Budd",
+        "blendType": "Cigar Leaf Based",
+        "description": "A heavy Latakia blend with rough-cut burley, bright Virginia flake, and a good amount of rough-cut cigar leaf. Billy Budd was created for C&D's late friend Sailorman Jack.",
+        "contents": "Burley,  Cigar Leaf,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Billy Budd.jpg",
+        "averageRating": 3.37,
+        "reviewCount": 127,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.8518518518519,
+                    "Mild": 3.7037037037037,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 42.592592592593,
+                    "Medium to Strong": 79.62962962963,
+                    "Strong": 100.0,
+                    "Very Strong": 18.518518518519,
+                    "Extremely Strong": 5.5555555555556,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.810810810811,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 2.7027027027027,
+                    "Mild to Medium": 2.7027027027027,
+                    "Medium": 2.7027027027027,
+                    "Medium to Strong": 2.7027027027027,
+                    "Strong": 3.6036036036036,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 2.4390243902439,
+                    "Pleasant": 19.512195121951,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 46.341463414634,
+                    "Tolerable": 90.243902439024,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 68.292682926829,
+                    "Very Strong": 17.073170731707,
+                    "Extra Strong": 2.4390243902439,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.7241379310345,
+                    "Very Mild": 1.7241379310345,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.8965517241379,
+                    "Medium": 22.413793103448,
+                    "Medium to Full": 56.896551724138,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 1.7241379310345,
+                    "Overwhelming": 3.448275862069
+                }
+            }
+        }
+    }
+}

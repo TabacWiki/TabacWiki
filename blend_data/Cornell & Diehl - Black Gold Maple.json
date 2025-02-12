@@ -1,0 +1,78 @@
+{
+    "blackgoldmaple": {
+        "blender": "Cornell & Diehl",
+        "name": "Black Gold Maple",
+        "blendType": "Aromatic",
+        "description": "Black Cavendish and golden Virginia combined with natural maple flavor",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Black Gold Maple.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 38.461538461538,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 70.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 10.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 81.818181818182,
+                    "Pleasant to Tolerable": 36.363636363636,
+                    "Tolerable": 9.0909090909091,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.333333333333,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "bishop'smove": {
+        "blender": "Uhle's",
+        "name": "Bishop's Move",
+        "blendType": "English",
+        "description": "Rich, smoky and meaty, Bishop\u2019s Move offers a satisfying endeavor into traditional English blends.",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Bishop's Move.jpg",
+        "averageRating": 3.76,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 84.615384615385,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 100.0,
+                    "Very Strong": 7.6923076923077,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.0,
+                    "Very Mild": 8.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 4.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 35.714285714286,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 21.428571428571,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Full": 75.0,
+                    "Full": 100.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

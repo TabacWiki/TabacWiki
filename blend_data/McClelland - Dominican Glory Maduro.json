@@ -1,0 +1,78 @@
+{
+    "dominicanglorymaduro": {
+        "blender": "McClelland",
+        "name": "Dominican Glory Maduro",
+        "blendType": "Cigar Leaf Based",
+        "description": "A balanced blend of rich, dark maduro cigar leaf and matured red and stoved Virginia tobaccos. The perfect pipe tobacco for the connoisseur of maduro cigars who enjoy pipes. Pressed into cakes and aged to develop characteristics and marry the flavors, then cut in flakes to be rubbed out to the smoker's personal preference.",
+        "contents": "Cigar Leaf,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Dominican Glory Maduro.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 38,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.814814814815,
+                    "Strong": 7.4074074074074,
+                    "Very Strong": 3.7037037037037,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.740740740741,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 3.7037037037037,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 25.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 47.619047619048,
+                    "Full": 28.571428571429,
+                    "Very Full": 9.5238095238095,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

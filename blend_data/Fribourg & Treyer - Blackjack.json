@@ -1,0 +1,78 @@
+{
+    "blackjack": {
+        "blender": "Fribourg & Treyer",
+        "name": "Blackjack",
+        "blendType": "Straight Virginia",
+        "description": "A ready-rubbed pure red Virginia plug.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Fribourg & Treyer - Blackjack.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 44,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 85.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 9.5238095238095,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 48.148148148148,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 14.814814814815,
+                    "Mild to Medium": 7.4074074074074,
+                    "Medium": 3.7037037037037,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.538461538462,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 23.076923076923,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 17.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 32.142857142857,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 10.714285714286,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "germain'smediumflake": {
+        "blender": "J. F. Germain & Son",
+        "name": "Germain's Medium Flake",
+        "blendType": "Straight Virginia",
+        "description": "Red, brown and gold Virginia tobaccos pressed to give a medium color and a medium rate of burn, with fruit extracts.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Germain's Medium Flake.jpg",
+        "averageRating": 2.87,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 0.0,
+                    "Mild": 32.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 56.25,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 56.25,
+                    "Mild": 100.0,
+                    "Mild to Medium": 56.25,
+                    "Medium": 6.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 4.7619047619048,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 23.809523809524,
+                    "Tolerable to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.714285714286,
+                    "Very Mild": 0.0,
+                    "Mild": 10.714285714286,
+                    "Mild to Medium": 53.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

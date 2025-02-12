@@ -1,0 +1,78 @@
+{
+    "bosuncutplugunscented": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Bosun Cut Plug Unscented",
+        "blendType": "Aromatic",
+        "description": "Dark-fired Virginias and bright Virginias are combined and pressed with flavors of clove essence.",
+        "contents": "Burley,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Bosun Cut Plug Unscented.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 100.0,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 40.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 50.0,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

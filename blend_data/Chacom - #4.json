@@ -1,0 +1,78 @@
+{
+    "#4": {
+        "blender": "Chacom",
+        "name": "#4",
+        "blendType": "Virginia/Perique",
+        "description": "Chacom's #4 consists of various Virginias combined with a small portion of perique for some added strength and a touch of fruity spice. The mixture is then cold-pressed for four weeks before being cut into slices. It results in a flake tobacco that's medium in strength and rich in flavor.",
+        "contents": "Perique, Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Chacom - #4.jpg",
+        "averageRating": 3.67,
+        "reviewCount": 10,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 80.0,
+                    "Very Mild": 40.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

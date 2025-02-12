@@ -1,0 +1,78 @@
+{
+    "signaturevintagemixture": {
+        "blender": "W.O. Larsen",
+        "name": "Signature Vintage Mixture",
+        "blendType": "Aromatic",
+        "description": "W.\u00d8. Larsen's Signature Vintage Mixture is blended with Virginias from the best growing regions in Malawi and Virginia and burley from Mexico and Kentucky. The burley tobaccos are first pressed into cakes and matured before being sliced and rubbed out, while the Virginia leaves are cut into broad ribbons. For added smoothness and rich flavor, black cavendish joins the mixture, with flavors of caramel, fruit, and vanilla.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/W.O. Larsen - Signature Vintage Mixture.jpg",
+        "averageRating": 3.2,
+        "reviewCount": 80,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 100.0,
+                    "Mild to Medium": 32.692307692308,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 95.833333333333,
+                    "Medium to Strong": 75.0,
+                    "Strong": 45.833333333333,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 4.1666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 73.469387755102,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 4.0816326530612,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 4.0816326530612,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.0606060606061,
+                    "Very Mild": 12.121212121212,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.727272727273,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 15.151515151515,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

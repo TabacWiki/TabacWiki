@@ -1,0 +1,78 @@
+{
+    "wellauer'slatakia": {
+        "blender": "Wellauer & Co",
+        "name": "Wellauer's Latakia",
+        "blendType": "Other",
+        "description": "Pure, superior quality latakia from the mountainous regions of Syria.",
+        "contents": "Latakia",
+        "cut": "Coarse Cut",
+        "packaging": "100 grams tin, 50 grams tin",
+        "country": "Switzerland",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wellauer & Co - Wellauer's Latakia.jpg",
+        "averageRating": 3.89,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 62.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 6.25
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 14.285714285714,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 100.0,
+                    "Very Full": 66.666666666667,
+                    "Extra Full": 11.111111111111,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "mickmcquaidplug": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Mick McQuaid Plug",
+        "blendType": "Aromatic",
+        "description": "A hot-pressed plug of Virginia and burley with a fruity topping, which smells divine as soon as you open the pouch. It smokes velvety smooth and produces billows of thick, creamy smoke. The liquor topping creates an almond aroma and a sweet taste.",
+        "contents": "Burley,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Mick McQuaid Plug.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 9.5238095238095,
+                    "Medium": 100.0,
+                    "Medium to Strong": 95.238095238095,
+                    "Strong": 23.809523809524,
+                    "Very Strong": 9.5238095238095,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.526315789474,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 42.105263157895,
+                    "Pleasant to Tolerable": 89.473684210526,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 10.526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 100.0,
+                    "Medium to Full": 94.736842105263,
+                    "Full": 47.368421052632,
+                    "Very Full": 15.789473684211,
+                    "Extra Full": 5.2631578947368,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

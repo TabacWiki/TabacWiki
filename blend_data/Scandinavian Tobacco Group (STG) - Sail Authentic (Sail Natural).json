@@ -1,0 +1,78 @@
+{
+    "sailauthentic(sailnatural)": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Sail Authentic (Sail Natural)",
+        "blendType": "American",
+        "description": "Sail Natural is a sophisticated blend of easy burning, rich burley and mellow Virginia to which smooth tobaccos from latakia, India and Indonesia are added.",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Sail Authentic (Sail Natural).jpg",
+        "averageRating": 2.53,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 84.615384615385,
+                    "Very Mild": 38.461538461538,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 15.384615384615,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 53.333333333333,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 13.333333333333,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 30.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 0.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

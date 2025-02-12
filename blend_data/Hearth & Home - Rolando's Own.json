@@ -1,0 +1,78 @@
+{
+    "rolando'sown": {
+        "blender": "Hearth & Home",
+        "name": "Rolando's Own",
+        "blendType": "Virginia/Perique",
+        "description": "Named for renowned pipemaker Rolando Negoita, this is a Virginia/Perique blend with Rolando's artistry in mind. A mixture of lemon, red and stoved Virginias is enlivened with a moderate dose of wonderful perique, for a sweet and flavorful all-day smoke.",
+        "contents": "Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin, 8 ounce tin, bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Rolando's Own.jpg",
+        "averageRating": 3.35,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 9.0909090909091
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 66.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            }
+        }
+    }
+}

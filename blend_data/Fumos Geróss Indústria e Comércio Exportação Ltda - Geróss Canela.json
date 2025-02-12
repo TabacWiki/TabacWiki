@@ -1,0 +1,78 @@
+{
+    "ger\u00f3sscanela": {
+        "blender": "Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda",
+        "name": "Ger\u00f3ss Canela",
+        "blendType": "Aromatic",
+        "description": "A Blend of Brazilian Virginia and Burley Tobaccos, slighly flavorized with Cinammon (Canela).",
+        "contents": "Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50g Bag",
+        "country": "Brazil",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda - Ger\u00f3ss Canela.jpg",
+        "averageRating": 1.5,
+        "reviewCount": 2,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Extremely Mild (Flat)",
+                "distribution": {
+                    "Extremely Mild (Flat)": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "theconnoisseursflake": {
+        "blender": "Park-Lane Tobacconist",
+        "name": "The Connoisseurs Flake",
+        "blendType": "Virginia Based",
+        "description": "A rich and elusive mixture of over 15 different tobaccos! The best ribbon cut Virginias, Virginia flake, pressed Virginia cake, mild cavendish, and a tiny bit of lightly flavored sweet cavendish all come together to deliver a rough but ready rubbed tobacco that delivers a big Virginia taste, with a slightly sweet finish. If you were a fan of \"Scottish Ribbon\", a fantastic tobacco made by Ed in the Connoisseur shop in NY, you should give this one a try!",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Park-Lane Tobacconist - The Connoisseurs Flake.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 57.142857142857,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 85.714285714286,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 10.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

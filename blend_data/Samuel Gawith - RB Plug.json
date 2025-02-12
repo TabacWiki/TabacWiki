@@ -1,0 +1,78 @@
+{
+    "rbplug": {
+        "blender": "Samuel Gawith",
+        "name": "RB Plug",
+        "blendType": "Aromatic",
+        "description": "A dark fired Tanzania leaf which is topped with a very floral/woody essence. An English aromatic.",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - RB Plug.jpg",
+        "averageRating": 3.37,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 100.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 30.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 71.428571428571,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 57.142857142857,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 14.285714285714,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 36.363636363636,
+                    "Medium to Full": 81.818181818182,
+                    "Full": 100.0,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

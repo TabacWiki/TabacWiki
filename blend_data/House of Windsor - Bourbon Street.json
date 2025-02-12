@@ -1,0 +1,78 @@
+{
+    "bourbonstreet": {
+        "blender": "House of Windsor",
+        "name": "Bourbon Street",
+        "blendType": "Aromatic",
+        "description": "A unique traditional aromatic blend of quality cube-cut Burley and Virginia flake. A small amount of Latakia and Perique.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Kentucky,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz. tin, 10 oz. tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/House of Windsor - Bourbon Street.jpg",
+        "averageRating": 2.09,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 90.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 37.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 62.5,
+                    "Strong": 50.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 57.142857142857,
+                    "Tolerable": 35.714285714286,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.727272727273,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 9.0909090909091,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 9.0909090909091
+                }
+            }
+        }
+    }
+}

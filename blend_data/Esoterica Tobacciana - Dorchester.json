@@ -1,0 +1,78 @@
+{
+    "dorchester": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Dorchester",
+        "blendType": "Virginia/Perique",
+        "description": "A special formulation of six light Virginias plus golden and dark Virginias with air-cured leaf and a pinch of Louisiana perique. Easy burning is ensured by the carefully selected cut. The perique balances the Virginias; for the discerning palate.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "2 ounce tin, 8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Dorchester.jpg",
+        "averageRating": 3.28,
+        "reviewCount": 80,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 17.307692307692,
+                    "Mild to Medium": 36.538461538462,
+                    "Medium": 100.0,
+                    "Medium to Strong": 13.461538461538,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 38.775510204082,
+                    "Very Mild": 18.367346938776,
+                    "Mild": 12.244897959184,
+                    "Mild to Medium": 8.1632653061224,
+                    "Medium": 2.0408163265306,
+                    "Medium to Strong": 2.0408163265306,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 9.6774193548387,
+                    "Pleasant": 87.096774193548,
+                    "Very Pleasant": 6.4516129032258,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 74.193548387097,
+                    "Tolerable to Strong": 6.4516129032258,
+                    "Strong": 3.2258064516129,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 28.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.777777777778,
+                    "Full": 15.555555555556,
+                    "Very Full": 2.2222222222222,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

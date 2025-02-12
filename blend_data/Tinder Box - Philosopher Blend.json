@@ -1,0 +1,78 @@
+{
+    "philosopherblend": {
+        "blender": "Tinder Box",
+        "name": "Philosopher Blend",
+        "blendType": "English",
+        "description": "A perfect balance of the finest Virginia, latakia and Oriental tobaccos with a medium flavor and body.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Tinder Box - Philosopher Blend.jpg",
+        "averageRating": 2.55,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 46.153846153846,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 50.0,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 25.0,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 53.846153846154,
+                    "Very Pleasant": 15.384615384615,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.538461538462,
+                    "Tolerable to Strong": 7.6923076923077,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 18.181818181818,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.909090909091,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 18.181818181818,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "royalty": {
+        "blender": "Davidoff",
+        "name": "Royalty",
+        "blendType": "English",
+        "description": "A classic English with a beautifully refined flavor. Mature Virginia and Oriental tobaccos spiced with a pinch of latakia.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Davidoff - Royalty.jpg",
+        "averageRating": 3.26,
+        "reviewCount": 120,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.8181818181818,
+                    "Very Mild": 0.0,
+                    "Mild": 34.545454545455,
+                    "Mild to Medium": 85.454545454545,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 1.8181818181818,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 41.428571428571,
+                    "Very Mild": 12.857142857143,
+                    "Mild": 18.571428571429,
+                    "Mild to Medium": 8.5714285714286,
+                    "Medium": 8.5714285714286,
+                    "Medium to Strong": 1.4285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.0,
+                    "Pleasant": 56.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 68.0,
+                    "Tolerable to Strong": 8.0,
+                    "Strong": 6.0,
+                    "Very Strong": 4.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.7241379310345,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 20.689655172414,
+                    "Mild to Medium": 48.275862068966,
+                    "Medium": 100.0,
+                    "Medium to Full": 44.827586206897,
+                    "Full": 10.344827586207,
+                    "Very Full": 0.0,
+                    "Extra Full": 1.7241379310345,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

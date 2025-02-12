@@ -1,0 +1,78 @@
+{
+    "vanillacavendish": {
+        "blender": "Admiral's Choice",
+        "name": "Vanilla Cavendish",
+        "blendType": "Aromatic",
+        "description": "Admiral's Choice Vanilla is a mild-to-medium aromatic brown cavendish blend with a rich but very light vanilla topping and a very pleasing aroma.",
+        "contents": "Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "8 ounce bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Admiral's Choice - Vanilla Cavendish.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 26.666666666667,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 71.428571428571,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 68.75,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 62.5,
+                    "Medium to Full": 62.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

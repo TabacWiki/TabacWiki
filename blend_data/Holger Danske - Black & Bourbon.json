@@ -1,0 +1,78 @@
+{
+    "black&bourbon": {
+        "blender": "Holger Danske",
+        "name": "Black & Bourbon",
+        "blendType": "Aromatic",
+        "description": "The greater part of this blend is double fermented Black Cavendish made out of bright Virginia tobaccos. The blend is balanced with Ready Rubbed Burley which provides a slow and cool smoke. The taste is a match between the tobacco and the special bourbon whiskey flavor that has been carefully added.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams pouch, 200 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Holger Danske - Black & Bourbon.jpg",
+        "averageRating": 2.72,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 38.095238095238,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 19.047619047619,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 12.5,
+                    "Mild": 56.25,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 31.25,
+                    "Strong": 12.5,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 15.789473684211,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 78.947368421053,
+                    "Pleasant to Tolerable": 26.315789473684,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 31.578947368421,
+                    "Very Mild": 0.0,
+                    "Mild": 42.105263157895,
+                    "Mild to Medium": 100.0,
+                    "Medium": 26.315789473684,
+                    "Medium to Full": 21.052631578947,
+                    "Full": 15.789473684211,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.2631578947368,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

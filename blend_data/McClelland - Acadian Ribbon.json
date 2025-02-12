@@ -1,0 +1,78 @@
+{
+    "acadianribbon": {
+        "blender": "McClelland",
+        "name": "Acadian Ribbon",
+        "blendType": "Virginia/Perique",
+        "description": "The best sweet, tangy matured Virginias meld with subtle, cool Perique in an easy to pack, rich ribbon blend, smoothed by the Blakeney exclusive toasting process. Relax with the best.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Acadian Ribbon.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.714285714286,
+                    "Very Mild": 0.0,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 90.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 4.5454545454545,
+                    "Very Full": 4.5454545454545,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

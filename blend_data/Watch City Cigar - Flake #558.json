@@ -1,0 +1,78 @@
+{
+    "flake#558": {
+        "blender": "Watch City Cigar",
+        "name": "Flake #558",
+        "blendType": "Virginia/Perique",
+        "description": "558 is a decadent \"Crumble Flake\"  of three different Virginias and perique. A rich matured Virginia, a deep, dark stoved Virginia and the highest grade of bright Virginia is used as a backdrop for a heavy dose of perique.  Rich and satisfying with a subtle natural sweetness.",
+        "contents": "Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Watch City Cigar - Flake #558.jpg",
+        "averageRating": 3.71,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 35.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.25,
+                    "Very Mild": 6.25,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "verticallimit": {
+        "blender": "Cascadia Pipe Co.",
+        "name": "Vertical Limit",
+        "blendType": "Virginia/Burley",
+        "description": "Cascadia Pipe Co. - Vertical Limit sets a new, high bar for folks who enjoy full-bodied pipe tobacco. This robust plug is made of earthy, spicy, dark burley, smoky, bold, dark-fired Kentucky, and sweet, smooth Virginias, with a mellow and deep top note to give it a rich, satisfying flavor. This is a blend best-suited for experienced smokers and is ideal for an evening repast after a hearty meal as a precursor to winding down before bed. If you're a veteran pipe smoker who looks forward to a good hefty bowl at night, set your limits high with Cascadia Pipe Co. - Vertical Limit.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Plug",
+        "packaging": "1.76 ounce tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cascadia Pipe Co. - Vertical Limit.jpg",
+        "averageRating": 3.29,
+        "reviewCount": 7,
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 75.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

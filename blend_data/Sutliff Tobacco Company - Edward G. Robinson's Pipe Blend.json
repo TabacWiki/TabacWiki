@@ -1,0 +1,78 @@
+{
+    "edwardg.robinson'spipeblend": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Edward G. Robinson's Pipe Blend",
+        "blendType": "Aromatic",
+        "description": "A pleasing aromatic with a nutty sweet burley, gold cavendish, and flavored black cavendish taste. These tobaccos are combined with fruity plum and wine notes, along with a slight flavor push from a hint of Latakia for added sweetness and body. A harmonious blend that burns cool and slowly for full enjoyment.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin, 12 ounce tub",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Edward G. Robinson's Pipe Blend.jpg",
+        "averageRating": 2.82,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 3.3333333333333,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 86.666666666667,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 6.25,
+                    "Extremely Mild": 9.375,
+                    "Very Mild": 31.25,
+                    "Mild": 100.0,
+                    "Mild to Medium": 46.875,
+                    "Medium": 21.875,
+                    "Medium to Strong": 9.375,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.027027027027,
+                    "Pleasant to Tolerable": 40.540540540541,
+                    "Tolerable": 29.72972972973,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 20.0,
+                    "Mild": 43.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.333333333333,
+                    "Medium to Full": 20.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

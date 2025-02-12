@@ -1,0 +1,78 @@
+{
+    "7seasredblend": {
+        "blender": "Mac Baren",
+        "name": "7 Seas Red Blend",
+        "blendType": "Aromatic",
+        "description": "Golden Virginias, light brown burleys and just a touch of cavendish, all mixed together in colourful experience that greets your eyes.\n\nEasy to fill into your pipe and when lit you will experience a sweetness of ripe cherry.",
+        "contents": "Burley, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight, 100 grams pouch weight, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - 7 Seas Red Blend.jpg",
+        "averageRating": 2.65,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 77.777777777778,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 76.923076923077,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Full": 20.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

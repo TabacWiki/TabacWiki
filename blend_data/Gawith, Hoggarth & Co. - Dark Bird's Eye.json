@@ -1,0 +1,78 @@
+{
+    "darkbird'seye": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Dark Bird's Eye",
+        "blendType": "Virginia/Burley",
+        "description": "Manufactured from dark tobacco 'whole leaf' rather than strips, the mid-rib (or stem) gives the 'birds eye' effect when cut. A strong smoke which was particularly favored by the fishermen as the finer cut meant the tobacco was easier to light and to keep-in on board ship when the weather was bad.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Shag",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Dark Bird's Eye.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 133,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 7.0422535211268,
+                    "Medium to Strong": 28.169014084507,
+                    "Strong": 100.0,
+                    "Very Strong": 56.338028169014,
+                    "Extremely Strong": 15.492957746479,
+                    "Overwhelming": 1.4084507042254
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 48.0,
+                    "Very Mild": 21.333333333333,
+                    "Mild": 14.666666666667,
+                    "Mild to Medium": 4.0,
+                    "Medium": 5.3333333333333,
+                    "Medium to Strong": 2.6666666666667,
+                    "Strong": 1.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.4390243902439,
+                    "Pleasant": 43.90243902439,
+                    "Very Pleasant": 9.7560975609756,
+                    "Pleasant to Tolerable": 70.731707317073,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 73.170731707317,
+                    "Strong": 36.585365853659,
+                    "Very Strong": 14.634146341463,
+                    "Extra Strong": 7.3170731707317,
+                    "Overwhelming": 2.4390243902439
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.0540540540541,
+                    "Mild to Medium": 2.7027027027027,
+                    "Medium": 14.864864864865,
+                    "Medium to Full": 35.135135135135,
+                    "Full": 100.0,
+                    "Very Full": 35.135135135135,
+                    "Extra Full": 6.7567567567568,
+                    "Overwhelming": 1.3513513513514
+                }
+            }
+        }
+    }
+}

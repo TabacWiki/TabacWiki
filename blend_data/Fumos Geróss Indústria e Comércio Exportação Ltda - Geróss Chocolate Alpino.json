@@ -1,0 +1,78 @@
+{
+    "ger\u00f3sschocolatealpino": {
+        "blender": "Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda",
+        "name": "Ger\u00f3ss Chocolate Alpino",
+        "blendType": "Aromatic",
+        "description": "A mixture of Brazilian Virginia and Burley Tobaccos, mildly flavorized with Swiss Chocolate (Chocolate Alpino).",
+        "contents": "Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50g Bag",
+        "country": "Brazil",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda - Ger\u00f3ss Chocolate Alpino.jpg",
+        "averageRating": 1.0,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Unnoticeable",
+                "distribution": {
+                    "Unnoticeable": 100.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Extremely Mild (Flat)",
+                "distribution": {
+                    "Extremely Mild (Flat)": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "aperitif": {
+        "blender": "Dunhill",
+        "name": "Aperitif",
+        "blendType": "Scottish",
+        "description": "A complex blend of Virginias, cavendish, Latakia and Oriental Leaf.  The name 'Aperitif' suggests this well balanced medium mixture should be enjoyed prior to dinner.",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Dunhill - Aperitif.jpg",
+        "averageRating": 3.28,
+        "reviewCount": 130,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.3157894736842,
+                    "Mild": 9.2105263157895,
+                    "Mild to Medium": 43.421052631579,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.315789473684,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 5.2631578947368,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 19.387755102041,
+                    "Very Mild": 8.1632653061224,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 6.1224489795918,
+                    "Medium": 5.1020408163265,
+                    "Medium to Strong": 1.0204081632653,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.0204081632653
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.8181818181818,
+                    "Pleasant": 47.727272727273,
+                    "Very Pleasant": 11.363636363636,
+                    "Pleasant to Tolerable": 97.727272727273,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 11.363636363636,
+                    "Very Strong": 2.2727272727273,
+                    "Extra Strong": 2.2727272727273,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 36.507936507937,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.730158730159,
+                    "Full": 19.047619047619,
+                    "Very Full": 4.7619047619048,
+                    "Extra Full": 1.5873015873016,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

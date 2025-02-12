@@ -1,0 +1,78 @@
+{
+    "englishluxury(no.17)": {
+        "blender": "Peter Stokkebye",
+        "name": "English Luxury (No.17)",
+        "blendType": "English",
+        "description": "A characteristic English mixture, developed from mellow Georgian Virginias, black cavendish,  Mexican burleys and Cyprian Latakia, a classic. Mild to medium strength.",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - English Luxury (No.17).jpg",
+        "averageRating": 3.08,
+        "reviewCount": 70,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 2.9411764705882,
+                    "Very Mild": 0.0,
+                    "Mild": 85.294117647059,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.235294117647,
+                    "Medium to Strong": 2.9411764705882,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 40.909090909091,
+                    "Mild": 50.0,
+                    "Mild to Medium": 40.909090909091,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 78.571428571429,
+                    "Very Pleasant": 21.428571428571,
+                    "Pleasant to Tolerable": 67.857142857143,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.125,
+                    "Very Mild": 0.0,
+                    "Mild": 31.25,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.5,
+                    "Medium to Full": 18.75,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.125,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

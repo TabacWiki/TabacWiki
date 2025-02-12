@@ -1,0 +1,78 @@
+{
+    "maduro": {
+        "blender": "Robert McConnell",
+        "name": "Maduro",
+        "blendType": "Virginia/Perique",
+        "description": "One of the original blends from 1848. Rich Dark Virginia and Carolina Mature Leaf blended and pressed in steam ovens produce this unique dark mature tobacco, according to the sailor men method called \"Carottes\". Surprisingly mild and very slow burning. No latakia.",
+        "contents": "Black Cavendish,  Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Maduro.jpg",
+        "averageRating": 2.38,
+        "reviewCount": 30,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.789473684211,
+                    "Very Mild": 15.789473684211,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 27.777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 38.888888888889,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 36.363636363636,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 90.909090909091,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.454545454545,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

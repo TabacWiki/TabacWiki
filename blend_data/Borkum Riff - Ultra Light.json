@@ -1,0 +1,78 @@
+{
+    "ultralight": {
+        "blender": "Borkum Riff",
+        "name": "Ultra Light",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff smooth ultra light tobacco is a premium quality mixture, which combines a specially processed blend of smooth Virginia and rich cool-smoking burley tobaccos, to create an exquisite taste, enhanced with aromatic vanilla.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Borkum Riff - Ultra Light.jpg",
+        "averageRating": 1.72,
+        "reviewCount": 45,
+        "ratings": {
+            "strength": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 94.117647058824,
+                    "Mild": 47.058823529412,
+                    "Mild to Medium": 35.294117647059,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 5.8823529411765,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 46.153846153846,
+                    "Extremely Mild": 53.846153846154,
+                    "Very Mild": 76.923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 30.769230769231,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 7.6923076923077
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 19.047619047619,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.047619047619,
+                    "Pleasant to Tolerable": 47.619047619048,
+                    "Tolerable": 38.095238095238,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 85.714285714286,
+                    "Very Mild": 100.0,
+                    "Mild": 78.571428571429,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 7.1428571428571,
+                    "Medium to Full": 0.0,
+                    "Full": 7.1428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            }
+        }
+    }
+}

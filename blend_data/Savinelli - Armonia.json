@@ -1,0 +1,78 @@
+{
+    "armonia": {
+        "blender": "Savinelli",
+        "name": "Armonia",
+        "blendType": "Aromatic",
+        "description": "Savinelli's Armonia combines choice Virginias, golden Orientals, and Kentucky leaf with a subtle topping of natural citrus fruit \u2014 cut into a mix of ribbon and broken flake for an enjoyable smoke.",
+        "contents": "Burley,  Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Armonia.jpg",
+        "averageRating": 1.62,
+        "reviewCount": 35,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 23.529411764706,
+                    "Mild": 70.588235294118,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 87.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 62.5,
+                    "Very Strong": 75.0,
+                    "Extra Strong": 50.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 37.5,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 87.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 62.5,
+                    "Strong": 37.5,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 12.5,
+                    "Overwhelming": 75.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 25.0,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 50.0
+                }
+            }
+        }
+    }
+}

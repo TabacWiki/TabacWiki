@@ -1,0 +1,78 @@
+{
+    "virginiaflake": {
+        "blender": "Cornell & Diehl",
+        "name": "Virginia Flake",
+        "blendType": "Straight Virginia",
+        "description": "High-grade Virginias are pressed into Cornell & Diehl's proprietary flake/chip cut and the result is a smoke brimming with both a natural sweetness as well as a fragrance that is slightly reminiscent of orange muffins fresh from the oven. This tasty leaf packs a fine bowl straight from the bag, but also boasts excellent aging potential.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Virginia Flake.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 13.333333333333,
+                    "Strong": 13.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 3.8461538461538,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 18.181818181818,
+                    "Pleasant to Tolerable": 54.545454545455,
+                    "Tolerable": 72.727272727273,
+                    "Tolerable to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 5.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 10.0,
+                    "Full": 15.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

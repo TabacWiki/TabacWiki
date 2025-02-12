@@ -1,0 +1,78 @@
+{
+    "olddog": {
+        "blender": "Ashton",
+        "name": "Old Dog",
+        "blendType": "English",
+        "description": "A full English mixture dark with Cyprian latakia, spiced with fragrant Xanthia from Macedonia. It's liveliness is a result of the flue cured Virginia and jet black cavendish.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Ashton - Old Dog.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 25.0,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 13.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 44.444444444444,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 30.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 10.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

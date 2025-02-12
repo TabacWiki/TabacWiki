@@ -1,0 +1,78 @@
+{
+    "classic": {
+        "blender": "Stanwell",
+        "name": "Classic",
+        "blendType": "Aromatic",
+        "description": "An exquisite mixture blended from mature Virginia, and mellow black cavendish, we have added a gently pressed and fermented cut plug made from Virginia and burley. The mixture is perfected with a touch of sweet plum aroma, which creates a unique smoking experience for the most demanding pipe smoker.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Stanwell - Classic.jpg",
+        "averageRating": 2.25,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 36.363636363636,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.555555555556,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 0.0,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

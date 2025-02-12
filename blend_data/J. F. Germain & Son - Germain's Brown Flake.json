@@ -1,0 +1,78 @@
+{
+    "germain'sbrownflake": {
+        "blender": "J. F. Germain & Son",
+        "name": "Germain's Brown Flake",
+        "blendType": "Virginia/Burley",
+        "description": "Brown Flake is a molasses colored Virginia leaf. pressed into broad flakes that are resinous and delectable. The naturally bright lemon Virginia is first air cured to draw out the simpler, nuttier flavor, then pressed to ferment in its own vital juices.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 50 grams pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Germain's Brown Flake.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 75,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.6315789473684,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.263157894737,
+                    "Strong": 13.157894736842,
+                    "Very Strong": 2.6315789473684,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 20.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.2222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.7037037037037,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.925925925926,
+                    "Strong": 14.814814814815,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.030303030303,
+                    "Very Mild": 0.0,
+                    "Mild": 3.030303030303,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 78.787878787879,
+                    "Full": 36.363636363636,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

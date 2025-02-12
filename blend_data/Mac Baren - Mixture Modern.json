@@ -1,0 +1,78 @@
+{
+    "mixturemodern": {
+        "blender": "Mac Baren",
+        "name": "Mixture Modern",
+        "blendType": "Aromatic",
+        "description": "This blend is at the mild end of the taste spectrum in the Mac Baren Mixture Line. Mixture Modern is a touch sweeter than Mixture Scottish Blend, but distinguishes itself with a more complex flavor, yet similar room note, while still retaining the special Mixture flavor.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Mixture Modern.jpg",
+        "averageRating": 2.73,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 40.740740740741,
+                    "Mild": 100.0,
+                    "Mild to Medium": 7.4074074074074,
+                    "Medium": 7.4074074074074,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 9.0909090909091,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 36.363636363636,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 39.285714285714,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 3.5714285714286,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.764705882353,
+                    "Very Mild": 23.529411764706,
+                    "Mild": 100.0,
+                    "Mild to Medium": 82.352941176471,
+                    "Medium": 47.058823529412,
+                    "Medium to Full": 5.8823529411765,
+                    "Full": 11.764705882353,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

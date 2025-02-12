@@ -1,0 +1,78 @@
+{
+    "bohemianmixture": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Bohemian Mixture",
+        "blendType": "Aromatic",
+        "description": "A combination of far eastern spices enriches the black Cavendish style tobacco upon which this blend is based. Can be smoked bowl after bowl.",
+        "contents": "Black Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Bohemian Mixture.jpg",
+        "averageRating": 3.06,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 87.5,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 28.571428571429,
+                    "Very Mild": 0.0,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 0.0,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

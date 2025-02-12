@@ -1,0 +1,78 @@
+{
+    "b.s.flake(brownsugarflake)": {
+        "blender": "Samuel Gawith",
+        "name": "B.S. Flake (Brown Sugar Flake)",
+        "blendType": "Virginia Based",
+        "description": "A Samuel Gawith/The Danish Pipe Shop pipe tobacco called Brown Sugar Flake. Due to new EU laws the name was changed in 2017 from Brown Sugar Flake to B. S. Flake. The main goal was to relive the famous Orlik Brown Sliced, but in a more full style (not strong but more body). It's matured high quality Virginia that is hot pressed with some natural cavendish. So you get a pure flavour with a hint of natural sweetness from the cavendish. To spice it up it has a pinch of burley and Oriental.",
+        "contents": "Burley,  Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Re-release",
+        "imagePath": "../blend_pictures/Samuel Gawith - B.S. Flake (Brown Sugar Flake).jpg",
+        "averageRating": 3.67,
+        "reviewCount": 35,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.793103448276,
+                    "Mild to Medium": 17.241379310345,
+                    "Medium": 100.0,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 47.368421052632,
+                    "Very Mild": 26.315789473684,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 15.789473684211,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 21.052631578947,
+                    "Pleasant to Tolerable": 63.157894736842,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 29.411764705882,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.823529411765,
+                    "Full": 35.294117647059,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

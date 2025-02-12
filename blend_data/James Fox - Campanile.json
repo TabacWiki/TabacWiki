@@ -1,0 +1,78 @@
+{
+    "campanile": {
+        "blender": "James Fox",
+        "name": "Campanile",
+        "blendType": "Virginia Based",
+        "description": "A blend of Virginian and flavoured with pure Turkish leaf. It embodies absolutely no black tobaccos and is a blend which is delightfully smooth and sweet down to the last shred.",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/James Fox - Campanile.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 38,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 86.666666666667,
+                    "Medium": 46.666666666667,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 2.7777777777778,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 2.7777777777778,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 77.777777777778,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 40.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.666666666667,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

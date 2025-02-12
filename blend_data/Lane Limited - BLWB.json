@@ -1,0 +1,78 @@
+{
+    "blwb": {
+        "blender": "Lane Limited",
+        "name": "BLWB",
+        "blendType": "Aromatic",
+        "description": "Burley Light Without a Bite, a breakthrough in pipe tobaccos. Here's a burley blend without burley's traditional bite and with Lane Limited's fabulous aroma. This unique blend is not for the cavendish smoker, but the person who likes burley.",
+        "contents": "Burley",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - BLWB.jpg",
+        "averageRating": 2.47,
+        "reviewCount": 65,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 17.647058823529,
+                    "Very Mild": 52.941176470588,
+                    "Mild": 100.0,
+                    "Mild to Medium": 41.176470588235,
+                    "Medium": 2.9411764705882,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 13.888888888889,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 2.7777777777778,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 45.238095238095,
+                    "Pleasant to Tolerable": 19.047619047619,
+                    "Tolerable": 4.7619047619048,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 29.032258064516,
+                    "Very Mild": 16.129032258065,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.290322580645,
+                    "Medium": 22.58064516129,
+                    "Medium to Full": 3.2258064516129,
+                    "Full": 0.0,
+                    "Very Full": 3.2258064516129,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

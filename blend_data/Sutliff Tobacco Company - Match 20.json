@@ -1,0 +1,78 @@
+{
+    "match20": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Match 20",
+        "blendType": "Scottish",
+        "description": "A match to the original Dunhill My Mixture 965.  PipesAndCigars says: \"This traditional \"Scottish\" blend uses choice Virginias, exotic Turkish Orientals, smoky Cyprian Latakia and a bit of slightly-sweet brown cavendish to make a superbly balanced and enjoyable experience.\"\n\nHowever, the Official Sutliff Match 20 description is: \"This is a robust English blend with character. Plenty of Latakia, pressed Virginia, and burley provide the base.\"",
+        "contents": "Burley,  Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match 20.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 76.190476190476,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.833333333333,
+                    "Very Mild": 25.0,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 4.1666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.526315789474,
+                    "Pleasant": 36.842105263158,
+                    "Very Pleasant": 26.315789473684,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 68.421052631579,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

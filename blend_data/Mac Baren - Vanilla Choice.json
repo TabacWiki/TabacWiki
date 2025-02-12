@@ -1,0 +1,78 @@
+{
+    "vanillachoice": {
+        "blender": "Mac Baren",
+        "name": "Vanilla Choice",
+        "blendType": "Aromatic",
+        "description": "A tender and pleasant pipe tobacco that does not burn your tongue. Filling your pipe with Vanilla Choice is very easy, just as it is very easy to smoke even for less experienced pipe smokers. Vanilla Choice is a loose cut blend of golden Virginia, the modern MacBaren Cavendish, tempered with a unique burley. Experience this smooth and cool smoke with an exciting vanilla taste and room note.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "40 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Vanilla Choice.jpg",
+        "averageRating": 1.93,
+        "reviewCount": 12,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 83.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

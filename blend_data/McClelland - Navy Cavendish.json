@@ -1,0 +1,78 @@
+{
+    "navycavendish": {
+        "blender": "McClelland",
+        "name": "Navy Cavendish",
+        "blendType": "Virginia Based",
+        "description": "With this tobacco, we reintroduce the smoker to the traditional navy cavendish, pressed in cake and aged naturally with dark Jamaican rum to achieve its rich depth of flavor, color and aroma.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Navy Cavendish.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 43.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 7.1428571428571,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 46.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 35.714285714286,
+                    "Medium": 39.285714285714,
+                    "Medium to Strong": 10.714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.4074074074074,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.814814814815,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 37.037037037037,
+                    "Tolerable to Strong": 3.7037037037037,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 20.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 46.666666666667,
+                    "Full": 3.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

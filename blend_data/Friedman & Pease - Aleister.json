@@ -1,0 +1,78 @@
+{
+    "aleister": {
+        "blender": "Friedman & Pease",
+        "name": "Aleister",
+        "blendType": "Virginia/Perique",
+        "description": "Choice Louisiana Perique is blended with top grade cube-cut Burley, Black Toasted Cavendish, and the finest Golden Virginias. Steaming and stoving mellows the mixture, while bringing out the best of each tobacco. Finally, a hint of dark Jamaican Rum provides the perfect finish. Quite a strong tobacco, Aleister is not for the faint of heart!",
+        "contents": "Burley,  Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "4 oz Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Friedman & Pease - Aleister.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 8,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 33.333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 33.333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

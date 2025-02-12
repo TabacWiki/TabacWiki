@@ -1,0 +1,78 @@
+{
+    "deluxenavyrolls": {
+        "blender": "Peterson",
+        "name": "De Luxe Navy Rolls",
+        "blendType": "Virginia/Perique",
+        "description": "De Luxe Navy Rolls are made in Denmark using hand-stripped Virginia tobaccos from Brazil and Africa, married with perique from Louisiana. This recipe produces an aromatic smoke with natural tobacco flavors and lovely sweet notes.",
+        "contents": "Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - De Luxe Navy Rolls.jpg",
+        "averageRating": 3.57,
+        "reviewCount": 190,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.5714285714286,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.157480314961,
+                    "Very Mild": 11.023622047244,
+                    "Mild": 10.236220472441,
+                    "Mild to Medium": 3.1496062992126,
+                    "Medium": 2.3622047244094,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 8.2191780821918,
+                    "Pleasant": 80.821917808219,
+                    "Very Pleasant": 24.657534246575,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.643835616438,
+                    "Tolerable to Strong": 10.958904109589,
+                    "Strong": 2.7397260273973,
+                    "Very Strong": 1.3698630136986,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.020202020202,
+                    "Very Mild": 4.040404040404,
+                    "Mild": 7.0707070707071,
+                    "Mild to Medium": 24.242424242424,
+                    "Medium": 100.0,
+                    "Medium to Full": 59.59595959596,
+                    "Full": 15.151515151515,
+                    "Very Full": 1.010101010101,
+                    "Extra Full": 1.010101010101,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cringleflake(2019)": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Cringle Flake (2019)",
+        "blendType": "Straight Virginia",
+        "description": "Sutliff's Cringle Flake is a limited edition release for the 2019 holiday season and consists solely of red Virginia tobaccos, pressed into flakes. It delivers flavors of bread and tangy fruit, with an underlying sweetness that make for a pleasant all-day smoke.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "1.5 ounce tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Cringle Flake (2019).jpg",
+        "averageRating": 3.53,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 0.0,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 11.111111111111
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 27.272727272727,
+                    "Tolerable": 18.181818181818,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

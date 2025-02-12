@@ -1,0 +1,78 @@
+{
+    "509blend(manhattantwilight)": {
+        "blender": "Nat Sherman",
+        "name": "509 Blend (Manhattan Twilight)",
+        "blendType": "Aromatic",
+        "description": "Dark cured cavendish. Cool, mild smoke with velvety smooth flavor.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Nat Sherman - 509 Blend (Manhattan Twilight).jpg",
+        "averageRating": 2.64,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 25.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 62.5,
+                    "Very Strong": 37.5,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 63.636363636364,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 18.181818181818,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

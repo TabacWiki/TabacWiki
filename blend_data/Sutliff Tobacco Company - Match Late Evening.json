@@ -1,0 +1,78 @@
+{
+    "matchlateevening": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Match Late Evening",
+        "blendType": "English",
+        "description": "This is a match to Dunhill \"Nightcap\". This is a robust latakia based blend, enhanced by matured Virginias, exotic Turkish and a touch of perique for a robust body, a hint of spice and a deep, mellow sweetness.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Late Evening.jpg",
+        "averageRating": 2.77,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 42.857142857143,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 44.444444444444,
+                    "Full": 33.333333333333,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

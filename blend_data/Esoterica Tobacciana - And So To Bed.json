@@ -1,0 +1,78 @@
+{
+    "andsotobed": {
+        "blender": "Esoterica Tobacciana",
+        "name": "And So To Bed",
+        "blendType": "English",
+        "description": "Finest grade Virginia and Maryland type tobaccos are carefully aged and blended with Greek Oriental leaf and top-grade Cyprian Latakia. The blend is then specially processed and additionally matured to produce a mellow full strength smoke with rich flavor and unique aroma.",
+        "contents": "Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz/56.7 gram tin, 8 ounce/226.7 gram bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - And So To Bed.jpg",
+        "averageRating": 2.84,
+        "reviewCount": 86,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.5,
+                    "Mild": 20.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.5,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 43.333333333333,
+                    "Very Mild": 43.333333333333,
+                    "Mild": 63.333333333333,
+                    "Mild to Medium": 23.333333333333,
+                    "Medium": 36.666666666667,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 89.285714285714,
+                    "Very Pleasant": 17.857142857143,
+                    "Pleasant to Tolerable": 89.285714285714,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 32.142857142857,
+                    "Strong": 10.714285714286,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.1282051282051,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Full": 51.282051282051,
+                    "Full": 17.948717948718,
+                    "Very Full": 2.5641025641026,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

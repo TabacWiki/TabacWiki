@@ -1,0 +1,78 @@
+{
+    "thanksgivingday": {
+        "blender": "Peretti",
+        "name": "Thanksgiving Day",
+        "blendType": "Aromatic",
+        "description": "A yearly blend for Thanksgiving. A ribbon/cube cut blend pressed together into four ounce cakes.",
+        "contents": "Burley,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Thanksgiving Day.jpg",
+        "averageRating": 3.27,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 18.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 91.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 8.3333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 26.666666666667,
+                    "Pleasant to Tolerable": 46.666666666667,
+                    "Tolerable": 6.6666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            }
+        }
+    }
+}

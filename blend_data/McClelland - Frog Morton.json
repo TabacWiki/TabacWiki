@@ -1,0 +1,78 @@
+{
+    "frogmorton": {
+        "blender": "McClelland",
+        "name": "Frog Morton",
+        "blendType": "Virginia/Latakia",
+        "description": "An exceptionally dark, rich and full Latakia Mixture designed for those who desire really satisfying Latakia flavor but want a pipe tobacco soft enough to smoke anytime. It took Frog Morton four years to perfect this unique blend designed for smoking in quiet serenity. It is his proudest achievement.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Frog Morton.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 337,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 16.339869281046,
+                    "Mild": 67.97385620915,
+                    "Mild to Medium": 100.0,
+                    "Medium": 41.830065359477,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 1.3071895424837,
+                    "Very Strong": 0.65359477124183,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 45.098039215686,
+                    "Very Mild": 48.039215686275,
+                    "Mild": 86.274509803922,
+                    "Mild to Medium": 44.117647058824,
+                    "Medium": 31.372549019608,
+                    "Medium to Strong": 10.78431372549,
+                    "Strong": 0.98039215686275,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.98039215686275
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.2015503875969,
+                    "Pleasant": 79.06976744186,
+                    "Very Pleasant": 10.852713178295,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.542635658915,
+                    "Tolerable to Strong": 18.604651162791,
+                    "Strong": 3.8759689922481,
+                    "Very Strong": 0.77519379844961,
+                    "Extra Strong": 0.77519379844961,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.9370078740157,
+                    "Very Mild": 8.6614173228346,
+                    "Mild": 29.92125984252,
+                    "Mild to Medium": 70.07874015748,
+                    "Medium": 100.0,
+                    "Medium to Full": 51.968503937008,
+                    "Full": 28.346456692913,
+                    "Very Full": 2.3622047244094,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

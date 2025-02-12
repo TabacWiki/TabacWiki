@@ -1,0 +1,78 @@
+{
+    "no.111": {
+        "blender": "Paul Olsen",
+        "name": "No. 111",
+        "blendType": "Virginia/Perique",
+        "description": "An original flake tobacco based on North Carolina Virginia spiced with Perique and Kentucky. A classical blend with taste.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Paul Olsen - No. 111.jpg",
+        "averageRating": 3.48,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Strong": 54.545454545455,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 41.666666666667,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

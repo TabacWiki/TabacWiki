@@ -1,0 +1,78 @@
+{
+    "kentuckyclubmixturearomatic": {
+        "blender": "John Middleton, Inc",
+        "name": "Kentucky Club Mixture Aromatic",
+        "blendType": "Aromatic",
+        "description": "Five choice imported and domestic tobaccos - Turkish, perique, white burley, Carolina, and Virginia brights. The cut is a combination of ribbon, cube, flake, and shag. Slowly-aged pipe mixture. Cool burning, very mild, and refreshing, pleasingly aromatic.",
+        "contents": "Burley,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2oz Pouch",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Kentucky Club Mixture Aromatic.jpg",
+        "averageRating": 1.88,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

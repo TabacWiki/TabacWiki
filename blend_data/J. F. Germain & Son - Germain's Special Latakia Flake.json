@@ -1,0 +1,78 @@
+{
+    "germain'sspeciallatakiaflake": {
+        "blender": "J. F. Germain & Son",
+        "name": "Germain's Special Latakia Flake",
+        "blendType": "English",
+        "description": "Classically processed Latakia flake with Orientals and Virginia.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Germain's Special Latakia Flake.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 89,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 64.583333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 3.5714285714286,
+                    "Mild": 2.3809523809524,
+                    "Mild to Medium": 1.1904761904762,
+                    "Medium": 1.1904761904762,
+                    "Medium to Strong": 1.1904761904762,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 38.888888888889,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.555555555556,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 2.7777777777778,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.8571428571429,
+                    "Very Mild": 0.0,
+                    "Mild": 8.5714285714286,
+                    "Mild to Medium": 34.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 37.142857142857,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "gordonpym": {
+        "blender": "Dan Tobacco",
+        "name": "Gordon Pym",
+        "blendType": "English",
+        "description": "This blend contains golden Virginia, Maryland and a little dark fired Virginia that gives this blend a profound flavor. Precious Oriental tobacco gives a soft tangy flavor that is complimented by Syrian latakia. Broad-cut with a slow, even burn, especially in bigger bowls.",
+        "contents": "Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Gordon Pym.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 46,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 42.307692307692,
+                    "Medium": 100.0,
+                    "Medium to Strong": 19.230769230769,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 9.3023255813953,
+                    "Very Mild": 2.3255813953488,
+                    "Mild": 4.6511627906977,
+                    "Mild to Medium": 2.3255813953488,
+                    "Medium": 2.3255813953488,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.5555555555556,
+                    "Pleasant": 27.777777777778,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 88.888888888889,
+                    "Tolerable to Strong": 38.888888888889,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 5.5555555555556,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 31.578947368421,
+                    "Medium": 100.0,
+                    "Medium to Full": 89.473684210526,
+                    "Full": 21.052631578947,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.2631578947368,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

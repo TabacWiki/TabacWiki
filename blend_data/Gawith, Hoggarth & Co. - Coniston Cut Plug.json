@@ -1,0 +1,78 @@
+{
+    "conistoncutplug": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Coniston Cut Plug",
+        "blendType": "Virginia Based",
+        "description": "This tobacco is a blend containing 75% dark fired leaf 12.5% Malawi burley and 12.5% Virginia. You would therefore rightly expect a very strong smoke and one perhaps dominated by the pungent burnt smokey flavour so characteristic of leaf cured by open fire and smoke.",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk, 50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Coniston Cut Plug.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 76,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.4054054054054,
+                    "Medium": 13.513513513514,
+                    "Medium to Strong": 72.972972972973,
+                    "Strong": 100.0,
+                    "Very Strong": 32.432432432432,
+                    "Extremely Strong": 2.7027027027027,
+                    "Overwhelming": 2.7027027027027
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 11.538461538462,
+                    "Extremely Mild": 3.8461538461538,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 42.307692307692,
+                    "Mild to Medium": 73.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 26.923076923077,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 11.538461538462
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 9.5238095238095,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 38.095238095238,
+                    "Pleasant to Tolerable": 90.47619047619,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 23.809523809524,
+                    "Very Strong": 23.809523809524,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.125,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.375,
+                    "Medium": 28.125,
+                    "Medium to Full": 68.75,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 6.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

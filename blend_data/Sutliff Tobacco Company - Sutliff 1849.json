@@ -1,0 +1,78 @@
+{
+    "sutliff1849": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Sutliff 1849",
+        "blendType": "Virginia/Perique",
+        "description": "A mellow and delightful Virginia-Perique blend, Sutliff's 1849 (a nod to the founding date of the original Sutliff tobacco shop) provides tang, citrus, sweetness, and spice via a blend of choice Red Virginia, Bright flue-cured Virginia, and two different Perique varietals.",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounces tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Sutliff 1849.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 37.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 62.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

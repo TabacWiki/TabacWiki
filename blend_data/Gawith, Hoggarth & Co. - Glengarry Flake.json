@@ -1,0 +1,78 @@
+{
+    "glengarryflake": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Glengarry Flake",
+        "blendType": "Aromatic",
+        "description": "A similar blend of pure Virginia leaf as Bright CR Flake, but with the addition of some special Virginia casings to enhance the natural sweetness of the leaf, finished off with a light top flavour of honey dew and other sweet flavourings which all combine after pressing to provide a mild sweet gently aromatic smoke.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Glengarry Flake.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 61,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 92.592592592593,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 7.4074074074074,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 4.0,
+                    "Extremely Mild": 12.0,
+                    "Very Mild": 4.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 64.0,
+                    "Medium to Strong": 28.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.810810810811,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 24.324324324324,
+                    "Pleasant to Tolerable": 35.135135135135,
+                    "Tolerable": 10.810810810811,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 25.0,
+                    "Mild to Medium": 95.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

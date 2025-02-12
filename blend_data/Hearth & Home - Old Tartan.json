@@ -1,0 +1,78 @@
+{
+    "oldtartan": {
+        "blender": "Hearth & Home",
+        "name": "Old Tartan",
+        "blendType": "American",
+        "description": "A new interpretation of a blend that was a mainstay in the Albany NY area for more than a half-century. This smooth-smoking mixture uses a variety of cube and rough cut Burleys and a splash of natural Cavendish with just enough Latakia to add a slight smoky spice. Enjoy this taste of the past.",
+        "contents": "Burley,  Cavendish,  Latakia",
+        "cut": "Mixture",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Old Tartan.jpg",
+        "averageRating": 3.14,
+        "reviewCount": 33,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 27.777777777778,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 75.0,
+                    "Very Mild": 62.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 75.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 35.294117647059,
+                    "Pleasant to Tolerable": 58.823529411765,
+                    "Tolerable": 17.647058823529,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

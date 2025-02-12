@@ -1,0 +1,78 @@
+{
+    "odyssey": {
+        "blender": "G. L. Pease",
+        "name": "Odyssey",
+        "blendType": "Balkan",
+        "description": "Odyssey is huge - the biggest of the Pease blends. It's loaded with latakia and harmonized by exotic Orientals. Wonderful red and jet-black stoved Virginias provide a perfect counterpoint.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Odyssey.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 202,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 2.4390243902439,
+                    "Very Mild": 1.219512195122,
+                    "Mild": 8.5365853658537,
+                    "Mild to Medium": 34.146341463415,
+                    "Medium": 84.146341463415,
+                    "Medium to Strong": 100.0,
+                    "Strong": 39.024390243902,
+                    "Very Strong": 4.8780487804878,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 9.8901098901099,
+                    "Very Mild": 0.54945054945055,
+                    "Mild": 3.8461538461538,
+                    "Mild to Medium": 1.6483516483516,
+                    "Medium": 4.3956043956044,
+                    "Medium to Strong": 3.2967032967033,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 3.448275862069,
+                    "Pleasant": 37.931034482759,
+                    "Very Pleasant": 6.8965517241379,
+                    "Pleasant to Tolerable": 62.068965517241,
+                    "Tolerable": 94.827586206897,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 63.793103448276,
+                    "Very Strong": 6.8965517241379,
+                    "Extra Strong": 6.8965517241379,
+                    "Overwhelming": 5.1724137931034
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.1627906976744,
+                    "Very Mild": 1.1627906976744,
+                    "Mild": 1.1627906976744,
+                    "Mild to Medium": 9.3023255813953,
+                    "Medium": 25.581395348837,
+                    "Medium to Full": 62.790697674419,
+                    "Full": 100.0,
+                    "Very Full": 51.162790697674,
+                    "Extra Full": 6.9767441860465,
+                    "Overwhelming": 2.3255813953488
+                }
+            }
+        }
+    }
+}

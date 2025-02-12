@@ -1,0 +1,78 @@
+{
+    "meatpie": {
+        "blender": "Drew Estate",
+        "name": "Meat Pie",
+        "blendType": "English",
+        "description": "We made a blend and called it \"Meat Pie!\" Daring to be just a little different, imagine we just re-wrote some classic turn-of-the century novel. A pungent, smoky, medium bodied smoke that is the epitome of the word classic.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Drew Estate - Meat Pie.jpg",
+        "averageRating": 3.33,
+        "reviewCount": 35,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.222222222222,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 5.5555555555556,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.538461538462,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 3.8461538461538,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 37.5,
+                    "Tolerable to Strong": 31.25,
+                    "Strong": 18.75,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 50.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

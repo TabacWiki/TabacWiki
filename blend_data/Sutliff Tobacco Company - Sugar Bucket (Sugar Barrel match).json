@@ -1,0 +1,78 @@
+{
+    "sugarbucket(sugarbarrelmatch)": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Sugar Bucket (Sugar Barrel match)",
+        "blendType": "Virginia/Burley",
+        "description": "Sugar Barrel was a staple for many of our customers. This burley based blend with some Virginia added had a nice, lightly sweet note, and was a great all day kind of tobacco. Sugar Barrel fans can rejoice and enjoy with this great clone of the original.",
+        "contents": "Burley, Virginia",
+        "cut": "Mixture",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Sugar Bucket (Sugar Barrel match).jpg",
+        "averageRating": 2.71,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 10.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 9.0909090909091,
+                    "Medium to Full": 0.0,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

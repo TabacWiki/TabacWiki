@@ -1,0 +1,78 @@
+{
+    "longbottomleaf": {
+        "blender": "Just For Him",
+        "name": "Longbottom Leaf",
+        "blendType": "Aromatic",
+        "description": "This is the first in the Middle Earth Pipeweed Series! Fragrant Virginias are blended with a hint of vanilla to produce the finest leaf the Shire has to offer!",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Just For Him - Longbottom Leaf.jpg",
+        "averageRating": 2.72,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 42.105263157895,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 22.727272727273,
+                    "Mild": 100.0,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.764705882353,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 64.705882352941,
+                    "Pleasant to Tolerable": 23.529411764706,
+                    "Tolerable": 11.764705882353,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 78.571428571429,
+                    "Medium": 35.714285714286,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

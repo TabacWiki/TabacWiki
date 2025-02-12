@@ -1,0 +1,78 @@
+{
+    "hhhighlandblend": {
+        "blender": "Mac Baren",
+        "name": "HH Highland Blend",
+        "blendType": "English",
+        "description": "Fully matured Virginias, ready rubbed burleys, latakia and a touch of fire cured cavendish is the recipe. We added one of the worlds finest 30-year old Scotch whiskies, Glenfarclas. The natural flavours from the tobacco and the delightful taste of the Scotch marry perfectly, so when smoked you experience the mellow taste and subtle smoky note of the tobaccos combined with the overtone of a fine scotch.",
+        "contents": "Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Mac Baren - HH Highland Blend.jpg",
+        "averageRating": 2.81,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 41.666666666667,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.333333333333,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "highlandtarge": {
+        "blender": "Rattray",
+        "name": "Highland Targe",
+        "blendType": "Scottish",
+        "description": "The outstanding feature is the pronounced flavor of robust latakia. This tobacco has earned proper recognition by those smokers who have a particular liking for this type of leaf.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grms tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Highland Targe.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 55,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 2.7777777777778,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.538461538462,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 5.7692307692308,
+                    "Mild to Medium": 3.8461538461538,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.125,
+                    "Pleasant": 34.375,
+                    "Very Pleasant": 9.375,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 37.5,
+                    "Tolerable to Strong": 15.625,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.04347826087,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 65.217391304348,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.913043478261,
+                    "Medium to Full": 13.04347826087,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

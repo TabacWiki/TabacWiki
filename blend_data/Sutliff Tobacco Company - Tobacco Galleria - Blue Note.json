@@ -1,0 +1,78 @@
+{
+    "tobaccogalleria-bluenote": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Tobacco Galleria - Blue Note",
+        "blendType": "Aromatic",
+        "description": "Inspired by the famous Blue Note Cafe in New York City, this blend of burley, Virginia and world famous Green River black cavendish has been expertly blended.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Tobacco Galleria - Blue Note.jpg",
+        "averageRating": 2.32,
+        "reviewCount": 62,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 13.04347826087,
+                    "Very Mild": 19.565217391304,
+                    "Mild": 100.0,
+                    "Mild to Medium": 13.04347826087,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 8.695652173913,
+                    "Very Mild": 13.04347826087,
+                    "Mild": 39.130434782609,
+                    "Mild to Medium": 65.217391304348,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.826086956522,
+                    "Strong": 13.04347826087,
+                    "Very Strong": 13.04347826087,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.8965517241379,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 86.206896551724,
+                    "Pleasant to Tolerable": 24.137931034483,
+                    "Tolerable": 17.241379310345,
+                    "Tolerable to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.538461538462,
+                    "Very Mild": 19.230769230769,
+                    "Mild": 76.923076923077,
+                    "Mild to Medium": 100.0,
+                    "Medium": 46.153846153846,
+                    "Medium to Full": 0.0,
+                    "Full": 7.6923076923077,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

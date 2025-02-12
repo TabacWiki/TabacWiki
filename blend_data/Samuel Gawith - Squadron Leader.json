@@ -1,0 +1,78 @@
+{
+    "squadronleader": {
+        "blender": "Samuel Gawith",
+        "name": "Squadron Leader",
+        "blendType": "English",
+        "description": "Samuel Gawith Squadron Leader pipe tobacco epitomises the traditional English tobacco. Blended dark and bright Virginias, together with Latakia and Turkish leaf results in a perfect, medium bodied product which gives a rich and slow burning smoke.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Squadron Leader.jpg",
+        "averageRating": 3.38,
+        "reviewCount": 493,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.2345679012346,
+                    "Very Mild": 4.9382716049383,
+                    "Mild": 30.041152263374,
+                    "Mild to Medium": 69.135802469136,
+                    "Medium": 100.0,
+                    "Medium to Strong": 17.695473251029,
+                    "Strong": 2.4691358024691,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.914438502674,
+                    "Very Mild": 6.4171122994652,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 5.6149732620321,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 1.0695187165775,
+                    "Strong": 0.26737967914438,
+                    "Very Strong": 0.26737967914438,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 7.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 88.5,
+                    "Tolerable to Strong": 14.5,
+                    "Strong": 6.0,
+                    "Very Strong": 0.5,
+                    "Extra Strong": 0.5,
+                    "Overwhelming": 0.5
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.6260162601626,
+                    "Very Mild": 4.4715447154472,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 51.219512195122,
+                    "Medium": 100.0,
+                    "Medium to Full": 34.552845528455,
+                    "Full": 12.60162601626,
+                    "Very Full": 1.219512195122,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.40650406504065
+                }
+            }
+        }
+    }
+}

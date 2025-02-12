@@ -1,0 +1,78 @@
+{
+    "sunrisesmoke": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Sunrise Smoke",
+        "blendType": "English",
+        "description": "The perfect way to start a good morning. This lavish mixture of pressed Virginia ribbon, pressed black ribbon, Turkish and latakia is sure to awaken the taste buds.  Perfect for fans of Dunhill Early Morning Pipe.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Sunrise Smoke.jpg",
+        "averageRating": 2.68,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 50.0,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 77.777777777778,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 8.3333333333333,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

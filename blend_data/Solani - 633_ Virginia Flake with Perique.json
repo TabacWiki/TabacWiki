@@ -1,0 +1,78 @@
+{
+    "633:virginiaflakewithperique": {
+        "blender": "Solani",
+        "name": "633: Virginia Flake with Perique",
+        "blendType": "Virginia/Perique",
+        "description": "Specially selected red Virginias from the Old belt and ripe, bright Virginias, sweetened with Louisiana perique build up this masterpiece of tobacco blending. Flake slices.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Solani - 633: Virginia Flake with Perique.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 148,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.1627906976744,
+                    "Very Mild": 2.3255813953488,
+                    "Mild": 9.3023255813953,
+                    "Mild to Medium": 33.720930232558,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.720930232558,
+                    "Strong": 11.627906976744,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 52.631578947368,
+                    "Very Mild": 19.736842105263,
+                    "Mild": 28.947368421053,
+                    "Mild to Medium": 7.8947368421053,
+                    "Medium": 6.5789473684211,
+                    "Medium to Strong": 1.3157894736842,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.1538461538462,
+                    "Pleasant": 76.923076923077,
+                    "Very Pleasant": 10.769230769231,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 41.538461538462,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 3.0769230769231,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.2253521126761,
+                    "Mild": 11.267605633803,
+                    "Mild to Medium": 35.211267605634,
+                    "Medium": 100.0,
+                    "Medium to Full": 61.971830985915,
+                    "Full": 16.901408450704,
+                    "Very Full": 2.8169014084507,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "sunsetrum": {
+        "blender": "Milan Tobacconists",
+        "name": "Sunset Rum",
+        "blendType": "Aromatic",
+        "description": "A Virginia blend with Burleys and a modest amount of black Cavendish. Aged in rum for a rich, mild, sweet smoke and fantastic aroma.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Milan Tobacconists - Sunset Rum.jpg",
+        "averageRating": 3.85,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 38.888888888889,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.111111111111,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 64.705882352941,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.058823529412,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 11.764705882353,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 2.9411764705882,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.9411764705882
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 81.818181818182,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 54.545454545455,
+                    "Full": 0.0,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

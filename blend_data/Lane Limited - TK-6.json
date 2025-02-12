@@ -1,0 +1,78 @@
+{
+    "tk-6": {
+        "blender": "Lane Limited",
+        "name": "TK-6",
+        "blendType": "Aromatic",
+        "description": "Toasted Cavendish once again forms the mellowing flavor of this blend, but now a blend of Burley add a robust zing and a hint of cherry, just the right amount of sweetness.",
+        "contents": "Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - TK-6.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 13.333333333333,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 88.235294117647,
+                    "Pleasant to Tolerable": 17.647058823529,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 68.75,
+                    "Medium": 25.0,
+                    "Medium to Full": 12.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

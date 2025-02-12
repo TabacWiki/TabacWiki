@@ -1,0 +1,78 @@
+{
+    "pipesmokersforum-kickin'chicken": {
+        "blender": "Cornell & Diehl",
+        "name": "Pipe Smokers Forum - Kickin' Chicken",
+        "blendType": "Virginia/Perique",
+        "description": "A choice mix of Burley, Virginia, Perique, Kentucky and Cavendish that's sure to set you senses to a kickin' with its bold spice and solid tobacco flavor. Just like with that old Rewster in Mommas yard, you'd better watch out for the spurs on this Kickin' Chicken!",
+        "contents": "Burley,  Cavendish,  Kentucky,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2oz. Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Pipe Smokers Forum - Kickin' Chicken.jpg",
+        "averageRating": 3.9,
+        "reviewCount": 9,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 50.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 100.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

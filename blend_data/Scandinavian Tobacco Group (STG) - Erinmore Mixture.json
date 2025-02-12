@@ -1,0 +1,78 @@
+{
+    "erinmoremixture": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Erinmore Mixture",
+        "blendType": "Aromatic",
+        "description": "The recipe for Erinmore Mixture is a closely guarded secret which is revealed to only two people in each generation. It is known, however, that the tobaccos are selected from the premier tobacco growing regions of the world, naturally sweetened bright Virginia is hand blended with cool-smoking black cavendish to produce the unique flavor and distinctive aroma of Erinmore. More than that we cannot reveal. A mellow aromatic tobacco with a cool taste and a slow-burning easy-smoking style. \n\nTIN DESCRIPTION: Erinmore Mixture is a slow-burning blend of Virginia, Burley and Black Cavendish tobaccos.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Erinmore Mixture.jpg",
+        "averageRating": 2.27,
+        "reviewCount": 179,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 13.114754098361,
+                    "Mild": 80.327868852459,
+                    "Mild to Medium": 96.72131147541,
+                    "Medium": 100.0,
+                    "Medium to Strong": 22.950819672131,
+                    "Strong": 6.5573770491803,
+                    "Very Strong": 4.9180327868852,
+                    "Extremely Strong": 1.6393442622951,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 4.2553191489362,
+                    "Extremely Mild": 19.148936170213,
+                    "Very Mild": 27.659574468085,
+                    "Mild": 65.957446808511,
+                    "Mild to Medium": 70.212765957447,
+                    "Medium": 100.0,
+                    "Medium to Strong": 76.595744680851,
+                    "Strong": 38.297872340426,
+                    "Very Strong": 12.765957446809,
+                    "Extra Strong": 8.5106382978723
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 29.333333333333,
+                    "Pleasant to Tolerable": 70.666666666667,
+                    "Tolerable": 44.0,
+                    "Tolerable to Strong": 5.3333333333333,
+                    "Strong": 4.0,
+                    "Very Strong": 1.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.810810810811,
+                    "Very Mild": 10.810810810811,
+                    "Mild": 31.081081081081,
+                    "Mild to Medium": 55.405405405405,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.540540540541,
+                    "Full": 8.1081081081081,
+                    "Very Full": 4.0540540540541,
+                    "Extra Full": 2.7027027027027,
+                    "Overwhelming": 5.4054054054054
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "classicburleykake": {
+        "blender": "Hearth & Home",
+        "name": "Classic Burley Kake",
+        "blendType": "Aromatic",
+        "description": "Classic Burley Kake is a new blend that pays homage to old time burley flakes and cakes. Using Tennessee and Kentucky burleys, ranging from lighter white to darker mahogany, and a bit of matured red Virginia, this sliced cake tobacco is a traditional American style blend. We start with four different types of burley, the aforementioned Tennessee and Kentucky, plus two different premium white burleys. Then we add a red Virginia for a maple-like sweetness. Then we use all natural flavors: cocoa, rum and anise and steam the tobaccos with the flavorings and firmly press and slice it. The aroma is mellow and pleasant, and the taste is lightly sweet with a large volume of smoke. Hearken back to a simpler time when the sight of a pipe in someone's mouth while walking down the street was common, and the scent of pipe tobacco was everywhere.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "1.5 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Classic Burley Kake.jpg",
+        "averageRating": 3.11,
+        "reviewCount": 90,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 39.583333333333,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 2.5,
+                    "Extremely Mild": 7.5,
+                    "Very Mild": 7.5,
+                    "Mild": 52.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 15.0,
+                    "Strong": 7.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.7735849056604,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.943396226415,
+                    "Pleasant to Tolerable": 22.641509433962,
+                    "Tolerable": 11.320754716981,
+                    "Tolerable to Strong": 1.8867924528302,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.4390243902439,
+                    "Very Mild": 2.4390243902439,
+                    "Mild": 24.390243902439,
+                    "Mild to Medium": 95.121951219512,
+                    "Medium": 100.0,
+                    "Medium to Full": 17.073170731707,
+                    "Full": 2.4390243902439,
+                    "Very Full": 2.4390243902439,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "blackpool": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Blackpool",
+        "blendType": "Virginia Based",
+        "description": "Perfectly blended hot pressed dark and golden Virginias, jet-black and shiny with natural oils. Topped with a dash of licorice extract. This thoroughly satisfying tobacco has an English pedigree with marvelous smoking characteristics.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Blackpool.jpg",
+        "averageRating": 2.89,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 52.631578947368,
+                    "Mild to Medium": 100.0,
+                    "Medium": 10.526315789474,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 62.5,
+                    "Tolerable": 31.25,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 6.25,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Full": 21.428571428571,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

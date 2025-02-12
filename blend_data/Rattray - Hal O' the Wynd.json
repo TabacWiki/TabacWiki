@@ -1,0 +1,78 @@
+{
+    "halo'thewynd": {
+        "blender": "Rattray",
+        "name": "Hal O' the Wynd",
+        "blendType": "Virginia Based",
+        "description": "\"A pure Virginian tobacco of a most unusual share of strength\". This is a strong, sharp aged red Virginia blend that will perk you up quickly.  \n\nNew tin description: \"Hal O' The Wynd\" is an unusually strong Virginia-based mixture. Fire-cured Kentucky is added to a base of a variety of Virginias and Perique completes this mixture. It is then pressed and finally rubbed by hand.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Hal O' the Wynd.jpg",
+        "averageRating": 3.39,
+        "reviewCount": 245,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.86206896551724,
+                    "Very Mild": 0.86206896551724,
+                    "Mild": 0.86206896551724,
+                    "Mild to Medium": 20.689655172414,
+                    "Medium": 82.758620689655,
+                    "Medium to Strong": 100.0,
+                    "Strong": 24.137931034483,
+                    "Very Strong": 2.5862068965517,
+                    "Extremely Strong": 1.7241379310345,
+                    "Overwhelming": 0.86206896551724
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.162790697674,
+                    "Very Mild": 10.46511627907,
+                    "Mild": 11.046511627907,
+                    "Mild to Medium": 3.4883720930233,
+                    "Medium": 4.6511627906977,
+                    "Medium to Strong": 2.3255813953488,
+                    "Strong": 0.58139534883721,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.2727272727273,
+                    "Pleasant": 48.181818181818,
+                    "Very Pleasant": 16.363636363636,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 59.090909090909,
+                    "Tolerable to Strong": 11.818181818182,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.90909090909091,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.968253968254,
+                    "Very Mild": 1.5873015873016,
+                    "Mild": 3.1746031746032,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 56.349206349206,
+                    "Medium to Full": 100.0,
+                    "Full": 32.539682539683,
+                    "Very Full": 3.1746031746032,
+                    "Extra Full": 0.79365079365079,
+                    "Overwhelming": 0.79365079365079
+                }
+            }
+        }
+    }
+}

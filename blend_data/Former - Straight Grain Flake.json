@@ -1,0 +1,78 @@
+{
+    "straightgrainflake": {
+        "blender": "Former",
+        "name": "Straight Grain Flake",
+        "blendType": "Virginia/Perique",
+        "description": "A really full bodied but amazingly smooth dark flake tobacco prepared from traditional English recipes and methods. A good pinch of mellow yet spicy perique brings out the rich flavor of Former's Straight Grain Flake.",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Former - Straight Grain Flake.jpg",
+        "averageRating": 3.14,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 77.777777777778,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 50.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 28.571428571429,
+                    "Pleasant": 85.714285714286,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 62.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

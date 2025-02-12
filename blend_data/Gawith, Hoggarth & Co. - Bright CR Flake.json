@@ -1,0 +1,78 @@
+{
+    "brightcrflake": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Bright CR Flake",
+        "blendType": "Straight Virginia",
+        "description": "100% pure virginia leaf with no additional flavours made from a blend of Brazilian, Zimbabwe and Malawi bright Virginia leaf. The pressed tobacco as with all flakes, is left to mature before cutting into flakes, to allow for the best combination of flavours.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk, 50 grams tin",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Bright CR Flake.jpg",
+        "averageRating": 3.45,
+        "reviewCount": 67,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 92.307692307692,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.076923076923,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 30.30303030303,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 0.0,
+                    "Medium to Strong": 3.030303030303,
+                    "Strong": 3.030303030303,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.6315789473684,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.157894736842,
+                    "Pleasant to Tolerable": 52.631578947368,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 2.6315789473684,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.448275862069,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 31.034482758621,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.413793103448,
+                    "Medium to Full": 37.931034482759,
+                    "Full": 3.448275862069,
+                    "Very Full": 3.448275862069,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "celebratedsovereign": {
+        "blender": "Ashton",
+        "name": "Celebrated Sovereign",
+        "blendType": "English",
+        "description": "A classic English mixture made with Syrian latakia, Turkish Dubec, matured jet-black cavendish, bright Carolina and red Virginia. A true connoisseur's tobacco.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "United Kingdom",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Ashton - Celebrated Sovereign.jpg",
+        "averageRating": 3.28,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.5555555555556,
+                    "Mild to Medium": 38.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.777777777778,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.842105263158,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 15.789473684211,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 60.0,
+                    "Strong": 10.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 62.5,
+                    "Very Full": 12.5,
+                    "Extra Full": 12.5,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

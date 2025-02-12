@@ -1,0 +1,78 @@
+{
+    "brunelloflake": {
+        "blender": "Savinelli",
+        "name": "Brunello Flake",
+        "blendType": "Virginia Based",
+        "description": "An impeccably structured blend. Featuring a foundation of sweet, tangy Virginias and cool burning burleys, a dash of Macedonian leaf is added to round out the mixture and add a hint of the exotic. The different leafs are then aged as one, in order to marry and harmonize flavor, prior to being pressed into a tantalizing flake.",
+        "contents": "Burley, Oriental/Turkish, Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Savinelli - Brunello Flake.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.809523809524,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 23.076923076923,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 84.615384615385,
+                    "Mild": 100.0,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 30.769230769231,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 41.176470588235,
+                    "Tolerable": 35.294117647059,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Full": 53.846153846154,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

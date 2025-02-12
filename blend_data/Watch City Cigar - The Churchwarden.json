@@ -1,0 +1,78 @@
+{
+    "thechurchwarden": {
+        "blender": "Watch City Cigar",
+        "name": "The Churchwarden",
+        "blendType": "English",
+        "description": "This is a full Balkan comprised of 30% Orientals and 30% latakia with cigar leaf, Green River black [cavendish] and perique. This is a wonderfully rich and balanced blend suitable for fly-fishing or intense contemplation.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Kentucky,  Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Watch City Cigar - The Churchwarden.jpg",
+        "averageRating": 3.42,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 88.888888888889,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 50.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 25.0,
+                    "Medium to Full": 100.0,
+                    "Full": 87.5,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "midnightride": {
+        "blender": "Dan Tobacco",
+        "name": "Midnight Ride",
+        "blendType": "English",
+        "description": "Paul Revere's famous midnight ride is commemorated in this luxurious blend. Virginia grades from three of the finest growing regions are combined with         Oriental tobacco, Cyprian latakia, and a touch of perique. A relaxing, cool, and medium bodied smoke perfect for quiet, reflective moments.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Midnight Ride.jpg",
+        "averageRating": 3.45,
+        "reviewCount": 66,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.6315789473684,
+                    "Mild to Medium": 57.894736842105,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.947368421053,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 42.105263157895,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 7.8947368421053,
+                    "Mild to Medium": 7.8947368421053,
+                    "Medium": 10.526315789474,
+                    "Medium to Strong": 15.789473684211,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 22.222222222222,
+                    "Very Pleasant": 14.814814814815,
+                    "Pleasant to Tolerable": 92.592592592593,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 7.4074074074074,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.7037037037037,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 18.75,
+                    "Medium": 59.375,
+                    "Medium to Full": 100.0,
+                    "Full": 50.0,
+                    "Very Full": 3.125,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

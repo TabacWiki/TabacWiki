@@ -1,0 +1,78 @@
+{
+    "missouripride": {
+        "blender": "Missouri Meerschaum",
+        "name": "Missouri Pride",
+        "blendType": "Burley Based",
+        "description": "Missouri Pride is the kind of blend that most pipe enthusiasts would associate with the Missouri Meerschaum corn cob experience. This is a blend of superb quality burleys with some Virginias added, and minimal top flavoring. The blend is made up of broken flake, with some ribbon cut burley, for a nice, even burn, and the flake processing adds a deeper flavor to the tobacco. For a smooth blend with real tobacco flavor you can enjoy all day long, try a pouch of Missouri Pride.",
+        "contents": "Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "1.5 ounce pouch",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Missouri Meerschaum - Missouri Pride.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 29,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 12.5,
+                    "Mild": 37.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 6.25,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "distribution": {
+                    "None Detected": 76.470588235294,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 38.461538461538,
+                    "Pleasant": 76.923076923077,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 38.461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 6.25,
+                    "Mild": 18.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 12.5,
+                    "Full": 6.25,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "crowley'sbest": {
+        "blender": "Cornell & Diehl",
+        "name": "Crowley's Best",
+        "blendType": "American",
+        "description": "Named for the famed Walter Crowley of Fordham's football glory days, this is a medium strength mixture of burley, Latakia, and perique in an uncommonly harmonious natural blend. (A mixture for you, the old Fordham fans!)",
+        "contents": "Burley,  Latakia,  Perique",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Crowley's Best.jpg",
+        "averageRating": 2.91,
+        "reviewCount": 28,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 92.307692307692,
+                    "Medium to Strong": 100.0,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.04347826087,
+                    "Very Mild": 13.04347826087,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 37.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 87.5,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 30.769230769231,
+                    "Medium": 61.538461538462,
+                    "Medium to Full": 100.0,
+                    "Full": 30.769230769231,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 7.6923076923077
+                }
+            }
+        }
+    }
+}

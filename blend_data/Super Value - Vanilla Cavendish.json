@@ -1,0 +1,78 @@
+{
+    "vanillacavendish": {
+        "blender": "Super Value",
+        "name": "Vanilla Cavendish",
+        "blendType": "Aromatic",
+        "description": "Super Value Vanilla is an easy-burning, smooth-smoking blend of mild tobaccos with a pleasant vanilla aroma.",
+        "contents": "Cavendish",
+        "cut": "Ribbon",
+        "packaging": "",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Super Value - Vanilla Cavendish.jpg",
+        "averageRating": 2.23,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 41.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 69.230769230769,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 7.6923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

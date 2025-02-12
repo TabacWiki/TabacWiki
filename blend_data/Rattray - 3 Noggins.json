@@ -1,0 +1,78 @@
+{
+    "3noggins": {
+        "blender": "Rattray",
+        "name": "3 Noggins",
+        "blendType": "Scottish",
+        "description": "A tobacco with all the fragrant properties of 7 Reserve, but a little more full in body was what a customer sought, and in time 3 Noggins evolved.",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - 3 Noggins.jpg",
+        "averageRating": 2.41,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 61.538461538462,
+                    "Mild to Medium": 92.307692307692,
+                    "Medium": 100.0,
+                    "Medium to Strong": 92.307692307692,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 18.518518518519,
+                    "Mild to Medium": 7.4074074074074,
+                    "Medium": 7.4074074074074,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 58.823529411765,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 70.588235294118,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 93.75,
+                    "Medium to Full": 43.75,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

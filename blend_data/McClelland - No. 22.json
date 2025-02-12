@@ -1,0 +1,78 @@
+{
+    "no.22": {
+        "blender": "McClelland",
+        "name": "No. 22",
+        "blendType": "Straight Virginia",
+        "description": "A balanced blend of Eastern and Middle belt Virginias aged in cakes to develop their natural sweetness. A zesty tobacco with rich undertones, coarse enough to smoke on windy days outdoors, but easily rubbed out to suit any occasion.",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. 22.jpg",
+        "averageRating": 3.25,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.6774193548387,
+                    "Mild to Medium": 38.709677419355,
+                    "Medium": 100.0,
+                    "Medium to Strong": 3.2258064516129,
+                    "Strong": 3.2258064516129,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 5.1282051282051,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 2.5641025641026,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 26.666666666667,
+                    "Pleasant": 86.666666666667,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 13.333333333333,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 0.0,
+                    "Mild to Medium": 34.615384615385,
+                    "Medium": 100.0,
+                    "Medium to Full": 42.307692307692,
+                    "Full": 3.8461538461538,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

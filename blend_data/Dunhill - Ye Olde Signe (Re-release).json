@@ -1,0 +1,78 @@
+{
+    "yeoldesigne(re-release)": {
+        "blender": "Dunhill",
+        "name": "Ye Olde Signe (Re-release)",
+        "blendType": "Straight Virginia",
+        "description": "",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Dunhill - Ye Olde Signe (Re-release).jpg",
+        "averageRating": 2.81,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 4.5454545454545,
+                    "Very Mild": 0.0,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 63.636363636364,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 9.0909090909091,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 37.837837837838,
+                    "Very Mild": 10.810810810811,
+                    "Mild": 2.7027027027027,
+                    "Mild to Medium": 2.7027027027027,
+                    "Medium": 2.7027027027027,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 57.142857142857,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.7037037037037,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 48.148148148148,
+                    "Medium": 100.0,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 7.4074074074074,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

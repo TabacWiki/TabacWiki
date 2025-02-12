@@ -1,0 +1,78 @@
+{
+    "latakiano.1": {
+        "blender": "Butera",
+        "name": "Latakia No.1",
+        "blendType": "Balkan",
+        "description": "A hardy mixture with generous amounts of Mtn. Grade Cyprian Latakia, blended with ample portions of Turkish Basma. Bright North Carolina and rich, red flue-cured Virginias complete this blend.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50g Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Butera - Latakia No.1.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.909090909091,
+                    "Medium to Strong": 36.363636363636,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 9.0909090909091,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 4.1666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 55.555555555556,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 11.111111111111,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

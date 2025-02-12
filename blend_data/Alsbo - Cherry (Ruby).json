@@ -1,0 +1,78 @@
+{
+    "cherry(ruby)": {
+        "blender": "Alsbo",
+        "name": "Cherry (Ruby)",
+        "blendType": "Aromatic",
+        "description": "The remarkable Dane with the pleasant cherry aroma. A blend of bulk cured Black Cavendish, fine Burley Tobaccos and Golden Virginia grades. Deliciously flavored with a combination of black and wild Cherry aromas - a unique combination created from one of our very old recipes.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50g Pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Alsbo - Cherry (Ruby).jpg",
+        "averageRating": 1.68,
+        "reviewCount": 17,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 71.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 66.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 57.142857142857,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 14.285714285714,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

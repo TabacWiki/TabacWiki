@@ -1,0 +1,78 @@
+{
+    "gothamcourt": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Gotham Court",
+        "blendType": "Aromatic",
+        "description": "A spicy aroma along with a subtle Oriental flavor. Orientals (other than latakia) and a rich Virginia base along with two cavendish tobaccos make up this special blend. Lightly aromatic!",
+        "contents": "Black Cavendish,  Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Gotham Court.jpg",
+        "averageRating": 3.44,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 64.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 12.5
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 7.6923076923077
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "almondinej3": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Almondine J3",
+        "blendType": "Aromatic",
+        "description": "At last, the intriguing taste of Almond Liquor captured in a mild and mellow blend. Definitely, smokes cool.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Almondine J3.jpg",
+        "averageRating": 1.48,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 23.076923076923,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 100.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 36.363636363636,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 7.1428571428571,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "princealbertchoiceblend": {
+        "blender": "John Middleton, Inc",
+        "name": "Prince Albert Choice Blend",
+        "blendType": "Burley Based",
+        "description": "Similar in look and taste to regular Prince Albert, but smoother w/ no bite.",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "5 ounce zip-lock plastic bag",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Prince Albert Choice Blend.jpg",
+        "averageRating": 3.48,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 0.0,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 71.428571428571,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.714285714286,
+                    "Medium to Full": 0.0,
+                    "Full": 7.1428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

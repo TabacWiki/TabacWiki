@@ -1,0 +1,78 @@
+{
+    "folkestone": {
+        "blender": "Pipe Republic",
+        "name": "Folkestone",
+        "blendType": "Aromatic",
+        "description": "Just like the town of Folkestone, which is spoiled by the mild climate, this Folkestone Blend is very mild and slightly sweet in its flavors. The classic Black Cavendish was enriched by maple syrup and bourbon vanilla. For fans of flavored blends, this blend is a delight. Despite the added flavorings, the burn is dry and hardly develops any condensate. \n\nSince the Folkstone is a mildly aromatic blend, it is also highly recommended for beginners. With all the exciting new flavored tobaccos, it's good to try a real \"oldschool\" Black Cavendish, which is also flavored, but well made. Besides Black Cavendish, the Folkestone contains a small portion of Virginia, as well as a nice portion of maple syrup and bourbon vanilla. This makes it an unexciting, mild warm-sweet delicacy that is especially good to get involved with if you're looking for an everyday companion.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Pipe Republic - Folkestone.jpg",
+        "averageRating": 4.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

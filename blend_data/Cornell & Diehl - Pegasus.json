@@ -1,0 +1,78 @@
+{
+    "pegasus": {
+        "blender": "Cornell & Diehl",
+        "name": "Pegasus",
+        "blendType": "Burley Based",
+        "description": "Three burley tobaccos, two Virginias, and a touch of unsweetened black cavendish form a classic American blend, hearkening back to the days when burley was king in American pipe tobacco blends.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Pegasus.jpg",
+        "averageRating": 3.34,
+        "reviewCount": 89,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.7857142857143,
+                    "Mild": 5.3571428571429,
+                    "Mild to Medium": 32.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 1.7857142857143,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 32.142857142857,
+                    "Very Mild": 17.857142857143,
+                    "Mild": 12.5,
+                    "Mild to Medium": 12.5,
+                    "Medium": 1.7857142857143,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 86.666666666667,
+                    "Tolerable to Strong": 26.666666666667,
+                    "Strong": 13.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.1282051282051,
+                    "Very Mild": 0.0,
+                    "Mild": 10.25641025641,
+                    "Mild to Medium": 56.410256410256,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.410256410256,
+                    "Full": 20.512820512821,
+                    "Very Full": 5.1282051282051,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

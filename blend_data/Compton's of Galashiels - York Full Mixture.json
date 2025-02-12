@@ -1,0 +1,78 @@
+{
+    "yorkfullmixture": {
+        "blender": "Compton's of Galashiels",
+        "name": "York Full Mixture",
+        "blendType": "English",
+        "description": "A very full English blend. It took us three years to get this blend right. It is over 45% latakia with a heavy helping of Orientals with cavendish and brown Virginias. This blend is so smooth that we were surprised. A number of our customers tell us they find this very similar to Dunhill 965 (Murray's).",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams bag",
+        "country": "Canada",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Compton's of Galashiels - York Full Mixture.jpg",
+        "averageRating": 3.59,
+        "reviewCount": 19,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 100.0,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 53.846153846154,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 83.333333333333,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 9.0909090909091,
+                    "Medium to Full": 54.545454545455,
+                    "Full": 100.0,
+                    "Very Full": 36.363636363636,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

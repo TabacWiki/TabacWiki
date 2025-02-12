@@ -1,0 +1,78 @@
+{
+    "eileen'sdream": {
+        "blender": "CAO",
+        "name": "Eileen's Dream",
+        "blendType": "Aromatic",
+        "description": "Inspired by CAO's flavorful Eileen's Dream Cigarillos, this blend begins with a base of quality Virginia and black cavendish leaf and then infuses the same with a frothed cream that's been laced with superior Irish whiskey and coconut milk, followed by a subtle mixture of hazelnut paste, ground almonds, cocoa and vanilla extracts.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/CAO - Eileen's Dream.jpg",
+        "averageRating": 2.92,
+        "reviewCount": 95,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 11.904761904762,
+                    "Very Mild": 45.238095238095,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.761904761905,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 2.3809523809524,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 2.8571428571429,
+                    "Extremely Mild": 17.142857142857,
+                    "Very Mild": 11.428571428571,
+                    "Mild": 45.714285714286,
+                    "Mild to Medium": 48.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.714285714286,
+                    "Strong": 22.857142857143,
+                    "Very Strong": 8.5714285714286,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 66.071428571429,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 3.5714285714286,
+                    "Tolerable": 8.9285714285714,
+                    "Tolerable to Strong": 1.7857142857143,
+                    "Strong": 5.3571428571429,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 51.428571428571,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Full": 22.857142857143,
+                    "Full": 14.285714285714,
+                    "Very Full": 2.8571428571429,
+                    "Extra Full": 5.7142857142857,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

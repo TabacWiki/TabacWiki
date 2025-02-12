@@ -1,0 +1,78 @@
+{
+    "balkansasieni": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Balkan Sasieni",
+        "blendType": "Balkan",
+        "description": "Original formula Balkan smoking mixture was created in London at the beginning of the century by the master of Tobacco Blenders who first combined the aromatic pleasures of the choicest of Macedonia and Latakia leaf with the richness of Old Virginia to give the pipe smoker an unrivaled smoking pleasure.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Balkan Sasieni.jpg",
+        "averageRating": 3.08,
+        "reviewCount": 254,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 1.5625,
+                    "Very Mild": 1.5625,
+                    "Mild": 19.53125,
+                    "Mild to Medium": 60.15625,
+                    "Medium": 100.0,
+                    "Medium to Strong": 31.25,
+                    "Strong": 4.6875,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.78125,
+                    "Overwhelming": 1.5625
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.13612565445,
+                    "Very Mild": 12.041884816754,
+                    "Mild": 5.2356020942408,
+                    "Mild to Medium": 2.6178010471204,
+                    "Medium": 7.3298429319372,
+                    "Medium to Strong": 4.1884816753927,
+                    "Strong": 1.0471204188482,
+                    "Very Strong": 0.52356020942408,
+                    "Extra Strong": 1.0471204188482
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 1.9417475728155,
+                    "Pleasant": 33.009708737864,
+                    "Very Pleasant": 7.7669902912621,
+                    "Pleasant to Tolerable": 66.019417475728,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.776699029126,
+                    "Strong": 18.446601941748,
+                    "Very Strong": 3.8834951456311,
+                    "Extra Strong": 1.9417475728155,
+                    "Overwhelming": 0.97087378640777
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.5087719298246,
+                    "Very Mild": 6.140350877193,
+                    "Mild": 11.40350877193,
+                    "Mild to Medium": 29.824561403509,
+                    "Medium": 100.0,
+                    "Medium to Full": 68.421052631579,
+                    "Full": 21.929824561404,
+                    "Very Full": 3.5087719298246,
+                    "Extra Full": 0.87719298245614,
+                    "Overwhelming": 2.6315789473684
+                }
+            }
+        }
+    }
+}

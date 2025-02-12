@@ -1,0 +1,78 @@
+{
+    "1864perfectmixture": {
+        "blender": "W.O. Larsen",
+        "name": "1864 Perfect Mixture",
+        "blendType": "Aromatic",
+        "description": "Consists of carefully selected Virginia tobaccos from the best tobacco fields on three continents. The balanced Virginia tobaccos are blended with  fermented black cavendish and premium burley from the USA, Malawi, and Mexico.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, 100 grams tin.",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/W.O. Larsen - 1864 Perfect Mixture.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 23.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 43.333333333333,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 3.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 72.222222222222,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 92.307692307692,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 3.8461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Full": 38.888888888889,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

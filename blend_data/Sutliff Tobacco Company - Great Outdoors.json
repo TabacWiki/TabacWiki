@@ -1,0 +1,78 @@
+{
+    "greatoutdoors": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Great Outdoors",
+        "blendType": "Burley Based",
+        "description": "It is perhaps ironic that a blend named Great Outdoors should be appreciated for its room note. This outstanding aromatic is a mixture of burley, vanilla, and flavored black cavendish.  Perfect for fans of Field and Stream.",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Great Outdoors.jpg",
+        "averageRating": 2.94,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 100.0,
+                    "Mild to Medium": 69.230769230769,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 22.727272727273,
+                    "Mild": 63.636363636364,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.909090909091,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.448275862069,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 55.172413793103,
+                    "Pleasant to Tolerable": 17.241379310345,
+                    "Tolerable": 6.8965517241379,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 100.0,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 88.888888888889,
+                    "Medium to Full": 0.0,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

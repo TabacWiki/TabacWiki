@@ -1,0 +1,78 @@
+{
+    "balkan": {
+        "blender": "Compton's of Galashiels",
+        "name": "Balkan",
+        "blendType": "Balkan",
+        "description": "A true Balkan with the main note being Oriental, a large amount of latakia with Turkish on a base of red, bright and flake Virginias. A classic Balkan. Rich in Oriental and latakia with red ribbon and flake Virginias. Full but not overpowering.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams pouch",
+        "country": "Canada",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Compton's of Galashiels - Balkan.jpg",
+        "averageRating": 3.88,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 50.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 37.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 57.142857142857,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 87.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

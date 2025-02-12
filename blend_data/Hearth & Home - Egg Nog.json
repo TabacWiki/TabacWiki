@@ -1,0 +1,78 @@
+{
+    "eggnog": {
+        "blender": "Hearth & Home",
+        "name": "Egg Nog",
+        "blendType": "Aromatic",
+        "description": "The first true aromatic in the Hearth and Home series. A light and dark mixture with rum, vanilla, cinnamon and nutmeg flavorings. Although the aroma is complex, pleasant and mildly sweet, the spice flavorings come through more prominently in the smoking. A bite-free blend that will please anyone in the room.",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Egg Nog.jpg",
+        "averageRating": 2.6,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 15.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 72.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.777777777778,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 5.5555555555556
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 80.769230769231,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 11.538461538462,
+                    "Tolerable": 3.8461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 23.809523809524,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Full": 19.047619047619,
+                    "Full": 9.5238095238095,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "7seasgoldblend": {
+        "blender": "Mac Baren",
+        "name": "7 Seas Gold Blend",
+        "blendType": "Aromatic",
+        "description": "A golden blend of tobaccos. A soft and exceptional mellow smoke. Delightful aromatic taste. A true pleasure journey.",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight, 100 grams pouch weight, bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - 7 Seas Gold Blend.jpg",
+        "averageRating": 2.67,
+        "reviewCount": 59,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.7560975609756,
+                    "Very Mild": 26.829268292683,
+                    "Mild": 100.0,
+                    "Mild to Medium": 21.951219512195,
+                    "Medium": 2.4390243902439,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 3.8461538461538,
+                    "Extremely Mild": 11.538461538462,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.538461538462,
+                    "Medium": 57.692307692308,
+                    "Medium to Strong": 3.8461538461538,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 9.375,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 78.125,
+                    "Pleasant to Tolerable": 15.625,
+                    "Tolerable": 3.125,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 21.739130434783,
+                    "Very Mild": 30.434782608696,
+                    "Mild": 100.0,
+                    "Mild to Medium": 82.608695652174,
+                    "Medium": 43.478260869565,
+                    "Medium to Full": 0.0,
+                    "Full": 8.695652173913,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cherrycavendish(ruby)": {
+        "blender": "Borkum Riff",
+        "name": "Cherry Cavendish (Ruby)",
+        "blendType": "Aromatic",
+        "description": "Borkum Riff Cherry Cavendish is a premium quality, heavily aromatic mix of dark Kentucky and burley tobacco, enhanced with the soft delicious taste of cherry and just a touch of vanilla. The blend is heavily fermented to give a warm, luxurious smoke with a light sweet aroma.",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Kentucky,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch, 250 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Borkum Riff - Cherry Cavendish (Ruby).jpg",
+        "averageRating": 2.06,
+        "reviewCount": 119,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 16.279069767442,
+                    "Very Mild": 25.581395348837,
+                    "Mild": 100.0,
+                    "Mild to Medium": 65.116279069767,
+                    "Medium": 67.441860465116,
+                    "Medium to Strong": 20.93023255814,
+                    "Strong": 6.9767441860465,
+                    "Very Strong": 6.9767441860465,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 2.8571428571429,
+                    "Extremely Mild": 8.5714285714286,
+                    "Very Mild": 8.5714285714286,
+                    "Mild": 40.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 71.428571428571,
+                    "Strong": 40.0,
+                    "Very Strong": 37.142857142857,
+                    "Extra Strong": 31.428571428571
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 92.307692307692,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 51.282051282051,
+                    "Tolerable": 58.974358974359,
+                    "Tolerable to Strong": 10.25641025641,
+                    "Strong": 10.25641025641,
+                    "Very Strong": 2.5641025641026,
+                    "Extra Strong": 5.1282051282051,
+                    "Overwhelming": 2.5641025641026
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 37.037037037037,
+                    "Very Mild": 25.925925925926,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 74.074074074074,
+                    "Full": 33.333333333333,
+                    "Very Full": 14.814814814815,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 40.740740740741
+                }
+            }
+        }
+    }
+}

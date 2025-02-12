@@ -1,0 +1,78 @@
+{
+    "stirlingflake": {
+        "blender": "Rattray",
+        "name": "Stirling Flake",
+        "blendType": "Virginia/Burley",
+        "description": "Stirling Flake is a full-bodied blend for the experienced smoker who enjoys the full power of an English Flake. Equal amounts of air-cured, flue-cured and dark fired tobacco give this powerhouse its specific flavour. Not for the [faint] of heart.",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Stirling Flake.jpg",
+        "averageRating": 3.55,
+        "reviewCount": 34,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.764705882353,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 100.0,
+                    "Strong": 70.588235294118,
+                    "Very Strong": 11.764705882353,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 5.0,
+                    "Medium": 15.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 62.5,
+                    "Tolerable to Strong": 18.75,
+                    "Strong": 18.75,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 92.857142857143,
+                    "Full": 100.0,
+                    "Very Full": 7.1428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

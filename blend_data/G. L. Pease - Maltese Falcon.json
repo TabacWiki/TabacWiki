@@ -1,0 +1,78 @@
+{
+    "maltesefalcon": {
+        "blender": "G. L. Pease",
+        "name": "Maltese Falcon",
+        "blendType": "English",
+        "description": "Stylish, dark and alluring. Generous quantities of Cyprian latakia are blended with matured red Virginias, exotic Orientals, and just a little bright flue-cured leaf to offer a deep, full-bodied yet silky smoke with an intriguing sweetness, enhanced by a discreet and mysterious spice. Maltese Falcon possesses an exquisite balance - a wonderful all-day English style mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Maltese Falcon.jpg",
+        "averageRating": 3.23,
+        "reviewCount": 157,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 3.0927835051546,
+                    "Very Mild": 3.0927835051546,
+                    "Mild": 6.1855670103093,
+                    "Mild to Medium": 36.082474226804,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.835051546392,
+                    "Strong": 4.1237113402062,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 47.368421052632,
+                    "Very Mild": 32.894736842105,
+                    "Mild": 19.736842105263,
+                    "Mild to Medium": 7.8947368421053,
+                    "Medium": 10.526315789474,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 1.3157894736842,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 1.6949152542373,
+                    "Pleasant": 57.627118644068,
+                    "Very Pleasant": 5.0847457627119,
+                    "Pleasant to Tolerable": 81.35593220339,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.813559322034,
+                    "Strong": 18.64406779661,
+                    "Very Strong": 3.3898305084746,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 1.5151515151515,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 25.757575757576,
+                    "Medium": 100.0,
+                    "Medium to Full": 86.363636363636,
+                    "Full": 30.30303030303,
+                    "Very Full": 7.5757575757576,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

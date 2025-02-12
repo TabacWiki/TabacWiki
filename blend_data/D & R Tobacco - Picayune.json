@@ -1,0 +1,78 @@
+{
+    "picayune": {
+        "blender": "D & R Tobacco",
+        "name": "Picayune",
+        "blendType": "Other",
+        "description": "A full bodied blend of exceptional dark air-cured and the finest flue-cured Gold Leaf tobaccos.  Combined with rare and flavorful perique tobacco and Samsun Oriental tobacco.",
+        "contents": "Burley, Oriental/Turkish, Perique, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.42 ounce tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/D & R Tobacco - Picayune.jpg",
+        "averageRating": 3.1,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Extremely Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Strong": 25.0,
+                    "Strong": 75.0,
+                    "Very Strong": 81.25,
+                    "Extremely Strong": 100.0,
+                    "Overwhelming": 6.25
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 2.7777777777778,
+                    "Mild": 2.7777777777778,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.7777777777778,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 2.7777777777778,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 18.75,
+                    "Pleasant": 18.75,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 43.75,
+                    "Strong": 50.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 6.25
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Full": 50.0,
+                    "Full": 81.25,
+                    "Very Full": 100.0,
+                    "Extra Full": 31.25,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "richvanilla": {
+        "blender": "Blender's Gold",
+        "name": "Rich Vanilla",
+        "blendType": "Aromatic",
+        "description": "A rich blend of imported and domestic tobaccos. Smooth vanilla flavors. Long cavendish cut. Superbly aromatic with no bite, guaranteed mild and pleasing.",
+        "contents": "Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12 ounce bag, 12 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Blender's Gold - Rich Vanilla.jpg",
+        "averageRating": 2.09,
+        "reviewCount": 20,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 35.714285714286,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 7.1428571428571,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 62.5,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 12.5,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.111111111111,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 22.222222222222,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 11.111111111111,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

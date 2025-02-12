@@ -1,0 +1,78 @@
+{
+    "wilkeno.10": {
+        "blender": "Wilke Pipe Tobacco",
+        "name": "Wilke No. 10",
+        "blendType": "Balkan",
+        "description": "An exotic range of Orientals, including Smyrna, Davalla, Xanthi, and Shiraz are blended in perfect harmony with lemon Virginia and Latakia. A mild to medium English blend that can be smoked all day.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Wilke No. 10.jpg",
+        "averageRating": 3.69,
+        "reviewCount": 31,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 64.705882352941,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.294117647059,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.7037037037037,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 0.0,
+                    "Medium": 7.4074074074074,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 78.571428571429,
+                    "Tolerable": 42.857142857143,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 26.315789473684,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 100.0,
+                    "Medium to Full": 5.2631578947368,
+                    "Full": 10.526315789474,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "verycherry": {
+        "blender": "Lane Limited",
+        "name": "Very Cherry",
+        "blendType": "Aromatic",
+        "description": "Very Cherry uses a great blend of excellent tobaccos- mellow Burley, sweet and tangy Virginia and a bit of mildly sweet steamed black Cavendish, and is finished with an amazingly rich cherry flavor and aroma. This is one that no one will object to.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - Very Cherry.jpg",
+        "averageRating": 2.33,
+        "reviewCount": 24,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 75.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 12.5
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 25.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 87.5,
+                    "Strong": 100.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 40.0,
+                    "Full": 10.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 10.0
+                }
+            }
+        }
+    }
+}

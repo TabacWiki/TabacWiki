@@ -1,0 +1,78 @@
+{
+    "westmorlandmixture": {
+        "blender": "Samuel Gawith",
+        "name": "Westmorland Mixture",
+        "blendType": "English",
+        "description": "Westmorland Mixture is a well balanced combination of bright Virginias, Cyprian latakia, and cavendishes. It is lightly sweetened and wonderfully round and subtle.",
+        "contents": "Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Samuel Gawith - Westmorland Mixture.jpg",
+        "averageRating": 2.66,
+        "reviewCount": 47,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 15.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 10.0,
+                    "Very Strong": 5.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 88.235294117647,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.470588235294,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 80.0,
+                    "Mild to Medium": 86.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

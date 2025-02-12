@@ -1,0 +1,78 @@
+{
+    "margate": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Margate",
+        "blendType": "English",
+        "description": "A classic English mixture done in the \"old style\" of many of the fine tobaccos that have now disappeared from the market place. Choice Orientals, matured Virginias, and generous quantities of premium Cyprian latakia keynote this rich, full bodied blend. A well balanced, robust and eminently satisfying smoke.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "2 ounce tin, 8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Margate.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 188,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.7522935779817,
+                    "Very Mild": 1.8348623853211,
+                    "Mild": 8.256880733945,
+                    "Mild to Medium": 36.697247706422,
+                    "Medium": 100.0,
+                    "Medium to Strong": 30.275229357798,
+                    "Strong": 9.1743119266055,
+                    "Very Strong": 1.8348623853211,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.91743119266055
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.277777777778,
+                    "Very Mild": 7.6388888888889,
+                    "Mild": 3.4722222222222,
+                    "Mild to Medium": 6.25,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 3.4722222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.69444444444444,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.4102564102564,
+                    "Pleasant": 47.435897435897,
+                    "Very Pleasant": 17.948717948718,
+                    "Pleasant to Tolerable": 48.717948717949,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 26.923076923077,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 2.5641025641026,
+                    "Extra Strong": 1.2820512820513,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.0,
+                    "Very Mild": 2.6666666666667,
+                    "Mild": 2.6666666666667,
+                    "Mild to Medium": 30.666666666667,
+                    "Medium": 74.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 48.0,
+                    "Very Full": 13.333333333333,
+                    "Extra Full": 1.3333333333333,
+                    "Overwhelming": 1.3333333333333
+                }
+            }
+        }
+    }
+}

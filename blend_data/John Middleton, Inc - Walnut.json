@@ -1,0 +1,78 @@
+{
+    "walnut": {
+        "blender": "John Middleton, Inc",
+        "name": "Walnut",
+        "blendType": "American",
+        "description": "The original 19th. Century premium English Blend of the world's seven finest tobaccos.",
+        "contents": "Burley,  Cavendish,  Kentucky,  Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce pouch, 14 ounce tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Walnut.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 81,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 4.8780487804878,
+                    "Very Mild": 12.19512195122,
+                    "Mild": 60.975609756098,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.90243902439,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 72.0,
+                    "Very Mild": 60.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 32.0,
+                    "Medium": 8.0,
+                    "Medium to Strong": 12.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.125,
+                    "Pleasant": 81.25,
+                    "Very Pleasant": 9.375,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 78.125,
+                    "Tolerable to Strong": 9.375,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.1081081081081,
+                    "Very Mild": 8.1081081081081,
+                    "Mild": 37.837837837838,
+                    "Mild to Medium": 100.0,
+                    "Medium": 70.27027027027,
+                    "Medium to Full": 13.513513513514,
+                    "Full": 8.1081081081081,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

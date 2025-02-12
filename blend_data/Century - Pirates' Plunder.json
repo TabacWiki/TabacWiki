@@ -1,0 +1,78 @@
+{
+    "pirates'plunder": {
+        "blender": "Century",
+        "name": "Pirates' Plunder",
+        "blendType": "American",
+        "description": "Pirates Plunder is a premium tobacco blend that is carefully crafted to offer a complex and satisfying smoking experience. The combination of matured Virginias, earthy burleys, tangy cavendish, and a touch of Latakia creates a rich and nuanced flavor profile that will delight the most discerning of smokers.\n\nWhat sets Pirates Plunder apart is the addition of Jamaican rum, which imbues the tobacco with a subtle sweetness and a hint of tropical flavor. The rum also adds a depth of complexity to the blend, creating a well-rounded and satisfying smoking experience.\n\nWhether you're a seasoned pipe smoker or new to the hobby, Pirates Plunder is a must-try tobacco blend. The expertly balanced flavors and aromas make for an enjoyable smoking experience that is sure to leave a lasting impression. So sit back, relax, and savor the rich and complex flavors of Pirates Plunder.",
+        "contents": "Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Century - Pirates' Plunder.jpg",
+        "averageRating": 3.67,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

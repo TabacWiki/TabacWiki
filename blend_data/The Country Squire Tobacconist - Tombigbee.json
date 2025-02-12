@@ -1,0 +1,78 @@
+{
+    "tombigbee": {
+        "blender": "The Country Squire Tobacconist",
+        "name": "Tombigbee",
+        "blendType": "Aromatic",
+        "description": "By far one of our most popular and widely celebrated aromatic blends, Tombigbee is comprised of Virginia, several strains of Burley that have been through the cavendish process. A sweet and creamy smoke that will have your senses traveling down a long Southern road.",
+        "contents": "Burley, Perique, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Tombigbee.jpg",
+        "averageRating": 3.67,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 46.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 26.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 75.0,
+                    "Strong": 41.666666666667,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.689655172414,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 3.448275862069,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 53.846153846154,
+                    "Mild to Medium": 61.538461538462,
+                    "Medium": 100.0,
+                    "Medium to Full": 38.461538461538,
+                    "Full": 7.6923076923077,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

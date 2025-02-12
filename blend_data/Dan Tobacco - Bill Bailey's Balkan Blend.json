@@ -1,0 +1,78 @@
+{
+    "billbailey'sbalkanblend": {
+        "blender": "Dan Tobacco",
+        "name": "Bill Bailey's Balkan Blend",
+        "blendType": "Balkan",
+        "description": "This full strength blend consists of the best Virginia grades with various Oriental tobaccos, 10% dark fired Kentucky leaf and over 40% latakia with a pinch of perique.",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin, 250 grams bulk",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Dan Tobacco - Bill Bailey's Balkan Blend.jpg",
+        "averageRating": 3.12,
+        "reviewCount": 84,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.8571428571429,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 88.571428571429,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 2.8571428571429,
+                    "Overwhelming": 2.8571428571429
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.492957746479,
+                    "Very Mild": 1.4084507042254,
+                    "Mild": 2.8169014084507,
+                    "Mild to Medium": 1.4084507042254,
+                    "Medium": 4.2253521126761,
+                    "Medium to Strong": 2.8169014084507,
+                    "Strong": 2.8169014084507,
+                    "Very Strong": 1.4084507042254,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 32.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 56.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 48.0,
+                    "Very Strong": 16.0,
+                    "Extra Strong": 4.0,
+                    "Overwhelming": 12.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 2.5641025641026,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.1282051282051,
+                    "Medium": 28.205128205128,
+                    "Medium to Full": 64.102564102564,
+                    "Full": 100.0,
+                    "Very Full": 30.769230769231,
+                    "Extra Full": 5.1282051282051,
+                    "Overwhelming": 5.1282051282051
+                }
+            }
+        }
+    }
+}

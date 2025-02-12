@@ -1,0 +1,78 @@
+{
+    "sextant": {
+        "blender": "G. L. Pease",
+        "name": "Sextant",
+        "blendType": "English",
+        "description": "Sextant is a classic mixture harmoniously married to a Navy flake. Ripe Virginia tobaccos are first blended with Cyprian latakia, fine Orientals, and a touch of dark fired Kentucky leaf, then infused with a hint of dark rum before being gently  pressed, matured and sliced. The flavor is rich, bold and satisfying, the aroma an enchanting interweaving of traditions.",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2 ounce tin, 8 ounce tin, 16 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Sextant.jpg",
+        "averageRating": 3.3,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.7142857142857,
+                    "Mild to Medium": 5.7142857142857,
+                    "Medium": 62.857142857143,
+                    "Medium to Strong": 100.0,
+                    "Strong": 20.0,
+                    "Very Strong": 5.7142857142857,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 2.8571428571429
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 13.04347826087,
+                    "Extremely Mild": 21.739130434783,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 100.0,
+                    "Mild to Medium": 65.217391304348,
+                    "Medium": 56.521739130435,
+                    "Medium to Strong": 34.782608695652,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 38.095238095238,
+                    "Very Pleasant": 4.7619047619048,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 90.47619047619,
+                    "Tolerable to Strong": 47.619047619048,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 9.5238095238095,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 9.5238095238095
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.375,
+                    "Mild to Medium": 3.125,
+                    "Medium": 43.75,
+                    "Medium to Full": 100.0,
+                    "Full": 59.375,
+                    "Very Full": 6.25,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

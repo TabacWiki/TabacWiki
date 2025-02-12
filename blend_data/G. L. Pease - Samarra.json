@@ -1,0 +1,78 @@
+{
+    "samarra": {
+        "blender": "G. L. Pease",
+        "name": "Samarra",
+        "blendType": "English",
+        "description": "Samarra is a rich and complex mixture, without being heavy. Matured red Virginia provides the basic structure and a delicate sweetness. A generous portion of Cyprian Latakia is added for its smoky richness, and exotic, fragrant Oriental leaf provides fullness to the flavor. Finally, just a hint of lemon Virginia adds bit of brightness to the smoke, and a touch of perique adds its own unique piquancy.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Samarra.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 87,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.818181818182,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.084507042254,
+                    "Very Mild": 8.4507042253521,
+                    "Mild": 7.0422535211268,
+                    "Mild to Medium": 1.4084507042254,
+                    "Medium": 5.6338028169014,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 2.7027027027027,
+                    "Pleasant": 48.648648648649,
+                    "Very Pleasant": 2.7027027027027,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.675675675676,
+                    "Tolerable to Strong": 27.027027027027,
+                    "Strong": 5.4054054054054,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 24.390243902439,
+                    "Mild to Medium": 24.390243902439,
+                    "Medium": 100.0,
+                    "Medium to Full": 70.731707317073,
+                    "Full": 17.073170731707,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

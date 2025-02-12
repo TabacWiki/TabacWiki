@@ -1,0 +1,78 @@
+{
+    "ramsgate": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Ramsgate",
+        "blendType": "Aromatic",
+        "description": "Selected dark and golden Virginias are hot pressed until black, with added licorice essence and a pleasant aroma enhancement. A savory, slow burning, non-biting tobacco with lasting fragrance.",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Ramsgate.jpg",
+        "averageRating": 2.96,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 38.461538461538,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 18.75,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 0.0,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

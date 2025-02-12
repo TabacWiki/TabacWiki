@@ -1,0 +1,78 @@
+{
+    "terryred": {
+        "blender": "Rattray",
+        "name": "Terry Red",
+        "blendType": "Aromatic",
+        "description": "A pleasant blend of light Carolina, Virginia and black cavendish. Rum, ginger and cherry gives a mild flavor for everyone will enjoy. This mixture burns very well and dry in the pipe.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Rattray - Terry Red.jpg",
+        "averageRating": 2.31,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 72.727272727273,
+                    "Pleasant to Tolerable": 27.272727272727,
+                    "Tolerable": 36.363636363636,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

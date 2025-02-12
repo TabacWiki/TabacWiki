@@ -1,0 +1,78 @@
+{
+    "organicpipedreams": {
+        "blender": "Cornell & Diehl",
+        "name": "Organic Pipe Dreams",
+        "blendType": "Aromatic",
+        "description": "Made with certified organic Virginia tobaccos. Organic Agave,Prune, and Vanilla added as a natural organic mold inhibitor.",
+        "contents": "Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Organic Pipe Dreams.jpg",
+        "averageRating": 2.8,
+        "reviewCount": 13,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

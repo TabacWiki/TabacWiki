@@ -1,0 +1,78 @@
+{
+    "tripleplay": {
+        "blender": "G. L. Pease",
+        "name": "Triple Play",
+        "blendType": "Virginia/Perique",
+        "description": "Ripe red and bright flue cured tobaccos are joined by piquant Acadian perique and a balanced measure of smoky dark fired Kentucky. The leaf is pressed and matured in cakes before being cut into 2oz bars, resulting in a bold blend for Virginia and perique fans.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Plug",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Triple Play.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 70,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 3.030303030303,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 24.242424242424,
+                    "Medium to Strong": 100.0,
+                    "Strong": 81.818181818182,
+                    "Very Strong": 18.181818181818,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.4626865671642,
+                    "Very Mild": 4.4776119402985,
+                    "Mild": 2.9850746268657,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 1.4925373134328,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 43.75,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 40.625,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 37.5,
+                    "Strong": 15.625,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.9411764705882,
+                    "Mild to Medium": 8.8235294117647,
+                    "Medium": 11.764705882353,
+                    "Medium to Full": 91.176470588235,
+                    "Full": 100.0,
+                    "Very Full": 14.705882352941,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

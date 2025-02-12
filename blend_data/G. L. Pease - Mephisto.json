@@ -1,0 +1,78 @@
+{
+    "mephisto": {
+        "blender": "G. L. Pease",
+        "name": "Mephisto",
+        "blendType": "English",
+        "description": "The devil's Weed and the daemon Rum conspire in this dark, long stoved mixture of Red and Golden Virginias, a pinch of fine Turkish leaf, and generous portions of Cyprian and Syrian Latakias. Finished with just a drop of Dark Jamaican Rum, then steamed and toasted to bring all the flavors together. Doubly wicked and sinfully delicious, Mephisto will surely lead you into temptation!",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/G. L. Pease - Mephisto.jpg",
+        "averageRating": 3.46,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 3.2258064516129,
+                    "Mild to Medium": 25.806451612903,
+                    "Medium": 100.0,
+                    "Medium to Strong": 19.354838709677,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 58.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 58.333333333333,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 15.0,
+                    "Pleasant to Tolerable": 65.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 15.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 53.333333333333,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

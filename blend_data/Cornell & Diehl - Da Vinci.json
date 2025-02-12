@@ -1,0 +1,78 @@
+{
+    "davinci": {
+        "blender": "Cornell & Diehl",
+        "name": "Da Vinci",
+        "blendType": "English",
+        "description": "Named for the famed Renaissance man of letters, arts, and science, this blend evokes the Near Eastern influence that trade brought to the docks of Renaissance ports. The base of light Virginias and burley is overwhelmed by the smoky pungent aroma of Cyprian latakia. This is the perfect blend for the true lover of latakia, but be forewarned, this blend is not for everyone. Additionally, because of the high latakia content (Boasting no less than 75% latakia) and slow-burning nature of Da Vinci, it would be a very good blend to break a pipe in with.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz and 8oz tins",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Da Vinci.jpg",
+        "averageRating": 3.07,
+        "reviewCount": 54,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 42.105263157895,
+                    "Medium": 89.473684210526,
+                    "Medium to Strong": 100.0,
+                    "Strong": 31.578947368421,
+                    "Very Strong": 31.578947368421,
+                    "Extremely Strong": 5.2631578947368,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.021276595745,
+                    "Very Mild": 0.0,
+                    "Mild": 2.1276595744681,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.1276595744681,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.2553191489362,
+                    "Very Strong": 2.1276595744681,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 55.555555555556,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 72.222222222222,
+                    "Very Strong": 22.222222222222,
+                    "Extra Strong": 16.666666666667,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 21.739130434783,
+                    "Medium to Full": 47.826086956522,
+                    "Full": 100.0,
+                    "Very Full": 65.217391304348,
+                    "Extra Full": 17.391304347826,
+                    "Overwhelming": 4.3478260869565
+                }
+            }
+        }
+    }
+}

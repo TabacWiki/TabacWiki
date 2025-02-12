@@ -1,0 +1,78 @@
+{
+    "boswell'sbest": {
+        "blender": "Boswell Pipes & Tobacco",
+        "name": "Boswell's Best",
+        "blendType": "Aromatic",
+        "description": "Cavendish blended with black vanilla cavendish and Virginia to make an all day smoke.",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Boswell's Best.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 69,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 6.0,
+                    "Very Mild": 22.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.0,
+                    "Medium": 4.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 2.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 24.137931034483,
+                    "Mild": 96.551724137931,
+                    "Mild to Medium": 100.0,
+                    "Medium": 27.586206896552,
+                    "Medium to Strong": 13.793103448276,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.448275862069
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 73.809523809524,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 7.1428571428571,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.3809523809524
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3333333333333,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 36.666666666667,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.3333333333333
+                }
+            }
+        }
+    }
+}

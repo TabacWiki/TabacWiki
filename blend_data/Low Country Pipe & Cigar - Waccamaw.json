@@ -1,0 +1,78 @@
+{
+    "waccamaw": {
+        "blender": "Low Country Pipe & Cigar",
+        "name": "Waccamaw",
+        "blendType": "Virginia/Perique",
+        "description": "The Waccamaw River meanders through the eastern Carolinas, part of the Pee Dee River basin, a region intertwined with the history of tobacco for three centuries. What finer homage to this heritage than a rich, hearty Virginia flake? Bright leaf serving as the base is typical of the tobaccos grown in this region, while beautiful red Virginias lend it sweetness and structure. Perique and a dash of exotic Izmir leaf complete this complex, satisfying flake.",
+        "contents": "Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Low Country Pipe & Cigar - Waccamaw.jpg",
+        "averageRating": 3.49,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 58.823529411765,
+                    "Medium": 100.0,
+                    "Medium to Strong": 52.941176470588,
+                    "Strong": 29.411764705882,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.5641025641026,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.5641025641026,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 56.25,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 18.75,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 31.578947368421,
+                    "Medium": 57.894736842105,
+                    "Medium to Full": 100.0,
+                    "Full": 26.315789473684,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

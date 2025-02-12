@@ -1,0 +1,78 @@
+{
+    "sweetgalenas": {
+        "blender": "The Storyteller\u2019s Pipe Shop",
+        "name": "Sweet Galenas",
+        "blendType": "Aromatic",
+        "description": "One of three new pipe tobacco house blends we're introducing, Sweet Galenas is the result of a collaborative effort to produce a match of the orginial Tewksbury Hobbit's Weed with a smoother balance of flavor and reduced risk of bite.  \"Sweet Galenas\" is the name for pipe tobacco used by the N\u00famen\u00f3reans (D\u00fanedain), an ancient race of men, in J.R.R. Tolkein's The Hobbit/LOTR series.  A wizardly blend of sweet Black Cavendish, quality Burleys, and premium Virginias with an Elven kiss of flavoring that produces a magical smoke that would make any Hobbit proud.  Sweet Galenas is mild to medium in strength and taste with delicious flavor from start to finish.  Channel your inner Tolkein with a bowl of Sweet Galenas in your favorite churchwarden or long-stem pipe!",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/The Storyteller\u2019s Pipe Shop - Sweet Galenas.jpg",
+        "averageRating": 3.0,
+        "reviewCount": 1,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "byzantium": {
+        "blender": "Cornell & Diehl",
+        "name": "Byzantium",
+        "blendType": "Balkan",
+        "description": "A full strength blend with Latakia, Perique and Turkish.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "2oz tin, 8oz tin, Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Byzantium.jpg",
+        "averageRating": 3.09,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 4.7619047619048,
+                    "Very Mild": 0.0,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 80.952380952381,
+                    "Medium to Strong": 100.0,
+                    "Strong": 42.857142857143,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 4.7619047619048,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.1632653061224,
+                    "Very Mild": 2.0408163265306,
+                    "Mild": 2.0408163265306,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.0816326530612,
+                    "Medium to Strong": 2.0408163265306,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 25.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 60.0,
+                    "Strong": 35.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5454545454545,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 45.454545454545,
+                    "Medium to Full": 100.0,
+                    "Full": 77.272727272727,
+                    "Very Full": 22.727272727273,
+                    "Extra Full": 4.5454545454545,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

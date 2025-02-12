@@ -1,0 +1,78 @@
+{
+    "condorlongcut(brown)": {
+        "blender": "Gallaher Limited",
+        "name": "Condor Long Cut (Brown)",
+        "blendType": "Straight Virginia",
+        "description": "The Condor Flake is a full-bodied pipe tobacco blended from air cured Virginia, which has been top dressed with a secret liquor flavoring before been cooked under pressure to form a cake which has been thinly sliced ready for rubbing down. This provides an even cooler, slower burning and richer smoke.",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gallaher Limited - Condor Long Cut (Brown).jpg",
+        "averageRating": 3.3,
+        "reviewCount": 72,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.7777777777778,
+                    "Mild to Medium": 2.7777777777778,
+                    "Medium": 47.222222222222,
+                    "Medium to Strong": 100.0,
+                    "Strong": 58.333333333333,
+                    "Very Strong": 13.888888888889,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 3.125,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 12.5,
+                    "Mild to Medium": 18.75,
+                    "Medium": 62.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.625,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 3.125
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 84.615384615385,
+                    "Very Pleasant": 15.384615384615,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 73.076923076923,
+                    "Tolerable to Strong": 26.923076923077,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 3.2258064516129,
+                    "Mild to Medium": 9.6774193548387,
+                    "Medium": 51.612903225806,
+                    "Medium to Full": 74.193548387097,
+                    "Full": 100.0,
+                    "Very Full": 22.58064516129,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

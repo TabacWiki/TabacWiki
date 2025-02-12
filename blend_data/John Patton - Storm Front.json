@@ -1,0 +1,78 @@
+{
+    "stormfront": {
+        "blender": "John Patton",
+        "name": "Storm Front",
+        "blendType": "Cigar Leaf Based",
+        "description": "Two cube cut Burleys combined with cigar leaf. Meaty, sweet, and smokey. This might be John's favorite blend yet!",
+        "contents": "Burley,  Cigar Leaf",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Patton - Storm Front.jpg",
+        "averageRating": 3.59,
+        "reviewCount": 41,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 68.421052631579,
+                    "Medium": 100.0,
+                    "Medium to Strong": 52.631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 68.75,
+                    "Very Mild": 56.25,
+                    "Mild": 18.75,
+                    "Mild to Medium": 18.75,
+                    "Medium": 12.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 82.352941176471,
+                    "Very Pleasant": 5.8823529411765,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.470588235294,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 73.333333333333,
+                    "Medium": 93.333333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

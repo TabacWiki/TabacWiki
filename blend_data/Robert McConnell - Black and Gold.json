@@ -1,0 +1,78 @@
+{
+    "blackandgold": {
+        "blender": "Robert McConnell",
+        "name": "Black and Gold",
+        "blendType": "Aromatic",
+        "description": "The Original Blend of 1848. Bright Virginia leaf and rich black cavendish are the basis of this mixture which is mild but satisfying. The addition of a balanced proportion of Dubec Turkish and Louisiana perique enhance the blend to a position of elegance and quality. \n\nAs of 2022, the tin description is \u201cBright, fine rubbed Broken Virginia, black Cavendish and a hint of Perique.\u201d",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Robert McConnell - Black and Gold.jpg",
+        "averageRating": 2.29,
+        "reviewCount": 21,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 30.769230769231,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 62.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 85.714285714286,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 71.428571428571,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

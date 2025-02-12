@@ -1,0 +1,78 @@
+{
+    "darkstrongflake": {
+        "blender": "Peter Heinrichs",
+        "name": "Dark Strong Flake",
+        "blendType": "Virginia/Burley",
+        "description": "New description: A spicy, danish cake-mixture from Virginia and Kentucky, that'll also appeal to Latakia-smokers.\n\nAged cakes of red Virginia and fire-cured dark Kentucky tobaccos give this full- bodied, flavorful flake an unusually rich and naturally spicy taste. Not for neophytes, this one satisfies with old-fashioned deep taste. Good outdoors.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin, 200 grams tin, 500 grams bag",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Heinrichs - Dark Strong Flake.jpg",
+        "averageRating": 2.86,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 17.647058823529,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.058823529412,
+                    "Strong": 17.647058823529,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 70.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 10.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 76.470588235294,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 35.294117647059,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 6.25,
+                    "Mild": 6.25,
+                    "Mild to Medium": 43.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 6.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

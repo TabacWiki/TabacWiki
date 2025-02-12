@@ -1,0 +1,78 @@
+{
+    "pembroke": {
+        "blender": "Esoterica Tobacciana",
+        "name": "Pembroke",
+        "blendType": "English",
+        "description": "A luxury English blend (Margate) is married with fine French cognac. This outstanding mixture is a \"match made in heaven.\" Rich taste with character to match. A symphony of delicate aromas and elegant flavors.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "2 ounce tin, 8 ounce bag",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Pembroke.jpg",
+        "averageRating": 3.04,
+        "reviewCount": 95,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.714285714286,
+                    "Mild to Medium": 55.357142857143,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 1.7857142857143,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 16.129032258065,
+                    "Extremely Mild": 6.4516129032258,
+                    "Very Mild": 25.806451612903,
+                    "Mild": 64.516129032258,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.322580645161,
+                    "Medium to Strong": 19.354838709677,
+                    "Strong": 16.129032258065,
+                    "Very Strong": 3.2258064516129,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 91.176470588235,
+                    "Tolerable": 61.764705882353,
+                    "Tolerable to Strong": 26.470588235294,
+                    "Strong": 8.8235294117647,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.25641025641,
+                    "Mild to Medium": 28.205128205128,
+                    "Medium": 100.0,
+                    "Medium to Full": 89.74358974359,
+                    "Full": 38.461538461538,
+                    "Very Full": 5.1282051282051,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

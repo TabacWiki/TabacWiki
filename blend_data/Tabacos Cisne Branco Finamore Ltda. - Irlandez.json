@@ -1,0 +1,78 @@
+{
+    "irlandez": {
+        "blender": "Tabacos Cisne Branco Finamore Ltda.",
+        "name": "Irlandez",
+        "blendType": "Aromatic",
+        "description": "Probably the most traditional and well known Brazilian drugstore tobacco house. The IRLANDEZ \"family\" used to has on its mixture a balanced blend of burley, golden and medium Brazilian Virginia tobaccos. Similar to: https://www.tobaccoreviews.com/blend/12675/tabacos-cisne-branco-finamore-ltda-chocolate-alpino",
+        "contents": "Black Cavendish,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 200 grams tin",
+        "country": "Brazil",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Tabacos Cisne Branco Finamore Ltda. - Irlandez.jpg",
+        "averageRating": 2.31,
+        "reviewCount": 11,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

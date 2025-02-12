@@ -1,0 +1,78 @@
+{
+    "536empireenglish": {
+        "blender": "Nat Sherman",
+        "name": "536 Empire English",
+        "blendType": "English",
+        "description": "This classic blend brings together the finest mellow, Georgian, Virginias, black cavendish, Mexican burleys and Cyprus latakia, while evoking an exotic flair uniquely its own. This distinctly non aromatic blend produces an astonishing array of refined flavors ranging from mild to medium strength.",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Nat Sherman - 536 Empire English.jpg",
+        "averageRating": 3.4,
+        "reviewCount": 43,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 47.368421052632,
+                    "Mild to Medium": 47.368421052632,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.368421052632,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.75,
+                    "Very Mild": 21.875,
+                    "Mild": 9.375,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 4.7619047619048,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.739130434783,
+                    "Mild to Medium": 34.782608695652,
+                    "Medium": 100.0,
+                    "Medium to Full": 47.826086956522,
+                    "Full": 0.0,
+                    "Very Full": 4.3478260869565,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

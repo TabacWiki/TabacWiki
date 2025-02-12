@@ -1,0 +1,78 @@
+{
+    "vanilla(sungold)": {
+        "blender": "Stanwell",
+        "name": "Vanilla (Sungold)",
+        "blendType": "Aromatic",
+        "description": "A subtle mix of Danish dark cavendish, burley and Virginia enriched with matured Samsun from Turkey. Vanilla flavours created the soft sweetness and fruity character of the blend. Rich in contrast and with a perfect balanced of aroma.",
+        "contents": "Burley,  Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 50 grams pouch, 125 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Stanwell - Vanilla (Sungold).jpg",
+        "averageRating": 2.74,
+        "reviewCount": 69,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 30.952380952381,
+                    "Mild": 100.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 21.428571428571,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.814814814815,
+                    "Mild": 37.037037037037,
+                    "Mild to Medium": 48.148148148148,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 7.4074074074074
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.9411764705882,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 97.058823529412,
+                    "Pleasant to Tolerable": 14.705882352941,
+                    "Tolerable": 11.764705882353,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.47619047619,
+                    "Medium to Full": 47.619047619048,
+                    "Full": 9.5238095238095,
+                    "Very Full": 9.5238095238095,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 9.5238095238095
+                }
+            }
+        }
+    }
+}

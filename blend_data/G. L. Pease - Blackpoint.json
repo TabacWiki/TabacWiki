@@ -1,0 +1,78 @@
+{
+    "blackpoint": {
+        "blender": "G. L. Pease",
+        "name": "Blackpoint",
+        "blendType": "English",
+        "description": "Blackpoint is a luxurious blend of red and lemon Virginias, Cyprian latakia, exotic Oriental tobaccos, and a perfect measure of Louisiana perique for a lively, piquant finish. The smoke is creamy and lingering, engaging the palate with a mouth filling array of wonderful flavours. Reminiscent of raisins and stewed figs, fireplaces in the fall, walks in the forest... Perhaps the most complex in the collection. Perfect for evenings.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Blackpoint.jpg",
+        "averageRating": 3.27,
+        "reviewCount": 81,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 2.2727272727273,
+                    "Very Mild": 6.8181818181818,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 6.8181818181818,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.925373134328,
+                    "Very Mild": 5.9701492537313,
+                    "Mild": 1.4925373134328,
+                    "Mild to Medium": 2.9850746268657,
+                    "Medium": 7.4626865671642,
+                    "Medium to Strong": 2.9850746268657,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.2258064516129,
+                    "Pleasant": 45.161290322581,
+                    "Very Pleasant": 16.129032258065,
+                    "Pleasant to Tolerable": 77.41935483871,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 41.935483870968,
+                    "Strong": 9.6774193548387,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.7142857142857,
+                    "Very Mild": 2.8571428571429,
+                    "Mild": 8.5714285714286,
+                    "Mild to Medium": 22.857142857143,
+                    "Medium": 80.0,
+                    "Medium to Full": 100.0,
+                    "Full": 37.142857142857,
+                    "Very Full": 2.8571428571429,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

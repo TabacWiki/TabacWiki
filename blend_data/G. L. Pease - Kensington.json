@@ -1,0 +1,78 @@
+{
+    "kensington": {
+        "blender": "G. L. Pease",
+        "name": "Kensington",
+        "blendType": "Balkan",
+        "description": "Kensington is a Balkan style blend with restraint. Bright and red Virginias are combined with richly flavoured leaf from the Orient and Cyprian Latakia in perfect measure for a wonderfully balanced smoke. Slightly sweeter than Charing Cross, and not quite as full due to a more delicate hand with the Latakia. Spicy, with an occasional suggestion of orange blossom. Complex, but never ponderous. A slightly lighter variant of the classic style.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/G. L. Pease - Kensington.jpg",
+        "averageRating": 3.18,
+        "reviewCount": 51,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 27.586206896552,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.068965517241,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 2.0833333333333,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 32.142857142857,
+                    "Very Pleasant": 3.5714285714286,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 3.5714285714286,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.5714285714286,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 21.428571428571,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

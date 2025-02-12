@@ -1,0 +1,78 @@
+{
+    "warhorsereadycut": {
+        "blender": "War Horse",
+        "name": "War Horse Ready Cut",
+        "blendType": "Burley Based",
+        "description": "",
+        "contents": "Burley, Kentucky, Perique, Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin weight",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/War Horse - War Horse Ready Cut.jpg",
+        "averageRating": 2.92,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Strong": 69.230769230769,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 57.142857142857,
+                    "Extremely Mild": 85.714285714286,
+                    "Very Mild": 71.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 55.555555555556,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 90.0,
+                    "Medium to Full": 100.0,
+                    "Full": 40.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

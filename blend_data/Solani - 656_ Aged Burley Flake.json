@@ -1,0 +1,78 @@
+{
+    "656:agedburleyflake": {
+        "blender": "Solani",
+        "name": "656: Aged Burley Flake",
+        "blendType": "Burley Based",
+        "description": "",
+        "contents": "Burley",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Solani - 656: Aged Burley Flake.jpg",
+        "averageRating": 3.41,
+        "reviewCount": 241,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.7543859649123,
+                    "Mild": 6.140350877193,
+                    "Mild to Medium": 28.947368421053,
+                    "Medium": 100.0,
+                    "Medium to Strong": 78.947368421053,
+                    "Strong": 14.035087719298,
+                    "Very Strong": 4.3859649122807,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.87719298245614
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 48.031496062992,
+                    "Very Mild": 17.322834645669,
+                    "Mild": 22.834645669291,
+                    "Mild to Medium": 14.173228346457,
+                    "Medium": 6.2992125984252,
+                    "Medium to Strong": 1.5748031496063,
+                    "Strong": 0.78740157480315,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 9.7345132743363,
+                    "Pleasant": 50.442477876106,
+                    "Very Pleasant": 8.8495575221239,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.752212389381,
+                    "Tolerable to Strong": 8.8495575221239,
+                    "Strong": 2.6548672566372,
+                    "Very Strong": 0.88495575221239,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.8571428571429,
+                    "Very Mild": 3.8095238095238,
+                    "Mild": 11.428571428571,
+                    "Mild to Medium": 25.714285714286,
+                    "Medium": 77.142857142857,
+                    "Medium to Full": 100.0,
+                    "Full": 30.47619047619,
+                    "Very Full": 1.9047619047619,
+                    "Extra Full": 0.95238095238095,
+                    "Overwhelming": 0.95238095238095
+                }
+            }
+        }
+    }
+}

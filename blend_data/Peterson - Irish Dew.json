@@ -1,0 +1,78 @@
+{
+    "irishdew": {
+        "blender": "Peterson",
+        "name": "Irish Dew",
+        "blendType": "Virginia/Burley",
+        "description": "The Peterson Irish Dew is a new luxury mixture of well-matured Virginia and toasted burley tobaccos with whiskey and blossom fruit undertones. The sweet hint of vanilla and touch of chocolate arising from the toasted burley give this tobacco an exceptional finish. The blend is pressed into cakes and rubbed, enhancing the natural aroma of the tobacco.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "40 grams pouch",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Irish Dew.jpg",
+        "averageRating": 2.48,
+        "reviewCount": 22,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 45.454545454545,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 37.5,
+                    "Medium to Full": 37.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

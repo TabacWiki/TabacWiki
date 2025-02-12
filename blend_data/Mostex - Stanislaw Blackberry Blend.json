@@ -1,0 +1,78 @@
+{
+    "stanislawblackberryblend": {
+        "blender": "Mostex",
+        "name": "Stanislaw Blackberry Blend",
+        "blendType": "Aromatic",
+        "description": "",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Czech Republic",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mostex - Stanislaw Blackberry Blend.jpg",
+        "averageRating": 1.33,
+        "reviewCount": 3,
+        "ratings": {
+            "strength": {
+                "level": "Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 100.0
+                }
+            },
+            "flavoring": {
+                "level": "Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 100.0
+                }
+            },
+            "roomNote": {
+                "level": "Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 100.0
+                }
+            },
+            "taste": {
+                "level": "Extra Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 100.0,
+                    "Overwhelming": 50.0
+                }
+            }
+        }
+    }
+}

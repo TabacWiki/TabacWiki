@@ -1,0 +1,78 @@
+{
+    "blendno.5": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Blend No.5",
+        "blendType": "English",
+        "description": "A robust English blend with character. Plenty of latakia, pressed Virginia and burley provide the base. Perfect for fans of Dunhill My Mixture #965.",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Blend No.5.jpg",
+        "averageRating": 2.79,
+        "reviewCount": 72,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.0606060606061,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.606060606061,
+                    "Medium to Strong": 15.151515151515,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.689655172414,
+                    "Very Mild": 31.034482758621,
+                    "Mild": 37.931034482759,
+                    "Mild to Medium": 44.827586206897,
+                    "Medium": 34.48275862069,
+                    "Medium to Strong": 10.344827586207,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 73.333333333333,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 31.034482758621,
+                    "Mild to Medium": 58.620689655172,
+                    "Medium": 100.0,
+                    "Medium to Full": 65.51724137931,
+                    "Full": 17.241379310345,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

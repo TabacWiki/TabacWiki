@@ -1,0 +1,78 @@
+{
+    "a.m.pipe": {
+        "blender": "McClelland",
+        "name": "A.M. Pipe",
+        "blendType": "English",
+        "description": "An alternative for Dunhill Early Morning Pipe. A great 'first pipe' of the day for the fan of English mixtures. Awaken your senses with this blend of Orientals, bright and red Virginias and a hint of latakia.",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - A.M. Pipe.jpg",
+        "averageRating": 2.94,
+        "reviewCount": 30,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 0.0,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 47.619047619048,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 100.0,
+                    "Medium": 46.153846153846,
+                    "Medium to Full": 7.6923076923077,
+                    "Full": 15.384615384615,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

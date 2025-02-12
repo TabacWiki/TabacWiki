@@ -1,0 +1,78 @@
+{
+    "cerberus": {
+        "blender": "Hearth & Home",
+        "name": "Cerberus",
+        "blendType": "English",
+        "description": "Cerberus was introduced as the International Pipe Smoking Day blend for 2012. The name comes from the three-headed hellhound, and the name was chosen because this robust blend contains all of the most popular condimental tobaccos - Latakia, perique, and dark-fired Kentucky - along with Virginias and Turkish leaf.",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Hearth & Home - Cerberus.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 32,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 21.052631578947,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.842105263158,
+                    "Strong": 15.789473684211,
+                    "Very Strong": 5.2631578947368,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.2258064516129,
+                    "Mild": 6.4516129032258,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 6.4516129032258,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 35.714285714286,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 64.285714285714,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 23.529411764706,
+                    "Medium to Full": 100.0,
+                    "Full": 47.058823529412,
+                    "Very Full": 11.764705882353,
+                    "Extra Full": 5.8823529411765,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

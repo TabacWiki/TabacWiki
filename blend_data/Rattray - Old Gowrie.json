@@ -1,0 +1,78 @@
+{
+    "oldgowrie": {
+        "blender": "Rattray",
+        "name": "Old Gowrie",
+        "blendType": "Virginia Based",
+        "description": "Fine, dark Virginia, Kentucky and a hint of perique are ripen in the press for up to 3 months, then cut and rubbed by hand.",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams tin, 1 pound bag",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Rattray - Old Gowrie.jpg",
+        "averageRating": 3.48,
+        "reviewCount": 268,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.64102564102564,
+                    "Very Mild": 5.1282051282051,
+                    "Mild": 10.897435897436,
+                    "Mild to Medium": 53.205128205128,
+                    "Medium": 100.0,
+                    "Medium to Strong": 19.871794871795,
+                    "Strong": 0.64102564102564,
+                    "Very Strong": 0.64102564102564,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.917030567686,
+                    "Very Mild": 4.8034934497817,
+                    "Mild": 10.480349344978,
+                    "Mild to Medium": 2.6200873362445,
+                    "Medium": 1.3100436681223,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 7.6271186440678,
+                    "Pleasant": 88.983050847458,
+                    "Very Pleasant": 11.016949152542,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 38.135593220339,
+                    "Tolerable to Strong": 4.2372881355932,
+                    "Strong": 2.5423728813559,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.625,
+                    "Very Mild": 3.125,
+                    "Mild": 8.125,
+                    "Mild to Medium": 36.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 31.875,
+                    "Full": 5.625,
+                    "Very Full": 0.625,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

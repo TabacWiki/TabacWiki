@@ -1,0 +1,78 @@
+{
+    "perfectionplugburley": {
+        "blender": "Uhle's",
+        "name": "Perfection Plug Burley",
+        "blendType": "Burley Based",
+        "description": "A true \"Puritan\" cut plug White Burley. Excellent and mild to smoke just as it is or can be used as a base to blend your own favourite mixture.",
+        "contents": "Burley",
+        "cut": "Cube",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz bag",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Uhle's - Perfection Plug Burley.jpg",
+        "averageRating": 3.65,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "distribution": {
+                    "None Detected": 75.0,
+                    "Extremely Mild": 62.5,
+                    "Very Mild": 100.0,
+                    "Mild": 37.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 54.545454545455,
+                    "Pleasant to Tolerable": 54.545454545455,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.454545454545,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

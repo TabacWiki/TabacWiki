@@ -1,0 +1,78 @@
+{
+    "luxuryblend": {
+        "blender": "Peterson",
+        "name": "Luxury Blend",
+        "blendType": "Aromatic",
+        "description": "A smooth and exquisite blend of golden and orange Virginias, sweetish black cavendish, fragrant burley and a fabulous aroma of honey and the all time favorite vanilla flavor. \n\nNew Tin Description: A unique mixture of selected tobaccos including Virginia, Burley and Maryland blended with some Black Cavendish. Blended with hand-rubbed Virginia Flake.",
+        "contents": "Black Cavendish,  Burley,  Maryland,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Luxury Blend.jpg",
+        "averageRating": 2.81,
+        "reviewCount": 97,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 2.0833333333333,
+                    "Very Mild": 18.75,
+                    "Mild": 100.0,
+                    "Mild to Medium": 79.166666666667,
+                    "Medium": 18.75,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.689655172414,
+                    "Very Mild": 34.48275862069,
+                    "Mild": 100.0,
+                    "Mild to Medium": 96.551724137931,
+                    "Medium": 68.965517241379,
+                    "Medium to Strong": 34.48275862069,
+                    "Strong": 10.344827586207,
+                    "Very Strong": 3.448275862069,
+                    "Extra Strong": 3.448275862069
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.921568627451,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 64.705882352941,
+                    "Pleasant to Tolerable": 29.411764705882,
+                    "Tolerable": 9.8039215686275,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 3.921568627451,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.0606060606061,
+                    "Very Mild": 24.242424242424,
+                    "Mild": 93.939393939394,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Full": 12.121212121212,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

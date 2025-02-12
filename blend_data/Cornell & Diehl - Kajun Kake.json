@@ -1,0 +1,78 @@
+{
+    "kajunkake": {
+        "blender": "Cornell & Diehl",
+        "name": "Kajun Kake",
+        "blendType": "Virginia/Perique",
+        "description": "We start with naturally sweet red Virginias and add just the right touch of everyone's favorite Cajun spice, Louisiana Perique. Then we press it into an old fashioned crumble cake which deepens and marries the flavors into what is quickly becoming one of C&D's most popular blends ever!",
+        "contents": "Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2oz Tin, 8oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Kajun Kake.jpg",
+        "averageRating": 3.31,
+        "reviewCount": 111,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.1224489795918,
+                    "Mild to Medium": 24.489795918367,
+                    "Medium": 100.0,
+                    "Medium to Strong": 93.877551020408,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 19.767441860465,
+                    "Very Mild": 5.8139534883721,
+                    "Mild": 4.6511627906977,
+                    "Mild to Medium": 6.9767441860465,
+                    "Medium": 3.4883720930233,
+                    "Medium to Strong": 3.4883720930233,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 10.869565217391,
+                    "Pleasant": 39.130434782609,
+                    "Very Pleasant": 8.695652173913,
+                    "Pleasant to Tolerable": 65.217391304348,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 34.782608695652,
+                    "Strong": 8.695652173913,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.1739130434783,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.1224489795918,
+                    "Mild": 4.0816326530612,
+                    "Mild to Medium": 12.244897959184,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 100.0,
+                    "Full": 53.061224489796,
+                    "Very Full": 4.0816326530612,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.0408163265306
+                }
+            }
+        }
+    }
+}

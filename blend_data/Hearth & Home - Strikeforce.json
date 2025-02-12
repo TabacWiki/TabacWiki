@@ -1,0 +1,78 @@
+{
+    "strikeforce": {
+        "blender": "Hearth & Home",
+        "name": "Strikeforce",
+        "blendType": "Cigar Leaf Based",
+        "description": "A healthy amount of premium latakia is combined with buttery Turkish, sweet Virginias, tangy perique and a touch of Nicaraguan Cigar Leafs for a \"kick\".",
+        "contents": "Cigar Leaf,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin, Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Hearth & Home - Strikeforce.jpg",
+        "averageRating": 3.24,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 100.0,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 25.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 80.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 80.0,
+                    "Full": 100.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 20.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

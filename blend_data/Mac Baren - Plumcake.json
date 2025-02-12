@@ -1,0 +1,78 @@
+{
+    "plumcake": {
+        "blender": "Mac Baren",
+        "name": "Plumcake",
+        "blendType": "Aromatic",
+        "description": "A mixture of fully ripe Virginia tobaccos, sliced, cask mellowed burley tobaccos, dark spicy cavendish and just a touch of latakia. To give Plumcake an elegant aroma, the blend has been flavoured with aged Jamaica rum. \n\nNEW TIN DESCRIPTION: Plumcake brings the thoughts back to old times, when the sailors onboard the sailing ships filled their pipe with good, satisfying tobacco and having the scent of tar and saltwater all around them. Bright Virginia tobaccos mixed with burley, a little original Mac Baren cavendish and just a touch of [Cyprian] latakia. On top of this masterly made blend original Jamaica Rum has been added to fulfill the impression. This blend is full bodied and rich, giving you the taste nuances of natural sweetness added with a slight taste of smoke, latakia and the distinctive aroma of sailor rum.",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin, 50 grams pouch, 16 ounce bag",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Plumcake.jpg",
+        "averageRating": 2.88,
+        "reviewCount": 270,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.88495575221239,
+                    "Very Mild": 7.0796460176991,
+                    "Mild": 38.053097345133,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.610619469027,
+                    "Medium to Strong": 25.663716814159,
+                    "Strong": 4.4247787610619,
+                    "Very Strong": 1.7699115044248,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 2.247191011236,
+                    "Extremely Mild": 11.23595505618,
+                    "Very Mild": 24.719101123596,
+                    "Mild": 79.775280898876,
+                    "Mild to Medium": 100.0,
+                    "Medium": 87.640449438202,
+                    "Medium to Strong": 20.224719101124,
+                    "Strong": 8.9887640449438,
+                    "Very Strong": 1.123595505618,
+                    "Extra Strong": 1.123595505618
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.8985507246377,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 24.63768115942,
+                    "Pleasant to Tolerable": 53.623188405797,
+                    "Tolerable": 29.710144927536,
+                    "Tolerable to Strong": 3.6231884057971,
+                    "Strong": 2.1739130434783,
+                    "Very Strong": 0.72463768115942,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.9180327868852,
+                    "Very Mild": 4.0983606557377,
+                    "Mild": 19.672131147541,
+                    "Mild to Medium": 57.377049180328,
+                    "Medium": 100.0,
+                    "Medium to Full": 45.081967213115,
+                    "Full": 12.295081967213,
+                    "Very Full": 1.6393442622951,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.81967213114754
+                }
+            }
+        }
+    }
+}

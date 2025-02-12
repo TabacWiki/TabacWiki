@@ -1,0 +1,78 @@
+{
+    "burleyslice": {
+        "blender": "Wessex",
+        "name": "Burley Slice",
+        "blendType": "Burley Based",
+        "description": "Return of original Richmond recipe, full flavored and nutty.\n\nThe tin now reads \u201cHigh quality Flake of 100% Burley.  A slow combustion with a pleasant liquorice taste.\u201d",
+        "contents": "Burley",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Wessex - Burley Slice.jpg",
+        "averageRating": 3.19,
+        "reviewCount": 67,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.151515151515,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 57.575757575758,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 95.454545454545,
+                    "Very Mild": 22.727272727273,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 31.818181818182,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 6.8965517241379,
+                    "Pleasant": 58.620689655172,
+                    "Very Pleasant": 10.344827586207,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 68.965517241379,
+                    "Tolerable to Strong": 13.793103448276,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 21.212121212121,
+                    "Mild to Medium": 30.30303030303,
+                    "Medium": 100.0,
+                    "Medium to Full": 42.424242424242,
+                    "Full": 24.242424242424,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

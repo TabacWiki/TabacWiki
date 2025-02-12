@@ -1,0 +1,78 @@
+{
+    "cherry&vanilla": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Cherry & Vanilla",
+        "blendType": "Aromatic",
+        "description": "This is an exceptionally mild, sweet and smooth vanilla flavoured tobacco with a hint of ripe fresh cherries.",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Cherry & Vanilla.jpg",
+        "averageRating": 2.03,
+        "reviewCount": 27,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 45.454545454545,
+                    "Very Mild": 63.636363636364,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 36.363636363636,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 62.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 87.5,
+                    "Medium to Strong": 75.0,
+                    "Strong": 0.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 12.5
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 55.555555555556,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 44.444444444444,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "jubilee": {
+        "blender": "Stanwell",
+        "name": "Jubilee",
+        "blendType": "Aromatic",
+        "description": "This blend has been created by my experts with more than four generations of experience from one of their oldest family recipes. Only the finest Virginia and burley leaves - stored for more than three years in the original hogsheads have been used. To unite the fine aromas and ensure extra mildness the blend has been fermented in the original factory sweat rooms for several months. Finally I have added only a small amount of the famous dark fired Kentucky and Oriental tobaccos to give you a perfection in smoking pleasure. Hand blended.",
+        "contents": "Burley,  Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Stanwell - Jubilee.jpg",
+        "averageRating": 2.61,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 37.5,
+                    "Mild": 37.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 87.5,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

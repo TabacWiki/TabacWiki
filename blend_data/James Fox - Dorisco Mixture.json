@@ -1,0 +1,78 @@
+{
+    "doriscomixture": {
+        "blender": "James Fox",
+        "name": "Dorisco Mixture",
+        "blendType": "English",
+        "description": "Pure Perique, derived from tobaccos smoked by American Indians in their pipes of peace, has been added to a base of coarse cut Virginian mixture to give a distinctive flavor to this hand blended mixture.",
+        "contents": "Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "country": "Germany",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/James Fox - Dorisco Mixture.jpg",
+        "averageRating": 3.37,
+        "reviewCount": 48,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 76.190476190476,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 4.7619047619048,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.0,
+                    "Very Mild": 7.5,
+                    "Mild": 7.5,
+                    "Mild to Medium": 2.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 2.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 94.117647058824,
+                    "Very Pleasant": 29.411764705882,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.823529411765,
+                    "Tolerable to Strong": 23.529411764706,
+                    "Strong": 0.0,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 5.8823529411765,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 0.0,
+                    "Mild to Medium": 30.769230769231,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 19.230769230769,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

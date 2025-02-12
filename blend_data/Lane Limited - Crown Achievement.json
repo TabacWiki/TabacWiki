@@ -1,0 +1,78 @@
+{
+    "crownachievement": {
+        "blender": "Lane Limited",
+        "name": "Crown Achievement",
+        "blendType": "Balkan",
+        "description": "The rarest, most costly mixture composed of the finest Virginia, Mahalla, Dubac and Mountain Leaf Latakia. Recognized as the world's most outstanding smoking mixture.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.75 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Lane Limited - Crown Achievement.jpg",
+        "averageRating": 2.76,
+        "reviewCount": 79,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 28.947368421053,
+                    "Mild to Medium": 44.736842105263,
+                    "Medium": 100.0,
+                    "Medium to Strong": 39.473684210526,
+                    "Strong": 13.157894736842,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.846153846154,
+                    "Very Mild": 6.1538461538462,
+                    "Mild": 9.2307692307692,
+                    "Mild to Medium": 1.5384615384615,
+                    "Medium": 3.0769230769231,
+                    "Medium to Strong": 1.5384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 35.135135135135,
+                    "Very Pleasant": 5.4054054054054,
+                    "Pleasant to Tolerable": 45.945945945946,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 32.432432432432,
+                    "Strong": 8.1081081081081,
+                    "Very Strong": 2.7027027027027,
+                    "Extra Strong": 2.7027027027027,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3333333333333,
+                    "Very Mild": 10.0,
+                    "Mild": 3.3333333333333,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 33.333333333333,
+                    "Very Full": 13.333333333333,
+                    "Extra Full": 3.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

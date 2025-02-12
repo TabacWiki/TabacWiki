@@ -1,0 +1,78 @@
+{
+    "crooner": {
+        "blender": "Cornell & Diehl",
+        "name": "Crooner",
+        "blendType": "Burley Based",
+        "description": "A specially cut, cube-style burley and deer tongue tobacco, Cornell & Diehl's Crooner is an authentic copy of Bing Crosby's private blend, shared with C&D by one of his closest friends.",
+        "contents": "Burley",
+        "cut": "Cube",
+        "packaging": "2 ounce tin, bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Crooner.jpg",
+        "averageRating": 2.69,
+        "reviewCount": 111,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 62.162162162162,
+                    "Mild to Medium": 86.486486486486,
+                    "Medium": 100.0,
+                    "Medium to Strong": 48.648648648649,
+                    "Strong": 29.72972972973,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.4054054054054
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 64.285714285714,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 67.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 64.285714285714,
+                    "Medium to Strong": 75.0,
+                    "Strong": 10.714285714286,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 7.1428571428571
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 2.7027027027027,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 37.837837837838,
+                    "Pleasant to Tolerable": 86.486486486486,
+                    "Tolerable": 54.054054054054,
+                    "Tolerable to Strong": 16.216216216216,
+                    "Strong": 21.621621621622,
+                    "Very Strong": 8.1081081081081,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 8.1081081081081
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.1739130434783,
+                    "Very Mild": 0.0,
+                    "Mild": 26.086956521739,
+                    "Mild to Medium": 43.478260869565,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.521739130435,
+                    "Full": 23.913043478261,
+                    "Very Full": 10.869565217391,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.5217391304348
+                }
+            }
+        }
+    }
+}

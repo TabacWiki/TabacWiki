@@ -1,0 +1,78 @@
+{
+    "gentlemancaller": {
+        "blender": "Cornell & Diehl",
+        "name": "Gentleman Caller",
+        "blendType": "American",
+        "description": "Grandma always kept a couple bowls of this fragrant blend of Virginias, burleys, and a dash of deer tongue and perique around as potpourri to make her favorite beaus feel right at home when they came calling. A Robillard blend.",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Gentleman Caller.jpg",
+        "averageRating": 3.21,
+        "reviewCount": 37,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.0,
+                    "Mild": 35.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 72.727272727273,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 9.0909090909091
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 52.631578947368,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 31.578947368421,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 73.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 46.666666666667,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

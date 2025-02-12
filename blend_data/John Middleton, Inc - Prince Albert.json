@@ -1,0 +1,78 @@
+{
+    "princealbert": {
+        "blender": "John Middleton, Inc",
+        "name": "Prince Albert",
+        "blendType": "Burley Based",
+        "description": "Crimp-cut, mild smoking mixture. Made in the USA.",
+        "contents": "Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "1.5 oz pouch; 14 oz plastic tub",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/John Middleton, Inc - Prince Albert.jpg",
+        "averageRating": 2.95,
+        "reviewCount": 458,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 5.4455445544554,
+                    "Very Mild": 14.356435643564,
+                    "Mild": 100.0,
+                    "Mild to Medium": 79.70297029703,
+                    "Medium": 42.574257425743,
+                    "Medium to Strong": 7.4257425742574,
+                    "Strong": 2.4752475247525,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 66.896551724138,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 75.862068965517,
+                    "Mild": 100.0,
+                    "Mild to Medium": 32.413793103448,
+                    "Medium": 11.724137931034,
+                    "Medium to Strong": 2.7586206896552,
+                    "Strong": 1.3793103448276,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 8.8757396449704,
+                    "Pleasant": 98.816568047337,
+                    "Very Pleasant": 18.934911242604,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.396449704142,
+                    "Tolerable to Strong": 11.242603550296,
+                    "Strong": 4.7337278106509,
+                    "Very Strong": 0.59171597633136,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.59171597633136
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.6256684491979,
+                    "Very Mild": 12.83422459893,
+                    "Mild": 82.352941176471,
+                    "Mild to Medium": 100.0,
+                    "Medium": 47.593582887701,
+                    "Medium to Full": 13.368983957219,
+                    "Full": 4.2780748663102,
+                    "Very Full": 0.53475935828877,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.6042780748663
+                }
+            }
+        }
+    }
+}

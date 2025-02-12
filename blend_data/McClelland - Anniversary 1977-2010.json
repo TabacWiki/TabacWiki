@@ -1,0 +1,78 @@
+{
+    "anniversary1977-2010": {
+        "blender": "McClelland",
+        "name": "Anniversary 1977-2010",
+        "blendType": "Virginia/Latakia",
+        "description": "An elegant matured Virginia ribbon-cut blend, naturally sweet with that clarity of flavor possessed by only the best Virginias. Seasoned lightly with fine, cool-smoking Cyprian latakia. Aged for months to mellow.",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - Anniversary 1977-2010.jpg",
+        "averageRating": 3.22,
+        "reviewCount": 62,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 13.793103448276,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 10.344827586207,
+                    "Strong": 6.8965517241379,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.75,
+                    "Very Mild": 2.0833333333333,
+                    "Mild": 6.25,
+                    "Mild to Medium": 4.1666666666667,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 73.076923076923,
+                    "Tolerable": 76.923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 0.0,
+                    "Very Full": 3.7037037037037,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

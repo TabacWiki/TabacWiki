@@ -1,0 +1,78 @@
+{
+    "madfiddlerflake": {
+        "blender": "Cornell & Diehl",
+        "name": "Mad Fiddler Flake",
+        "blendType": "Cigar Leaf Based",
+        "description": "The eerie, otherworldly sound of a violin breaches the walls between your rooms. As the Mad Fiddler reaches his crescendo, embers take to your leaf, setting your mixture of Virginia, Kasturi, Perique, and black Cavendish ablaze in the darkness.",
+        "contents": "Black Cavendish,  Cigar Leaf,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Cornell & Diehl - Mad Fiddler Flake.jpg",
+        "averageRating": 3.14,
+        "reviewCount": 25,
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 8.3333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 31.25,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 38.461538461538,
+                    "Medium to Full": 100.0,
+                    "Full": 53.846153846154,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

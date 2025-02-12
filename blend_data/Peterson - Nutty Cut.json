@@ -1,0 +1,78 @@
+{
+    "nuttycut": {
+        "blender": "Peterson",
+        "name": "Nutty Cut",
+        "blendType": "Aromatic",
+        "description": "A mixture of golden, red and dark Virginia tobaccos  blended with burley and black cavendish. Enhanced with flavourings of Macadamia nuts, coconut and rum.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peterson - Nutty Cut.jpg",
+        "averageRating": 2.72,
+        "reviewCount": 64,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 79.166666666667,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 47.619047619048,
+                    "Mild to Medium": 95.238095238095,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 96.153846153846,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 15.384615384615,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 17.391304347826,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 52.173913043478,
+                    "Mild to Medium": 82.608695652174,
+                    "Medium": 100.0,
+                    "Medium to Full": 43.478260869565,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

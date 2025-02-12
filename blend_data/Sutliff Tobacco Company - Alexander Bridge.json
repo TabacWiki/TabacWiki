@@ -1,0 +1,78 @@
+{
+    "alexanderbridge": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Alexander Bridge",
+        "blendType": "Virginia/Burley",
+        "description": "Many people think the opulently decorated Alexander Bridge to be the most beautiful in Paris. Much like the Alexander Bridge, this marvelous aromatic blend has key elements painstakingly brought together to create something aesthetically pleasing. Red and gold Virginias mix with rich burleys to mingle in harmony.",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tiin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Alexander Bridge.jpg",
+        "averageRating": 2.78,
+        "reviewCount": 16,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 83.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

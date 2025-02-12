@@ -1,0 +1,78 @@
+{
+    "caledonianmelangeno.10highlandcream": {
+        "blender": "A & C Petersen",
+        "name": "Caledonian Melange No.10 Highland Cream",
+        "blendType": "Aromatic",
+        "description": "Bright Virginia grades hand-blended with bulk cured black cavendish. Flavored with Scottish Highland cream whiskey. Easy to fill and easy to smoke.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/A & C Petersen - Caledonian Melange No.10 Highland Cream.jpg",
+        "averageRating": 2.62,
+        "reviewCount": 18,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 88.888888888889,
+                    "Pleasant to Tolerable": 11.111111111111,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 20.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

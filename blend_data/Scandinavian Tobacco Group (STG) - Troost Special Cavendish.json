@@ -1,0 +1,78 @@
+{
+    "troostspecialcavendish": {
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "name": "Troost Special Cavendish",
+        "blendType": "Cavendish Based",
+        "description": "Special Cavendish Mixture.",
+        "contents": "Burley,  Cavendish,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "country": "Netherlands",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Troost Special Cavendish.jpg",
+        "averageRating": 2.77,
+        "reviewCount": 42,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 71.428571428571,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.809523809524,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 0.0,
+                    "Very Strong": 4.7619047619048,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 13.636363636364,
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 40.909090909091,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.809523809524,
+                    "Pleasant to Tolerable": 80.952380952381,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 61.904761904762,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 23.809523809524,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

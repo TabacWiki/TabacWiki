@@ -1,0 +1,78 @@
+{
+    "nougat(no.24)": {
+        "blender": "Peter Stokkebye",
+        "name": "Nougat (No.24)",
+        "blendType": "Aromatic",
+        "description": "Peter Stokkebye's best selling blend. Superior golden African Virginias are combined with burleys and mild black cavendish then finished with a unique vanilla and chocolate essence to achieve the superb taste favored by millions.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peter Stokkebye - Nougat (No.24).jpg",
+        "averageRating": 2.54,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 30.30303030303,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 6.0606060606061,
+                    "Medium to Strong": 3.030303030303,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 11.538461538462,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 83.870967741935,
+                    "Pleasant to Tolerable": 35.483870967742,
+                    "Tolerable": 9.6774193548387,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.384615384615,
+                    "Very Mild": 19.230769230769,
+                    "Mild": 69.230769230769,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 3.8461538461538,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

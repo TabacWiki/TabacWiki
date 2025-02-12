@@ -1,0 +1,78 @@
+{
+    "goldofdenmark": {
+        "blender": "Mac Baren",
+        "name": "Gold of Denmark",
+        "blendType": "Aromatic",
+        "description": "Gold of Denmark is a blend of matured burley, Virginia and cavendish tobaccos, selected to create a smooth, mild and gently golden taste. A truly pleasing and satisfying smoke for anyone who appreciates a good pipe of tobacco.",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "country": "Denmark",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/Mac Baren - Gold of Denmark.jpg",
+        "averageRating": 2.62,
+        "reviewCount": 23,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 69.230769230769,
+                    "Mild to Medium": 100.0,
+                    "Medium": 15.384615384615,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 6.6666666666667,
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 26.666666666667,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 6.6666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 61.538461538462,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

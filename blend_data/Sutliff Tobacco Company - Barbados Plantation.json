@@ -1,0 +1,78 @@
+{
+    "barbadosplantation": {
+        "blender": "Sutliff Tobacco Company",
+        "name": "Barbados Plantation",
+        "blendType": "Aromatic",
+        "description": "Rich Barbados rum applied to a base of burley, Virginia, and black cavendish.",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Barbados Plantation.jpg",
+        "averageRating": 3.13,
+        "reviewCount": 35,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 46.153846153846,
+                    "Mild": 100.0,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 61.538461538462,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 23.529411764706,
+                    "Mild to Medium": 11.764705882353,
+                    "Medium": 41.176470588235,
+                    "Medium to Strong": 100.0,
+                    "Strong": 17.647058823529,
+                    "Very Strong": 17.647058823529,
+                    "Extra Strong": 5.8823529411765
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "distribution": {
+                    "Unnoticeable": 4.3478260869565,
+                    "Pleasant": 39.130434782609,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 21.739130434783,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 38.461538461538,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Full": 30.769230769231,
+                    "Full": 30.769230769231,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

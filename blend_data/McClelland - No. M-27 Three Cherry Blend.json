@@ -1,0 +1,78 @@
+{
+    "no.m-27threecherryblend": {
+        "blender": "McClelland",
+        "name": "No. M-27 Three Cherry Blend",
+        "blendType": "Aromatic",
+        "description": "Three deliciously different cherry flavors - refreshing duke, fermented maraschino and rich Kansas sweet - grace this balanced blend of lemon Virginia and black cavendish.",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "No longer in production",
+        "imagePath": "../blend_pictures/McClelland - No. M-27 Three Cherry Blend.jpg",
+        "averageRating": 2.59,
+        "reviewCount": 26,
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 100.0,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 20.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 92.307692307692,
+                    "Pleasant to Tolerable": 30.769230769231,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 10.0,
+                    "Medium to Full": 20.0,
+                    "Full": 10.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

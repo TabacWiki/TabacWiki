@@ -1,0 +1,78 @@
+{
+    "distinguishedgentleman": {
+        "blender": "E. Hoffman Company",
+        "name": "Distinguished Gentleman",
+        "blendType": "American",
+        "description": "An elegant & captivating pipe tobacco comprised of select choice leaf (Burley, Virginia, Black Cavendish and Cyprian Latakia), gently fragrant with an intoxicating aroma. A classic crossover tobacco blended to satisfy the smoker while pleasing those around them.",
+        "contents": "Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2.5oz Tin",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/E. Hoffman Company - Distinguished Gentleman.jpg",
+        "averageRating": 3.08,
+        "reviewCount": 36,
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 55.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 18.75,
+                    "Very Mild": 25.0,
+                    "Mild": 43.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 6.25,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 55.555555555556,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.8823529411765,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 29.411764705882,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.941176470588,
+                    "Medium to Full": 23.529411764706,
+                    "Full": 5.8823529411765,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

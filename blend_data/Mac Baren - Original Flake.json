@@ -1,0 +1,78 @@
+{
+    "originalflake": {
+        "blender": "Mac Baren",
+        "name": "Original Flake",
+        "blendType": "Virginia/Burley",
+        "description": "An exceptionally cool, slow burning flake tobacco with a rich and distinctive aroma. Ideal for those smokers who appreciate the full bodied rich flavor of choice leaves spiced with burley and fire-cured tobaccos.",
+        "contents": "Burley, Virginia",
+        "cut": "Flake",
+        "packaging": "pouch weight",
+        "country": "Denmark",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Mac Baren - Original Flake.jpg",
+        "averageRating": 3.12,
+        "reviewCount": 52,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 25.0,
+                    "Medium": 54.166666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 45.833333333333,
+                    "Very Strong": 4.1666666666667,
+                    "Extremely Strong": 4.1666666666667,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 60.0,
+                    "Extremely Mild": 73.333333333333,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 76.470588235294,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 88.235294117647,
+                    "Tolerable to Strong": 29.411764705882,
+                    "Strong": 23.529411764706,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 11.764705882353,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.5555555555556,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 94.444444444444,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            }
+        }
+    }
+}

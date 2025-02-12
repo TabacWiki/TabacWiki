@@ -1,0 +1,78 @@
+{
+    "revorplug": {
+        "blender": "Gawith, Hoggarth & Co.",
+        "name": "Revor Plug",
+        "blendType": "Virginia/Burley",
+        "description": "A blend of flue and fire cured tobaccos pressed and baked into a glossy black bar. Favoured by experienced pipesmokers who demand a strong cool satisfying smoke.",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "country": "United Kingdom",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Revor Plug.jpg",
+        "averageRating": 3.75,
+        "reviewCount": 63,
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 13.333333333333,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 100.0,
+                    "Very Strong": 40.0,
+                    "Extremely Strong": 10.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "distribution": {
+                    "None Detected": 52.380952380952,
+                    "Extremely Mild": 19.047619047619,
+                    "Very Mild": 52.380952380952,
+                    "Mild": 100.0,
+                    "Mild to Medium": 47.619047619048,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 23.809523809524,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 13.04347826087,
+                    "Pleasant": 43.478260869565,
+                    "Very Pleasant": 21.739130434783,
+                    "Pleasant to Tolerable": 73.913043478261,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 39.130434782609,
+                    "Strong": 13.04347826087,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.448275862069,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.8965517241379,
+                    "Medium": 24.137931034483,
+                    "Medium to Full": 55.172413793103,
+                    "Full": 100.0,
+                    "Very Full": 51.724137931034,
+                    "Extra Full": 3.448275862069,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

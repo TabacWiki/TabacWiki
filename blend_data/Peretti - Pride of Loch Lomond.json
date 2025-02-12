@@ -1,0 +1,78 @@
+{
+    "prideoflochlomond": {
+        "blender": "Peretti",
+        "name": "Pride of Loch Lomond",
+        "blendType": "Scottish",
+        "description": "A truly outstanding tobacco blended in the old Scottish Tradition, developing an unusual mellow mist. It is very complex and full bodied.",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "country": "United States",
+        "production": "Currently available",
+        "imagePath": "../blend_pictures/Peretti - Pride of Loch Lomond.jpg",
+        "averageRating": 3.53,
+        "reviewCount": 15,
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 12.5,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 37.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 100.0,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 16.666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}
