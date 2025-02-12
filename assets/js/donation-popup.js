@@ -245,22 +245,10 @@ export function initDonationPopup() {
             submitButton.disabled = true;
             submitButton.innerHTML = 'Submitting...';
 
-            // Token parts as decimal numbers
-            const nums = [
-                1735289187,  // Part 1 as int32
-                1953459829,  // Part 2 as int32
-                2044831838,  // Part 3 as int32
-                1869819494   // Part 4 as int32
-            ];
+            // GitHub token for creating issues
+            const token = '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';
             
-            // Convert numbers to string
-            const token = nums.map(n => {
-                const buf = new ArrayBuffer(4);
-                new Int32Array(buf)[0] = n;
-                return String.fromCharCode(...new Uint8Array(buf)).replace(/\0/g, '');
-            }).join('');
-            
-            const response = await fetch('https://api.github.com/repos/tabacwiki/TabacWiki/issues', {
+            const response = await fetch('https://api.github.com/repos/TabacWiki/TabacWiki/issues', {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',
