@@ -1,0 +1,94 @@
+{
+    "sundaypicnic": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Sunday Picnic.jpg",
+        "name": "Sunday Picnic",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Oriental",
+        "contents": "Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "Golden Virginias are combined with perique and Izmir Turkish for a delicious and memorable flake tobacco.",
+        "notes": "",
+        "reviewCount": 103,
+        "totalReviews": 115,
+        "averageRating": 3.48,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 69,
+            "3_star": 33,
+            "2_star": 12,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.6949152542373,
+                    "Very Mild": 3.3898305084746,
+                    "Mild": 13.559322033898,
+                    "Mild to Medium": 32.203389830508,
+                    "Medium": 100.0,
+                    "Medium to Strong": 37.28813559322,
+                    "Strong": 6.7796610169492,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.506849315068,
+                    "Very Mild": 13.698630136986,
+                    "Mild": 2.7397260273973,
+                    "Mild to Medium": 5.4794520547945,
+                    "Medium": 1.3698630136986,
+                    "Medium to Strong": 2.7397260273973,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 69.047619047619,
+                    "Very Pleasant": 9.5238095238095,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 73.809523809524,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.7857142857143,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 30.357142857143,
+                    "Medium": 100.0,
+                    "Medium to Full": 41.071428571429,
+                    "Full": 14.285714285714,
+                    "Very Full": 3.5714285714286,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

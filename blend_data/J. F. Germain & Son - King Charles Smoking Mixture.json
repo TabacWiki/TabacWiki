@@ -1,0 +1,94 @@
+{
+    "kingcharlessmokingmixture": {
+        "imagePath": "../blend_pictures/J. F. Germain & Son - King Charles Smoking Mixture.jpg",
+        "name": "King Charles Smoking Mixture",
+        "blender": "J. F. Germain & Son",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams tin, 50 grams pouch",
+        "flavoring": "",
+        "description": "A mixture of high grade Cyprus latakia, Oriental and Virginia tobaccos. Named after Charles the Second who took shelter in Jersey after the civil war.",
+        "notes": "Notes:A straight blend of high quality Virginian, Oriental and latakia tobaccos giving a smooth smoke robust in strength, there are no added flavors, just the pure taste of natural tobacco.",
+        "reviewCount": 64,
+        "totalReviews": 72,
+        "averageRating": 3.06,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 31,
+            "2_star": 14,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 30.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.0,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.9365079365079,
+                    "Very Mild": 1.5873015873016,
+                    "Mild": 3.1746031746032,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 1.5873015873016,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 64.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.0,
+                    "Tolerable to Strong": 4.0,
+                    "Strong": 12.0,
+                    "Very Strong": 4.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.666666666667,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

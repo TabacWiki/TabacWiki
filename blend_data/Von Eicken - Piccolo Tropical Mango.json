@@ -1,0 +1,94 @@
+{
+    "piccolotropicalmango": {
+        "imagePath": "../blend_pictures/Von Eicken - Piccolo Tropical Mango.jpg",
+        "name": "Piccolo Tropical Mango",
+        "blender": "Von Eicken",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "single smoke pouch",
+        "flavoring": "Mango",
+        "description": "",
+        "notes": "",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

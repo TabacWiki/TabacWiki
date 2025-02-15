@@ -1,0 +1,94 @@
+{
+    "scottishflake": {
+        "imagePath": "../blend_pictures/Robert McConnell - Scottish Flake.jpg",
+        "name": "Scottish Flake",
+        "blender": "Robert McConnell",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Rum",
+        "description": "Exclusive dark Virginia tobaccos and a spicy Kentucky with a touch of perique pressed into a flake.",
+        "notes": "Notes:This description was on older tins: One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century.",
+        "reviewCount": 96,
+        "totalReviews": 107,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 46,
+            "3_star": 44,
+            "2_star": 15,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.5087719298246,
+                    "Mild": 8.7719298245614,
+                    "Mild to Medium": 57.894736842105,
+                    "Medium": 100.0,
+                    "Medium to Strong": 17.543859649123,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 97.368421052632,
+                    "Very Mild": 36.842105263158,
+                    "Mild": 23.684210526316,
+                    "Mild to Medium": 18.421052631579,
+                    "Medium": 2.6315789473684,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.888888888889,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.555555555556,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 2.7777777777778,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0833333333333,
+                    "Very Mild": 2.0833333333333,
+                    "Mild": 12.5,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 47.916666666667,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

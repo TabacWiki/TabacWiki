@@ -1,0 +1,94 @@
+{
+    "oldtartan": {
+        "imagePath": "../blend_pictures/Hearth & Home - Old Tartan.jpg",
+        "name": "Old Tartan",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Cavendish,  Latakia",
+        "cut": "Mixture",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "flavoring": "Alcohol / Liquor",
+        "description": "A new interpretation of a blend that was a mainstay in the Albany NY area for more than a half-century. This smooth-smoking mixture uses a variety of cube and rough cut Burleys and a splash of natural Cavendish with just enough Latakia to add a slight smoky spice. Enjoy this taste of the past.",
+        "notes": "Notes:According to Pipes & Cigars Deer Tongue is no longer used.",
+        "reviewCount": 33,
+        "totalReviews": 37,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 13,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 27.777777777778,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 75.0,
+                    "Very Mild": 62.5,
+                    "Mild": 50.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 75.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 35.294117647059,
+                    "Pleasant to Tolerable": 58.823529411765,
+                    "Tolerable": 17.647058823529,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

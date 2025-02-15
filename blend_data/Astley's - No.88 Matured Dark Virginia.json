@@ -1,0 +1,94 @@
+{
+    "no.88matureddarkvirginia": {
+        "imagePath": "../blend_pictures/Astley's - No.88 Matured Dark Virginia.jpg",
+        "name": "No.88 Matured Dark Virginia",
+        "blender": "Astley's",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Black Cavendish",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "flavoring": "Other / Misc",
+        "description": "Deep flavored, heat cured, naturally fermented and matured black cavendish.",
+        "notes": "Notes:Originally blended in England.",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 2.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 9,
+            "2_star": 9,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

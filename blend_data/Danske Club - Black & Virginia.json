@@ -1,0 +1,94 @@
+{
+    "black&virginia": {
+        "imagePath": "../blend_pictures/Danske Club - Black & Virginia.jpg",
+        "name": "Black & Virginia",
+        "blender": "Danske Club",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Honey",
+        "description": "",
+        "notes": "Notes:Basically the same as Black Luxury, but with a bright element of U.S. flue cured tobacco. A very mild and mellow smoke, full of flavor.",
+        "reviewCount": 5,
+        "totalReviews": 5,
+        "averageRating": 2.6,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 1,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

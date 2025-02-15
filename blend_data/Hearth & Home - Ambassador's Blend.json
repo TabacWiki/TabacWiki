@@ -1,0 +1,94 @@
+{
+    "ambassador'sblend": {
+        "imagePath": "../blend_pictures/Hearth & Home - Ambassador's Blend.jpg",
+        "name": "Ambassador's Blend",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5oz Tin, Bulk",
+        "flavoring": "",
+        "description": "This blend was created as a result of a number of requests for something in the same vein as some of the richer Dunhill tobaccos: London Mixture, Standard Mixture Full and Medium. Seasoned English blend smokers are familiar with the warm and rich flavor of those mixtures, and although we didn't try to duplicate any of their tobaccos, we have worked to recreate the general spirit and flavor profile of these currently absent old friends. Members of our sampling group made comments like: \"I think you've nailed it.\" and \"I haven't tasted anything like this in years.\"",
+        "notes": "",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 3.55,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 5,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 63.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 80.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 30.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

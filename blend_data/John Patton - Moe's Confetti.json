@@ -1,0 +1,94 @@
+{
+    "moe'sconfetti": {
+        "imagePath": "../blend_pictures/John Patton - Moe's Confetti.jpg",
+        "name": "Moe's Confetti",
+        "blender": "John Patton",
+        "blendedBy": "John Patton / Rich Gottlieb",
+        "manufacturedBy": "4noggins",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Other / Misc",
+        "description": "John's most popular blend. A combination of burleys give this a nutty and slightly sweet taste with a wonderful room note. Best smoked in a corn cob pipe.",
+        "notes": "Notes:Sold through 4noggins.com",
+        "reviewCount": 13,
+        "totalReviews": 15,
+        "averageRating": 3.13,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 4,
+            "2_star": 0,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 83.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 57.142857142857,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 42.857142857143,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 37.5,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

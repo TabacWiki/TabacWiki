@@ -1,0 +1,94 @@
+{
+    "2013": {
+        "imagePath": "../blend_pictures/Samuel Gawith - 2013.jpg",
+        "name": "2013",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "flavoring": "Almond,  Vanilla",
+        "description": "For this 2013 Limited Edition Pipe Tobacco, Samuel Gawith have chosen a specially selected blend of Virginia tobaccos blended together with some sweet  black cavendish and some good quality burley tobacco with a Vanilla Creme flavour. To compliment the already smooth characteristic of this blend a soupcon of almond essence has been added.\n\nThe result is a very smooth, medium strength tobacco with a good volume of smoke and a delightful room note.\n\nLimited Edition run of only 15,000 tins world wide.",
+        "notes": "Notes:A limited-edition blend of Virginias, sweet black Cavendish, a touch of Burley, a little vanilla creme aromatic, and a light touch of almond essence.",
+        "reviewCount": 9,
+        "totalReviews": 11,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 2,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 25.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

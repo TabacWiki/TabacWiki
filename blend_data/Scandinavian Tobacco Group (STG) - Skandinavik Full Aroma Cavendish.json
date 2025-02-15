@@ -1,0 +1,94 @@
+{
+    "skandinavikfullaromacavendish": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Skandinavik Full Aroma Cavendish.jpg",
+        "name": "Skandinavik Full Aroma Cavendish",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Peter Stokkebye",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch",
+        "flavoring": "Other / Misc",
+        "description": "Mature Virginia and toasted burley tobaccos flavored with full and sweet notes that enhance this typical Danish flavor.",
+        "notes": "",
+        "reviewCount": 50,
+        "totalReviews": 56,
+        "averageRating": 2.73,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 25,
+            "2_star": 20,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.125,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 18.75,
+                    "Medium to Strong": 3.125,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 27.777777777778,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 27.777777777778,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 10.714285714286,
+                    "Tolerable to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 45.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

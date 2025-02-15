@@ -1,0 +1,94 @@
+{
+    "britishwoods": {
+        "imagePath": "../blend_pictures/McClelland - British Woods.jpg",
+        "name": "British Woods",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Oriental",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "Full, rich and dark, heavy with fragrant latakia, spiced with premium Macedonian tobaccos. Lightly sweetened with matured Virginias, this distinguished Oriental mixture is slow burning and cool smoking. It offers richness and depth plus unparalleled smoothness and refinement.",
+        "notes": "",
+        "reviewCount": 80,
+        "totalReviews": 89,
+        "averageRating": 3.27,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 42,
+            "3_star": 31,
+            "2_star": 14,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 11.904761904762,
+                    "Mild to Medium": 76.190476190476,
+                    "Medium": 100.0,
+                    "Medium to Strong": 19.047619047619,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 39.53488372093,
+                    "Very Mild": 20.93023255814,
+                    "Mild": 20.93023255814,
+                    "Mild to Medium": 11.627906976744,
+                    "Medium": 9.3023255813953,
+                    "Medium to Strong": 4.6511627906977,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.068965517241,
+                    "Very Pleasant": 17.241379310345,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 96.551724137931,
+                    "Tolerable to Strong": 17.241379310345,
+                    "Strong": 13.793103448276,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 2.7777777777778,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 72.222222222222,
+                    "Full": 27.777777777778,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "goldensliced": {
+        "imagePath": "../blend_pictures/Peter Heinrichs - Golden Sliced.jpg",
+        "name": "Golden Sliced",
+        "blender": "Peter Heinrichs",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin, 200 grams tin",
+        "flavoring": "",
+        "description": "Classic golden brown Piedmont and Old Belt Virginias. Natural tobacco only, this slow burning, mild yet flavorful cut plug is a favorite with traditional flake lovers.",
+        "notes": "",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 3.36,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 3,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 10.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 62.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

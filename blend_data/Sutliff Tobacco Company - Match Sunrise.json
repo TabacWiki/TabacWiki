@@ -1,0 +1,94 @@
+{
+    "matchsunrise": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Sunrise.jpg",
+        "name": "Match Sunrise",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Formerly known as Early Morning Match, Sutliff's Match Sunrise is comprised of Bright and Red Virginias, Latakia, and sweet Oriental tobaccos that are then pressed and lightly stoved. It pairs well with a morning cup of coffee and can be smoked any time of day with ease.",
+        "notes": "",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 3.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 9,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 0.0,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 62.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Full": 12.5,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

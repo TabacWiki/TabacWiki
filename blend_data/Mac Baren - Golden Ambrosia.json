@@ -1,0 +1,94 @@
+{
+    "goldenambrosia": {
+        "imagePath": "../blend_pictures/Mac Baren - Golden Ambrosia.jpg",
+        "name": "Golden Ambrosia",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams pouch, 100 grams tin",
+        "flavoring": "Fruit / Citrus",
+        "description": "Golden Ambrosia is made from an almost equal mix of golden brown Burley tobaccos and the Modern Cavendish made from ripe Virginia tobaccos.\n\nThe tobaccos are pressed together and then stored for numerous days in which the tobaccos marry into a uniform taste. Then the tobacco is cut into big slices and partly rubbed up, so Golden Ambrosia contains larger pieces of pressed tobacco. You can choose to fill your pipe like it is or you can rub it up a little more. In any case the pressed tobacco secures a slow and cool burn. The taste is light fruit notes in perfect combination with the sweet Cavendish and the more bold Burley taste.",
+        "notes": "Notes:Introduced in 1985.",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 2.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 8,
+            "2_star": 7,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 20.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "yellow(formerlyvanilla)": {
+        "imagePath": "../blend_pictures/Kapt'n Barsdorf's Bester - Yellow (formerly Vanilla).jpg",
+        "name": "Yellow (formerly Vanilla)",
+        "blender": "Kapt'n Barsdorf's Bester",
+        "blendedBy": "Von Eicken",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 180 grams tin",
+        "flavoring": "Vanilla",
+        "description": "The taste of this blend - based on dark cavendish tobaccos - is rounded out by the fine vanilla aroma.",
+        "notes": "Notes:Formerly named \"Vanilla\".",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 1.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 0,
+            "2_star": 1,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 100.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Overwhelming",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 100.0
+                }
+            }
+        }
+    }
+}

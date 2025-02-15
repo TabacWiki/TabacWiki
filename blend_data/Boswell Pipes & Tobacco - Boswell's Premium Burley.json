@@ -1,0 +1,94 @@
+{
+    "boswell'spremiumburley": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Boswell's Premium Burley.jpg",
+        "name": "Boswell's Premium Burley",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "J.M. Boswell",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Black Cavendish, Burley",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "Other / Misc",
+        "description": "2 burleys and a touch of black cavendish. Slow and clean burning with a good room note.",
+        "notes": "Notes:Created by J.M. April 2007 -  A carefully balanced blend creating a mild but full bodied flavor. A Kentucky burley ripened to the fullest flavor. This is a winner for our customers; no other burley like it!",
+        "reviewCount": 39,
+        "totalReviews": 44,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 22,
+            "3_star": 12,
+            "2_star": 9,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 90.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 28.571428571429,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 92.857142857143,
+                    "Medium": 35.714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 59.090909090909,
+                    "Pleasant to Tolerable": 27.272727272727,
+                    "Tolerable": 13.636363636364,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 25.0,
+                    "Mild": 68.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Full": 6.25,
+                    "Full": 6.25,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

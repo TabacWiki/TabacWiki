@@ -1,0 +1,94 @@
+{
+    "mymixture1167": {
+        "imagePath": "../blend_pictures/Dunhill - My Mixture 1167.jpg",
+        "name": "My Mixture 1167",
+        "blender": "Dunhill",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Cavendish,  Cigar Leaf,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "",
+        "notes": "Notes:\"The Havana tobacco used in this mixture is imported from the famous \u2018La Corona\u2019 factory, the only mixture possessing the richness and flavour of a choice cigar\" (1915).  \"Virginias, Cavendish and Oriental Leaf with added Havana Filler leaf and Perique, now known as #1167\" (store description of unknown date).  \"A spicy flavoured blend of medium strength, consisting of mixed Virginias, Cavendish and Oriental Leaf with added Havana Filler leaf and Perique. There is no Latakia in this blend. Only available at the London Dunhill store\" (late 20th Century).",
+        "reviewCount": 3,
+        "totalReviews": 3,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

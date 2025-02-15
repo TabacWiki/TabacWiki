@@ -1,0 +1,94 @@
+{
+    "nineteeno'fourwhisky": {
+        "imagePath": "../blend_pictures/Leonard Dingler LTD - Nineteen O'Four  Whisky.jpg",
+        "name": "Nineteen O'Four  Whisky",
+        "blender": "Leonard Dingler LTD",
+        "blendedBy": "Swedish Match AG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "South Africa",
+        "blendType": "Aromatic",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "20 grams tin",
+        "flavoring": "Other / Misc,  Whisky",
+        "description": "",
+        "notes": "Notes:It was 1904. Amid a backdrop of prosperity, extraordinary courage and new frontiers, Leonard Dingler arrived in the old Transvaal to join the search for fame and fortune. He brought not only his passionate sense of adventure, but also the family tradition of fine tobacco making. \n\nLittle has changed. These time-honoured tobacco blends are still created with the same skill and discernment that was Leonard Dingler's trade mark, then and now.",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 2.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 0,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

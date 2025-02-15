@@ -1,0 +1,94 @@
+{
+    "chocolatemousseb30": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Chocolate Mousse B30.jpg",
+        "name": "Chocolate Mousse B30",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McAllister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Cocoa / Chocolate",
+        "description": "The phrase decadent chocolate certainly applies to this all black blend! A truly mild yet satisfying smoke.",
+        "notes": "",
+        "reviewCount": 26,
+        "totalReviews": 29,
+        "averageRating": 3.03,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 15,
+            "2_star": 5,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.764705882353,
+                    "Very Mild": 23.529411764706,
+                    "Mild": 100.0,
+                    "Mild to Medium": 35.294117647059,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 70.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 91.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 16.666666666667,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

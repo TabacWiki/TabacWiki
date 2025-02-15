@@ -1,0 +1,94 @@
+{
+    "highlandsliced": {
+        "imagePath": "../blend_pictures/John Sinclair - Highland Sliced.jpg",
+        "name": "Highland Sliced",
+        "blender": "John Sinclair",
+        "blendedBy": "Orlik Tobacco Company A/S",
+        "manufacturedBy": "Orlik Tobacco Company A/S",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "25 grams pouch",
+        "flavoring": "Fruit / Citrus,  Other / Misc",
+        "description": "Cool slow burning and full-bodied (A slow burning full strength tobacco for experienced smokers).",
+        "notes": "",
+        "reviewCount": 21,
+        "totalReviews": 24,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 6,
+            "2_star": 1,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 35.714285714286,
+                    "Strong": 100.0,
+                    "Very Strong": 28.571428571429,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 40.0,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 44.444444444444,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 38.461538461538,
+                    "Full": 100.0,
+                    "Very Full": 38.461538461538,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

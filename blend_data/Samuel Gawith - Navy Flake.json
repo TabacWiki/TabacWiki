@@ -1,0 +1,94 @@
+{
+    "navyflake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Navy Flake.jpg",
+        "name": "Navy Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Latakia",
+        "contents": "Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Rum",
+        "description": "Storm-tossed seas, a howling wind, a ship with full sail beating into the wind and Jolly Jack Tar at the helm with his trusty pipe.  Images which are conjured up whilst smoking Samuel Gawith's Navy Flake. A traditional offering of Virginias, pressed with just the right amount of latakia and flavoured with rum. Medium  strength.",
+        "notes": "",
+        "reviewCount": 151,
+        "totalReviews": 168,
+        "averageRating": 3.17,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 79,
+            "3_star": 51,
+            "2_star": 26,
+            "1_star": 12
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.0526315789474,
+                    "Very Mild": 1.0526315789474,
+                    "Mild": 11.578947368421,
+                    "Mild to Medium": 38.947368421053,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.157894736842,
+                    "Strong": 1.0526315789474,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 25.531914893617,
+                    "Extremely Mild": 48.936170212766,
+                    "Very Mild": 51.063829787234,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.702127659574,
+                    "Medium": 55.31914893617,
+                    "Medium to Strong": 12.765957446809,
+                    "Strong": 0.0,
+                    "Very Strong": 2.1276595744681,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.714285714286,
+                    "Pleasant": 55.357142857143,
+                    "Very Pleasant": 8.9285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 32.142857142857,
+                    "Strong": 17.857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.3492063492063,
+                    "Very Mild": 0.0,
+                    "Mild": 20.634920634921,
+                    "Mild to Medium": 46.031746031746,
+                    "Medium": 100.0,
+                    "Medium to Full": 65.079365079365,
+                    "Full": 23.809523809524,
+                    "Very Full": 4.7619047619048,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

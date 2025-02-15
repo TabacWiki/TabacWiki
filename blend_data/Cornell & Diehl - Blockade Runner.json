@@ -1,0 +1,94 @@
+{
+    "blockaderunner": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Blockade Runner.jpg",
+        "name": "Blockade Runner",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "Rum",
+        "description": "C&D's true Navy cavendish crumble cake is made with hand stoved red Virginia and golden Virginia, soaked in a premium rum for seven days, then lightly stoved again, pressed and cut. \n\nThe seven days are the time it took our seagoing forefathers to sail back to New England from the Islands with the tobacco in their casks soaked with rum. The ship on the label is the Advance, the South's most successful blockade runner.",
+        "notes": "",
+        "reviewCount": 67,
+        "totalReviews": 75,
+        "averageRating": 2.84,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 40,
+            "2_star": 13,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 29.62962962963,
+                    "Mild to Medium": 62.962962962963,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 3.7037037037037,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 27.272727272727,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 59.090909090909,
+                    "Mild to Medium": 77.272727272727,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.030303030303,
+                    "Pleasant": 51.515151515152,
+                    "Very Pleasant": 12.121212121212,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 39.393939393939,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 3.030303030303,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.7142857142857,
+                    "Mild to Medium": 51.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.142857142857,
+                    "Full": 17.142857142857,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.8571428571429
+                }
+            }
+        }
+    }
+}

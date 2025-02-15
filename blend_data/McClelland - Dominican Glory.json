@@ -1,0 +1,94 @@
+{
+    "dominicanglory": {
+        "imagePath": "../blend_pictures/McClelland - Dominican Glory.jpg",
+        "name": "Dominican Glory",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Cigar Leaf,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "The flavor of a fine, mild cigar in a satisfying tobacco for the pipe. This blend of premium aged Dominican cigar leaf is seasoned with matured Virginia for balance and refinement and is presented in a wide ribbon form for cool smoking pleasure. For the best of both worlds, enjoy Dominican Glory in the pipe.",
+        "notes": "",
+        "reviewCount": 32,
+        "totalReviews": 36,
+        "averageRating": 2.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 10,
+            "2_star": 13,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 78.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 23.529411764706,
+                    "Very Mild": 35.294117647059,
+                    "Mild": 29.411764705882,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 64.285714285714,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 35.714285714286,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

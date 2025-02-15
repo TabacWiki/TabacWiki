@@ -1,0 +1,94 @@
+{
+    "northwoods": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Northwoods.jpg",
+        "name": "Northwoods",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Black Cavendish, Latakia, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "",
+        "description": "Full bodied and full flavor - a deeply complex English, but with a smooth and mild base of Latakia along with toasted Virginias. J.M. had blended Northwoods for himself to smoke, but then the customers started asking him what he was smoking and his answer was \"have a bowl\". Northwoods has become one of our most popular English blends.",
+        "notes": "",
+        "reviewCount": 143,
+        "totalReviews": 159,
+        "averageRating": 3.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 102,
+            "3_star": 41,
+            "2_star": 9,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.3571428571429,
+                    "Very Mild": 1.7857142857143,
+                    "Mild": 55.357142857143,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 39.285714285714,
+                    "Strong": 10.714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 86.363636363636,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 38.636363636364,
+                    "Medium to Strong": 15.909090909091,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 6.8181818181818,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 1.9230769230769,
+                    "Pleasant": 73.076923076923,
+                    "Very Pleasant": 21.153846153846,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 63.461538461538,
+                    "Tolerable to Strong": 34.615384615385,
+                    "Strong": 9.6153846153846,
+                    "Very Strong": 1.9230769230769,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.5873015873016,
+                    "Very Mild": 3.1746031746032,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 52.380952380952,
+                    "Medium to Full": 100.0,
+                    "Full": 33.333333333333,
+                    "Very Full": 9.5238095238095,
+                    "Extra Full": 1.5873015873016,
+                    "Overwhelming": 3.1746031746032
+                }
+            }
+        }
+    }
+}

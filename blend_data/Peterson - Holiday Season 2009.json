@@ -1,0 +1,94 @@
+{
+    "holidayseason2009": {
+        "imagePath": "../blend_pictures/Peterson - Holiday Season 2009.jpg",
+        "name": "Holiday Season 2009",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Almond, Apple, Bourbon, Vanilla",
+        "description": "Our first winter tobacco with a fantastic aroma and taste. Red and golden Virginia, combine with two kinds of black cavendish. A delicious and intense flavor of baked apples, roasted almonds and bourbon vanilla make this a lovely blend pleasing to the senses.",
+        "notes": "",
+        "reviewCount": 11,
+        "totalReviews": 13,
+        "averageRating": 3.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 4,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 44.444444444444,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

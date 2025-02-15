@@ -1,0 +1,94 @@
+{
+    "specialbrownflake": {
+        "imagePath": "../blend_pictures/Fribourg & Treyer - Special Brown Flake.jpg",
+        "name": "Special Brown Flake",
+        "blender": "Fribourg & Treyer",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "flavoring": "Rum",
+        "description": "A medium brown Virginia flake with a top note of Navy rum.",
+        "notes": "Notes:Description given on a printed list of F&T pipe tobaccos now (2024) available from Wilsons of Sharrow: \"A mixture of red, mottled Virginias and Golden Carolina flue cured leaf, blended with small quantities of Turkish Havana and medium strength Dark Fired Kentucky... A little rum is added and cooked pressed for several weeks... A  very slow burning, perfect Navy Flake tobacco.",
+        "reviewCount": 34,
+        "totalReviews": 38,
+        "averageRating": 3.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 20,
+            "3_star": 11,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 72.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 60.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 90.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 26.923076923077,
+                    "Tolerable": 7.6923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 61.538461538462,
+                    "Mild to Medium": 84.615384615385,
+                    "Medium": 100.0,
+                    "Medium to Full": 46.153846153846,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

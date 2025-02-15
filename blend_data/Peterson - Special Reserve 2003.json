@@ -1,0 +1,94 @@
+{
+    "specialreserve2003": {
+        "imagePath": "../blend_pictures/Peterson - Special Reserve 2003.jpg",
+        "name": "Special Reserve 2003",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Bourbon, Raspberry, Vanilla",
+        "description": "A beautiful and magnificent composition of broadly cut black cavendish, topped with bourbon vanilla. Blended with rubbed out flake, which has been flavored slightly with honey and orange, completed with brightest and highest class Virginia. A wonderful and pleasant aroma of raspberry crowns this mixture.",
+        "notes": "",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 2.57,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 1,
+            "2_star": 3,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

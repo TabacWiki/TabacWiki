@@ -1,0 +1,94 @@
+{
+    "fleurdesemois": {
+        "imagePath": "../blend_pictures/Tabac Manil - Fleur de Semois.jpg",
+        "name": "Fleur de Semois",
+        "blender": "Tabac Manil",
+        "blendedBy": "Vincent Manil",
+        "manufacturedBy": "Vincent Manil",
+        "production": "No longer in production",
+        "country": "Belgium",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Shag",
+        "packaging": "100 or 250 grams pack",
+        "flavoring": "",
+        "description": "Semois leaf is a rich, pure leaf burley tobacco that is grown and processed in Belgium in the Ardennes Valley (Val Ardennais) - think Battle of the Bulge. Highly reminiscent of smoking a cigar, but in a pipe, it is a fascinating tobacco that has been highly regarded in Europe for well over 100 years. From start to finish, the flavor becomes more and more pronounced, giving a reliable and enjoyable smoke. There are no casings or flavorings added to this tobacco. This is the fine cut version (coupe fine).",
+        "notes": "Notes:Semois is a burley varietal that has been developed over hundreds of years in Belgium's Semois River region, in ground that is soggy and fog shrouded.",
+        "reviewCount": 2,
+        "totalReviews": 2,
+        "averageRating": 3.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

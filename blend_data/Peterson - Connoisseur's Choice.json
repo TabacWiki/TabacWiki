@@ -1,0 +1,94 @@
+{
+    "connoisseur'schoice": {
+        "imagePath": "../blend_pictures/Peterson - Connoisseur's Choice.jpg",
+        "name": "Connoisseur's Choice",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus,  Maple,  Rum,  Vanilla",
+        "description": "A satisfying, spicy and aromatic blend of black cavendish, golden and red Virginias, mixed with luxury broken flake. The aromatic recipe of tropical fruit, maple, vanilla & rum make this blend smooth and very pleasant.",
+        "notes": "",
+        "reviewCount": 159,
+        "totalReviews": 177,
+        "averageRating": 3.05,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 59,
+            "3_star": 77,
+            "2_star": 32,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.6818181818182,
+                    "Very Mild": 17.045454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.227272727273,
+                    "Medium": 12.5,
+                    "Medium to Strong": 5.6818181818182,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 1.6393442622951,
+                    "Extremely Mild": 1.6393442622951,
+                    "Very Mild": 9.8360655737705,
+                    "Mild": 31.147540983607,
+                    "Mild to Medium": 42.622950819672,
+                    "Medium": 100.0,
+                    "Medium to Strong": 59.016393442623,
+                    "Strong": 32.786885245902,
+                    "Very Strong": 9.8360655737705,
+                    "Extra Strong": 1.6393442622951
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 77.41935483871,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 8.6021505376344,
+                    "Tolerable": 2.1505376344086,
+                    "Tolerable to Strong": 2.1505376344086,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5454545454545,
+                    "Very Mild": 15.151515151515,
+                    "Mild": 43.939393939394,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.69696969697,
+                    "Medium to Full": 19.69696969697,
+                    "Full": 10.606060606061,
+                    "Very Full": 1.5151515151515,
+                    "Extra Full": 1.5151515151515,
+                    "Overwhelming": 1.5151515151515
+                }
+            }
+        }
+    }
+}

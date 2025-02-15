@@ -1,0 +1,94 @@
+{
+    "exclusive": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Exclusive.jpg",
+        "name": "Exclusive",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A heavy perique based blend with red Virginia and mild cavendish that comes close to the famous Escudo.",
+        "notes": "Notes:The combination of red Virginias, mellow cavendish, and a full 50% perique make C&D's Exclusive a naturally sweet and incredibly spicy blend, perfect for the lovers of the Bayou-based tobacco.\n\nExclusive was introduced in August, 1996.",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 2.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 8,
+            "2_star": 10,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 13.333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.3333333333333,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 36.363636363636,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 90.909090909091,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 45.454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 29.411764705882,
+                    "Medium to Full": 100.0,
+                    "Full": 47.058823529412,
+                    "Very Full": 17.647058823529,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

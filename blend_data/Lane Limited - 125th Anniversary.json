@@ -1,0 +1,94 @@
+{
+    "125thanniversary": {
+        "imagePath": "../blend_pictures/Lane Limited - 125th Anniversary.jpg",
+        "name": "125th Anniversary",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "",
+        "description": "Lane's 125th Anniversary blend celebrates a huge milestone in the business entity's success and proffers equal amounts of quality Virginia and bright Virginia tobaccos are blended with Virginia flake and a hint of perique to give a subtle yet detectable spice to the sweetness of the Virginia.",
+        "notes": "Notes:Released 2015.",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 2.72,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 13,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 25.0,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 7.1428571428571,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

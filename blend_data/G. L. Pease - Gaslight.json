@@ -1,0 +1,94 @@
+{
+    "gaslight": {
+        "imagePath": "../blend_pictures/G. L. Pease - Gaslight.jpg",
+        "name": "Gaslight",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Plug",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "From Gregory Pease: \"Deep, rich and full flavored, Gaslight burns very slowly, delivering a lingering, satisfying smoke for the true connoisseur of latakia based blends. The red Virginias present a background of natural sweetness, whilst fine Orientals provide just the right amount of spice. I like it best sliced thinly, rubbed out and packed loosely in smaller bowls for a satisfying, surprisingly long-lasting smoke.\" Easily sliced, easily rubbed out and easily packed.",
+        "notes": "Notes:This is the 7th blend in the Old London Series.",
+        "reviewCount": 138,
+        "totalReviews": 154,
+        "averageRating": 3.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 85,
+            "3_star": 40,
+            "2_star": 22,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.6129032258065,
+                    "Mild": 9.6774193548387,
+                    "Mild to Medium": 24.193548387097,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.129032258065,
+                    "Strong": 38.709677419355,
+                    "Very Strong": 6.4516129032258,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.6129032258065
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.068965517241,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 2.5862068965517,
+                    "Mild to Medium": 0.86206896551724,
+                    "Medium": 6.0344827586207,
+                    "Medium to Strong": 4.3103448275862,
+                    "Strong": 1.7241379310345,
+                    "Very Strong": 1.7241379310345,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 39.53488372093,
+                    "Very Pleasant": 13.953488372093,
+                    "Pleasant to Tolerable": 67.441860465116,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 67.441860465116,
+                    "Strong": 39.53488372093,
+                    "Very Strong": 23.255813953488,
+                    "Extra Strong": 6.9767441860465,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.0816326530612,
+                    "Mild": 2.0408163265306,
+                    "Mild to Medium": 6.1224489795918,
+                    "Medium": 48.979591836735,
+                    "Medium to Full": 91.836734693878,
+                    "Full": 100.0,
+                    "Very Full": 57.142857142857,
+                    "Extra Full": 4.0816326530612,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

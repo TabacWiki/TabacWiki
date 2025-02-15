@@ -1,0 +1,94 @@
+{
+    "countrygentleman": {
+        "imagePath": "../blend_pictures/Missouri Meerschaum - Country Gentleman.jpg",
+        "name": "Country Gentleman",
+        "blender": "Missouri Meerschaum",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "1.5 ounce pouch",
+        "flavoring": "",
+        "description": "Country Gentleman represents a unique departure among pouch tobaccos. This blend features a mixture of premium bright and red Virginias, which is enriched with perique, and a small amount of dark fired Kentucky for body. This is a tobacco that would be at home in a tin with a higher price tag, but to befit bearing the Missouri Meerschaum name, it comes to you at an everyday bargain price. Enjoy the naturally sweet, and tangy character of Country Gentleman.",
+        "notes": "",
+        "reviewCount": 33,
+        "totalReviews": 37,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 21,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 40.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 23.076923076923,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 45.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 43.75,
+                    "Mild to Medium": 43.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

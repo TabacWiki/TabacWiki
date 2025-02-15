@@ -1,0 +1,94 @@
+{
+    "king'sransom": {
+        "imagePath": "../blend_pictures/Milan Tobacconists - King's Ransom.jpg",
+        "name": "King's Ransom",
+        "blender": "Milan Tobacconists",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Other / Misc",
+        "description": "King's Ransom is a traditional English blend from bygone days. Two types of Virginias, select burleys, Orientals, a generous portion of latakia, and a whisper of perique make up this bold blend. Considered medium-to-full bodied, King's Ransom has a rich latakia flavor, subtleties of nut, and just a hint of spicy sweetness on the finish.",
+        "notes": "Notes:Great for those who like the taste of Latakia.",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 0,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

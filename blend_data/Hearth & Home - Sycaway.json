@@ -1,0 +1,94 @@
+{
+    "sycaway": {
+        "imagePath": "../blend_pictures/Hearth & Home - Sycaway.jpg",
+        "name": "Sycaway",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "1.5oz Tin, 8oz Tin",
+        "flavoring": "Other / Misc",
+        "description": "Sycaway is a quiet suburb of Troy, NY; a typical all-American region, and this is a true American pipe smoking experience. A remarkable Burley blend which has the wonderful nuttiness that you would expect, but is enhanced by a very subtle flavor. If you\u2019re looking for a tobacco that delivers great natural flavor and aroma, this is it!",
+        "notes": "Notes:Apparently discontinued 2016. Pipesandcigars.com no longer has it on their website.",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 3.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

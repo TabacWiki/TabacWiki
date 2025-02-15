@@ -1,0 +1,94 @@
+{
+    "standardmixturemellow": {
+        "imagePath": "../blend_pictures/Dunhill - Standard Mixture Mellow.jpg",
+        "name": "Standard Mixture Mellow",
+        "blender": "Dunhill",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Traditionally English, latakia, Orientals, east Carolina and Georgian, all lightly toasted.",
+        "notes": "Notes:Formerly known as Standard Mixture Mild.",
+        "reviewCount": 65,
+        "totalReviews": 73,
+        "averageRating": 2.89,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 26,
+            "2_star": 14,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 92.857142857143,
+                    "Medium": 25.0,
+                    "Medium to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.068965517241,
+                    "Very Mild": 5.1724137931034,
+                    "Mild": 3.448275862069,
+                    "Mild to Medium": 3.448275862069,
+                    "Medium": 1.7241379310345,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 39.393939393939,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 63.636363636364,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 26.086956521739,
+                    "Very Mild": 30.434782608696,
+                    "Mild": 91.304347826087,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.521739130435,
+                    "Medium to Full": 13.04347826087,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

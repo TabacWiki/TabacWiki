@@ -1,0 +1,94 @@
+{
+    "ruinsofisengard": {
+        "imagePath": "../blend_pictures/Just For Him - Ruins of Isengard.jpg",
+        "name": "Ruins of Isengard",
+        "blender": "Just For Him",
+        "blendedBy": "Bob Schafer",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "The fifth blend in our Middle-Earth Pipeweed Series. Burley, Virginia, Latakia, and Cavendish tobaccos are blended together to form this thick, satisfying smoke.",
+        "notes": "",
+        "reviewCount": 30,
+        "totalReviews": 34,
+        "averageRating": 3.12,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 12,
+            "2_star": 9,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 84.615384615385,
+                    "Medium": 53.846153846154,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 41.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 50.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 41.176470588235,
+                    "Pleasant to Tolerable": 29.411764705882,
+                    "Tolerable": 17.647058823529,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Full": 23.529411764706,
+                    "Full": 11.764705882353,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

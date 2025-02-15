@@ -1,0 +1,94 @@
+{
+    "hastings": {
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Hastings.jpg",
+        "name": "Hastings",
+        "blender": "Esoterica Tobacciana",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "8 ounce bag",
+        "flavoring": "Other / Misc",
+        "description": "An aromatic tobacco made in the same time honored tradition as our English and Virginia blends. Five types of Virginia tobacco and an equal proportion of black Virginia cavendish with an added aromatic essence. A soft and gentle smoke of outstanding quality.",
+        "notes": "",
+        "reviewCount": 9,
+        "totalReviews": 10,
+        "averageRating": 2.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 6,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

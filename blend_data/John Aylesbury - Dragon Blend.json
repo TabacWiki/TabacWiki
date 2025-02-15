@@ -1,0 +1,94 @@
+{
+    "dragonblend": {
+        "imagePath": "../blend_pictures/John Aylesbury - Dragon Blend.jpg",
+        "name": "Dragon Blend",
+        "blender": "John Aylesbury",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin",
+        "flavoring": "Alcohol / Liquor,  Brandy,  Caramel",
+        "description": "The ultimate luxury mixture from the respected house of John Aylesbury!\n\nWe began with a spun cut mixture of prime golden and red Virginias combined with black cavendish, gently adding real gin and brandy whilst the mixture is carefully turned for cutting. Hints of the finest burley, extra velvet cavendish and torn bright Virginia are then introduced to the full bodied brilliant bouquet of this premium blend.\n\nThe final result brings forth an irresistible scent of melting caramel that is certain to enchant you and all who may be in the vicinity of such a special aroma.",
+        "notes": "Notes:Formerly called Premium Blend, but the name was changed due to EU laws.",
+        "reviewCount": 5,
+        "totalReviews": 5,
+        "averageRating": 2.8,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

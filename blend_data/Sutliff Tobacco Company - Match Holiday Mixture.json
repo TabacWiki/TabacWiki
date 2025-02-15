@@ -1,0 +1,94 @@
+{
+    "matchholidaymixture": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Holiday Mixture.jpg",
+        "name": "Match Holiday Mixture",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Cube",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A faithful match of the old Larus & Brothers' Holiday Pipe Mixture.",
+        "notes": "",
+        "reviewCount": 23,
+        "totalReviews": 26,
+        "averageRating": 3.46,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 12,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 45.454545454545,
+                    "Very Mild": 54.545454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.769230769231,
+                    "Pleasant to Tolerable": 53.846153846154,
+                    "Tolerable": 15.384615384615,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 10.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 10.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

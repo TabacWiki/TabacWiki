@@ -1,0 +1,94 @@
+{
+    "pennyfarthing": {
+        "imagePath": "../blend_pictures/G. L. Pease - Penny Farthing.jpg",
+        "name": "Penny Farthing",
+        "blender": "G. L. Pease",
+        "blendedBy": "G.L. Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Shag",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "Penny Farthing is a shag cut blend of bright and red Virginias, spiced with Louisiana perique and a hint of fire cured dark Kentucky. It's easy to pack, easy to smoke. Sipped gently, Penny Farthing opens with a sophisticated sweetness, evolving in depth and complexity throughout the bowl to a rich, satisfying finish.",
+        "notes": "",
+        "reviewCount": 40,
+        "totalReviews": 45,
+        "averageRating": 3.49,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 27,
+            "3_star": 15,
+            "2_star": 1,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 28.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 12.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.764705882353,
+                    "Very Mild": 8.8235294117647,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 2.9411764705882,
+                    "Medium": 2.9411764705882,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.0,
+                    "Pleasant": 28.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.7619047619048,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Full": 52.380952380952,
+                    "Full": 28.571428571429,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

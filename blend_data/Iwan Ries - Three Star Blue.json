@@ -1,0 +1,94 @@
+{
+    "threestarblue": {
+        "imagePath": "../blend_pictures/Iwan Ries - Three Star Blue.jpg",
+        "name": "Three Star Blue",
+        "blender": "Iwan Ries",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams pouch, 8 ounce tin",
+        "flavoring": "Licorice,  Vanilla",
+        "description": "Made with a healthy base of toasted burley and bright Virginia Flake. Black cavendish, perique and Latakia are then added to round out the flavor. Topped with just a hint of vanilla flavoring, Three Star Blue is an exceptionally light aromatic and sure to please a variety of smokers.",
+        "notes": "Notes:The Original and still most popular private label tobacco in the world. Comprised of smooth toasted burley, sweet Virginia and fire-cured cavendish. Blue is enjoyed equally by smokers and non-smokers alike. Has been in continuous production since the 1950s.",
+        "reviewCount": 92,
+        "totalReviews": 103,
+        "averageRating": 2.1,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 27,
+            "2_star": 29,
+            "1_star": 37
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.904761904762,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 83.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 26.190476190476,
+                    "Medium to Strong": 11.904761904762,
+                    "Strong": 2.3809523809524,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.810810810811,
+                    "Extremely Mild": 5.4054054054054,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 21.621621621622,
+                    "Mild to Medium": 81.081081081081,
+                    "Medium": 100.0,
+                    "Medium to Strong": 35.135135135135,
+                    "Strong": 13.513513513514,
+                    "Very Strong": 2.7027027027027,
+                    "Extra Strong": 5.4054054054054
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 76.315789473684,
+                    "Pleasant to Tolerable": 34.210526315789,
+                    "Tolerable": 26.315789473684,
+                    "Tolerable to Strong": 7.8947368421053,
+                    "Strong": 10.526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.6315789473684,
+                    "Overwhelming": 7.8947368421053
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.789473684211,
+                    "Very Mild": 15.789473684211,
+                    "Mild": 60.526315789474,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.631578947368,
+                    "Medium to Full": 18.421052631579,
+                    "Full": 2.6315789473684,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

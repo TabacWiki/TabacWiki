@@ -1,0 +1,94 @@
+{
+    "hauntedbookshop": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Haunted Bookshop.jpg",
+        "name": "Haunted Bookshop",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Bob Runowski",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "flavoring": "",
+        "description": "A predominantly burley mixture with a touch of red Virginia and perique.",
+        "notes": "Notes:Another of the late Bob Runowski's blends, named in honor of the famous novel written by Christopher Morley, Haunted Bookshop is a burley and Virginia blend with just a touch of perique.",
+        "reviewCount": 261,
+        "totalReviews": 290,
+        "averageRating": 2.8,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 90,
+            "3_star": 103,
+            "2_star": 49,
+            "1_star": 49
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.063829787234,
+                    "Very Mild": 3.1914893617021,
+                    "Mild": 17.021276595745,
+                    "Mild to Medium": 47.872340425532,
+                    "Medium": 100.0,
+                    "Medium to Strong": 95.744680851064,
+                    "Strong": 39.36170212766,
+                    "Very Strong": 3.1914893617021,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.063829787234
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.391304347826,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 5.7971014492754,
+                    "Mild to Medium": 4.3478260869565,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 1.9323671497585,
+                    "Strong": 1.4492753623188,
+                    "Very Strong": 0.48309178743961,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.3457943925234,
+                    "Pleasant": 28.971962616822,
+                    "Very Pleasant": 4.6728971962617,
+                    "Pleasant to Tolerable": 56.07476635514,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 37.383177570093,
+                    "Strong": 24.299065420561,
+                    "Very Strong": 9.3457943925234,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.93457943925234
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6086956521739,
+                    "Very Mild": 6.5217391304348,
+                    "Mild": 25.0,
+                    "Mild to Medium": 48.913043478261,
+                    "Medium": 86.95652173913,
+                    "Medium to Full": 100.0,
+                    "Full": 32.608695652174,
+                    "Very Full": 2.1739130434783,
+                    "Extra Full": 1.0869565217391,
+                    "Overwhelming": 4.3478260869565
+                }
+            }
+        }
+    }
+}

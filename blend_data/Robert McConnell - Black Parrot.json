@@ -1,0 +1,94 @@
+{
+    "blackparrot": {
+        "imagePath": "../blend_pictures/Robert McConnell - Black Parrot.jpg",
+        "name": "Black Parrot",
+        "blender": "Robert McConnell",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "",
+        "country": "Germany",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin",
+        "flavoring": "",
+        "description": "Virginia, Carolina & pure Louisiana perique, this unique square-cut tobacco emcompasses flavor, maturity and mellow smoking.",
+        "notes": "Notes:Previously produced by Ashton, this mixture is now under the flag of R. McConnell, but the manufacturer is always Kohlhase & Kopp.",
+        "reviewCount": 34,
+        "totalReviews": 38,
+        "averageRating": 2.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 15,
+            "2_star": 9,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 47.368421052632,
+                    "Medium": 100.0,
+                    "Medium to Strong": 36.842105263158,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 30.434782608696,
+                    "Very Mild": 8.695652173913,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 8.695652173913,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 92.857142857143,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 21.428571428571,
+                    "Medium": 92.857142857143,
+                    "Medium to Full": 100.0,
+                    "Full": 21.428571428571,
+                    "Very Full": 21.428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

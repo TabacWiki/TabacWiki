@@ -1,0 +1,94 @@
+{
+    "engine99": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Engine 99.jpg",
+        "name": "Engine 99",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Cornell & Diehl",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "This is a full English blend -- a combination of Red Odessa and the unpressed components of Pirate Kake.\n\nA full bodied blend with enough latakia to pull ol' #99 up a mountain grade with flavor to spare. Loaded with latakia, perique, Virginias, burleys, and Orientals.",
+        "notes": "Notes:Engine 99 is a combination of Red Odessa, which is itself the same blend as Odessa but with red Virginia substituted for the cavendish cut burley, and the unpressed components of Pirate Kake.",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 3.41,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 36,
+            "3_star": 25,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 25.925925925926,
+                    "Medium": 96.296296296296,
+                    "Medium to Strong": 100.0,
+                    "Strong": 18.518518518519,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 1.7857142857143,
+                    "Mild": 0.0,
+                    "Mild to Medium": 1.7857142857143,
+                    "Medium": 1.7857142857143,
+                    "Medium to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 15.0,
+                    "Pleasant to Tolerable": 55.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 70.0,
+                    "Strong": 35.0,
+                    "Very Strong": 15.0,
+                    "Extra Strong": 5.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 79.166666666667,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

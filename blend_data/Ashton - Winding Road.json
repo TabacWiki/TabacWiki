@@ -1,0 +1,94 @@
+{
+    "windingroad": {
+        "imagePath": "../blend_pictures/Ashton - Winding Road.jpg",
+        "name": "Winding Road",
+        "blender": "Ashton",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Apricot,  Caramel",
+        "description": "A mellow mixture designed to bridge the gap between aromatic and English style blends. Comprised of golden and dark brown Virginia with a sprinkling of black cavendish, this excellent blend bears a natural fragrance accompanied by subtle notes of caramel and apricot.",
+        "notes": "",
+        "reviewCount": 36,
+        "totalReviews": 41,
+        "averageRating": 2.51,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 12,
+            "2_star": 8,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 34.615384615385,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 3.8461538461538,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 45.454545454545,
+                    "Tolerable": 13.636363636364,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.333333333333,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 93.333333333333,
+                    "Medium": 40.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

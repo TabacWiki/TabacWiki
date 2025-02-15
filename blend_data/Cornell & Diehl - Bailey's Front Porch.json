@@ -1,0 +1,94 @@
+{
+    "bailey'sfrontporch": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bailey's Front Porch.jpg",
+        "name": "Bailey's Front Porch",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Bob Runowski",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "You'll want to sit on your own front porch while you savor this blend of burleys, Cyprian latakia, perique and golden Virginia.",
+        "notes": "",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 2.94,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 17,
+            "2_star": 7,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.086956521739,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 0.0,
+                    "Mild to Medium": 4.3478260869565,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 81.818181818182,
+                    "Medium": 100.0,
+                    "Medium to Full": 81.818181818182,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

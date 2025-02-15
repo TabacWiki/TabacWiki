@@ -1,0 +1,94 @@
+{
+    "balkansupreme": {
+        "imagePath": "../blend_pictures/Arango - Balkan Supreme.jpg",
+        "name": "Balkan Supreme",
+        "blender": "Arango",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Balkan",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Full bodied and latakia laden, Balkan Supreme combines the aforementioned with fine Orientals, Virginias, black cavendish, and Turkish Samsun to produce an award-winning smoke.",
+        "notes": "Notes:Arango Cigar Co, out of Northbrook, Illinois, are distributors of not only cigars, but also pipes, lighters, and pipe tobacco, including their own bulk blend, Balkan Supreme, which was named best English blend at the Chicago show in 2014.",
+        "reviewCount": 55,
+        "totalReviews": 62,
+        "averageRating": 3.74,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 50,
+            "3_star": 8,
+            "2_star": 4,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 9.6153846153846,
+                    "Very Mild": 1.9230769230769,
+                    "Mild": 3.8461538461538,
+                    "Mild to Medium": 0.0,
+                    "Medium": 1.9230769230769,
+                    "Medium to Strong": 1.9230769230769,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 63.636363636364,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 68.181818181818,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 27.272727272727,
+                    "Strong": 13.636363636364,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 3.125,
+                    "Mild to Medium": 9.375,
+                    "Medium": 53.125,
+                    "Medium to Full": 100.0,
+                    "Full": 18.75,
+                    "Very Full": 9.375,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

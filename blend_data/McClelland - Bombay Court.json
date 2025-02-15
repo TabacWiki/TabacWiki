@@ -1,0 +1,94 @@
+{
+    "bombaycourt": {
+        "imagePath": "../blend_pictures/McClelland - Bombay Court.jpg",
+        "name": "Bombay Court",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Oriental",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "An exotic Oriental mixture spiced with Turkish tobaccos, cut wide and enhanced by the natural aromatic, cool character of just enough smoky latakia. Matured Virginias fine-cut from aged cakes add their naturally sweet, full flavor.",
+        "notes": "",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 3.27,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 25,
+            "3_star": 17,
+            "2_star": 9,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 91.666666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 24.324324324324,
+                    "Very Mild": 5.4054054054054,
+                    "Mild": 2.7027027027027,
+                    "Mild to Medium": 2.7027027027027,
+                    "Medium": 5.4054054054054,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.5555555555556,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 5.5555555555556,
+                    "Pleasant to Tolerable": 83.333333333333,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.666666666667,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

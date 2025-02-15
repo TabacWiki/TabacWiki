@@ -1,0 +1,94 @@
+{
+    "darkplug": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Dark Plug.jpg",
+        "name": "Dark Plug",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co",
+        "manufacturedBy": "Gawith Hoggarth",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley, Virginia",
+        "cut": "Plug",
+        "packaging": "bulk",
+        "flavoring": "Other / Misc",
+        "description": "A blend of dark fired Virginias and Indian fire-cured with a casing of distinctive aromatics presented straight from the press in a plug.",
+        "notes": "Notes:As Dark Flake unscented but, from the cake, the tobacco is cut into bars. A very strong, but very cool smoke is the result of combining in equal proportions only Malawi dark fired Leaf and Indian dark air cured leaf. No additional flavours. You can smell in this tobacco the smokey flavour of the dark fired leaf derived from its curing process of being hung above smoky fires, and the sweeter, yet still strong 'cigar type' flavour of the dark air cured Indian leaf. Aromatics: Lakeland Essence.",
+        "reviewCount": 42,
+        "totalReviews": 47,
+        "averageRating": 3.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 37,
+            "3_star": 7,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 65.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 45.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 22.727272727273,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 46.153846153846,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 61.538461538462,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 38.461538461538,
+                    "Strong": 38.461538461538,
+                    "Very Strong": 46.153846153846,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 15.384615384615
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.7619047619048,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 100.0,
+                    "Very Full": 71.428571428571,
+                    "Extra Full": 9.5238095238095,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

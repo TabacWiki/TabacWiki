@@ -1,0 +1,94 @@
+{
+    "chocolateflake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Chocolate Flake.jpg",
+        "name": "Chocolate Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia Based",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Cocoa / Chocolate",
+        "description": "The first of a collection dedicated to Samuel Gawith 1st, Chocolate Flake is a luxury blend of Virginias, burley and long-leaf latakias. To complete the luxury a rich, dark chocolate has been added after cutting. Excellent smoking qualities with good smoke and a delicious room note. Medium strength.",
+        "notes": "Notes:Due to EU regulations this is now called \"CH Flake\" (formerly CF Flake) in Europe.",
+        "reviewCount": 181,
+        "totalReviews": 202,
+        "averageRating": 3.01,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 79,
+            "3_star": 63,
+            "2_star": 43,
+            "1_star": 17
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.0,
+                    "Mild to Medium": 49.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.0,
+                    "Strong": 1.0,
+                    "Very Strong": 1.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.5757575757576,
+                    "Extremely Mild": 25.757575757576,
+                    "Very Mild": 48.484848484848,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 37.878787878788,
+                    "Medium to Strong": 12.121212121212,
+                    "Strong": 0.0,
+                    "Very Strong": 1.5151515151515,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 78.378378378378,
+                    "Very Pleasant": 25.675675675676,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 45.945945945946,
+                    "Tolerable to Strong": 12.162162162162,
+                    "Strong": 4.0540540540541,
+                    "Very Strong": 1.3513513513514,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 5.0,
+                    "Mild": 16.25,
+                    "Mild to Medium": 46.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.25,
+                    "Full": 17.5,
+                    "Very Full": 5.0,
+                    "Extra Full": 1.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

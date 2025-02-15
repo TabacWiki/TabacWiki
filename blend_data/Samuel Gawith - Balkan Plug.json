@@ -1,0 +1,94 @@
+{
+    "balkanplug": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Balkan Plug.jpg",
+        "name": "Balkan Plug",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Latakia",
+        "contents": "Latakia,  Virginia",
+        "cut": "Plug",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "The Samuel Gawith Balkan Plug is the uncut Cake which their iconic Balkan Flake is cut from. This (not so text book description of a Balkan) is made from Virginia with a generous helping of Cypriot Latakia. The thick and dense plug has a wonderful and familiar aroma, think of Full Virginia Flake (or Plug) with the added delights of spicy latakia. To look at this plug has the golden Virginia's found in Full Virginia and a generous helping of Latakia.",
+        "notes": "",
+        "reviewCount": 6,
+        "totalReviews": 6,
+        "averageRating": 3.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 2,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "signatureflake": {
+        "imagePath": "../blend_pictures/Peterson - Signature Flake.jpg",
+        "name": "Signature Flake",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin",
+        "flavoring": "",
+        "description": "A traditional English flake combined with natural bright Virginias from Africa and Brazil creates a subtle flavour of spice with a hint of sweetness.",
+        "notes": "Notes:This is one of the three new tobaccos known as the \"Founders Collection\" produced to honor Charles Peterson, Henry Kapp and Fredrick Kapp on Peterson's 150th anniversary in 2015.",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 3.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 8,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 71.428571428571,
+                    "Extremely Mild": 71.428571428571,
+                    "Very Mild": 100.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 0.0,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 22.222222222222,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 77.777777777778,
+                    "Tolerable": 11.111111111111,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 30.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

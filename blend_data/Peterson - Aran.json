@@ -1,0 +1,94 @@
+{
+    "aran": {
+        "imagePath": "../blend_pictures/Peterson - Aran.jpg",
+        "name": "Aran",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "40 grams pouch",
+        "flavoring": "Floral Essences,  Vanilla",
+        "description": "",
+        "notes": "Notes:The Peterson Aran is a new delicate mixture comprised of ripe Virginia and mild black cavendish tobaccos. A top flavor of vanilla and blossom notes are expertly combined to reveal a fresh, aromatic pipe tobacco.",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 2.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 7,
+            "2_star": 6,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 83.333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 22.222222222222,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 44.444444444444,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

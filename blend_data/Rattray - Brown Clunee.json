@@ -1,0 +1,94 @@
+{
+    "brownclunee": {
+        "imagePath": "../blend_pictures/Rattray - Brown Clunee.jpg",
+        "name": "Brown Clunee",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia Based",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams can",
+        "flavoring": "",
+        "description": "\"Brown Clunee\" has a strong, delicious English character. The phenomenal taste is due to Charles Rattray's unique talent, who knew how to match the best tobaccos. In this case, the master opted for dark, ground flake from Virginia, Kentucky and Perique. All in all: a pipe tobacco that allows no comparison.",
+        "notes": "",
+        "reviewCount": 78,
+        "totalReviews": 87,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 39,
+            "2_star": 15,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.1276595744681,
+                    "Mild": 36.170212765957,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.425531914894,
+                    "Medium to Strong": 6.3829787234043,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 53.191489361702,
+                    "Very Mild": 17.021276595745,
+                    "Mild": 8.5106382978723,
+                    "Mild to Medium": 2.1276595744681,
+                    "Medium": 4.2553191489362,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.810810810811,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.216216216216,
+                    "Pleasant to Tolerable": 70.27027027027,
+                    "Tolerable": 32.432432432432,
+                    "Tolerable to Strong": 2.7027027027027,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.7027027027027,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 41.176470588235,
+                    "Mild to Medium": 100.0,
+                    "Medium": 82.352941176471,
+                    "Medium to Full": 20.588235294118,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

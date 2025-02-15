@@ -1,0 +1,94 @@
+{
+    "herbalfruit": {
+        "imagePath": "../blend_pictures/HU Tobacco - Herbal Fruit.jpg",
+        "name": "Herbal Fruit",
+        "blender": "HU Tobacco",
+        "blendedBy": "Hans Wiedemann",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Kentucky",
+        "cut": "Broken Flake",
+        "packaging": "100 grams tin",
+        "flavoring": "Caramel,  Mango",
+        "description": "\u201cHerbal Fruit\u201c - the days of heat are past and the end of summer nears, bringing with it a slight feeling of melancholy. These are moments when smoking a relaxing pipe outdoors is an particularly pleasurable experience. \u201cHerbal Fruit\u201c is a strong-flavored fire cured Kentucky broken flake gently seasoned with a seductive, fruity aroma. Earthy, natural, slightly fruity and sweet. The punchy Kentucky Broken perfectly complements the fruity notes of the aromatizing ingredients. The result is a blend like the warm sunshine on a late summer day, intense and strong, but also delicate and fruity. \n\n\"I have a dream...\" (Martin Luther King)",
+        "notes": "",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 4.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

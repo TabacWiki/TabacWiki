@@ -1,0 +1,94 @@
+{
+    "royalcajunspecial": {
+        "imagePath": "../blend_pictures/McClelland - Royal Cajun Special.jpg",
+        "name": "Royal Cajun Special",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Two dark stoved Virginias and one wide cut lemon Virginia expertly blended with Cajun Black. This blend is one of a kind, ethereally smoky, deeply rich and incredibly complex. Virginia's natural sweetness cooled by Cajun Black's fire-curing and perique style processing.",
+        "notes": "Notes:Cajun Black is the first new pipe tabacco component in more than forty years. Cajun Black derives from Virginia seed brought to southern Kentucky long ago to grow in that fertile, heavy soil where it was crossbred to create dark fire-cured tobacco. It is stalk-cut and hung over slow-burning hardwood slabs in a three to five step smoking process until it turns a deep chocolate color and achieves its distinctive smoky flavor.",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 2.96,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 14,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 81.818181818182,
+                    "Mild to Medium": 100.0,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.25,
+                    "Very Mild": 25.0,
+                    "Mild": 18.75,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 53.333333333333,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Full": 40.0,
+                    "Full": 0.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

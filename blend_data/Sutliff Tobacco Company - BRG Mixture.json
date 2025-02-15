@@ -1,0 +1,94 @@
+{
+    "brgmixture": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - BRG Mixture.jpg",
+        "name": "BRG Mixture",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 or 8 oz tin",
+        "flavoring": "Alcohol / Liquor",
+        "description": "This pleasing blend of Burley and Virginia is as comforting as a good time spent with your best friend.  Perfect for fans of Briggs.",
+        "notes": "Notes:This blend is manufactured by Sutliff and sold under their \"Sutliff Private Stock\" brand.",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 2.36,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 3,
+            "2_star": 7,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 16.666666666667,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 40.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

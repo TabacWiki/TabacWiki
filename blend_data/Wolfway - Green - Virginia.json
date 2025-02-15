@@ -1,0 +1,94 @@
+{
+    "green-virginia": {
+        "imagePath": "../blend_pictures/Wolfway - Green - Virginia.jpg",
+        "name": "Green - Virginia",
+        "blender": "Wolfway",
+        "blendedBy": "Wolfway Tobacco",
+        "manufacturedBy": "Wolfway Tobacco",
+        "production": "Currently available",
+        "country": "Greece",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams pouch",
+        "flavoring": "Other / Misc",
+        "description": "",
+        "notes": "Notes:Epirus Greek Tobacco by Wolfway Tobacco. It comes from handmade processing and is exclusively made with Greek made tobacco without the use of enhancers. It is aromatic and can also be used to make a blend with the other Epirus pipelines. It is recommended for mixing with lighter Izmir Tutun.",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 2,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 33.333333333333,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "darkflake": {
+        "imagePath": "../blend_pictures/Peterson - Dark Flake.jpg",
+        "name": "Dark Flake",
+        "blender": "Peterson",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Re-release",
+        "country": "Denmark",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "First produced back in 1970, Dunhill's Dark Flake is a heralded vintage blend of choice Virginias and a little perique for spice. Bolder in strength and flavor than Dunhill Flake, though still as easy to prepare.",
+        "notes": "Notes:Dark Flake was first produced in 1970 or '71 and was discontinued by the end of the decade. The new tin is round and re-released in 2016. As of 2020, it is sold under the Peterson brand name.",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 3.17,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 19,
+            "2_star": 3,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.5714285714286,
+                    "Very Mild": 0.0,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 60.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 21.212121212121,
+                    "Mild": 12.121212121212,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.030303030303,
+                    "Medium to Strong": 3.030303030303,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 27.777777777778,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 5.5555555555556,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.4074074074074,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 18.518518518519,
+                    "Medium": 100.0,
+                    "Medium to Full": 44.444444444444,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

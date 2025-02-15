@@ -1,0 +1,94 @@
+{
+    "bulldog": {
+        "imagePath": "../blend_pictures/Tabacos Wilder Finamore Ltda - Bulldog.jpg",
+        "name": "Bulldog",
+        "blender": "Tabacos Wilder Finamore Ltda",
+        "blendedBy": "Samuel Finamore",
+        "manufacturedBy": "Finamore",
+        "production": "No longer in production",
+        "country": "Brazil",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Cube",
+        "packaging": "50 g Pouch",
+        "flavoring": "Alcohol / Liquor,  Other / Misc",
+        "description": "A Virginia/Burley Regular mixture.",
+        "notes": "Notes:This tobacco was originally (until the 70s) from Induscondor, Petr\u00f3polis, RJ, Brazil. Their Formula was bought by Souza Cruz SA, Brazil, that produced it until the 80s. After,it was produced by Finamore, but now, it is no more produced.",
+        "reviewCount": 2,
+        "totalReviews": 2,
+        "averageRating": 2.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "staroftheeast": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Star of the East.jpg",
+        "name": "Star of the East",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Cornell & Diehl",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "flavoring": "",
+        "description": "One half Latakia with a generous portion of Turkish and sweetened with stoved red Virginia.",
+        "notes": "Notes:Starting with a base of 50% Latakia, with a generous portion of Turkish leaf, then sweetened with stoved red Virginia, Star of the East is a full-bodied blend, as well as a long time favorite of Cornell & Diehl customers.",
+        "reviewCount": 98,
+        "totalReviews": 109,
+        "averageRating": 3.16,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 43,
+            "3_star": 46,
+            "2_star": 14,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.2727272727273,
+                    "Very Mild": 0.0,
+                    "Mild": 20.454545454545,
+                    "Mild to Medium": 59.090909090909,
+                    "Medium": 100.0,
+                    "Medium to Strong": 54.545454545455,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 2.2727272727273,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.4516129032258,
+                    "Very Mild": 1.0752688172043,
+                    "Mild": 1.0752688172043,
+                    "Mild to Medium": 1.0752688172043,
+                    "Medium": 2.1505376344086,
+                    "Medium to Strong": 3.2258064516129,
+                    "Strong": 2.1505376344086,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.7142857142857,
+                    "Pleasant": 34.285714285714,
+                    "Very Pleasant": 5.7142857142857,
+                    "Pleasant to Tolerable": 45.714285714286,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 54.285714285714,
+                    "Strong": 51.428571428571,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.3809523809524,
+                    "Very Mild": 0.0,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 23.809523809524,
+                    "Medium": 57.142857142857,
+                    "Medium to Full": 100.0,
+                    "Full": 54.761904761905,
+                    "Very Full": 11.904761904762,
+                    "Extra Full": 2.3809523809524,
+                    "Overwhelming": 2.3809523809524
+                }
+            }
+        }
+    }
+}

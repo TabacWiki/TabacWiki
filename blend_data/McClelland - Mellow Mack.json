@@ -1,0 +1,94 @@
+{
+    "mellowmack": {
+        "imagePath": "../blend_pictures/McClelland - Mellow Mack.jpg",
+        "name": "Mellow Mack",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Honey,  Pecan",
+        "description": "The mildest and smoothed of pipe tobaccos. This is a mild, smooth, rich pipe tobacco that improves throughout the smoke, owing to the slow release of the flavors inherent in the top quality leaf used in the blend. The aroma tends toward wild honey and, perhaps, pecan.",
+        "notes": "",
+        "reviewCount": 40,
+        "totalReviews": 45,
+        "averageRating": 2.8,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 12,
+            "2_star": 15,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 64.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 12.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.904761904762,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 90.47619047619,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 19.047619047619,
+                    "Tolerable": 4.7619047619048,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.7619047619048,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 14.285714285714,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

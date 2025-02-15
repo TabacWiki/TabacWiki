@@ -1,0 +1,94 @@
+{
+    "vallecrucis": {
+        "imagePath": "../blend_pictures/Two Friends - Valle Crucis.jpg",
+        "name": "Valle Crucis",
+        "blender": "Two Friends",
+        "blendedBy": "Craig Tarler & Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "Ginger",
+        "description": "A blend of fine stoved Virginia and Oriental tobaccos, rich Cyprian Latakia, black toasted cavendish and just a pinch of perique. The mixture is finished with a delicate top note of ginger, perfectly complimenting the complex flavors and wonderful aroma of the natural tobaccos. A subtle sweetness and gentle spice is present from first light to last puff, and a clean, dry ash demonstrates the tobaccos' purity.",
+        "notes": "",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 2.73,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 7,
+            "2_star": 10,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.428571428571,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 62.5,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 62.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 77.777777777778,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 44.444444444444,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 22.222222222222
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 13.333333333333
+                }
+            }
+        }
+    }
+}

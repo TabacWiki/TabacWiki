@@ -1,0 +1,94 @@
+{
+    "manhattanafternoon": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Manhattan Afternoon.jpg",
+        "name": "Manhattan Afternoon",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "flavoring": "Honey",
+        "description": "Cornell & Diehl's Manhattan Afternoon is a naturally sweet golden Virginia leaf, with a drop of honey, sliced into flakes.",
+        "notes": "",
+        "reviewCount": 37,
+        "totalReviews": 42,
+        "averageRating": 2.98,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 19,
+            "2_star": 9,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 27.777777777778,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 71.428571428571,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 36.842105263158,
+                    "Pleasant to Tolerable": 52.631578947368,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

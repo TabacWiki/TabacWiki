@@ -1,0 +1,94 @@
+{
+    "privateblendno.20": {
+        "imagePath": "../blend_pictures/Karl Erik - Private Blend No.20.jpg",
+        "name": "Private Blend No.20",
+        "blender": "Karl Erik",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "",
+        "country": "Denmark",
+        "blendType": "",
+        "contents": "Cavendish,  Latakia",
+        "cut": "Ribbon",
+        "packaging": "50g Tin",
+        "flavoring": "",
+        "description": "Aromatic Virginias from Central Africa and North\nAmerica treated in a special Cavendish procedure,\ngently sliced into fine flakes. Mixed with spicy\nSyrian Latakia. A very satisfying tobacco.",
+        "notes": "",
+        "reviewCount": 10,
+        "totalReviews": 12,
+        "averageRating": 2.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 4,
+            "2_star": 4,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

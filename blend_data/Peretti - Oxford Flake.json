@@ -1,0 +1,94 @@
+{
+    "oxfordflake": {
+        "imagePath": "../blend_pictures/Peretti - Oxford Flake.jpg",
+        "name": "Oxford Flake",
+        "blender": "Peretti",
+        "blendedBy": "L.J. Peretti",
+        "manufacturedBy": "L.J. Peretti",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A blend of Eastern and Middle belt lemon and red Virginia richly matured, which gives a sweet smooth and zesty smoke.\n\nHere we have our most traditional of Virginia flakes. A blend of several mature virginias combined to provide a rich, cool, slow burning smoke.",
+        "notes": "",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 3.43,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 4,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 75.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 25.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 33.333333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

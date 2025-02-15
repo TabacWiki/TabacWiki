@@ -1,0 +1,94 @@
+{
+    "no.24": {
+        "imagePath": "../blend_pictures/McClelland - No. 24.jpg",
+        "name": "No. 24",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia Based",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "An unusual form of flake tobacco, its deep chestnut color results from the extended aging of full flavored Old and Middle Belt leaf very lightly seasoned with Drama. A smooth, robust tobacco good anytime for those who prefer the darker Virginia flavor. Is especially well suited for outdoor smoking.",
+        "notes": "",
+        "reviewCount": 75,
+        "totalReviews": 84,
+        "averageRating": 3.51,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 53,
+            "3_star": 22,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 26.829268292683,
+                    "Mild to Medium": 63.414634146341,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.7560975609756,
+                    "Strong": 4.8780487804878,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.925925925926,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 1.8518518518519,
+                    "Medium": 7.4074074074074,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 1.8518518518519,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.3333333333333,
+                    "Pleasant": 76.666666666667,
+                    "Very Pleasant": 23.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 73.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 3.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.5,
+                    "Very Mild": 2.5,
+                    "Mild": 7.5,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 42.5,
+                    "Full": 10.0,
+                    "Very Full": 5.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

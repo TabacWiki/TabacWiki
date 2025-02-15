@@ -1,0 +1,94 @@
+{
+    "junkyarddawg": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Junkyard Dawg.jpg",
+        "name": "Junkyard Dawg",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Mixture",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "A revival of a classic American blend that smokers of 30 years ago will instantly recognize. Contains burleys, Latakia and bright Virginia.",
+        "notes": "Notes:Reminiscent of old Barking Dog blend.",
+        "reviewCount": 36,
+        "totalReviews": 41,
+        "averageRating": 3.27,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 15,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 37.5,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 36.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.0,
+                    "Mild to Medium": 4.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 31.578947368421,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 63.157894736842,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 10.526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 93.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.75,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 6.25,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

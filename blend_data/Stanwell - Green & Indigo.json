@@ -1,0 +1,94 @@
+{
+    "green&indigo": {
+        "imagePath": "../blend_pictures/Stanwell - Green & Indigo.jpg",
+        "name": "Green & Indigo",
+        "blender": "Stanwell",
+        "blendedBy": "",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "flavoring": "Apple,  Blackcurrant",
+        "description": "Black currant and apple aromas give this black cavendish based blend a fruity note. Lightly pressed and fermented ready rubbed Virginia and burley with bright wild cut Virginia leafy supplement this gentle tobacco.",
+        "notes": "Notes:Formerly known as \"Kir & Apple\". Due to EU regulations, it was renamed to \"Green & Indigo\".",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 1.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 0,
+            "2_star": 2,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 100.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

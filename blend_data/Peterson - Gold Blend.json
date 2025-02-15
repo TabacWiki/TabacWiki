@@ -1,0 +1,94 @@
+{
+    "goldblend": {
+        "imagePath": "../blend_pictures/Peterson - Gold Blend.jpg",
+        "name": "Gold Blend",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Cinnamon,  Other / Misc,  Vanilla",
+        "description": "A subtle, delicate, mellow tobacco. A composition of jet black cavendish, bright and dark Virginias and fragrant burley.  An extremely pleasant note of hickory nut, vanilla and a touch of cinnamon is added.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 61,
+        "averageRating": 2.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 24,
+            "2_star": 17,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.424242424242,
+                    "Medium": 15.151515151515,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 52.941176470588,
+                    "Pleasant to Tolerable": 17.647058823529,
+                    "Tolerable": 8.8235294117647,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.0,
+                    "Very Mild": 12.0,
+                    "Mild": 52.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 64.0,
+                    "Medium to Full": 8.0,
+                    "Full": 4.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

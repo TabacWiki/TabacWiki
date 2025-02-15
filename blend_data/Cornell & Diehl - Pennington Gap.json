@@ -1,0 +1,94 @@
+{
+    "penningtongap": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Pennington Gap.jpg",
+        "name": "Pennington Gap",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Perique",
+        "cut": "Cube",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Bourbon",
+        "description": "Nutty Kentucky cube cut burley & rich black cavendish balance the unique aroma & flavor of Louisiana perique, finished with bourbon.",
+        "notes": "Notes:From the tip of Virginia, C&D's Pennington Gap is an all-American blend with a Southern accent: nutty Kentucky cube cut burley and rich black cavendish balance the unique aroma and flavor of Louisiana perique, finished with bourbon for that touch of southern hospitality.",
+        "reviewCount": 72,
+        "totalReviews": 80,
+        "averageRating": 3.09,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 31,
+            "2_star": 12,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.0,
+                    "Mild to Medium": 52.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.5,
+                    "Strong": 2.5,
+                    "Very Strong": 2.5,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.3478260869565,
+                    "Extremely Mild": 8.695652173913,
+                    "Very Mild": 39.130434782609,
+                    "Mild": 52.173913043478,
+                    "Mild to Medium": 100.0,
+                    "Medium": 86.95652173913,
+                    "Medium to Strong": 43.478260869565,
+                    "Strong": 13.04347826087,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 64.705882352941,
+                    "Tolerable": 29.411764705882,
+                    "Tolerable to Strong": 14.705882352941,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 2.9411764705882,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.2258064516129,
+                    "Very Mild": 6.4516129032258,
+                    "Mild": 12.903225806452,
+                    "Mild to Medium": 35.483870967742,
+                    "Medium": 100.0,
+                    "Medium to Full": 70.967741935484,
+                    "Full": 19.354838709677,
+                    "Very Full": 6.4516129032258,
+                    "Extra Full": 3.2258064516129,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

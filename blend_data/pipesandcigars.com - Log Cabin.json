@@ -1,0 +1,94 @@
+{
+    "logcabin": {
+        "imagePath": "../blend_pictures/pipesandcigars.com - Log Cabin.jpg",
+        "name": "Log Cabin",
+        "blender": "pipesandcigars.com",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "pipesandcigars.com",
+        "production": "",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Other / Misc",
+        "description": "Russ' Monthly Blend - Log Cabin  is just the kind of blend you can imagine puffing on while sitting on the front porch of a cabin on a lake. This is a blend of two different Burleys - one with no top note, and one that's been lightly sweetened. This is combined with a nice helping of a toasted, unflavored black Cavendish, with a natural brown sugar flavor. The mixture is completed by the inclusion of some Virginia to add a toastiness. The room note is light, but pleasant, and this cool blend is mild and gentle enough to enjoy all day. The mellow sweetness will make Log Cabin a great companion while taking a hike or out in the boat fishing. Actually, we think you'll enjoy it pretty much anytime, anywhere.",
+        "notes": "",
+        "reviewCount": 6,
+        "totalReviews": 6,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 2,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

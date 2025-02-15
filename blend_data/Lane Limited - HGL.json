@@ -1,0 +1,94 @@
+{
+    "hgl": {
+        "imagePath": "../blend_pictures/Lane Limited - HGL.jpg",
+        "name": "HGL",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Toasted cavendish is laced with mountain Latakia, then blended with white burley and golden Virginia to produce a sweet, fuller-bodied smoke, yet cool and slow burning. The Lat is used as a condiment, not to build a Lat-bomb.",
+        "notes": "Notes:This is Lane's RLP-6 with a touch of Latakia added.",
+        "reviewCount": 68,
+        "totalReviews": 76,
+        "averageRating": 2.91,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 30,
+            "2_star": 22,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.2258064516129,
+                    "Very Mild": 9.6774193548387,
+                    "Mild": 83.870967741935,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.161290322581,
+                    "Medium to Strong": 3.2258064516129,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.344827586207,
+                    "Extremely Mild": 34.48275862069,
+                    "Very Mild": 37.931034482759,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.827586206897,
+                    "Medium": 27.586206896552,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.0606060606061,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 60.606060606061,
+                    "Tolerable": 21.212121212121,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 6.0606060606061,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 43.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 86.666666666667,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 3.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "ennerdalemixture": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Ennerdale Mixture.jpg",
+        "name": "Ennerdale Mixture",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk,  50 grams tin",
+        "flavoring": "Almond,  Floral Essences,  Fruit / Citrus,  Rum,  Vanilla",
+        "description": "Predominately Virginia leaf from Brazil, Zimbabwe, and Malawi (86%) but with the addition of sun-cured Malawi (10%) to add sweetness, strength and to cool the smoke and Malawi Burley (4%) to add body and to \"carry the flavor\" in addition to its cooling and strength qualities.\n\nA background flavor of almond is enhanced with the addition of fruit, vanilla, and the special 'Lakeland style' flavors to give this tobacco its distinctive aroma and taste.",
+        "notes": "",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 3.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 5,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 44.444444444444,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 20.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 37.5,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 85.714285714286,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

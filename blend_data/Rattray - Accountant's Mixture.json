@@ -1,0 +1,94 @@
+{
+    "accountant'smixture": {
+        "imagePath": "../blend_pictures/Rattray - Accountant's Mixture.jpg",
+        "name": "Accountant's Mixture",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Latakia",
+        "contents": "Black Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "flavoring": "",
+        "description": "Dark and full-bodied without harshness. Great for outdoor smoking. Many strong mixtures are harsh and stringent;  Accountants Mixture is truly an outstanding exception.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 61,
+        "averageRating": 2.79,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 20,
+            "2_star": 24,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 4.7619047619048,
+                    "Medium": 2.3809523809524,
+                    "Medium to Strong": 2.3809523809524,
+                    "Strong": 2.3809523809524,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.0,
+                    "Pleasant": 45.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 90.0,
+                    "Tolerable to Strong": 35.0,
+                    "Strong": 20.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.3478260869565,
+                    "Mild": 13.04347826087,
+                    "Mild to Medium": 47.826086956522,
+                    "Medium": 100.0,
+                    "Medium to Full": 69.565217391304,
+                    "Full": 30.434782608696,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

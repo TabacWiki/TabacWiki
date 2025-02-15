@@ -1,0 +1,94 @@
+{
+    "firebirdflake": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Firebird Flake.jpg",
+        "name": "Firebird Flake",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Other",
+        "contents": "Kentucky, Oriental/Turkish, Virginia",
+        "cut": "Broken Flake",
+        "packaging": "",
+        "flavoring": "",
+        "description": "Cornell & Diehl's Small Batch: Firebird Flake explores the interplay between sun-cured and fire-cured tobaccos, specifically heirloom Orientals and Dark-Fired grades, two condimental varietals that rarely act as the main components in a blend. These tobaccos are enhanced by a trio of specially aged Red Virginias for a complex yet beautifully balanced profile with hints of citrus, wood smoke, and green pepper.",
+        "notes": "Notes: Small batch of 5,000 tins released in January 2025.",
+        "reviewCount": 3,
+        "totalReviews": 3,
+        "averageRating": 4,
+        "maxRating": 4,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0,
+                    "Very Mild": 0,
+                    "Mild": 0,
+                    "Mild to Medium": 0,
+                    "Medium": 0,
+                    "Medium to Strong": 66.66666666666667,
+                    "Strong": 33.333333333333336,
+                    "Very Strong": 0,
+                    "Extremely Strong": 0,
+                    "Overwhelming": 0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100,
+                    "Extremely Mild": 0,
+                    "Very Mild": 0,
+                    "Mild": 0,
+                    "Mild to Medium": 0,
+                    "Medium": 0,
+                    "Medium to Strong": 0,
+                    "Strong": 0,
+                    "Very Strong": 0,
+                    "Extra Strong": 0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0,
+                    "Pleasant": 0,
+                    "Very Pleasant": 0,
+                    "Pleasant to Tolerable": 0,
+                    "Tolerable": 33.333333333333336,
+                    "Tolerable to Strong": 66.66666666666667,
+                    "Strong": 0,
+                    "Very Strong": 0,
+                    "Extra Strong": 0,
+                    "Overwhelming": 0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0,
+                    "Very Mild": 0,
+                    "Mild": 0,
+                    "Mild to Medium": 0,
+                    "Medium": 0,
+                    "Medium to Full": 66.66666666666667,
+                    "Full": 33.333333333333336,
+                    "Very Full": 0,
+                    "Extra Full": 0,
+                    "Overwhelming": 0
+                }
+            }
+        }
+    }
+}

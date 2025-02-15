@@ -1,0 +1,94 @@
+{
+    "provostmixture": {
+        "imagePath": "../blend_pictures/James Fox - Provost Mixture.jpg",
+        "name": "Provost Mixture",
+        "blender": "James Fox",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Cavendish Based",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A sweet American cavendish tobacco which gives fullness and body has been mellowed by the addition of choice bright Virginias to give a cool and satisfying blend.",
+        "notes": "",
+        "reviewCount": 45,
+        "totalReviews": 50,
+        "averageRating": 3.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 18,
+            "2_star": 8,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.727272727273,
+                    "Mild to Medium": 68.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Strong": 31.818181818182,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 3.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.555555555556,
+                    "Tolerable to Strong": 11.111111111111,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.526315789474,
+                    "Mild to Medium": 57.894736842105,
+                    "Medium": 100.0,
+                    "Medium to Full": 63.157894736842,
+                    "Full": 26.315789473684,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "chenet'scake": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Chenet's Cake.jpg",
+        "name": "Chenet's Cake",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "Named in honor of Pierre Chenet, the farmer credited with discovering the process that turns burley into perique in 1824, this combination of Virginia and perique, pressed into an old-fashioned crumble cake, is a perique powerhouse for those who simply can\u2019t get enough of this \u201ctruffle of tobaccos\u201d. Estimated peak: 10-15 years. But it's fantastic right now!",
+        "notes": "",
+        "reviewCount": 31,
+        "totalReviews": 35,
+        "averageRating": 3.46,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 13,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 85.714285714286,
+                    "Strong": 35.714285714286,
+                    "Very Strong": 7.1428571428571,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.2258064516129,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.6774193548387,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 23.076923076923,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 69.230769230769,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 38.461538461538,
+                    "Very Strong": 7.6923076923077,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 81.818181818182,
+                    "Medium to Full": 90.909090909091,
+                    "Full": 100.0,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "captainblacksupreme": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Supreme.jpg",
+        "name": "Captain Black Supreme",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "",
+        "flavoring": "Other / Misc",
+        "description": "A rich blend of Burley tobaccos. Smooth smoking, delightfully aromatic and zesty.",
+        "notes": "",
+        "reviewCount": 16,
+        "totalReviews": 18,
+        "averageRating": 1.83,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 6,
+            "2_star": 3,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 0.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 60.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 16.666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

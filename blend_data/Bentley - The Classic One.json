@@ -1,0 +1,94 @@
+{
+    "theclassicone": {
+        "imagePath": "../blend_pictures/Bentley - The Classic One.jpg",
+        "name": "The Classic One",
+        "blender": "Bentley",
+        "blendedBy": "Dan Tobacco",
+        "manufacturedBy": "Dan Tobacco",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia Based",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "Exquisite Virginia and Orient tobacco, fine and balanced composed and matured in the press. Soft and round in taste, pleasantly cool, smoldering. A gentle pleasure for the spoiled connoisseur of real tobacco.",
+        "notes": "Notes:Seems to be available only in Europe.",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 2,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

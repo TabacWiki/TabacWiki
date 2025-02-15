@@ -1,0 +1,94 @@
+{
+    "officer'sclub": {
+        "imagePath": "../blend_pictures/East India Trading Co. - Officer's Club.jpg",
+        "name": "Officer's Club",
+        "blender": "East India Trading Co.",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "K. Hansotia & Co.",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Rum,  Spices,  Vanilla",
+        "description": "Officer's Club combines Virginias, burleys and black cavendish with rum, gentle spices and creamy vanilla that will make you think of a decadent dessert.",
+        "notes": "Notes:Introduced by K. Hansotia & Co. (which makes Gurkha cigars) in 2015.",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 3.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 5,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 100.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 28.571428571429,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 9.0909090909091,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 9.0909090909091,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

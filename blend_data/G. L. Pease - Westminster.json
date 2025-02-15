@@ -1,0 +1,94 @@
+{
+    "westminster": {
+        "imagePath": "../blend_pictures/G. L. Pease - Westminster.jpg",
+        "name": "Westminster",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin, 16 ounce tin",
+        "flavoring": "",
+        "description": "Westminster: The very essence of the traditional English mixture; rich, elegant, refined, and exquisitely balanced. New World red Virginias are enhanced with a gentle caress of bright leaf, then lavishly seasoned with rich oriental tobaccos and generous measures of noble Cyprus mountain latakia. Westminster is a satisfying blend, presenting layers of flavor to delight the senses and develop in the bowl. A perfect everyday English mixture. Full bodied.",
+        "notes": "Notes:Westminster was introduced in January, 2007.",
+        "reviewCount": 253,
+        "totalReviews": 282,
+        "averageRating": 3.34,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 163,
+            "3_star": 71,
+            "2_star": 31,
+            "1_star": 18
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.58823529411765,
+                    "Very Mild": 0.58823529411765,
+                    "Mild": 4.7058823529412,
+                    "Mild to Medium": 26.470588235294,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.882352941176,
+                    "Strong": 6.4705882352941,
+                    "Very Strong": 1.1764705882353,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.502283105023,
+                    "Very Mild": 2.7397260273973,
+                    "Mild": 5.0228310502283,
+                    "Mild to Medium": 1.8264840182648,
+                    "Medium": 5.0228310502283,
+                    "Medium to Strong": 3.1963470319635,
+                    "Strong": 0.45662100456621,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.960396039604,
+                    "Pleasant": 36.633663366337,
+                    "Very Pleasant": 9.9009900990099,
+                    "Pleasant to Tolerable": 62.376237623762,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.663366336634,
+                    "Strong": 26.732673267327,
+                    "Very Strong": 4.950495049505,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.99009900990099
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.6548672566372,
+                    "Very Mild": 0.88495575221239,
+                    "Mild": 6.1946902654867,
+                    "Mild to Medium": 23.008849557522,
+                    "Medium": 71.681415929204,
+                    "Medium to Full": 100.0,
+                    "Full": 36.283185840708,
+                    "Very Full": 8.8495575221239,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

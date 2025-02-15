@@ -1,0 +1,94 @@
+{
+    "jeffersonstreet": {
+        "imagePath": "../blend_pictures/Milan Tobacconists - Jefferson Street.jpg",
+        "name": "Jefferson Street",
+        "blender": "Milan Tobacconists",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Cavendish,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Rum",
+        "description": "Named after the street our shop has been on for over 100 years, Jefferson Street is a medium strength sliced burley blend with a smattering of Turkish and cavendish tobaccos. This blend offers a rich, nutty flavor with a slight hint of rum raisin and a moderately sweet finish. Nice room aroma.",
+        "notes": "",
+        "reviewCount": 9,
+        "totalReviews": 11,
+        "averageRating": 3.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 5,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

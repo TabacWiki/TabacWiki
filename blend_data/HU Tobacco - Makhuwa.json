@@ -1,0 +1,94 @@
+{
+    "makhuwa": {
+        "imagePath": "../blend_pictures/HU Tobacco - Makhuwa.jpg",
+        "name": "Makhuwa",
+        "blender": "HU Tobacco",
+        "blendedBy": "Hans Wiedemann",
+        "manufacturedBy": "Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Burley Based",
+        "contents": "Burley, Perique, Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Cocoa / Chocolate",
+        "description": "The Makhuwa \u2013 a good and medium-strong burley blend. Strong and chocolaty Malawi burley forms the basis for this blend, mixed with a little red Virginia, Louisiana perique and a Virginia/white burley cube cut. Wonderfully spicy, sweet and slightly nutty nuances in taste are characteristics of the Makhuwa. \n\nThe Makhuwa \u2013 a robust, nutty and spicy mixture for fans of individuated blends.",
+        "notes": "Notes:(They changed the name of the series from \"Foundation by Music\u00f3\" to \"African Line\")",
+        "reviewCount": 26,
+        "totalReviews": 29,
+        "averageRating": 3.48,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 8,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 19.047619047619,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 62.5,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Full": 84.615384615385,
+                    "Full": 15.384615384615,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

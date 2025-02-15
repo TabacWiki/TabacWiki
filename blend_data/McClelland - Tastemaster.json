@@ -1,0 +1,94 @@
+{
+    "tastemaster": {
+        "imagePath": "../blend_pictures/McClelland - Tastemaster.jpg",
+        "name": "Tastemaster",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "50g Tin",
+        "flavoring": "Cocoa / Chocolate",
+        "description": "Smooth, creamy, chocolate-flavored, gentle on the palate and abundantly flavorful throughout, owing to the excellence of the superior tobaccos chosen for this masterful blend.",
+        "notes": "",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 13,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 100.0,
+                    "Mild to Medium": 17.391304347826,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 9.0909090909091,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 36.363636363636,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 72.222222222222,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 26.666666666667,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

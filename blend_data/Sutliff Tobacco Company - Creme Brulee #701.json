@@ -1,0 +1,94 @@
+{
+    "cremebrulee#701": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Creme Brulee #701.jpg",
+        "name": "Creme Brulee #701",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McAllister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Caramel,  Honey,  Vanilla",
+        "description": "This delicious gourmet blend was created for those who prefer a custard or pudding as the perfect end to a good meal. A rich creamy texture of vanilla, caramel, and honey applied to burley, Virginia, and flavored black cavendish insures a sublime smoking experience.",
+        "notes": "",
+        "reviewCount": 62,
+        "totalReviews": 69,
+        "averageRating": 3.09,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 21,
+            "2_star": 9,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 21.875,
+                    "Very Mild": 40.625,
+                    "Mild": 100.0,
+                    "Mild to Medium": 34.375,
+                    "Medium": 15.625,
+                    "Medium to Strong": 0.0,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 15.0,
+                    "Very Mild": 10.0,
+                    "Mild": 15.0,
+                    "Mild to Medium": 35.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 95.0,
+                    "Strong": 65.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 10.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 29.411764705882,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 1.9607843137255,
+                    "Tolerable": 1.9607843137255,
+                    "Tolerable to Strong": 1.9607843137255,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.526315789474,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 52.631578947368,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 57.894736842105,
+                    "Full": 15.789473684211,
+                    "Very Full": 10.526315789474,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            }
+        }
+    }
+}

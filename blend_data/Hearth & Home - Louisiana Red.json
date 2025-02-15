@@ -1,0 +1,94 @@
+{
+    "louisianared": {
+        "imagePath": "../blend_pictures/Hearth & Home - Louisiana Red.jpg",
+        "name": "Louisiana Red",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "",
+        "description": "A great sweet and spicy blend containing two different red Virginias and a good amount of outstanding St. James perique. The rich, round sweetness of the Virginias are complimented by the plum and pepper hints of the cool burning perique. An overwhelming favorite of our local pipe club members.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 61,
+        "averageRating": 3.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 23,
+            "2_star": 9,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 29.62962962963,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 7.4074074074074,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.5,
+                    "Very Mild": 15.0,
+                    "Mild": 7.5,
+                    "Mild to Medium": 2.5,
+                    "Medium": 2.5,
+                    "Medium to Strong": 2.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.3333333333333,
+                    "Pleasant": 53.333333333333,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 3.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.344827586207,
+                    "Mild to Medium": 65.51724137931,
+                    "Medium": 100.0,
+                    "Medium to Full": 27.586206896552,
+                    "Full": 6.8965517241379,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

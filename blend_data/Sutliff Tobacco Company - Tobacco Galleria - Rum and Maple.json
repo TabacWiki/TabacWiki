@@ -1,0 +1,94 @@
+{
+    "tobaccogalleria-rumandmaple": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Tobacco Galleria - Rum and Maple.jpg",
+        "name": "Tobacco Galleria - Rum and Maple",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McAllister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "Maple, Rum",
+        "description": "A familiar old classic, this blend expertly mixes bright Virgina and rich burleys with contrasting flavors of Rum and Maple for an interesting and pleasant smoke.",
+        "notes": "Notes:A more modern adaptation of the one time favorite Rum and Maple mixture of supermarket and drug store fame.",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 2.95,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 12,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.764705882353,
+                    "Mild": 100.0,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 80.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

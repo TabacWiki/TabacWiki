@@ -1,0 +1,94 @@
+{
+    "cottonbolltwist": {
+        "imagePath": "../blend_pictures/American Snuff Company - Cotton Boll Twist.jpg",
+        "name": "Cotton Boll Twist",
+        "blender": "American Snuff Company",
+        "blendedBy": "",
+        "manufacturedBy": "American Snuff Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley",
+        "cut": "Rope",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "",
+        "notes": "Notes:Really an old chewing tobacco brand, but pipe smokers have been known to try it for an \"out of this world\" nicotine hit. Looks like a Gawith rope, but much stronger. It is the strongest tobacco I have smoked. [A spokesman with American Snuff Co. informs us it is made of air-cured tobacco. -admin]",
+        "reviewCount": 8,
+        "totalReviews": 8,
+        "averageRating": 2.63,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 0,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Overwhelming",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 33.333333333333,
+                    "Extremely Strong": 66.666666666667,
+                    "Overwhelming": 100.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Overwhelming",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 100.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 100.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            }
+        }
+    }
+}

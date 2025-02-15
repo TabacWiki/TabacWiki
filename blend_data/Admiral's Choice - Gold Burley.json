@@ -1,0 +1,94 @@
+{
+    "goldburley": {
+        "imagePath": "../blend_pictures/Admiral's Choice - Gold Burley.jpg",
+        "name": "Gold Burley",
+        "blender": "Admiral's Choice",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "8 ounce tin",
+        "flavoring": "",
+        "description": "In the early 1800's. the British Royal Navy opened tobacco trade routes to the New World. The British Admirals were ordered to ship the finest tobacco harvested in the New World to the Royal Family. Because only the best tobacco leaves were allowed to make the voyage back home, they became known as the \"Admiral's Choice\".",
+        "notes": "Notes:Admiral's Choice pipe tobaccos are manufactured by Dream Castle Tobacco Company, a division of Sutliff Tobacco Company. As of April 2015, Gold Burley is not featured on the Sutliff website and appears to have discontinued.",
+        "reviewCount": 5,
+        "totalReviews": 5,
+        "averageRating": 2.6,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 1,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 100.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

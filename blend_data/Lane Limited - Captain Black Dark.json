@@ -1,0 +1,94 @@
+{
+    "captainblackdark": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Dark.jpg",
+        "name": "Captain Black Dark",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce pouch",
+        "flavoring": "Cocoa / Chocolate,  Coffee,  Other / Misc,  Sweet / Sugar,  Vanilla",
+        "description": "100% pure black cavendish, created with Herman G. Lane's proprietary steaming process.",
+        "notes": "",
+        "reviewCount": 63,
+        "totalReviews": 70,
+        "averageRating": 3.17,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 25,
+            "2_star": 9,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 34.285714285714,
+                    "Very Mild": 34.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 11.428571428571,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 5.7142857142857,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 38.888888888889,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 88.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Strong": 44.444444444444,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 5.5555555555556
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 43.181818181818,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.8181818181818,
+                    "Tolerable": 2.2727272727273,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.04347826087,
+                    "Very Mild": 47.826086956522,
+                    "Mild": 100.0,
+                    "Mild to Medium": 52.173913043478,
+                    "Medium": 65.217391304348,
+                    "Medium to Full": 13.04347826087,
+                    "Full": 8.695652173913,
+                    "Very Full": 4.3478260869565,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

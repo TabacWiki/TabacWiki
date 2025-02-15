@@ -1,0 +1,94 @@
+{
+    "halbergyellow": {
+        "imagePath": "../blend_pictures/Mac Baren - Halberg Yellow.jpg",
+        "name": "Halberg Yellow",
+        "blender": "Mac Baren",
+        "blendedBy": "Harald Halberg",
+        "manufacturedBy": "Mac Baren",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley, Virginia",
+        "cut": "Broken Flake",
+        "packaging": "",
+        "flavoring": "Fruit / Citrus, Vanilla",
+        "description": "From three continents Mac Baren has gathered hand-selected Virginias and Burleys for this blend, then dividing them into portions that will be ribbon cut, cross-cut, or pressed and cut into flake, before all finally rejoining each other to produce balanced burn qualities and complex natural flavor profile. The results of this are then topped with a careful dose of fruit and vanilla aromatics, to create one of their finest artisanal blends.",
+        "notes": "",
+        "reviewCount": 6,
+        "totalReviews": 6,
+        "averageRating": 2.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 2,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 0.0,
+                    "Full": 50.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

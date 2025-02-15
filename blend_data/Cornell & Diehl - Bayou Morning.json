@@ -1,0 +1,94 @@
+{
+    "bayoumorning": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bayou Morning.jpg",
+        "name": "Bayou Morning",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Bob Runowski",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "flavoring": "",
+        "description": "This Virginia/perique blend is composed of red and bright Virginias and 25% Louisiana perique. Bayou Morning is a perique lover's delight and an all day smoke.",
+        "notes": "",
+        "reviewCount": 135,
+        "totalReviews": 150,
+        "averageRating": 3.26,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 73,
+            "3_star": 49,
+            "2_star": 22,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.4084507042254,
+                    "Mild": 11.267605633803,
+                    "Mild to Medium": 14.084507042254,
+                    "Medium": 100.0,
+                    "Medium to Strong": 60.56338028169,
+                    "Strong": 21.12676056338,
+                    "Very Strong": 2.8169014084507,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.4516129032258,
+                    "Very Mild": 4.0322580645161,
+                    "Mild": 3.2258064516129,
+                    "Mild to Medium": 1.6129032258065,
+                    "Medium": 2.4193548387097,
+                    "Medium to Strong": 2.4193548387097,
+                    "Strong": 0.80645161290323,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.5714285714286,
+                    "Pleasant": 32.142857142857,
+                    "Very Pleasant": 10.714285714286,
+                    "Pleasant to Tolerable": 82.142857142857,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 32.142857142857,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.8867924528302,
+                    "Very Mild": 3.7735849056604,
+                    "Mild": 9.4339622641509,
+                    "Mild to Medium": 33.962264150943,
+                    "Medium": 79.245283018868,
+                    "Medium to Full": 100.0,
+                    "Full": 41.509433962264,
+                    "Very Full": 9.4339622641509,
+                    "Extra Full": 1.8867924528302,
+                    "Overwhelming": 1.8867924528302
+                }
+            }
+        }
+    }
+}

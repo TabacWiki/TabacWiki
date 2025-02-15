@@ -1,0 +1,94 @@
+{
+    "captainblackroyal": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Royal.jpg",
+        "name": "Captain Black Royal",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "12 ounce tin weight, 12 ounce pouch weight",
+        "flavoring": "Alcohol / Liquor, Caramel, Molasses, Other / Misc, Sweet / Sugar, Vanilla",
+        "description": "Captain Black Royal is an aromatic black and golden cavendish, exceptionally mild, and delightfully aromatic.",
+        "notes": "",
+        "reviewCount": 222,
+        "totalReviews": 247,
+        "averageRating": 2.55,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 50,
+            "3_star": 83,
+            "2_star": 67,
+            "1_star": 47
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 13.6,
+                    "Very Mild": 43.2,
+                    "Mild": 100.0,
+                    "Mild to Medium": 29.6,
+                    "Medium": 5.6,
+                    "Medium to Strong": 3.2,
+                    "Strong": 1.6,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.8
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.6923076923077,
+                    "Extremely Mild": 12.307692307692,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 72.307692307692,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.076923076923,
+                    "Medium to Strong": 52.307692307692,
+                    "Strong": 20.0,
+                    "Very Strong": 6.1538461538462,
+                    "Extra Strong": 3.0769230769231
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.83333333333333,
+                    "Pleasant": 70.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 19.166666666667,
+                    "Tolerable": 7.5,
+                    "Tolerable to Strong": 1.6666666666667,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.83333333333333,
+                    "Extra Strong": 0.83333333333333,
+                    "Overwhelming": 1.6666666666667
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 28.378378378378,
+                    "Very Mild": 40.540540540541,
+                    "Mild": 100.0,
+                    "Mild to Medium": 82.432432432432,
+                    "Medium": 51.351351351351,
+                    "Medium to Full": 14.864864864865,
+                    "Full": 12.162162162162,
+                    "Very Full": 2.7027027027027,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.3513513513514
+                }
+            }
+        }
+    }
+}

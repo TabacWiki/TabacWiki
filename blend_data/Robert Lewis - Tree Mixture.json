@@ -1,0 +1,94 @@
+{
+    "treemixture": {
+        "imagePath": "../blend_pictures/Robert Lewis - Tree Mixture.jpg",
+        "name": "Tree Mixture",
+        "blender": "Robert Lewis",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "English",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "This blend is based on a larger amount of the Orient, which is known for its delicious soft and yet aromatic and spicy flavors. A little smoky latakia and a pinch of black cavendish and Virginia perfecting the medium-strong blend harmoniously. Originally this was a \"private blend\" supplied to a frequent customer - Colonel Tree.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 61,
+        "averageRating": 3.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 37,
+            "3_star": 12,
+            "2_star": 10,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 4.0,
+                    "Mild": 12.0,
+                    "Mild to Medium": 52.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 68.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.448979591837,
+                    "Very Mild": 2.0408163265306,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 72.222222222222,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 94.444444444444,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 72.0,
+                    "Medium to Full": 100.0,
+                    "Full": 36.0,
+                    "Very Full": 4.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

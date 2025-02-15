@@ -1,0 +1,94 @@
+{
+    "rum&maple": {
+        "imagePath": "../blend_pictures/Mac Baren - Rum & Maple.jpg",
+        "name": "Rum & Maple",
+        "blender": "Mac Baren",
+        "blendedBy": "",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 100 grams tin",
+        "flavoring": "Maple,  Rum",
+        "description": "A familiar old classic, this blend expertly mixes bright Virginias and rich burleys with the contrasting flavors of rum and maple. An interesting and pleasant smoke.",
+        "notes": "Notes:Once sold as Tinderbox Mashpee Maple. Lane discontinued the blend, and it was re-released by Planta (Germany). Currently sold as \"R&M\" due to changed regulations, the full name of the 50 gram pouch version is \"Original R and M Blend No. 53\".",
+        "reviewCount": 47,
+        "totalReviews": 53,
+        "averageRating": 2.53,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 24,
+            "2_star": 18,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 100.0,
+                    "Mild to Medium": 82.608695652174,
+                    "Medium": 21.739130434783,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.3478260869565,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 19.047619047619,
+                    "Very Mild": 38.095238095238,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 19.047619047619,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 15.151515151515,
+                    "Pleasant to Tolerable": 27.272727272727,
+                    "Tolerable": 15.151515151515,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.030303030303,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5454545454545,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 54.545454545455,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

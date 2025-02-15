@@ -1,0 +1,94 @@
+{
+    "soraya": {
+        "imagePath": "../blend_pictures/HU Tobacco - Soraya.jpg",
+        "name": "Soraya",
+        "blender": "HU Tobacco",
+        "blendedBy": "Hans Wiedemann",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Oriental",
+        "contents": "Black Cavendish,  Burley,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Pipe-Dreams Soraya is a magic leaf, blended with [three different varietals of] finest Oriental tobaccos, which are then blended with a mellow sweet Virginia (ready rubbed) and one chocolaty burley. As the \"salt in the soup\" a hint of perique and black cavendish are thrown in the pot of magic. \n\nThis mixture presents itself as a medium strength tobacco, with a broad spectrum of nuances that keep on changing, yet melt into one uniform flavor profile. Spicy, ethereal, fresh and at the same time sweet with chocolaty and peppery notes in the back.\n\nA blend that can be enjoyed without concentrating on it, but can also be explored into the finest nuances. A blend that underscores the  sensuality of Oriental tobaccos.",
+        "notes": "Notes:Blended by Hans Wiedemann (HU-Tobacco) for the Pipe-Dreams.de forums. Tin art was made by German pipe maker Christian Heweling (Heweling Pipes).  \n\nReleased: 10/2018.",
+        "reviewCount": 9,
+        "totalReviews": 10,
+        "averageRating": 3.6,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 0,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "robusto": {
+        "imagePath": "../blend_pictures/G. L. Pease - Robusto.jpg",
+        "name": "Robusto",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Cigar Leaf,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "The chocolate brown wrapper leaf would make an overly bold statement if blended with a heavy hand, but if just the right amount is used, it provides an alluring spice, a suggestion of the richness of a great cigar, and a creamy texture to the smoke. A little Cyprian Latakia rounds out the flavors, and smooths the edges just enough. Ripe, red Virginia leaf provides a modest sweetness while giving a backbone to the body. A variety of Oriental tobaccos fill in the gaps. Robusto is complex, full flavored and spicy, yet very gentle on the tongue. It's perfect with the afternoon coffee, as a delicious finish to a wonderful meal, or as a stout companion throughout the day.",
+        "notes": "Notes:From GL Pease: For years, I've been intrigued by the idea of cigar leaf blends, but with one notable exception, nothing has really hit the mark for me, and the one that did, the celebrated Sobranie Virginia #10, has long been out of production. In mid-2000, I began flirting with different ideas, experimenting with different leaf, concocting prototypes, and quickly tiring of them, until, finally, I was shown samples of some exquisite maduro wrapper leaf that stimulated a new interest in finding my perfect cigar leaf blend. After months worth of experimental recipes, I zeroed in on the blend I'd been searching for, and Robusto was finally born.\n\nRobusto was introduced in November, 2002.",
+        "reviewCount": 73,
+        "totalReviews": 82,
+        "averageRating": 3.13,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 33,
+            "3_star": 30,
+            "2_star": 16,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.6774193548387,
+                    "Medium": 87.096774193548,
+                    "Medium to Strong": 100.0,
+                    "Strong": 48.387096774194,
+                    "Very Strong": 19.354838709677,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.144927536232,
+                    "Very Mild": 2.8985507246377,
+                    "Mild": 0.0,
+                    "Mild to Medium": 1.4492753623188,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 6.8965517241379,
+                    "Very Pleasant": 17.241379310345,
+                    "Pleasant to Tolerable": 62.068965517241,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 55.172413793103,
+                    "Strong": 27.586206896552,
+                    "Very Strong": 10.344827586207,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.448275862069
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.9411764705882,
+                    "Medium": 35.294117647059,
+                    "Medium to Full": 100.0,
+                    "Full": 76.470588235294,
+                    "Very Full": 17.647058823529,
+                    "Extra Full": 2.9411764705882,
+                    "Overwhelming": 5.8823529411765
+                }
+            }
+        }
+    }
+}

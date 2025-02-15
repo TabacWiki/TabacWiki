@@ -1,0 +1,94 @@
+{
+    "no.5105stovedvirginia": {
+        "imagePath": "../blend_pictures/McClelland - No. 5105 Stoved Virginia.jpg",
+        "name": "No. 5105 Stoved Virginia",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "This tobacco is the style of black Virginia cake tobacco that has been given classic English mixtures their characteristic flavor and refinement of quality. Similiar to Rattray's Black Virginia or Dark Fragrant.",
+        "notes": "",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 2.8,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 10,
+            "2_star": 7,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 6.25,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 31.25,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 85.714285714286,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 42.857142857143,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

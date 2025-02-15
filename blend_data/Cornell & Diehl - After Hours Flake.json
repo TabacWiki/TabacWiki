@@ -1,0 +1,94 @@
+{
+    "afterhoursflake": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - After Hours Flake.jpg",
+        "name": "After Hours Flake",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Toney / Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "2oz Tin",
+        "flavoring": "Caramel,  Rum",
+        "description": "A Toney/Tarler blend. A night out wasn't complete without a trip to the \u201cprivate club\u201d for a Cuba Libre or two. Round out your evening, or any other time of day, with this Virginia flake, sweetened with the caramel and exotic-spiced elixir of the Islands: Dark rum.",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 2.9,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 16,
+            "2_star": 6,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 13.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 55.555555555556,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.333333333333,
+                    "Full": 8.3333333333333,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "virginiablend": {
+        "imagePath": "../blend_pictures/HBT - Hi Brasil Tobacco - Virginia Blend.jpg",
+        "name": "Virginia Blend",
+        "blender": "HBT - Hi Brasil Tobacco",
+        "blendedBy": "HBT - Hi Brasil Tobacco",
+        "manufacturedBy": "HBT - Hi Brasil Tobacco",
+        "production": "Currently available",
+        "country": "Brazil",
+        "blendType": "Straight Virginia",
+        "contents": "Brazilian Leaf,  Virginia",
+        "cut": "Shag",
+        "packaging": "80g Tin, 35g Pouch",
+        "flavoring": "",
+        "description": "Virginia Blend is made with a mixture of high quality tobaccos, 100% Brazilian. His composition is mild and pure Virginias, without any flavoring or topping added.",
+        "notes": "Notes:Originally made for RYO, also suitable for pipes as a local solution due to several restrictions of import tobaccos in Brazil.",
+        "reviewCount": 2,
+        "totalReviews": 2,
+        "averageRating": 2.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 0,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 100.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

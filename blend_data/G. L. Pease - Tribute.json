@@ -1,0 +1,94 @@
+{
+    "tribute": {
+        "imagePath": "../blend_pictures/G. L. Pease - Tribute.jpg",
+        "name": "Tribute",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin",
+        "flavoring": "",
+        "description": "Tribute is a special blend of red, lemon and stoved red Virginias, Perique and toasted Cavendish tobaccos. The tribute was written by Ernest A. Carabillo III.",
+        "notes": "Notes:All profits from the sale of this tobacco were donated to the \"Families of Freedom Scholarship Fund\". Produced in September, 2001.",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 12,
+            "2_star": 0,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 28.571428571429,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 17.647058823529,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.8823529411765,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 100.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

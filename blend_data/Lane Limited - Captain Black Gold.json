@@ -1,0 +1,94 @@
+{
+    "captainblackgold": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Gold.jpg",
+        "name": "Captain Black Gold",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Ltd.",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Cavendish",
+        "cut": "Ribbon",
+        "packaging": "12 ounce tin weight, 12 ounce pouch weight",
+        "flavoring": "Other / Misc",
+        "description": "Matured golden cavendish tobaccos.",
+        "notes": "",
+        "reviewCount": 192,
+        "totalReviews": 214,
+        "averageRating": 2.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 57,
+            "2_star": 90,
+            "1_star": 54
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 22.549019607843,
+                    "Very Mild": 49.019607843137,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.490196078431,
+                    "Medium": 7.843137254902,
+                    "Medium to Strong": 2.9411764705882,
+                    "Strong": 0.98039215686275,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.98039215686275,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 14.754098360656,
+                    "Extremely Mild": 11.475409836066,
+                    "Very Mild": 27.868852459016,
+                    "Mild": 100.0,
+                    "Mild to Medium": 81.967213114754,
+                    "Medium": 63.934426229508,
+                    "Medium to Strong": 31.147540983607,
+                    "Strong": 8.1967213114754,
+                    "Very Strong": 8.1967213114754,
+                    "Extra Strong": 3.2786885245902
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.2105263157895,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 71.578947368421,
+                    "Pleasant to Tolerable": 35.789473684211,
+                    "Tolerable": 11.578947368421,
+                    "Tolerable to Strong": 1.0526315789474,
+                    "Strong": 1.0526315789474,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.301204819277,
+                    "Very Mild": 40.963855421687,
+                    "Mild": 100.0,
+                    "Mild to Medium": 49.397590361446,
+                    "Medium": 28.915662650602,
+                    "Medium to Full": 7.2289156626506,
+                    "Full": 3.6144578313253,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.4096385542169
+                }
+            }
+        }
+    }
+}

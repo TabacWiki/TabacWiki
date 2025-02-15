@@ -1,0 +1,94 @@
+{
+    "hhburleyflake": {
+        "imagePath": "../blend_pictures/Mac Baren - HH Burley Flake.jpg",
+        "name": "HH Burley Flake",
+        "blender": "Mac Baren",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin,  100 grams tin, one pound box",
+        "flavoring": "",
+        "description": "A burley dominated flake containing tobaccos from 3 continents. Besides burley, this flake also contains ripe Virginia tobaccos and a small portion of dark fired Kentucky.",
+        "notes": "",
+        "reviewCount": 74,
+        "totalReviews": 83,
+        "averageRating": 3.61,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 58,
+            "3_star": 18,
+            "2_star": 7,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 18.918918918919,
+                    "Mild to Medium": 78.378378378378,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.918918918919,
+                    "Strong": 5.4054054054054,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.769230769231,
+                    "Very Mild": 10.769230769231,
+                    "Mild": 3.0769230769231,
+                    "Mild to Medium": 1.5384615384615,
+                    "Medium": 1.5384615384615,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.5,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 7.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 5.0,
+                    "Strong": 7.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.2258064516129,
+                    "Very Mild": 0.0,
+                    "Mild": 22.58064516129,
+                    "Mild to Medium": 80.645161290323,
+                    "Medium": 100.0,
+                    "Medium to Full": 38.709677419355,
+                    "Full": 16.129032258065,
+                    "Very Full": 6.4516129032258,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

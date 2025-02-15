@@ -1,0 +1,94 @@
+{
+    "frogmorton'scellar": {
+        "imagePath": "../blend_pictures/McClelland - Frog Morton's Cellar.jpg",
+        "name": "Frog Morton's Cellar",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Whisky",
+        "description": "A mellow, fragrant latakia blend aged with stave cubes cut from barrels used to mature and flavor Frog Morton's own special whiskeys.",
+        "notes": "Notes:The name Frog Morton comes to us from the works of JRR Tolkien. Frogmorton: A village in the Eastfarthing of the Shire. It stood on the East Road, between the Three-farthing Stone (fourteen miles to the west) and the Brandywine Bridge (twenty-two miles to the east). Immediately to the north of the village, the stream known as the Water broke into two, creating a wide watery region - this feature seems to have given Frog Morton its name, which means \"frog marsh\".",
+        "reviewCount": 181,
+        "totalReviews": 202,
+        "averageRating": 3.47,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 132,
+            "3_star": 37,
+            "2_star": 28,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.5641025641026,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 75.641025641026,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.974358974359,
+                    "Medium to Strong": 8.974358974359,
+                    "Strong": 1.2820512820513,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 20.37037037037,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 94.444444444444,
+                    "Medium": 98.148148148148,
+                    "Medium to Strong": 24.074074074074,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.3829787234043,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 34.042553191489,
+                    "Pleasant to Tolerable": 47.872340425532,
+                    "Tolerable": 19.148936170213,
+                    "Tolerable to Strong": 6.3829787234043,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.063829787234,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 38.095238095238,
+                    "Mild to Medium": 93.650793650794,
+                    "Medium": 100.0,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 14.285714285714,
+                    "Very Full": 7.9365079365079,
+                    "Extra Full": 1.5873015873016,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

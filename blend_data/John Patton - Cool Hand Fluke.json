@@ -1,0 +1,94 @@
+{
+    "coolhandfluke": {
+        "imagePath": "../blend_pictures/John Patton - Cool Hand Fluke.jpg",
+        "name": "Cool Hand Fluke",
+        "blender": "John Patton",
+        "blendedBy": "",
+        "manufacturedBy": "4noggins",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "When a Burley lover who doesn't really care for Perique creates a blend with four different Virginias that a Perique Freak can't get enough of, that's a fluke. Four contrasting Virginas combines with 40% Perique for a blend that is surprisingly smooth.",
+        "notes": "Notes:Sold through 4noggins.com.",
+        "reviewCount": 15,
+        "totalReviews": 17,
+        "averageRating": 3.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 9,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 28.571428571429,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 40.0,
+                    "Medium to Full": 100.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

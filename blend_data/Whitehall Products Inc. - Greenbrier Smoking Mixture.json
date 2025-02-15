@@ -1,0 +1,94 @@
+{
+    "greenbriersmokingmixture": {
+        "imagePath": "../blend_pictures/Whitehall Products Inc. - Greenbrier Smoking Mixture.jpg",
+        "name": "Greenbrier Smoking Mixture",
+        "blender": "Whitehall Products Inc.",
+        "blendedBy": "",
+        "manufacturedBy": "Whitehall Products Inc.",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Oriental/Turkish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "1 oz, 14 oz Tin, 50g Pouch",
+        "flavoring": "Menthol",
+        "description": "All the great tobaccos are here... rich Burleys, mild Virginias, Carolina Brights, and Turkish. The addition of natural, imported menthol makes the big difference... for a delightfully refreshing smoke.\n\nThe unique pipe tobacco, with a pleasing touch of cool, mild menthol. A new experience in smoking enjoyment.",
+        "notes": "",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 2.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 0,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

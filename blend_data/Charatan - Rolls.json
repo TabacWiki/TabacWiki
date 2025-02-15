@@ -1,0 +1,94 @@
+{
+    "rolls": {
+        "imagePath": "../blend_pictures/Charatan - Rolls.jpg",
+        "name": "Rolls",
+        "blender": "Charatan",
+        "blendedBy": "",
+        "manufacturedBy": "House of Edgeworth",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Perique",
+        "contents": "Cavendish,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "The luxury tobacco composition that is prepared to produce these rolls of tobacco is based on high quality, carefully selected ripe Virginia tobacco, finished with some traditional cured Perique and Cavendish tobacco. We have finished the roll with a 'Cavendish Bulls Eye' rather than spread this unique tobacco throughout the mixture. This allows the pipe smoker to sprinkle and mix the tobacco to satisfy their own taste.",
+        "notes": "Notes:Charatan released Rolls to fill the gap left by Dunhill discontinuing DeLuxe Navy Rolls.",
+        "reviewCount": 9,
+        "totalReviews": 10,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 4,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 60.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

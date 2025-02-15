@@ -1,0 +1,94 @@
+{
+    "celtictwilight": {
+        "imagePath": "../blend_pictures/Gauntleys Of Nottingham - Celtic Twilight.jpg",
+        "name": "Celtic Twilight",
+        "blender": "Gauntleys Of Nottingham",
+        "blendedBy": "Glynn Quelch",
+        "manufacturedBy": "Gauntleys",
+        "production": "",
+        "country": "United Kingdom",
+        "blendType": "",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "Packet",
+        "flavoring": "",
+        "description": "A blend of dark plugs. The regular smoke of Krys from the Nottingham Pipe Club.\n\nThe mixture or Irish Plug and English Plug produces a very rich and strong tobacco. Best smoked in a large bowl. Leave mainly in pieces, with some smaller bits broken off around. Smokes very cool with cigar like earthy flavours. The high nicotine content, makes this blend ideal for short 5 mins breaks. Tastes just as good relit as freshly packed.",
+        "notes": "",
+        "reviewCount": 3,
+        "totalReviews": 3,
+        "averageRating": 3.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

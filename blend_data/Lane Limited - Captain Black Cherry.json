@@ -1,0 +1,94 @@
+{
+    "captainblackcherry": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Cherry.jpg",
+        "name": "Captain Black Cherry",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Ltd.",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "flavoring": "Cherry",
+        "description": "The cherry blend combines sweet-smoking cavendish leaf with a sound kick of cherry casing, for a very flavorful smoke. Exceptionally mild, delightfully aromatic.",
+        "notes": "Notes:Due to EU regulations, this is now sold in some European countries as Ruby.",
+        "reviewCount": 106,
+        "totalReviews": 118,
+        "averageRating": 1.61,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 13,
+            "2_star": 28,
+            "1_star": 71
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 31.818181818182,
+                    "Very Mild": 63.636363636364,
+                    "Mild": 100.0,
+                    "Mild to Medium": 31.818181818182,
+                    "Medium": 18.181818181818,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 9.0909090909091
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 17.857142857143,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 17.857142857143,
+                    "Mild to Medium": 78.571428571429,
+                    "Medium": 100.0,
+                    "Medium to Strong": 67.857142857143,
+                    "Strong": 57.142857142857,
+                    "Very Strong": 32.142857142857,
+                    "Extra Strong": 39.285714285714
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.8888888888889,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 51.111111111111,
+                    "Pleasant to Tolerable": 44.444444444444,
+                    "Tolerable": 35.555555555556,
+                    "Tolerable to Strong": 4.4444444444444,
+                    "Strong": 4.4444444444444,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 4.4444444444444,
+                    "Overwhelming": 8.8888888888889
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 42.857142857143,
+                    "Very Mild": 39.285714285714,
+                    "Mild": 100.0,
+                    "Mild to Medium": 82.142857142857,
+                    "Medium": 71.428571428571,
+                    "Medium to Full": 32.142857142857,
+                    "Full": 10.714285714286,
+                    "Very Full": 7.1428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 35.714285714286
+                }
+            }
+        }
+    }
+}

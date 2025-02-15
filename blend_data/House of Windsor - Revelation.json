@@ -1,0 +1,94 @@
+{
+    "revelation": {
+        "imagePath": "../blend_pictures/House of Windsor - Revelation.jpg",
+        "name": "Revelation",
+        "blender": "House of Windsor",
+        "blendedBy": "House of Windsor",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Kentucky,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.25oz Pouch, 2oz. Tin, 4oz Tin, 10 oz tin",
+        "flavoring": "Fruit / Citrus",
+        "description": "A blend of Bright flake, Red Virginia, Burley cube cut, Latakia and Perique with a mild fruit flavor.",
+        "notes": "",
+        "reviewCount": 72,
+        "totalReviews": 81,
+        "averageRating": 3.11,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 34,
+            "2_star": 16,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.3255813953488,
+                    "Mild": 37.209302325581,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.232558139535,
+                    "Medium to Strong": 16.279069767442,
+                    "Strong": 0.0,
+                    "Very Strong": 2.3255813953488,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 20.588235294118,
+                    "Extremely Mild": 26.470588235294,
+                    "Very Mild": 38.235294117647,
+                    "Mild": 100.0,
+                    "Mild to Medium": 29.411764705882,
+                    "Medium": 14.705882352941,
+                    "Medium to Strong": 2.9411764705882,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.9411764705882,
+                    "Pleasant": 76.470588235294,
+                    "Very Pleasant": 23.529411764706,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 26.470588235294,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 2.9411764705882,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.030303030303,
+                    "Very Mild": 0.0,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 78.787878787879,
+                    "Medium": 100.0,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 6.0606060606061,
+                    "Very Full": 3.030303030303,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "irishcask": {
+        "imagePath": "../blend_pictures/Peterson - Irish Cask.jpg",
+        "name": "Irish Cask",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Sherry",
+        "description": "A rich blend of cavendish, Zimbabwean, orange Virginia, Thailand burley & black perique, matured in oak sherry barrels.\n\nNew Tin Description (Irish Cask): A blend of Virginia leaves from Eastern Carolina, Malawi and Brazil is mixed with a dark brown Cavendish tobacco.",
+        "notes": "Notes:Previously know as Irish Oak.",
+        "reviewCount": 228,
+        "totalReviews": 254,
+        "averageRating": 2.92,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 82,
+            "3_star": 94,
+            "2_star": 54,
+            "1_star": 24
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.3707865168539,
+                    "Mild": 12.359550561798,
+                    "Mild to Medium": 31.460674157303,
+                    "Medium": 87.640449438202,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.449438202247,
+                    "Very Strong": 6.7415730337079,
+                    "Extremely Strong": 1.123595505618,
+                    "Overwhelming": 2.247191011236
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 79.661016949153,
+                    "Mild": 83.050847457627,
+                    "Mild to Medium": 33.898305084746,
+                    "Medium": 25.423728813559,
+                    "Medium to Strong": 6.7796610169492,
+                    "Strong": 1.6949152542373,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.125,
+                    "Pleasant": 43.75,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 65.625,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 19.791666666667,
+                    "Strong": 17.708333333333,
+                    "Very Strong": 2.0833333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.8192771084337,
+                    "Very Mild": 6.0240963855422,
+                    "Mild": 18.072289156627,
+                    "Mild to Medium": 33.734939759036,
+                    "Medium": 86.746987951807,
+                    "Medium to Full": 100.0,
+                    "Full": 44.578313253012,
+                    "Very Full": 7.2289156626506,
+                    "Extra Full": 2.4096385542169,
+                    "Overwhelming": 2.4096385542169
+                }
+            }
+        }
+    }
+}

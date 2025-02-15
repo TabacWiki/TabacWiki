@@ -1,0 +1,94 @@
+{
+    "ennerdaleflake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Ennerdale Flake.jpg",
+        "name": "Ennerdale Flake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Actualmente disponible",
+        "country": "United Kingdom",
+        "blendType": "Arom\u00e1tico",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Almond,  Floral Essences,  Fruit / Citrus,  Rum,  Vanilla",
+        "description": "",
+        "notes": "Notes:Our best selling flake by a wide margin. Predominately Virginia leaf from Brazil, Zimbabwe and Malawi (86%) but with the addition of sun cured Malawi (10%) to add sweetness, strength and to cool the smoke and Malawi burley (4%) to \"carry the flavour\" in addition to its cooling and strength qualities. (burley is very good at absorbing casings and flavours) A background flavour of almond is enhanced with the addition of fruit flavours, vanilla, and the special 'English type' flavours which give this tobacco its distinctive, yet typical 'English' Aroma associated with the UK best selling brands such as Condor, St Bruno and Mellow Virginia.",
+        "reviewCount": 205,
+        "totalReviews": 228,
+        "averageRating": 3.11,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 105,
+            "3_star": 68,
+            "2_star": 30,
+            "1_star": 25
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 38.095238095238,
+                    "Medium": 100.0,
+                    "Medium to Strong": 26.984126984127,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.79365079365079,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.79365079365079
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.8985507246377,
+                    "Mild": 10.144927536232,
+                    "Mild to Medium": 23.188405797101,
+                    "Medium": 71.014492753623,
+                    "Medium to Strong": 100.0,
+                    "Strong": 69.565217391304,
+                    "Very Strong": 31.884057971014,
+                    "Extra Strong": 21.739130434783
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.7777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 45.833333333333,
+                    "Pleasant to Tolerable": 88.888888888889,
+                    "Tolerable": 43.055555555556,
+                    "Tolerable to Strong": 13.888888888889,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 1.3888888888889,
+                    "Overwhelming": 4.1666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.9382716049383,
+                    "Mild to Medium": 23.456790123457,
+                    "Medium": 81.481481481481,
+                    "Medium to Full": 100.0,
+                    "Full": 48.148148148148,
+                    "Very Full": 8.641975308642,
+                    "Extra Full": 3.7037037037037,
+                    "Overwhelming": 11.111111111111
+                }
+            }
+        }
+    }
+}

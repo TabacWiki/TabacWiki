@@ -1,0 +1,94 @@
+{
+    "bloodredmoon": {
+        "imagePath": "../blend_pictures/Cult - Blood Red Moon.jpg",
+        "name": "Blood Red Moon",
+        "blender": "Cult",
+        "blendedBy": "",
+        "manufacturedBy": "Scandinavian Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "Cherry,  Cocoa / Chocolate",
+        "description": "This dark, decadent blend combines fire-cured cavendish, bright Virginias and burleys with the delicious aromas of natural Royal Ann cherry and dark chocolate. A bit sweet, extremely rich, and unquestionably smooth.",
+        "notes": "",
+        "reviewCount": 118,
+        "totalReviews": 132,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 65,
+            "3_star": 32,
+            "2_star": 23,
+            "1_star": 12
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 28.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 1.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.4054054054054,
+                    "Mild": 27.027027027027,
+                    "Mild to Medium": 51.351351351351,
+                    "Medium": 70.27027027027,
+                    "Medium to Strong": 100.0,
+                    "Strong": 54.054054054054,
+                    "Very Strong": 29.72972972973,
+                    "Extra Strong": 18.918918918919
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 43.589743589744,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 12.820512820513,
+                    "Tolerable": 2.5641025641026,
+                    "Tolerable to Strong": 3.8461538461538,
+                    "Strong": 2.5641025641026,
+                    "Very Strong": 2.5641025641026,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.2820512820513
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 15.151515151515,
+                    "Mild": 45.454545454545,
+                    "Mild to Medium": 90.909090909091,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.606060606061,
+                    "Full": 54.545454545455,
+                    "Very Full": 18.181818181818,
+                    "Extra Full": 3.030303030303,
+                    "Overwhelming": 12.121212121212
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "freighttrain": {
+        "imagePath": "../blend_pictures/Hearth & Home - Freight Train.jpg",
+        "name": "Freight Train",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Burley,  Kentucky,  Perique,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Another creation from mastermind Russ Ouellette, this blend was named because after you smoke it, there is a chance that you'll feel like you were run over by a train. The mixture consists of a blend of Red Virginia, dark Burley, dark-fired Kentucky, a bit of unflavored Black Cavendish and Perique. The result is a nutty and earthy blend with a slightly spicy backbone that burns cool and produces thick clouds of smoke. It has a very stout body and isn't for the timid, but it's a satisfying blend meant to kick up your day.",
+        "notes": "",
+        "reviewCount": 9,
+        "totalReviews": 11,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 4,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 60.0,
+                    "Very Strong": 20.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

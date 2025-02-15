@@ -1,0 +1,94 @@
+{
+    "metropolitain": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Metropolitain.jpg",
+        "name": "Metropolitain",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 oz",
+        "flavoring": "Alcohol / Liquor,  Other / Misc,  Spices,  Vanilla",
+        "description": "Aromatic blend of Golden Virginias, Rich Burleys and Black Cavendish.",
+        "notes": "Notes:Today the cultural inheritance of Paris can be admired in its museums, art galleries, architecture and cuisine. Especially the cuisine, for the French seem to have an appreciation for sweet tasting things. This delicious blend of Golden Virginia, Rich Burley, and Black Cavendish is a smoke to delight the palate.\n\nAbout Sutliff Private Stock Aromatic:  In the true tradition of providing the market the best tobaccos available for over 160 years, our premium Aromatic Mixtures are often a Burley/Virginia blend of tobaccos with a mix of Black Cavendish that are highly flavored with cherry, vanilla, rum, and whiskey to create unique flavors. This style of tobacco is one of the most popular among pipe smokers.",
+        "reviewCount": 8,
+        "totalReviews": 9,
+        "averageRating": 2.11,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 4,
+            "2_star": 2,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 25.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 75.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 40.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 25.0
+                }
+            }
+        }
+    }
+}

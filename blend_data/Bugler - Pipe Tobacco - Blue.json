@@ -1,0 +1,94 @@
+{
+    "pipetobacco-blue": {
+        "imagePath": "../blend_pictures/Bugler - Pipe Tobacco - Blue.jpg",
+        "name": "Pipe Tobacco - Blue",
+        "blender": "Bugler",
+        "blendedBy": "Scandinavian Tobacco Group Lane LTD",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "4 ounce pouch, 8 ounce bag",
+        "flavoring": "",
+        "description": "Look closely at the tobaccos in this blend and its quality is immediately apparent. Long strands of bright Virginias have been meticulously combined with bold, mahogany burleys. The result is a rich and satisfying smoke.",
+        "notes": "",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 1.86,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 2,
+            "2_star": 2,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

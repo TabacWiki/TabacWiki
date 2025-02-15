@@ -1,0 +1,94 @@
+{
+    "goldenglow": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Golden Glow.jpg",
+        "name": "Golden Glow",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Blended, flue cured golden Virginias, pressed and matured. Cut to form a broken flake which offers a natural sweetness. Medium strength.",
+        "notes": "",
+        "reviewCount": 98,
+        "totalReviews": 109,
+        "averageRating": 3.3,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 55,
+            "3_star": 38,
+            "2_star": 10,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.0833333333333,
+                    "Very Mild": 12.5,
+                    "Mild": 54.166666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.166666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.34328358209,
+                    "Very Mild": 7.4626865671642,
+                    "Mild": 19.402985074627,
+                    "Mild to Medium": 2.9850746268657,
+                    "Medium": 1.4925373134328,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 36.363636363636,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 1.8181818181818,
+                    "Very Strong": 1.8181818181818,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.8181818181818
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.8947368421053,
+                    "Very Mild": 7.8947368421053,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.947368421053,
+                    "Medium to Full": 36.842105263158,
+                    "Full": 5.2631578947368,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

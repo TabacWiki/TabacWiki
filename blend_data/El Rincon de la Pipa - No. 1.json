@@ -1,0 +1,94 @@
+{
+    "no.1": {
+        "imagePath": "../blend_pictures/El Rincon de la Pipa - No. 1.jpg",
+        "name": "No. 1",
+        "blender": "El Rincon de la Pipa",
+        "blendedBy": "4noggins",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A blend manufactured by 4noggins specifically for El Rincon de la Pipa, a pipe smokers forum in Spain, following the recipe by Javier Trillo and Carlos Rincon. A beautiful mix of Virginias, burley, Izmir, Latakia and a touch of black cavendish.",
+        "notes": "Notes:A very balanced mixture, full of body, with the white burley as the main flavor support, spicy Orientals giving a piquant character and Virginias bonding all of them, resulting a sweet medium atypical mixture.",
+        "reviewCount": 14,
+        "totalReviews": 16,
+        "averageRating": 3.63,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 4,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 40.0,
+                    "Very Mild": 10.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 12.5,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

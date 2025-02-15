@@ -1,0 +1,94 @@
+{
+    "skiffmixture": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Skiff Mixture.jpg",
+        "name": "Skiff Mixture",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Another Samuel Gawith original, Skiff is for the pipe smoker who appreciates the fuller flavour of an Oriental blend. Blending a variety of different styles of flue cured tobaccos gives Skiff its characteristic yellow and brown features. Its real identity comes with the addition of Turkish and a beautiful black Cyprus latakia giving the blend its full, round taste.",
+        "notes": "",
+        "reviewCount": 209,
+        "totalReviews": 233,
+        "averageRating": 3.46,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 135,
+            "3_star": 76,
+            "2_star": 16,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.1954022988506,
+                    "Mild": 55.172413793103,
+                    "Mild to Medium": 100.0,
+                    "Medium": 83.908045977011,
+                    "Medium to Strong": 19.540229885057,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.814814814815,
+                    "Very Mild": 9.2592592592593,
+                    "Mild": 10.493827160494,
+                    "Mild to Medium": 4.9382716049383,
+                    "Medium": 1.8518518518519,
+                    "Medium to Strong": 1.8518518518519,
+                    "Strong": 0.61728395061728,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.695652173913,
+                    "Pleasant": 86.95652173913,
+                    "Very Pleasant": 14.492753623188,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 94.202898550725,
+                    "Tolerable to Strong": 18.840579710145,
+                    "Strong": 11.594202898551,
+                    "Very Strong": 2.8985507246377,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.4691358024691,
+                    "Very Mild": 6.1728395061728,
+                    "Mild": 17.283950617284,
+                    "Mild to Medium": 79.012345679012,
+                    "Medium": 100.0,
+                    "Medium to Full": 53.086419753086,
+                    "Full": 25.925925925926,
+                    "Very Full": 1.2345679012346,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.4691358024691
+                }
+            }
+        }
+    }
+}

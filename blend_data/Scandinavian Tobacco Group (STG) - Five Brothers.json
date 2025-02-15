@@ -1,0 +1,94 @@
+{
+    "fivebrothers": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Five Brothers.jpg",
+        "name": "Five Brothers",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "STG Lane Ltd.",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Shag",
+        "packaging": "1.25 ounce pouch",
+        "flavoring": "",
+        "description": "A unique pipe tobacco. 100% burley in a bird's-eye shag cut. Minimal casing and no top-flavors. Remarkably mellow, considering. One of the more unusual tobaccos available, extremely full-bodied, ultra-high nicotine content. A must for those who like living on the dangerous side.",
+        "notes": "Notes:Originally blended by Finzer Bros & Pinkerton.",
+        "reviewCount": 143,
+        "totalReviews": 159,
+        "averageRating": 2.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 35,
+            "3_star": 69,
+            "2_star": 36,
+            "1_star": 19
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.6949152542373,
+                    "Very Mild": 0.0,
+                    "Mild": 1.6949152542373,
+                    "Mild to Medium": 1.6949152542373,
+                    "Medium": 11.864406779661,
+                    "Medium to Strong": 54.237288135593,
+                    "Strong": 100.0,
+                    "Very Strong": 61.016949152542,
+                    "Extremely Strong": 27.118644067797,
+                    "Overwhelming": 10.169491525424
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 6.3636363636364,
+                    "Mild": 5.4545454545455,
+                    "Mild to Medium": 3.6363636363636,
+                    "Medium": 5.4545454545455,
+                    "Medium to Strong": 2.7272727272727,
+                    "Strong": 0.90909090909091,
+                    "Very Strong": 0.90909090909091,
+                    "Extra Strong": 0.90909090909091
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.0645161290323,
+                    "Pleasant": 16.129032258065,
+                    "Very Pleasant": 1.6129032258065,
+                    "Pleasant to Tolerable": 29.032258064516,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 48.387096774194,
+                    "Strong": 27.41935483871,
+                    "Very Strong": 12.903225806452,
+                    "Extra Strong": 9.6774193548387,
+                    "Overwhelming": 3.2258064516129
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 26.190476190476,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 95.238095238095,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 9.5238095238095,
+                    "Overwhelming": 19.047619047619
+                }
+            }
+        }
+    }
+}

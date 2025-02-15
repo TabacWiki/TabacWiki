@@ -1,0 +1,94 @@
+{
+    "black": {
+        "imagePath": "../blend_pictures/CAO - Black.jpg",
+        "name": "Black",
+        "blender": "CAO",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "Cocoa / Chocolate,  Raspberry,  Vanilla",
+        "description": "CAO Black is a unique aromatic blend. The tobacco has a rich and tangy raspberry note, with a subtle undercurrent of creamy vanilla and cocoa, giving it a sweet and smooth flavor. Best of all, it's one of the most gentle smoking blends you're likely to try. For a bite free, blend with a great aroma, you've got to try CAO Black.",
+        "notes": "",
+        "reviewCount": 21,
+        "totalReviews": 24,
+        "averageRating": 2.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 12,
+            "2_star": 7,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 28.571428571429,
+                    "Mild to Medium": 85.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 77.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 11.111111111111,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "italia": {
+        "imagePath": "../blend_pictures/Manifatture Sigaro Toscano - Italia.jpg",
+        "name": "Italia",
+        "blender": "Manifatture Sigaro Toscano",
+        "blendedBy": "Manifatture Sigaro Toscano",
+        "manufacturedBy": "Manifatture Sigaro Toscano",
+        "production": "Currently available",
+        "country": "Italy",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Kentucky,  Oriental/Turkish,  Virginia",
+        "cut": "Shag",
+        "packaging": "40 grams pouch",
+        "flavoring": "",
+        "description": "Translated to English: A high quality mixture, made from fine tobaccos Virginia and Kentucky, enriched by Oriental leaves.\n\nNew pouch description: Blend with Italian Tobacco. Virginia and Kentucky",
+        "notes": "Notes:The Italia blend of tobacco historically was a product of the Italian State Monopoly. Production was switched to Ente Tabacchi Italiani, which was bought by BAT (British American Tobacco) in 2003, and then acquired in 2006 by Maccaferri Group Manufactures, of which Manifatture Sigaro Toscano handles the pipe tobacco production.",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 2.84,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 11,
+            "2_star": 8,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 76.923076923077,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 61.538461538462,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 7.6923076923077,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 8.3333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 41.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 8.3333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 81.818181818182,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

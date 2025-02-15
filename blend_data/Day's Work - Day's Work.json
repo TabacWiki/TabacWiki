@@ -1,0 +1,94 @@
+{
+    "day'swork": {
+        "imagePath": "../blend_pictures/Day's Work - Day's Work.jpg",
+        "name": "Day's Work",
+        "blender": "Day's Work",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "flavoring": "Cinnamon",
+        "description": "Chewing tobacco.",
+        "notes": "",
+        "reviewCount": 13,
+        "totalReviews": 15,
+        "averageRating": 1.87,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 2,
+            "2_star": 3,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 75.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 25.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 50.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 33.333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 60.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 40.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 40.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 75.0,
+                    "Full": 75.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 50.0
+                }
+            }
+        }
+    }
+}

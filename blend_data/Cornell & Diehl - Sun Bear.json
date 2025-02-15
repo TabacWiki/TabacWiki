@@ -1,0 +1,94 @@
+{
+    "sunbear": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Sun Bear.jpg",
+        "name": "Sun Bear",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Oriental/Turkish, Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin weight",
+        "flavoring": "Alcohol / Liquor, Honey",
+        "description": "A blend of the finest red and bright Virginias balanced by Basma leaf from 2014 and Izmir Orientals from 2013, Sun Bear showcases select varietals by highlighting their inherent characters with a range of unique and nuanced casings. South Carolina garden-grown honey \u2014 harvested from the personal beehives of C&D's head blender, Jeremy Reeves \u2014 combines with a whisper of silver tequila and elderflower to augment the fruity and floral notes of the choice Orientals and Virginias.",
+        "notes": "Notes:2019 - 4,500 tins produced.  2020 - 8,000 tins produced.",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 7,
+            "2_star": 1,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.461538461538,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 70.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 63.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Full": 45.454545454545,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

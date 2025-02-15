@@ -1,0 +1,94 @@
+{
+    "ryback": {
+        "imagePath": "../blend_pictures/D & R Tobacco - Ryback.jpg",
+        "name": "Ryback",
+        "blender": "D & R Tobacco",
+        "blendedBy": "Mark Ryan",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Shag",
+        "packaging": "Bulk",
+        "flavoring": "Other / Misc",
+        "description": "Developed for the smoker who has acquired a taste for the European or Dutch style of extra fine cut, fire-cured tobacco. The highest grades of dark fired tobacco, from specific growth areas have been selected to provide a superior taste and aroma. Special attention was then given to the methods of blending and cutting the tobaccos to ensure that a unique Premium Dutch Blend was achieved.",
+        "notes": "",
+        "reviewCount": 23,
+        "totalReviews": 26,
+        "averageRating": 3.12,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 12,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 100.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 42.857142857143,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 57.142857142857,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 60.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

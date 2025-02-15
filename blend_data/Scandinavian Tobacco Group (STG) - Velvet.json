@@ -1,0 +1,94 @@
+{
+    "velvet": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Velvet.jpg",
+        "name": "Velvet",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Lane",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Kentucky",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce pouch, 7 oz tin, 12 ounce tin",
+        "flavoring": "Alcohol / Liquor,  Other / Misc",
+        "description": "Made from sun ripened Kentucky burley, aged to mellow perfection in nature's slow, but sure way.",
+        "notes": "Notes:Formerly manufactured by Pinkerton.",
+        "reviewCount": 117,
+        "totalReviews": 130,
+        "averageRating": 2.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 41,
+            "2_star": 38,
+            "1_star": 34
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 30.882352941176,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.823529411765,
+                    "Medium": 13.235294117647,
+                    "Medium to Strong": 7.3529411764706,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 26.829268292683,
+                    "Extremely Mild": 41.463414634146,
+                    "Very Mild": 73.170731707317,
+                    "Mild": 100.0,
+                    "Mild to Medium": 39.024390243902,
+                    "Medium": 21.951219512195,
+                    "Medium to Strong": 14.634146341463,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 74.0,
+                    "Tolerable": 52.0,
+                    "Tolerable to Strong": 2.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 24.489795918367,
+                    "Very Mild": 36.734693877551,
+                    "Mild": 100.0,
+                    "Mild to Medium": 59.183673469388,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 14.285714285714,
+                    "Full": 2.0408163265306,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

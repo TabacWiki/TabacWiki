@@ -1,0 +1,94 @@
+{
+    "captaincool": {
+        "imagePath": "../blend_pictures/McClelland - Captain Cool.jpg",
+        "name": "Captain Cool",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Mint,  Vanilla",
+        "description": "The coolest smoking of pipe tobaccos. It's mild and won't bite the tongue. Lightly fragrant with a hint of vanilla and a touch of mint, always appealing.",
+        "notes": "",
+        "reviewCount": 43,
+        "totalReviews": 48,
+        "averageRating": 3.02,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 18,
+            "2_star": 10,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 22.727272727273,
+                    "Very Mild": 59.090909090909,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 4.5454545454545,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 56.25,
+                    "Medium": 68.75,
+                    "Medium to Strong": 25.0,
+                    "Strong": 37.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 95.454545454545,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 4.5454545454545,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 26.666666666667,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 93.333333333333,
+                    "Medium": 60.0,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 0.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

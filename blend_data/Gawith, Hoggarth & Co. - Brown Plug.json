@@ -1,0 +1,94 @@
+{
+    "brownplug": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Brown Plug.jpg",
+        "name": "Brown Plug",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "flavoring": "",
+        "description": "",
+        "notes": "Notes:Using the description for the Brown Unscented from this website: As with Bright CR Flake, this is another tobacco that devises its flavour simply from the choice of leaf in the blend, and has no additional casings or flavours to enhance the smoke. (u/s - stands for unscented) 83.5% blended Virginias are combined with a relatively high (for English Blends at any rate) proportion of Malawi burley, 12.5%, to give flavour and depth to the smoke, and the addition of just 4% Malawi dark fired leaf is sufficient to combat the typical sharpness of the Virginia leaf resulting in a rounded medium strength smoke.",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 4.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

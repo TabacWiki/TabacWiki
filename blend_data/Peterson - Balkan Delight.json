@@ -1,0 +1,94 @@
+{
+    "balkandelight": {
+        "imagePath": "../blend_pictures/Peterson - Balkan Delight.jpg",
+        "name": "Balkan Delight",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Latakia",
+        "contents": "Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A traditional mixture comprising the finest of Virginia tobaccos plus a hint of Louisiana perique and a generous proportion of Cyprus Latakia. A delight for the seasoned pipe smoker.",
+        "notes": "Notes:Due to EU regulations, this is renamed and sold in those countries as \"Balkan Mixture\".",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 3.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 33,
+            "3_star": 16,
+            "2_star": 17,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.212121212121,
+                    "Mild to Medium": 15.151515151515,
+                    "Medium": 100.0,
+                    "Medium to Strong": 45.454545454545,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 3.030303030303,
+                    "Extremely Strong": 3.030303030303,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.0,
+                    "Mild to Medium": 2.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 8.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 17.647058823529,
+                    "Very Pleasant": 2.9411764705882,
+                    "Pleasant to Tolerable": 35.294117647059,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 26.470588235294,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 2.9411764705882,
+                    "Extra Strong": 2.9411764705882,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.7037037037037,
+                    "Very Mild": 0.0,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 55.555555555556,
+                    "Medium to Full": 100.0,
+                    "Full": 40.740740740741,
+                    "Very Full": 18.518518518519,
+                    "Extra Full": 3.7037037037037,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

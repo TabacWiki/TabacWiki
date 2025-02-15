@@ -1,0 +1,94 @@
+{
+    "mogano146": {
+        "imagePath": "../blend_pictures/Sch\u00fcrch - Mogano 146.jpg",
+        "name": "Mogano 146",
+        "blender": "Sch\u00fcrch",
+        "blendedBy": "Hans Sch\u00fcrch",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "Switzerland",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Burley,  Cigar Leaf,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk, 2 ounce tin",
+        "flavoring": "",
+        "description": "Here's a very special blend in all its aspects. The uniqueness comes from the Havana tobaccos used. If a tobacco could be descibed as \"creamy\" in taste, this is definitely the one. A great pleasure when smoked after dinner. If you occasionally (or often) enjoy a quality cigar, you should try this mixture.",
+        "notes": "",
+        "reviewCount": 15,
+        "totalReviews": 17,
+        "averageRating": 3.41,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 4,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 100.0,
+                    "Strong": 71.428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 20.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 80.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 50.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 66.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

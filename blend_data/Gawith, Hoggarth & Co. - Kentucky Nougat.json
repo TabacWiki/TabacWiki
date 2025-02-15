@@ -1,0 +1,94 @@
+{
+    "kentuckynougat": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Kentucky Nougat.jpg",
+        "name": "Kentucky Nougat",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk, 50 grams tin",
+        "flavoring": "Cocoa / Chocolate,  Cream,  Other / Misc",
+        "description": "Blended from superior golden African Virginias, Burleys and mellow black cavendish, with a mellow topping of creamy toffee and cocoa.",
+        "notes": "Notes:Due to EU regulations, this is renamed and sold in those countries as \"Kentucky N.\"",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 3.12,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 9,
+            "2_star": 2,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 71.428571428571,
+                    "Medium to Strong": 100.0,
+                    "Strong": 57.142857142857,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 70.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 10.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 25.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 87.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

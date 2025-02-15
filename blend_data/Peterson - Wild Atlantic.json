@@ -1,0 +1,94 @@
+{
+    "wildatlantic": {
+        "imagePath": "../blend_pictures/Peterson - Wild Atlantic.jpg",
+        "name": "Wild Atlantic",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "40 grams pouch",
+        "flavoring": "Other / Misc",
+        "description": "This elegant blend comprises of loose cut ripe orange Virginia, fine Oriental leaves and a premium quality latakia from the Balkans. The generous amount of latakia provides this rich blend with its unique English character and a traditional smoky note.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 61,
+        "averageRating": 3.2,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 18,
+            "2_star": 11,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.3333333333333,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 36.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 26.666666666667,
+                    "Medium to Strong": 23.333333333333,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 17.948717948718,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 2.5641025641026,
+                    "Medium": 5.1282051282051,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 16.666666666667,
+                    "Pleasant": 54.166666666667,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 62.5,
+                    "Tolerable to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 38.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 94.444444444444,
+                    "Medium to Full": 61.111111111111,
+                    "Full": 16.666666666667,
+                    "Very Full": 16.666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

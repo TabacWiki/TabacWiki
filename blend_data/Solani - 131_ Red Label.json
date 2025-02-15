@@ -1,0 +1,94 @@
+{
+    "131:redlabel": {
+        "imagePath": "../blend_pictures/Solani - 131: Red Label.jpg",
+        "name": "131: Red Label",
+        "blender": "Solani",
+        "blendedBy": "R.L. Will",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Whisky",
+        "description": "For Solani's Red Label, a touch of single malt Scotch has been added to selected bright and red Virginias from the\"Old Belt\", ripe burleys and mellow, sweet black cavendish for a\"Tropical Aroma--delicious. Wild Cut.",
+        "notes": "",
+        "reviewCount": 30,
+        "totalReviews": 34,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 18,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 0.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Strong": 63.636363636364,
+                    "Strong": 54.545454545455,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 9.0909090909091
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 92.307692307692,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 38.461538461538,
+                    "Tolerable": 23.076923076923,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 20.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 6.6666666666667,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "condorplug": {
+        "imagePath": "../blend_pictures/Japan Tobacco - Condor Plug.jpg",
+        "name": "Condor Plug",
+        "blender": "Japan Tobacco",
+        "blendedBy": "Japan Tobacco International",
+        "manufacturedBy": "Japan Tobacco International",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Other",
+        "contents": "Virginia",
+        "cut": "Plug",
+        "packaging": "25 grams wrapped",
+        "flavoring": "Floral Essences",
+        "description": "Dark in colour. Lovely aroma. Gentle taste.",
+        "notes": "Notes:Was made in Ireland, now made in Poland.",
+        "reviewCount": 11,
+        "totalReviews": 13,
+        "averageRating": 3.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 3,
+            "2_star": 0,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 20.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 40.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 75.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 16.666666666667,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 100.0,
+                    "Very Full": 22.222222222222,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

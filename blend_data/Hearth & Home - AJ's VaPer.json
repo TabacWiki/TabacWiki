@@ -1,0 +1,94 @@
+{
+    "aj'svaper": {
+        "imagePath": "../blend_pictures/Hearth & Home - AJ's VaPer.jpg",
+        "name": "AJ's VaPer",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette, Andrew AJ Smith",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, bulk",
+        "flavoring": "",
+        "description": "A Virginia/perique consisting of red Virginias combined with a generous portion of perique and some Green River black Cavendish.",
+        "notes": "",
+        "reviewCount": 41,
+        "totalReviews": 46,
+        "averageRating": 3.24,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 20,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 42.857142857143,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 3.5714285714286,
+                    "Medium": 3.5714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 93.75,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 8.3333333333333,
+                    "Mild to Medium": 45.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 29.166666666667,
+                    "Full": 4.1666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

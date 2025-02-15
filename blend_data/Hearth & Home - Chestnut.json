@@ -1,0 +1,94 @@
+{
+    "chestnut": {
+        "imagePath": "../blend_pictures/Hearth & Home - Chestnut.jpg",
+        "name": "Chestnut",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Kentucky,  Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "14 oz. tub",
+        "flavoring": "Other / Misc",
+        "description": "Chestnut -- part of Hearth & Home's lively and popular Mid-Town Series -- is  made of mellow burleys, sweet Virginias, silky Maryland, robust Kentucky, exotic Turkish and smoky latakias, a traditional American English blend. Though mild in flavor, Chestnut is nonetheless delightfully complex. Like all of the Mid-Town Series blends, Chestnut uses fine quality (costly) tobaccos, yet is modest in price.",
+        "notes": "Notes:Chestnut is a match for the venerable, but now discontinued Middleton Walnut blend.",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 7,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 83.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 71.428571428571,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 100.0,
+                    "Medium": 36.363636363636,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 9.0909090909091
+                }
+            }
+        }
+    }
+}

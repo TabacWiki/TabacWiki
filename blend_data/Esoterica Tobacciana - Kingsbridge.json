@@ -1,0 +1,94 @@
+{
+    "kingsbridge": {
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Kingsbridge.jpg",
+        "name": "Kingsbridge",
+        "blender": "Esoterica Tobacciana",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "8 ounce bag",
+        "flavoring": "Licorice",
+        "description": "Produced by the time honored method of hot pressing dark and golden Virginias until jet-black, resulting in a symphony of delicate aromas and exquisite flavors.",
+        "notes": "",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 2.96,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 6,
+            "2_star": 7,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 30.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 70.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 44.444444444444,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 63.636363636364,
+                    "Tolerable": 45.454545454545,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 46.153846153846,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

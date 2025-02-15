@@ -1,0 +1,94 @@
+{
+    "klompenkloggen": {
+        "imagePath": "../blend_pictures/D.W.G. Cigar Corporation - Klompen Kloggen.jpg",
+        "name": "Klompen Kloggen",
+        "blender": "D.W.G. Cigar Corporation",
+        "blendedBy": "D.W.G. Cigar Corporation",
+        "manufacturedBy": "D.W.G. Cigar Corporation",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "flavoring": "Fruit / Citrus",
+        "description": "",
+        "notes": "Notes:Per Jon Guss: Klompen Kloggen (\u201cwooden shoes\u201d) was introduced by DWG Cigar on October 1, 1965. It was \u201cblended from unusual fruit flavoring used in its cure\u201d (per a 1965 ad in Esquire). DWG continued to sell Klompen Kloggen for a few years until the blend was acquired by R. G. Dun Corp. at the very end of 1967.\n\nFour companies were involved in this last minute effort: Universal Cigar, Parodi Cigar, National Cigar, and a new entity specially created to hold DWG\u2019s largest selling line: R G Dun Corp. It was R G Dun that got Klompen Kloggen when the dust had settled. RG Dun hung onto it until at least 1973, but by 1976 Klompen Kloggen had been acquired and was being sold by 1776 Tobacco of Doylestown.\n\n\nAccording to the ads of the time, this mixture was a Virginia/burley only, which is different than the later 1776 version, which has more variety of components.",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

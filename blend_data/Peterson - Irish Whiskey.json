@@ -1,0 +1,94 @@
+{
+    "irishwhiskey": {
+        "imagePath": "../blend_pictures/Peterson - Irish Whiskey.jpg",
+        "name": "Irish Whiskey",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Whisky",
+        "description": "A traditional Irish ready rubbed blend renowned for its smooth smoking quality. This blend incorporates various selected Virginias to provide roundness of taste. Kentucky fired, Indian cured and aromatic Thai Burley are also added. Finally, a light spray of Irish Whiskey essence gives this tobacco its unique aroma.",
+        "notes": "Notes:Due to regulations this is now called \"Irish Mixture\" in the EU.",
+        "reviewCount": 133,
+        "totalReviews": 148,
+        "averageRating": 2.74,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 39,
+            "3_star": 55,
+            "2_star": 31,
+            "1_star": 23
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.0769230769231,
+                    "Mild": 6.1538461538462,
+                    "Mild to Medium": 26.153846153846,
+                    "Medium": 100.0,
+                    "Medium to Strong": 58.461538461538,
+                    "Strong": 26.153846153846,
+                    "Very Strong": 4.6153846153846,
+                    "Extremely Strong": 1.5384615384615,
+                    "Overwhelming": 1.5384615384615
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.63829787234,
+                    "Extremely Mild": 25.531914893617,
+                    "Very Mild": 48.936170212766,
+                    "Mild": 100.0,
+                    "Mild to Medium": 63.829787234043,
+                    "Medium": 42.553191489362,
+                    "Medium to Strong": 12.765957446809,
+                    "Strong": 4.2553191489362,
+                    "Very Strong": 6.3829787234043,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 90.909090909091,
+                    "Very Pleasant": 20.454545454545,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.454545454545,
+                    "Strong": 6.8181818181818,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.3829787234043,
+                    "Mild": 23.404255319149,
+                    "Mild to Medium": 59.574468085106,
+                    "Medium": 91.489361702128,
+                    "Medium to Full": 100.0,
+                    "Full": 25.531914893617,
+                    "Very Full": 6.3829787234043,
+                    "Extra Full": 2.1276595744681,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

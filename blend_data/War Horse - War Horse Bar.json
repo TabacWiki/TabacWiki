@@ -1,0 +1,94 @@
+{
+    "warhorsebar": {
+        "imagePath": "../blend_pictures/War Horse - War Horse Bar.jpg",
+        "name": "War Horse Bar",
+        "blender": "War Horse",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Kentucky,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin",
+        "flavoring": "Anisette,  Floral Essences,  Other / Misc,  Tonquin Bean",
+        "description": "Made of dark-fired Kentucky, dark air-cured and matured red Virginia.",
+        "notes": "Notes:From P&C's web site: War Horse Bar is a plug tobacco made in the tradition of the long-missing Irish tobacco. Made of darker, earthier leaf, War Horse Bar has a singular top note added, and the tobacco is pressed and cut into plugs. The flavor and body are astoundingly stout, and is definitely meant for the experienced pipe enthusiast. If you love robust and bold pipe tobacco, War Horse Bar will become a staple for you.",
+        "reviewCount": 47,
+        "totalReviews": 53,
+        "averageRating": 3.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 17,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 90.0,
+                    "Strong": 100.0,
+                    "Very Strong": 25.0,
+                    "Extremely Strong": 20.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 12.5,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.5,
+                    "Mild": 31.25,
+                    "Mild to Medium": 25.0,
+                    "Medium": 81.25,
+                    "Medium to Strong": 100.0,
+                    "Strong": 43.75,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 18.75,
+                    "Pleasant to Tolerable": 56.25,
+                    "Tolerable": 62.5,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 50.0,
+                    "Very Strong": 12.5,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 35.0,
+                    "Medium to Full": 75.0,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 5.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "tashkent": {
+        "imagePath": "../blend_pictures/Peretti - Tashkent.jpg",
+        "name": "Tashkent",
+        "blender": "Peretti",
+        "blendedBy": "L.J. Peretti",
+        "manufacturedBy": "L.J. Peretti",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Oriental",
+        "contents": "Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Named for \"The most beautiful city in Central Asia\", this spicy, full flavored blend is made from Izmir Turkish and latakia. Smooth with nary a strand of Virginia, Tashkent is a Turkish blend married with latakia to produce a smooth, rich flavor with a hint of spiciness.",
+        "notes": "Notes:According to L.J. Peretti Co. website, Tashkent does not contain Virginia.",
+        "reviewCount": 39,
+        "totalReviews": 44,
+        "averageRating": 3.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 13,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 17.391304347826,
+                    "Mild to Medium": 21.739130434783,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.826086956522,
+                    "Strong": 0.0,
+                    "Very Strong": 4.3478260869565,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 7.8947368421053,
+                    "Very Mild": 0.0,
+                    "Mild": 2.6315789473684,
+                    "Mild to Medium": 2.6315789473684,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 42.857142857143,
+                    "Very Pleasant": 50.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 21.428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 10.526315789474,
+                    "Medium": 89.473684210526,
+                    "Medium to Full": 100.0,
+                    "Full": 10.526315789474,
+                    "Very Full": 15.789473684211,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

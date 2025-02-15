@@ -1,0 +1,94 @@
+{
+    "no.306englishoriental": {
+        "imagePath": "../blend_pictures/Newminster - No. 306 English Oriental.jpg",
+        "name": "No. 306 English Oriental",
+        "blender": "Newminster",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Villiger",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "English",
+        "contents": "Black Cavendish, Burley, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "",
+        "description": "A classic English mixture developed from flue-cured African Virginias, Black Cavendish, Mexican Burleys and Cyprus Latakia. Then, on top of these fantastic tobaccos, a mild, spicy Turkish Samsun grown on the Black Sea coast is added, just to give the final touch of excellence. This non-aromatic blend produces an astonishing array of refined flavors ranging from mild to medium strength.",
+        "notes": "",
+        "reviewCount": 12,
+        "totalReviews": 14,
+        "averageRating": 3.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 3,
+            "2_star": 4,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Strong": 42.857142857143,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 12.5,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

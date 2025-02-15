@@ -1,0 +1,94 @@
+{
+    "acadianribbon": {
+        "imagePath": "../blend_pictures/McClelland - Acadian Ribbon.jpg",
+        "name": "Acadian Ribbon",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "The best sweet, tangy matured Virginias meld with subtle, cool Perique in an easy to pack, rich ribbon blend, smoothed by the Blakeney exclusive toasting process. Relax with the best.",
+        "notes": "Notes:McClelland introduced their Blakeney's Best line at the 21st CORPS (Conclave of Richmond Pipe Smokers) Pipe Show in Richmond, Virginia. The 50 grams tin was released to the public in late 2005.",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 16,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.714285714286,
+                    "Very Mild": 0.0,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 90.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.5454545454545,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 4.5454545454545,
+                    "Very Full": 4.5454545454545,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

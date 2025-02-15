@@ -1,0 +1,94 @@
+{
+    "grasmereflake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Grasmere Flake.jpg",
+        "name": "Grasmere Flake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "flavoring": "Floral Essences,  Other / Misc",
+        "description": "A blend of the finest Virginias & burleys. This medium flake has an overall top-note flavour of English rose and geranium.",
+        "notes": "",
+        "reviewCount": 35,
+        "totalReviews": 39,
+        "averageRating": 3.26,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 16,
+            "2_star": 5,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 20.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 90.909090909091,
+                    "Strong": 81.818181818182,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 18.181818181818
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 41.666666666667,
+                    "Pleasant to Tolerable": 83.333333333333,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 23.529411764706,
+                    "Medium": 100.0,
+                    "Medium to Full": 70.588235294118,
+                    "Full": 17.647058823529,
+                    "Very Full": 5.8823529411765,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            }
+        }
+    }
+}

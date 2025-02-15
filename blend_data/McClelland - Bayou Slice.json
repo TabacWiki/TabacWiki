@@ -1,0 +1,94 @@
+{
+    "bayouslice": {
+        "imagePath": "../blend_pictures/McClelland - Bayou Slice.jpg",
+        "name": "Bayou Slice",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Sophisticated small slices of the smoothest Louisiana perique aged in cakes to mellow with sweet, zesty matured Virginia. Rich and satisfying, with perique's uniquely mysterious and compelling aroma, enhanced by Blakeney's exclusive toasting process.\n\n\"Choose Blakeney where toasting bans the bite for a smoke that's right\"",
+        "notes": "Notes:McClelland introduced their Blakeney's Best line at the 21st CORPS (Conclave of Richmond Pipe Smokers) Pipe Show in Richmond, Virginia. The 50 grams tin was released to the public in late 2005.",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 3.39,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 10,
+            "2_star": 3,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 52.941176470588,
+                    "Medium": 100.0,
+                    "Medium to Strong": 17.647058823529,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 80.0,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 61.538461538462,
+                    "Medium": 100.0,
+                    "Medium to Full": 69.230769230769,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

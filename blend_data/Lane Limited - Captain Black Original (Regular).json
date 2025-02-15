@@ -1,0 +1,94 @@
+{
+    "captainblackoriginal(regular)": {
+        "imagePath": "../blend_pictures/Lane Limited - Captain Black Original (Regular).jpg",
+        "name": "Captain Black Original (Regular)",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Burley, Cavendish, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "12 ounce tin weight, 12 ounce pouch weight",
+        "flavoring": "Other / Misc, Vanilla",
+        "description": "From P&C's website: Captain Black has been the biggest selling line of tobaccos in the United States for almost fifty years, and this one is the original. Captain Black Regular is a mixture of Virginia, burley and black cavendish with a distinctively warm, pleasantly sweet flavor and aroma.",
+        "notes": "",
+        "reviewCount": 457,
+        "totalReviews": 508,
+        "averageRating": 2.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 89,
+            "3_star": 181,
+            "2_star": 155,
+            "1_star": 83
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 42.8,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.8,
+                    "Medium": 8.0,
+                    "Medium to Strong": 2.8,
+                    "Strong": 0.4,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.4
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.2463768115942,
+                    "Extremely Mild": 12.31884057971,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 70.289855072464,
+                    "Mild to Medium": 73.913043478261,
+                    "Medium": 100.0,
+                    "Medium to Strong": 52.898550724638,
+                    "Strong": 21.739130434783,
+                    "Very Strong": 9.4202898550725,
+                    "Extra Strong": 3.6231884057971
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.70422535211268,
+                    "Pleasant": 57.394366197183,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 11.971830985915,
+                    "Tolerable": 3.5211267605634,
+                    "Tolerable to Strong": 0.70422535211268,
+                    "Strong": 2.112676056338,
+                    "Very Strong": 0.70422535211268,
+                    "Extra Strong": 0.35211267605634,
+                    "Overwhelming": 1.4084507042254
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 26.282051282051,
+                    "Very Mild": 34.615384615385,
+                    "Mild": 100.0,
+                    "Mild to Medium": 89.102564102564,
+                    "Medium": 49.358974358974,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 7.0512820512821,
+                    "Very Full": 1.2820512820513,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.2820512820513
+                }
+            }
+        }
+    }
+}

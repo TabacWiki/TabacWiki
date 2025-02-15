@@ -1,0 +1,94 @@
+{
+    "7seasroyalblend": {
+        "imagePath": "../blend_pictures/Mac Baren - 7 Seas Royal Blend.jpg",
+        "name": "7 Seas Royal Blend",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight, 100 grams pouch weight, bulk",
+        "flavoring": "Other / Misc",
+        "description": "An aromatic blend of black and golden tobaccos. A soft and exceptionally mellow smoke. Delightful, aromatic taste. A true pleasure journey.",
+        "notes": "",
+        "reviewCount": 88,
+        "totalReviews": 98,
+        "averageRating": 2.55,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 34,
+            "2_star": 30,
+            "1_star": 16
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 17.241379310345,
+                    "Very Mild": 31.034482758621,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.965517241379,
+                    "Medium": 1.7241379310345,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.0,
+                    "Extremely Mild": 8.0,
+                    "Very Mild": 24.0,
+                    "Mild": 92.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 92.0,
+                    "Medium to Strong": 60.0,
+                    "Strong": 8.0,
+                    "Very Strong": 4.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.4390243902439,
+                    "Pleasant": 97.560975609756,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 24.390243902439,
+                    "Tolerable": 4.8780487804878,
+                    "Tolerable to Strong": 4.8780487804878,
+                    "Strong": 4.8780487804878,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.157894736842,
+                    "Very Mild": 34.210526315789,
+                    "Mild": 100.0,
+                    "Mild to Medium": 65.789473684211,
+                    "Medium": 23.684210526316,
+                    "Medium to Full": 15.789473684211,
+                    "Full": 2.6315789473684,
+                    "Very Full": 2.6315789473684,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "tawnyflake": {
+        "imagePath": "../blend_pictures/McClelland - Tawny Flake.jpg",
+        "name": "Tawny Flake",
+        "blender": "McClelland",
+        "blendedBy": "McClelland",
+        "manufacturedBy": "McClelland",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50g Tin",
+        "flavoring": "",
+        "description": "Little, elegant flue-cured Virginia flakes, redolent with sun-dappled sweetness, and pleasantly tangy. This skillfully blended tobacco, mellowed with Blakeney's exclusive toasting process, fills the pipe with pleasure.",
+        "notes": "Notes:McClelland introduced their Blakeney's Best line at the 21st CORPS (Conclave of Richmond Pipe Smokers) Pipe Show in Richmond, Virginia.  The 50g tin was released to the public in late 2005.",
+        "reviewCount": 24,
+        "totalReviews": 27,
+        "averageRating": 3.04,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 13,
+            "2_star": 5,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 25.0,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.3478260869565,
+                    "Mild to Medium": 8.695652173913,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 20.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 70.0,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

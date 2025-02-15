@@ -1,0 +1,94 @@
+{
+    "holidayseason2011": {
+        "imagePath": "../blend_pictures/Peterson - Holiday Season 2011.jpg",
+        "name": "Holiday Season 2011",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin",
+        "flavoring": "Cinnamon,  Fruit / Citrus",
+        "description": "Golden and orange Virginias, burley and black cavendish make up this captivating blend that is both elegant and full of finesse, sure to please the connoisseur's palate. A sensual, deep and simply wonderful scent of cinnamon and candied fruit evokes memories of the holiday season relaxing by the fireside on a cold winter's day!",
+        "notes": "",
+        "reviewCount": 17,
+        "totalReviews": 19,
+        "averageRating": 3.47,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 5,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 37.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 12.5
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 8.3333333333333,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 80.0,
+                    "Medium to Full": 100.0,
+                    "Full": 40.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 20.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

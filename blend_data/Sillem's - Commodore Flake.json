@@ -1,0 +1,94 @@
+{
+    "commodoreflake": {
+        "imagePath": "../blend_pictures/Sillem's - Commodore Flake.jpg",
+        "name": "Commodore Flake",
+        "blender": "Sillem's",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Latakia",
+        "contents": "Black Cavendish,  Kentucky,  Latakia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A flake of full bodied, spicy latakia with Kentucky and a dash of black cavendish.",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 30,
+        "averageRating": 3.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 3,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 38.461538461538,
+                    "Medium to Strong": 100.0,
+                    "Strong": 46.153846153846,
+                    "Very Strong": 46.153846153846,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 27.777777777778,
+                    "Medium": 5.5555555555556,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 71.428571428571,
+                    "Very Strong": 14.285714285714,
+                    "Extra Strong": 14.285714285714,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 61.538461538462,
+                    "Full": 100.0,
+                    "Very Full": 38.461538461538,
+                    "Extra Full": 15.384615384615,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

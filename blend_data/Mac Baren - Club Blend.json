@@ -1,0 +1,94 @@
+{
+    "clubblend": {
+        "imagePath": "../blend_pictures/Mac Baren - Club Blend.jpg",
+        "name": "Club Blend",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia Based",
+        "contents": "Cavendish, Kentucky, Virginia",
+        "cut": "Curly Cut",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Other / Misc",
+        "description": "A roll-cake tobacco, spun from rich, matured Virginia and choice cavendish tobaccos giving Club Blend its medium strength and delightful aroma.\n\nEdit: According to Mac Baren's website, Club Blend contains Virginia and Dark Fired Kentucky. Besides maple sugar and water, no additional flavouring is added to the tobacco.",
+        "notes": "Notes:Introduced in 1955.",
+        "reviewCount": 65,
+        "totalReviews": 73,
+        "averageRating": 2.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 22,
+            "3_star": 31,
+            "2_star": 16,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 39.130434782609,
+                    "Extremely Mild": 56.521739130435,
+                    "Very Mild": 78.260869565217,
+                    "Mild": 100.0,
+                    "Mild to Medium": 13.04347826087,
+                    "Medium": 26.086956521739,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 32.432432432432,
+                    "Pleasant to Tolerable": 51.351351351351,
+                    "Tolerable": 8.1081081081081,
+                    "Tolerable to Strong": 5.4054054054054,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 48.148148148148,
+                    "Mild to Medium": 81.481481481481,
+                    "Medium": 100.0,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.7037037037037,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

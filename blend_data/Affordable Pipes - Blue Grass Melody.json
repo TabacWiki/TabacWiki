@@ -1,0 +1,94 @@
+{
+    "bluegrassmelody": {
+        "imagePath": "../blend_pictures/Affordable Pipes - Blue Grass Melody.jpg",
+        "name": "Blue Grass Melody",
+        "blender": "Affordable Pipes",
+        "blendedBy": "Guy Wallace",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Kentucky",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Harmonious blend of the highest quality available light and dark Kentucky and Tennessee Burleys. Mild and nutty flavor. This one is for the Burley lovers. If you love Burley you'll be puffin' and grinin'!",
+        "notes": "Notes:Affordable Pipes closed in 2008.",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 3.92,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 23,
+            "3_star": 2,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.076923076923,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.666666666667,
+                    "Very Mild": 26.666666666667,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 23.076923076923,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 10.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

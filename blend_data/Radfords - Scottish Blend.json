@@ -1,0 +1,94 @@
+{
+    "scottishblend": {
+        "imagePath": "../blend_pictures/Radfords - Scottish Blend.jpg",
+        "name": "Scottish Blend",
+        "blender": "Radfords",
+        "blendedBy": "",
+        "manufacturedBy": "Poschl Tabak",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams pouch, 200 grams tin",
+        "flavoring": "Whiskey",
+        "description": "A light to pleasant mixture of sweet noble Virginias, spicy Burleys and double-fermented Black Cavendish in the wild cut. This blend is rounded off by a shot of Old Scotch.",
+        "notes": "Notes:Formerly known as \"Old Scotch\". The name was changed to \"Scottish Blend\" due to EU regulations.",
+        "reviewCount": 8,
+        "totalReviews": 8,
+        "averageRating": 1.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 0,
+            "2_star": 3,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Extremely Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 75.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 50.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            }
+        }
+    }
+}

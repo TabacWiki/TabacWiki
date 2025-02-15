@@ -1,0 +1,94 @@
+{
+    "greyhavens": {
+        "imagePath": "../blend_pictures/McClelland - Grey Havens.jpg",
+        "name": "Grey Havens",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "A harmonious blend of lightly fragrant matured Virginia and premium white burley with just a hint of Louisiana perique. You experience the rich taste of fine natural tobaccos and those around you enjoy a mellow and pleasing fragrance.",
+        "notes": "Notes:The name Grey Havens is taken from the works of JRR Tolkien. Grey Havens: Mithlond, the harbors of C\u00edrdan at the eastern end of the Gulf of Lh\u00fbn, from which the Elves of the north of Middle-earth passed into the West during the later Ages.",
+        "reviewCount": 72,
+        "totalReviews": 81,
+        "averageRating": 2.62,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 37,
+            "2_star": 18,
+            "1_star": 13
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.4074074074074,
+                    "Very Mild": 14.814814814815,
+                    "Mild": 100.0,
+                    "Mild to Medium": 96.296296296296,
+                    "Medium": 62.962962962963,
+                    "Medium to Strong": 14.814814814815,
+                    "Strong": 3.7037037037037,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 52.380952380952,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 80.952380952381,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.904761904762,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 9.5238095238095,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.4516129032258,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 41.935483870968,
+                    "Pleasant to Tolerable": 67.741935483871,
+                    "Tolerable": 32.258064516129,
+                    "Tolerable to Strong": 12.903225806452,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.375,
+                    "Very Mild": 15.625,
+                    "Mild": 43.75,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 28.125,
+                    "Full": 3.125,
+                    "Very Full": 3.125,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

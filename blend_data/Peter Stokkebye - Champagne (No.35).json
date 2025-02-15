@@ -1,0 +1,94 @@
+{
+    "champagne(no.35)": {
+        "imagePath": "../blend_pictures/Peter Stokkebye - Champagne (No.35).jpg",
+        "name": "Champagne (No.35)",
+        "blender": "Peter Stokkebye",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Other / Misc",
+        "description": "Classic techniques and modern technology have produced the finest expression of Danish Tobacco Craftsmanship. Developed from fine Virginia tobaccos blended with Mexican Burley and topped with 2 cuts of sweet Black Cavendish, a unique  masterpiece. Tobacco cut: Medium loose cut. Tobacco  Flavor/Aroma: A subtle hint of French berries captures the essence of this elegantly mild mixture.",
+        "notes": "",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 1.84,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 3,
+            "2_star": 12,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 30.769230769231,
+                    "Very Mild": 53.846153846154,
+                    "Mild": 100.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 42.857142857143,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 7.1428571428571,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 27.272727272727,
+                    "Very Mild": 54.545454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 18.181818181818,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

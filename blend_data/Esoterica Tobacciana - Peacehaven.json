@@ -1,0 +1,94 @@
+{
+    "peacehaven": {
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Peacehaven.jpg",
+        "name": "Peacehaven",
+        "blender": "Esoterica Tobacciana",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "8 ounce bag",
+        "flavoring": "",
+        "description": "An elegantly flavored flake comprised of six Virginia tobaccos, light in color and rich in taste. Exceedingly mellow and easy to rub out.",
+        "notes": "",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 2.96,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 10,
+            "2_star": 5,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.846153846154,
+                    "Medium": 53.846153846154,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 90.0,
+                    "Very Mild": 50.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 100.0,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "darkred": {
+        "imagePath": "../blend_pictures/Lane Limited - Dark Red.jpg",
+        "name": "Dark Red",
+        "blender": "Lane Limited",
+        "blendedBy": "Kristy Pruitte",
+        "manufacturedBy": "STG-Lane Ltd.",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Caramel,  Cherry,  Vanilla",
+        "description": "Lane Limited's Dark Red uses the same rich, toasted and steamed Green River black cavendish blend as their BCA, but instead receives a topping that is a combination of black cherry, vanilla and caramel. BCA fans should love it.",
+        "notes": "Notes:Released 2016.",
+        "reviewCount": 23,
+        "totalReviews": 26,
+        "averageRating": 3.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 9,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 0.0,
+                    "Mild": 44.444444444444,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 47.058823529412,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 5.8823529411765,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 36.363636363636,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 9.0909090909091,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

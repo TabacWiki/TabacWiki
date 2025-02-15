@@ -1,0 +1,94 @@
+{
+    "moltodolce": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Molto Dolce.jpg",
+        "name": "Molto Dolce",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin",
+        "flavoring": "Caramel,  Honey,  Vanilla",
+        "description": "Rich and creamy texture of vanilla, caramel and honey.",
+        "notes": "",
+        "reviewCount": 164,
+        "totalReviews": 183,
+        "averageRating": 3.23,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 99,
+            "3_star": 47,
+            "2_star": 18,
+            "1_star": 19
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 16.831683168317,
+                    "Very Mild": 36.633663366337,
+                    "Mild": 100.0,
+                    "Mild to Medium": 17.821782178218,
+                    "Medium": 4.950495049505,
+                    "Medium to Strong": 3.960396039604,
+                    "Strong": 0.0,
+                    "Very Strong": 0.99009900990099,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 2.2222222222222,
+                    "Extremely Mild": 2.2222222222222,
+                    "Very Mild": 2.2222222222222,
+                    "Mild": 28.888888888889,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 75.555555555556,
+                    "Strong": 64.444444444444,
+                    "Very Strong": 57.777777777778,
+                    "Extra Strong": 28.888888888889
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 22.302158273381,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 3.5971223021583,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.158273381295,
+                    "Very Strong": 2.158273381295,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.4388489208633
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.765957446809,
+                    "Very Mild": 14.893617021277,
+                    "Mild": 76.595744680851,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.851063829787,
+                    "Medium to Full": 34.042553191489,
+                    "Full": 31.914893617021,
+                    "Very Full": 21.276595744681,
+                    "Extra Full": 4.2553191489362,
+                    "Overwhelming": 12.765957446809
+                }
+            }
+        }
+    }
+}

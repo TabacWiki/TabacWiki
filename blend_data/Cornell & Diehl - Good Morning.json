@@ -1,0 +1,94 @@
+{
+    "goodmorning": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Good Morning.jpg",
+        "name": "Good Morning",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler/Bob Runowski",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "A Craig Tarler/Bob Runowski blend perfect for getting your day started or any other time of day or night. Reminiscent of a classic Dunhill blend devoted to morning puffing.",
+        "notes": "Notes:Cornell and Diehl blended Good Morning for the Chicagoland Pipe Show years back.",
+        "reviewCount": 32,
+        "totalReviews": 36,
+        "averageRating": 3.19,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 10,
+            "2_star": 5,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 73.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 6.6666666666667,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.727272727273,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 15.384615384615,
+                    "Pleasant": 76.923076923077,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 7.6923076923077,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.25,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Full": 12.5,
+                    "Full": 6.25,
+                    "Very Full": 12.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

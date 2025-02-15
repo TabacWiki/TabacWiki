@@ -1,0 +1,94 @@
+{
+    "779:englishmixture": {
+        "imagePath": "../blend_pictures/Solani - 779: English Mixture.jpg",
+        "name": "779: English Mixture",
+        "blender": "Solani",
+        "blendedBy": "R.L. Will",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "",
+        "country": "Germany",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A mixture of Virginias, Oriental tobaccos and Syrian latakia. A hearty blend which is easy on the tongue.",
+        "notes": "Notes:Sometimes referred to simply as \"Gold Label.\"",
+        "reviewCount": 55,
+        "totalReviews": 62,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 27,
+            "3_star": 16,
+            "2_star": 11,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.2258064516129,
+                    "Mild": 29.032258064516,
+                    "Mild to Medium": 38.709677419355,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.032258064516,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.909090909091,
+                    "Very Mild": 6.8181818181818,
+                    "Mild": 11.363636363636,
+                    "Mild to Medium": 2.2727272727273,
+                    "Medium": 2.2727272727273,
+                    "Medium to Strong": 2.2727272727273,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 43.478260869565,
+                    "Very Pleasant": 13.04347826087,
+                    "Pleasant to Tolerable": 82.608695652174,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 21.739130434783,
+                    "Strong": 8.695652173913,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 12.5,
+                    "Mild": 12.5,
+                    "Mild to Medium": 45.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 54.166666666667,
+                    "Full": 20.833333333333,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

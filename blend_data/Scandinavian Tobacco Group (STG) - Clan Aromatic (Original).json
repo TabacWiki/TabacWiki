@@ -1,0 +1,94 @@
+{
+    "clanaromatic(original)": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Clan Aromatic (Original).jpg",
+        "name": "Clan Aromatic (Original)",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Kentucky,  Maryland,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Shag",
+        "packaging": "50 grams pouch",
+        "flavoring": "Alcohol / Liquor,  Other / Misc",
+        "description": "A blend of 14 different tobaccos. Mild, cool and slow burning with unique aromatic qualities.",
+        "notes": "Notes:Recipe was changed substantially after 1998, probably at the same time that manufacture was turned over to STG (Orlik).\n\nDue to EU regulations, this is renamed and sold in those countries as \"Original\".",
+        "reviewCount": 161,
+        "totalReviews": 179,
+        "averageRating": 2.06,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 48,
+            "2_star": 53,
+            "1_star": 66
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 8.4507042253521,
+                    "Very Mild": 21.12676056338,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.788732394366,
+                    "Medium": 45.070422535211,
+                    "Medium to Strong": 7.0422535211268,
+                    "Strong": 5.6338028169014,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 11.363636363636,
+                    "Extremely Mild": 20.454545454545,
+                    "Very Mild": 29.545454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 95.454545454545,
+                    "Medium to Strong": 31.818181818182,
+                    "Strong": 11.363636363636,
+                    "Very Strong": 6.8181818181818,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 32.0,
+                    "Pleasant to Tolerable": 37.333333333333,
+                    "Tolerable": 41.333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 5.3333333333333,
+                    "Very Strong": 1.3333333333333,
+                    "Extra Strong": 1.3333333333333,
+                    "Overwhelming": 5.3333333333333
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.80701754386,
+                    "Very Mild": 22.80701754386,
+                    "Mild": 70.175438596491,
+                    "Mild to Medium": 100.0,
+                    "Medium": 73.684210526316,
+                    "Medium to Full": 15.789473684211,
+                    "Full": 3.5087719298246,
+                    "Very Full": 3.5087719298246,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.7543859649123
+                }
+            }
+        }
+    }
+}

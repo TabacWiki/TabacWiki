@@ -1,0 +1,94 @@
+{
+    "scotchmixture": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Scotch Mixture.jpg",
+        "name": "Scotch Mixture",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Scottish",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "",
+        "description": "The most popular 'Latakia' blend in Europe. Scottish Mixture is comprised of Brazilian, Zimbabwe and Malawi Virginia (53%) which are blended with Malawi sun cured (10%), and Malawi burley (17%). The relatively high proportion of burley helps to carry the special Virginia casing which sweetens and flavors the blend. To this we then add a small proportion of black cavendished dark fired (7.5%) to cool the smoke, and finally the latakia (12.5%) The whole combination provides a very pleasant and easy to some tobacco with the background taste and aroma of latakia.",
+        "notes": "",
+        "reviewCount": 24,
+        "totalReviews": 27,
+        "averageRating": 2.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 9,
+            "2_star": 12,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 20.0,
+                    "Mild": 30.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 10.0,
+                    "Very Pleasant": 30.0,
+                    "Pleasant to Tolerable": 80.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 41.666666666667,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

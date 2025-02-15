@@ -1,0 +1,94 @@
+{
+    "blendingperique": {
+        "imagePath": "../blend_pictures/McClelland - Blending Perique.jpg",
+        "name": "Blending Perique",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Other",
+        "contents": "Perique",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Rare and precious, this dark, fragrant condiment tobacco comes to us in wooden casks from St. James Parish, Louisiana, where it has been produced in time honored fashion since the days when the natives pressed it in tree trunks. Use it sparingly in your blends for its distinctive cooked fruit, musty, mushroom-like aroma and cool smoking character.",
+        "notes": "",
+        "reviewCount": 44,
+        "totalReviews": 49,
+        "averageRating": 3.47,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 16,
+            "2_star": 2,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 12.5,
+                    "Strong": 100.0,
+                    "Very Strong": 62.5,
+                    "Extremely Strong": 56.25,
+                    "Overwhelming": 50.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 10.714285714286,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 3.5714285714286,
+                    "Mild to Medium": 3.5714285714286,
+                    "Medium": 10.714285714286,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 7.1428571428571
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 21.428571428571,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 64.285714285714,
+                    "Tolerable to Strong": 35.714285714286,
+                    "Strong": 100.0,
+                    "Very Strong": 57.142857142857,
+                    "Extra Strong": 21.428571428571,
+                    "Overwhelming": 7.1428571428571
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 7.1428571428571,
+                    "Medium to Full": 35.714285714286,
+                    "Full": 78.571428571429,
+                    "Very Full": 100.0,
+                    "Extra Full": 50.0,
+                    "Overwhelming": 71.428571428571
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "bishop'smove": {
+        "imagePath": "../blend_pictures/Uhle's - Bishop's Move.jpg",
+        "name": "Bishop's Move",
+        "blender": "Uhle's",
+        "blendedBy": "Jack Uhle",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 oz bag, 7 oz bag, 14 oz bag",
+        "flavoring": "",
+        "description": "Rich, smoky and meaty, Bishop\u2019s Move offers a satisfying endeavor into traditional English blends.",
+        "notes": "Notes:Ingredients: Virginia, Latakia, Perique, and Burley.",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 3.76,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 26,
+            "3_star": 6,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 84.615384615385,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 100.0,
+                    "Very Strong": 7.6923076923077,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.0,
+                    "Very Mild": 8.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 4.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 35.714285714286,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 21.428571428571,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Full": 75.0,
+                    "Full": 100.0,
+                    "Very Full": 25.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

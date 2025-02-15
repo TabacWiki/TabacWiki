@@ -1,0 +1,94 @@
+{
+    "sweettea": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Sweet Tea.jpg",
+        "name": "Sweet Tea",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "J.M. Boswell",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley, Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "bulk",
+        "flavoring": "Fruit / Citrus, Sweet / Sugar",
+        "description": "",
+        "notes": "",
+        "reviewCount": 38,
+        "totalReviews": 43,
+        "averageRating": 3.09,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 13,
+            "2_star": 10,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 16.0,
+                    "Very Mild": 52.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 54.545454545455,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.636363636364,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3333333333333,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 8.3333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 21.428571428571,
+                    "Very Mild": 21.428571428571,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 21.428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

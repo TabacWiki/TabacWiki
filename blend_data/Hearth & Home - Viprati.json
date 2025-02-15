@@ -1,0 +1,94 @@
+{
+    "viprati": {
+        "imagePath": "../blend_pictures/Hearth & Home - Viprati.jpg",
+        "name": "Viprati",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Scandinavian Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Sweet bright and ripe red Virginias are the base and a fair dose of perique and a touch of special fire cured burley complete a unique package.",
+        "notes": "Notes:From P&C's website: One of Russ Ouellette's favorite pipe makers is Italian impressario, Luigi Viprati. One thing he learned early on is that Luigi loves Virginia/perique blends, and he asked Russ to try to make something that would remind him of his favorite: Escudo. Russ began by finding three different types of matured Virginias, each with a slightly different flavor profile. To that, Russ added a fair amount of zesty perique, but it was lacking some body, so he found a fire cured burley, with a rich, but subtle flavor that added just enough depth and \"kick\" to round out the blend.",
+        "reviewCount": 39,
+        "totalReviews": 44,
+        "averageRating": 3.61,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 9,
+            "2_star": 4,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 29.62962962963,
+                    "Medium": 100.0,
+                    "Medium to Strong": 18.518518518519,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 3.7037037037037,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 29.032258064516,
+                    "Very Mild": 3.2258064516129,
+                    "Mild": 6.4516129032258,
+                    "Mild to Medium": 3.2258064516129,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 17.647058823529,
+                    "Pleasant": 52.941176470588,
+                    "Very Pleasant": 29.411764705882,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.823529411765,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 23.809523809524,
+                    "Medium": 100.0,
+                    "Medium to Full": 61.904761904762,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 4.7619047619048,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

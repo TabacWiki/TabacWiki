@@ -1,0 +1,94 @@
+{
+    "threenuns(pouchversion)": {
+        "imagePath": "../blend_pictures/Mac Baren - Three Nuns (pouch version).jpg",
+        "name": "Three Nuns (pouch version)",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "pouch weight",
+        "flavoring": "",
+        "description": "\"None Nicer\" -- The Three Nuns Pipe Tobacco is a [ready rubbed] blend of perique and sun cured Virginia tobaccos mixed with the finest Brazilian Lights to produce the unique flavour and mellow smoking characteristics for which Three Nuns is famous.",
+        "notes": "Notes:This is the entry for the pouch version of Three Nuns, which is now a Virginia/Kentucky blend. Currently made by MacBaren.",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 2.62,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 9,
+            "2_star": 4,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 77.777777777778,
+                    "Medium to Strong": 44.444444444444,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 83.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 42.857142857143,
+                    "Pleasant": 71.428571428571,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 57.142857142857,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Full": 37.5,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "exhaustedrooster": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Exhausted Rooster.jpg",
+        "name": "Exhausted Rooster",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Toney / Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "Alcohol / Liquor",
+        "description": "C&D's annual blend for the 2008 Chicago Show. A tasty flake of Virginias, dark fired burley and a dash of perique.",
+        "notes": "",
+        "reviewCount": 92,
+        "totalReviews": 103,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 50,
+            "3_star": 35,
+            "2_star": 12,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.7543859649123,
+                    "Very Mild": 0.0,
+                    "Mild": 7.0175438596491,
+                    "Mild to Medium": 22.80701754386,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.350877192982,
+                    "Strong": 8.7719298245614,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 63.636363636364,
+                    "Very Mild": 86.363636363636,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 59.090909090909,
+                    "Medium": 50.0,
+                    "Medium to Strong": 22.727272727273,
+                    "Strong": 0.0,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 9.0909090909091
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.3255813953488,
+                    "Pleasant": 51.162790697674,
+                    "Very Pleasant": 13.953488372093,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.488372093023,
+                    "Tolerable to Strong": 9.3023255813953,
+                    "Strong": 9.3023255813953,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 2.2727272727273,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 77.272727272727,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.5454545454545
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "longnight": {
+        "imagePath": "../blend_pictures/David CigarPipe - Long Night.jpg",
+        "name": "Long Night",
+        "blender": "David CigarPipe",
+        "blendedBy": "David CigarPipe",
+        "manufacturedBy": "David CigarPipe",
+        "production": "Currently available",
+        "country": "Unknown",
+        "blendType": "Aromatic",
+        "contents": "Cavendish, Oriental/Turkish",
+        "cut": "Flake",
+        "packaging": "50 tin weight",
+        "flavoring": "Pomegranate",
+        "description": "All over the world, the longest night of the year is celebrated with pomegranates, tangerines, dried cherries, coffee and chocolate and they can be found on every table on this night.\n\nin this blend, special DCP cavendish and a pinch of oriental are used, which has a mellow and spicy taste, and it is flavored with pomegranate, which brings a pleasant smoke to the smokers and others.",
+        "notes": "",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extra Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 100.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Extra Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 100.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

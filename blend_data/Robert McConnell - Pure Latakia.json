@@ -1,0 +1,94 @@
+{
+    "purelatakia": {
+        "imagePath": "../blend_pictures/Robert McConnell - Pure Latakia.jpg",
+        "name": "Pure Latakia",
+        "blender": "Robert McConnell",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Other",
+        "contents": "Latakia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Best Cyprian tobacco for blending. Intended for blending.",
+        "notes": "Notes:The old tin description: Best Syrian tobacco for adding \"oomph\" to a blend. \n\nThe Syrian version was discontinued in circa September 2015 when McConnell ran out of the Syrian.",
+        "reviewCount": 37,
+        "totalReviews": 42,
+        "averageRating": 3.71,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 10,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 15.0,
+                    "Very Strong": 5.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.6315789473684,
+                    "Medium": 2.6315789473684,
+                    "Medium to Strong": 2.6315789473684,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 26.666666666667,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 33.333333333333,
+                    "Tolerable to Strong": 73.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 13.333333333333,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 46.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 73.333333333333,
+                    "Very Full": 33.333333333333,
+                    "Extra Full": 13.333333333333,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

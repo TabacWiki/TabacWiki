@@ -1,0 +1,94 @@
+{
+    "sinfonia": {
+        "imagePath": "../blend_pictures/Toscano - Sinfonia.jpg",
+        "name": "Sinfonia",
+        "blender": "Toscano",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "Unknown",
+        "blendType": "English",
+        "contents": "Kentucky, Latakia, Virginia",
+        "cut": "Flake",
+        "packaging": "2 oz tin weight",
+        "flavoring": "",
+        "description": "Harmonizing the unique qualities of Dark Fired tobaccos with the sweetness of Red Virginia and the  smoky foundational tones of Latakia, Sinfonia divulges a complex intensity characterized by roasted notes and balanced by subtle, spicy nuance.",
+        "notes": "Notes:Toscano has developed a line of tobaccos in collaboration with Cornell & Diehl that captures the essence of the Toscano experience, optimized for enjoyment in the pipe. Toscano Maestro pipe tobaccos showcase the finest fire-cured leaf from Kentucky and Tennessee. Each blend delivers its own nuances and complexity, naturally aromatic with bold notes of pepper and mesquite spice elevated by varietals like Red Virginia, genuine Louisiana Perique from St. James Parish, and Turkish Latakia.",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 4.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

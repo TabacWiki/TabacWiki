@@ -1,0 +1,94 @@
+{
+    "unionleader": {
+        "imagePath": "../blend_pictures/House of Windsor - Union Leader.jpg",
+        "name": "Union Leader",
+        "blender": "House of Windsor",
+        "blendedBy": "House of Windsor",
+        "manufacturedBy": "House of Windsor",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 10 ounce tin",
+        "flavoring": "Maple",
+        "description": "",
+        "notes": "",
+        "reviewCount": 37,
+        "totalReviews": 42,
+        "averageRating": 2.69,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 23,
+            "2_star": 10,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 92.857142857143,
+                    "Medium": 85.714285714286,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 91.666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 78.571428571429,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 38.888888888889,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.888888888889,
+                    "Medium to Full": 27.777777777778,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

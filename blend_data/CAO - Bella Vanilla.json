@@ -1,0 +1,94 @@
+{
+    "bellavanilla": {
+        "imagePath": "../blend_pictures/CAO - Bella Vanilla.jpg",
+        "name": "Bella Vanilla",
+        "blender": "CAO",
+        "blendedBy": "Scandinavian Tobacco Group for CAO International",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "flavoring": "Alcohol / Liquor,  Vanilla",
+        "description": "CAO\u2019s Bella Vanilla is an aromatic pipe tobacco connoisseur\u2019s Nirvana. This blend of Virginias and rich black cavendish is finished with the essence of one of the priciest and finest flavors of all-pure Madagascar vanilla and has a creamy sweetness that will truly satisfy.",
+        "notes": "",
+        "reviewCount": 35,
+        "totalReviews": 39,
+        "averageRating": 2.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 12,
+            "2_star": 14,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.5238095238095,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 19.047619047619,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 27.272727272727,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 100.0,
+                    "Mild to Medium": 72.727272727273,
+                    "Medium": 81.818181818182,
+                    "Medium to Strong": 27.272727272727,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 63.636363636364,
+                    "Pleasant to Tolerable": 9.0909090909091,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 27.777777777778,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.888888888889,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 5.5555555555556,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

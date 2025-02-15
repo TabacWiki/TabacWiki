@@ -1,0 +1,94 @@
+{
+    "bestbrownflake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Best Brown Flake.jpg",
+        "name": "Best Brown Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A firm favourite for the pipe smoker looking for a medium strength, gentle and slow burning tobacco. Manufactured using hand-stripped flue cured Virginias with no flavours added, Best Brown will reward with a cool, sweet smoke with a delectable aroma and good sidestream. Mild to medium.",
+        "notes": "",
+        "reviewCount": 268,
+        "totalReviews": 298,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 163,
+            "3_star": 98,
+            "2_star": 30,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 81.481481481481,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.555555555556,
+                    "Strong": 2.962962962963,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.74074074074074,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.277227722772,
+                    "Very Mild": 10.39603960396,
+                    "Mild": 6.4356435643564,
+                    "Mild to Medium": 5.4455445544554,
+                    "Medium": 2.4752475247525,
+                    "Medium to Strong": 0.4950495049505,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.5398230088496,
+                    "Pleasant": 86.725663716814,
+                    "Very Pleasant": 19.469026548673,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 46.017699115044,
+                    "Tolerable to Strong": 5.3097345132743,
+                    "Strong": 2.6548672566372,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.3809523809524,
+                    "Very Mild": 2.3809523809524,
+                    "Mild": 18.253968253968,
+                    "Mild to Medium": 58.730158730159,
+                    "Medium": 100.0,
+                    "Medium to Full": 42.063492063492,
+                    "Full": 10.31746031746,
+                    "Very Full": 2.3809523809524,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

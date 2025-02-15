@@ -1,0 +1,94 @@
+{
+    "sunday'sfantasy": {
+        "imagePath": "../blend_pictures/Thomas Radford - Sunday's Fantasy.jpg",
+        "name": "Sunday's Fantasy",
+        "blender": "Thomas Radford",
+        "blendedBy": "",
+        "manufacturedBy": "Poschl Tabak",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin, 50 grams pouch",
+        "flavoring": "Fruit / Citrus",
+        "description": "Deluxe quality for those who demand the best. Fine, hand picked Virginia tobaccos and high quality, twice-fermented black cavendish. An unusual combination of granulate and wild cut makes this an extremely loose pipe tobacco mixture. The aroma of natural fruit complements the tobacco to produce an extremely mild, balanced taste experience.",
+        "notes": "",
+        "reviewCount": 65,
+        "totalReviews": 73,
+        "averageRating": 2.47,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 34,
+            "2_star": 18,
+            "1_star": 14
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 10.810810810811,
+                    "Very Mild": 29.72972972973,
+                    "Mild": 100.0,
+                    "Mild to Medium": 29.72972972973,
+                    "Medium": 27.027027027027,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.695652173913,
+                    "Mild": 26.086956521739,
+                    "Mild to Medium": 82.608695652174,
+                    "Medium": 100.0,
+                    "Medium to Strong": 52.173913043478,
+                    "Strong": 34.782608695652,
+                    "Very Strong": 8.695652173913,
+                    "Extra Strong": 4.3478260869565
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 61.764705882353,
+                    "Pleasant to Tolerable": 29.411764705882,
+                    "Tolerable": 14.705882352941,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 2.9411764705882,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 30.0,
+                    "Full": 15.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.0
+                }
+            }
+        }
+    }
+}

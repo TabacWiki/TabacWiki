@@ -1,0 +1,94 @@
+{
+    "carterhall": {
+        "imagePath": "../blend_pictures/John Middleton, Inc - Carter Hall.jpg",
+        "name": "Carter Hall",
+        "blender": "John Middleton, Inc",
+        "blendedBy": "John Middleton, Inc.",
+        "manufacturedBy": "John Middleton, Inc.",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley, Virginia",
+        "cut": "Ribbon",
+        "packaging": "",
+        "flavoring": "Bourbon, Cocoa / Chocolate",
+        "description": "Carter Hall has been providing a straightforward and enjoyable smoking blend at an affordable price since 1895 by keeping things simple: ribbon-cut Virginia and burley leaf of good quality, combined in the right proportions.",
+        "notes": "Notes:Manufacturing of Carter Hall was moved from the USA to Dominican Republic circa 2021",
+        "reviewCount": 402,
+        "totalReviews": 447,
+        "averageRating": 3.03,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 153,
+            "3_star": 184,
+            "2_star": 82,
+            "1_star": 28
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.4117647058824,
+                    "Very Mild": 15.808823529412,
+                    "Mild": 100.0,
+                    "Mild to Medium": 30.147058823529,
+                    "Medium": 11.397058823529,
+                    "Medium to Strong": 2.5735294117647,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 26.03550295858,
+                    "Extremely Mild": 27.810650887574,
+                    "Very Mild": 71.005917159763,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.994082840237,
+                    "Medium": 8.8757396449704,
+                    "Medium to Strong": 1.7751479289941,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.7591623036649,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.895287958115,
+                    "Pleasant to Tolerable": 63.350785340314,
+                    "Tolerable": 40.314136125654,
+                    "Tolerable to Strong": 1.5706806282723,
+                    "Strong": 2.6178010471204,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.52356020942408
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.3140096618357,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 100.0,
+                    "Mild to Medium": 65.217391304348,
+                    "Medium": 21.739130434783,
+                    "Medium to Full": 5.3140096618357,
+                    "Full": 0.48309178743961,
+                    "Very Full": 0.48309178743961,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "mymixture221bbakerstreet": {
+        "imagePath": "../blend_pictures/Dunhill - My Mixture 221B Baker Street.jpg",
+        "name": "My Mixture 221B Baker Street",
+        "blender": "Dunhill",
+        "blendedBy": "",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Other / Misc",
+        "description": "From P&C's website: Previously only available from Dunhill stores, My Mixture 221B Baker Street makes a triumphant return after a long hiatus. This is a Virginia/Burley blend with a subtle top note in a similar vein to Royal Yacht and 3 Year Matured Virginia, but not quite as intense. Top quality leaf is cut into a fine ribbon and produces a relatively mellow flavor and aroma, but make no mistake, this is a robust blend with plenty of strength. 221B Baker Street is strong enough to delight the Great Detective himself.",
+        "notes": "",
+        "reviewCount": 18,
+        "totalReviews": 20,
+        "averageRating": 2.95,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 11,
+            "2_star": 2,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 20.0,
+                    "Extremely Mild": 80.0,
+                    "Very Mild": 100.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 37.5,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 37.5,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Full": 66.666666666667,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

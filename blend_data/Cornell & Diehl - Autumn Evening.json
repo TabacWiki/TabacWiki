@@ -1,0 +1,94 @@
+{
+    "autumnevening": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Autumn Evening.jpg",
+        "name": "Autumn Evening",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2 ounce tin, 8 and 16 ounce tin, bulk",
+        "flavoring": "Fruit / Citrus,  Maple,  Rum,  Sweet / Sugar,  Vanilla,  Whisky",
+        "description": "Our proprietary red Virginia cavendish is lightly cased with a delicate maple flavor resulting in our best selling aromatic blend. The smoker will appreciate the taste of Virginias while those around will flock to the warm, inviting fragrance.",
+        "notes": "Notes:Jeremy Reeves and Chris Tarler mentioned this to be the best selling C&D blend!",
+        "reviewCount": 287,
+        "totalReviews": 319,
+        "averageRating": 2.87,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 100,
+            "3_star": 116,
+            "2_star": 63,
+            "1_star": 40
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 8.6206896551724,
+                    "Very Mild": 23.275862068966,
+                    "Mild": 100.0,
+                    "Mild to Medium": 84.48275862069,
+                    "Medium": 43.965517241379,
+                    "Medium to Strong": 12.931034482759,
+                    "Strong": 0.86206896551724,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.86206896551724
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.5977011494253,
+                    "Extremely Mild": 6.8965517241379,
+                    "Very Mild": 13.793103448276,
+                    "Mild": 48.275862068966,
+                    "Mild to Medium": 86.206896551724,
+                    "Medium": 100.0,
+                    "Medium to Strong": 59.770114942529,
+                    "Strong": 31.034482758621,
+                    "Very Strong": 10.344827586207,
+                    "Extra Strong": 5.7471264367816
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.1645569620253,
+                    "Pleasant": 64.556962025316,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.987341772152,
+                    "Tolerable": 10.126582278481,
+                    "Tolerable to Strong": 1.2658227848101,
+                    "Strong": 1.8987341772152,
+                    "Very Strong": 1.2658227848101,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.63291139240506
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 18.181818181818,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 62.626262626263,
+                    "Mild to Medium": 100.0,
+                    "Medium": 84.848484848485,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 9.0909090909091,
+                    "Very Full": 4.040404040404,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.010101010101
+                }
+            }
+        }
+    }
+}

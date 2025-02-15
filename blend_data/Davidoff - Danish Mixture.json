@@ -1,0 +1,94 @@
+{
+    "danishmixture": {
+        "imagePath": "../blend_pictures/Davidoff - Danish Mixture.jpg",
+        "name": "Danish Mixture",
+        "blender": "Davidoff",
+        "blendedBy": "Orlik Tobacco Company",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Figs,  Honey,  Maple,  Walnut",
+        "description": "Zino Davidoff's Special Blend of the finest tobaccos, very mild in taste. Made in Denmark.",
+        "notes": "",
+        "reviewCount": 79,
+        "totalReviews": 88,
+        "averageRating": 2.91,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 27,
+            "3_star": 36,
+            "2_star": 15,
+            "1_star": 10
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.2222222222222,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 15.555555555556,
+                    "Medium to Strong": 2.2222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 6.8965517241379,
+                    "Extremely Mild": 3.448275862069,
+                    "Very Mild": 13.793103448276,
+                    "Mild": 100.0,
+                    "Mild to Medium": 89.655172413793,
+                    "Medium": 72.413793103448,
+                    "Medium to Strong": 6.8965517241379,
+                    "Strong": 10.344827586207,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.1739130434783,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 43.478260869565,
+                    "Pleasant to Tolerable": 32.608695652174,
+                    "Tolerable": 10.869565217391,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 2.1739130434783,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.6315789473684,
+                    "Very Mild": 13.157894736842,
+                    "Mild": 68.421052631579,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.736842105263,
+                    "Medium to Full": 2.6315789473684,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

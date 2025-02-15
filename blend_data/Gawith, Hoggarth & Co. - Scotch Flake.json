@@ -1,0 +1,94 @@
+{
+    "scotchflake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Scotch Flake.jpg",
+        "name": "Scotch Flake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith Hoggarth",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight, bulk",
+        "flavoring": "Cocoa / Chocolate, Floral Essences",
+        "description": "A very sweet 100% Virginia tobacco, Scotch Flake is a combination of flue cured Virginias from Brazil and Zimbabwe, augmented with a smaller amount of sun cured to add sweetness and body. Similar in content to Broken Scotch Cake, it's darker appearance is a result of it being pressed prior to slicing into flakes.",
+        "notes": "",
+        "reviewCount": 32,
+        "totalReviews": 36,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 16,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 100.0,
+                    "Medium": 31.818181818182,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 41.666666666667,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 58.333333333333,
+                    "Mild": 50.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.222222222222,
+                    "Pleasant to Tolerable": 55.555555555556,
+                    "Tolerable": 22.222222222222,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 21.052631578947,
+                    "Mild to Medium": 52.631578947368,
+                    "Medium": 100.0,
+                    "Medium to Full": 5.2631578947368,
+                    "Full": 0.0,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

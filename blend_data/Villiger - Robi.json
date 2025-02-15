@@ -1,0 +1,94 @@
+{
+    "robi": {
+        "imagePath": "../blend_pictures/Villiger - Robi.jpg",
+        "name": "Robi",
+        "blender": "Villiger",
+        "blendedBy": "",
+        "manufacturedBy": "Villiger",
+        "production": "Currently available",
+        "country": "Switzerland",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Virginia",
+        "cut": "Shag",
+        "packaging": "80g Pouch",
+        "flavoring": "Other / Misc",
+        "description": "Des tabacs choisis avec soin, une exp\u00e9rience de 100 ans, en font ce m\u00e9lange aromatique et avantageux.",
+        "notes": "Notes:Several Virginias, of various cuts & colors, and Swiss Burley. \nSynjeco's website description:  I had problems deciding whether to class this blend as aromatic or among the natural tobacco blends. The pouch aroma is of a vaguely flavored tobacco; however, when smoked it tastes as a natural quality blend. The room aroma is very pleasant and discretely sweet. I'd recommend it for those who like natural tobaccos and are looking to such a tobacco that has a sweet aroma to others.",
+        "reviewCount": 2,
+        "totalReviews": 2,
+        "averageRating": 2.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 100.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

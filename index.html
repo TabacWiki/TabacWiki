@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<base href="/" />
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+		<title>Tabac Wiki - Where Are You From?</title>
+		<style>
+			body, html {
+				margin: 0;
+				padding: 0;
+				height: 100%;
+				background-color: #1f1a18;
+				font-family: Arial, sans-serif;
+				overflow: hidden;
+			}
+			.map-container {
+				width: 100%;
+				height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+			}
+			.map-wrapper {
+				width: 100%;
+				height: 100%;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				position: relative;
+			}
+			#newWorldMap {
+				max-width: 100%;
+				max-height: 100%;
+				object-fit: contain;
+				transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+			}
+			#newWorldMap path {
+				transition: opacity 0.25s ease-out;
+				opacity: 0;
+			}
+			#newWorldMap path.loaded {
+				opacity: 1;
+			}
+			svg path {
+				transition: fill 0.3s ease;
+			}
+			svg path:hover {
+				cursor: pointer;
+				fill: rgba(200, 159, 101, 0.6) !important;
+			}
+			#countryName {
+				position: absolute;
+				bottom: 20px;
+				left: 50%;
+				transform: translateX(-50%);
+				background-color: rgba(39, 32, 30, 0.8);
+				color: #C89F65;
+				padding: 10px 20px;
+				border-radius: 5px;
+				text-align: center;
+				display: none;
+				font-weight: bold;
+			}
+			#ageVerificationPopup {
+				display: none;
+				position: fixed;
+				z-index: 1000;
+				left: 0;
+				top: 0;
+				width: 100%;
+				height: 100%;
+				overflow: auto;
+				background-color: rgba(0,0,0,0.7);
+				justify-content: center;
+				align-items: center;
+			}
+			.age-verification-content {
+				background-color: rgb(129, 100, 61);
+				color: #8E8074;
+				padding: 30px;
+				border-radius: 10px;
+				text-align: center;
+				width: fit-content;
+				max-width: 90%;
+				margin: 0 auto;
+			}
+			.age-verification-content h2 {
+				margin-top: 0;
+				margin-bottom: 15px;
+			}
+			.age-verification-content p {
+				margin-bottom: 20px;
+			}
+			.age-verification-buttons {
+				display: flex;
+				justify-content: center;
+				gap: 30px;
+				margin-top: 20px;
+			}
+			.age-verification-buttons button {
+				padding: 10px 20px;
+				border: none;
+				border-radius: 5px;
+				cursor: pointer;
+				font-weight: bold;
+				min-width: 100px;
+				transition: all 0.3s ease;
+				position: relative;
+				overflow: hidden;
+				border: 1px solid transparent;
+			}
+			.age-verification-buttons .yes-btn {
+				background-color: #2c2c2cc2;
+				color: rgb(129, 100, 61);
+			}
+			.age-verification-buttons .no-btn {
+				background-color: #8E8074;
+				color: rgb(129, 100, 61);
+			}
+			.age-verification-buttons button:hover {
+				border-color: rgba(129, 100, 61, 0.5);
+				box-shadow: 0 0 10px rgba(129, 100, 61, 0.2);
+				transform: translateY(-2px);
+			}
+			.age-verification-buttons button:active {
+				transform: scale(0.98) translateY(0);
+				box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+			}
+			#mapTitleContainer {
+				position: absolute;
+				top: 20px;
+				left: 20px;
+				z-index: 10;
+			}
+			#mapTitleMain {
+				font-family: 'Arial', sans-serif;
+				font-size: 2.5rem;
+				font-weight: bold;
+				color: rgb(129, 100, 61);
+				opacity: 0.8;
+				text-align: left;
+			}
+			#mapTitleSub {
+				font-family: 'Arial', sans-serif;
+				font-size: 1.5rem;
+				color: rgb(129, 100, 61);
+				opacity: 0.6;
+				margin-top: 10px;
+				text-align: left;
+			}
+
+			@keyframes fadeIn {
+				from {
+					opacity: 0;
+				}
+				to {
+					opacity: 1;
+				}
+			}
+
+			.map-container {
+				opacity: 0;
+				animation: fadeIn 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+				animation-delay: 0.1s;
+			}
+
+			@keyframes fadeInSlideUp {
+				from {
+					opacity: 0;
+					transform: translateY(20px);
+				}
+				to {
+					opacity: 1;
+					transform: translateY(0);
+				}
+			}
+
+			#mapTitleContainer {
+				opacity: 0;
+				animation: fadeInSlideUp 1s ease-out forwards;
+				animation-delay: 0.7s;
+			}
+
+			#mapTitleMain {
+				opacity: 0;
+				animation: fadeInSlideUp 1s ease-out forwards;
+				animation-delay: 0.8s;
+			}
+
+			#mapTitleSub {
+				opacity: 0;
+				animation: fadeInSlideUp 1s ease-out forwards;
+				animation-delay: 0.9s;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="map-container">
+			<div class="map-wrapper">
+				<div id="mapTitleContainer">
+					<div id="mapTitleMain">Quick question,</div>
+					<div id="mapTitleSub">where are you visiting from?</div>
+				</div>
+				<svg id="newWorldMap"></svg>
+			</div>
+			<div id="countryName"></div>
+		</div>
+
+		<div id="ageVerificationPopup">
+			<div class="age-verification-content">
+				<h2 id="ageVerificationTitle">Age Verification</h2>
+				<p id="ageVerificationMessage">Are you over the legal age?</p>
+				<div class="age-verification-buttons">
+					<button class="yes-btn" id="yesAgeButton" onclick="handleAgeVerification(true)">Yes</button>
+					<button class="no-btn" id="noAgeButton" onclick="handleAgeVerification(false)">No</button>
+				</div>
+			</div>
+		</div>
+
+		<script src="https://d3js.org/d3.v4.js"></script>
+		<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.33/moment-timezone-with-data.min.js"></script>
+		<script>
+			let legalAges = {};
+			let selectedCountry = null;
+			let countryTimezones = {
+				"United States": "America/New_York",
+				"United Kingdom": "Europe/London",
+				"Canada": "America/Toronto",
+				"Australia": "Australia/Sydney",
+				"China": "Asia/Shanghai",
+				"Japan": "Asia/Tokyo",
+				"India": "Asia/Kolkata",
+				"Brazil": "America/Sao_Paulo",
+				"Russia": "Europe/Moscow",
+				"Germany": "Europe/Berlin",
+				"France": "Europe/Paris",
+				"Italy": "Europe/Rome",
+				"Spain": "Europe/Madrid",
+				"Mexico": "America/Mexico_City",
+				"South Africa": "Africa/Johannesburg",
+				"Saudi Arabia": "Asia/Riyadh",
+				"United Arab Emirates": "Asia/Dubai",
+				"South Korea": "Asia/Seoul",
+				"Argentina": "America/Buenos_Aires",
+				"Egypt": "Africa/Cairo"
+			};
+
+			// Fetch legal ages
+			fetch('/assets/data/legal_ages.json')
+				.then(response => response.json())
+				.then(data => {
+					legalAges = data;
+				})
+				.catch(error => console.error('Error loading legal ages:', error));
+
+			function getTimeGreeting(time) {
+				const hour = time.hour();
+				if (hour >= 5 && hour < 6) return "Wow, it is early!";
+				if (hour >= 6 && hour < 10) return "Good morning!";
+				if (hour >= 10 && hour < 13) return "Wait just a minute!";
+				if (hour >= 13 && hour < 17) return "Good afternoon!";
+				if (hour >= 17 && hour < 20) return "Good evening!";
+				if (hour >= 20 || hour < 0) return "What be ye doin up at this hour!";
+				return "Ah, a fellow night owl!";
+			}
+
+			// Check age verification cache on page load
+			document.addEventListener('DOMContentLoaded', function() {
+				// Check if user has already verified age
+				if (localStorage.getItem('isOfAge') === 'true') {
+					// Redirect to main page if already verified
+					window.location.href = 'main.html';
+					return;
+				}
+			});
+
+			function handleAgeVerification(isOfAge) {
+				if (isOfAge) {
+					localStorage.setItem('isOfAge', 'true');
+					
+					// Fetch main.html content dynamically
+					fetch('main.html')
+						.then(response => response.text())
+						.then(html => {
+							// Replace entire document content
+							document.open();
+							document.write(html);
+							document.close();
+							
+							// Update URL without reload
+							window.history.pushState({}, '', '/');
+						})
+						.catch(error => {
+							console.error('Error loading main content:', error);
+							window.location.href = 'main.html';
+						});
+				} else {
+					alert('Sorry, you must be of legal age to access this site.');
+				}
+			}
+
+			var svg = d3.select("#newWorldMap");
+			var path = d3.geoPath();
+
+			// Dynamic map sizing
+			function resizeMap() {
+				const mapContainer = document.querySelector('.map-wrapper');
+				const width = mapContainer.clientWidth;
+				const height = mapContainer.clientHeight;
+
+				svg.attr("width", width).attr("height", height);
+
+				// Adjust projection to maintain aspect ratio
+				var projection = d3.geoMercator()
+					.scale(width / 6.5)  // Adjust scale factor as needed
+					.translate([width / 2, height / 1.5]);
+
+				path.projection(projection);
+				svg.selectAll("path").attr("d", path);
+			}
+
+			// Initial resize and add resize listener
+			resizeMap();
+			window.addEventListener('resize', resizeMap);
+
+			// Add loading state management
+			document.addEventListener('DOMContentLoaded', function() {
+				const mapContainer = document.querySelector('.map-container');
+				const mapTitleContainer = document.getElementById('mapTitleContainer');
+
+				// Ensure map container is visible after loading
+				mapContainer.style.opacity = '1';
+				mapTitleContainer.style.opacity = '1';
+			});
+
+			// Loading the json data
+			d3.json(
+				"https://raw.githubusercontent.com/janasayantan/datageojson/master/world.json",
+				function (data) {
+					// Draw the map
+					const mapPaths = svg.append("g")
+						.selectAll("path")
+						.data(data.features)
+						.enter()
+						.append("path")
+						.attr("d", path)
+						.attr("fill", "rgba(200, 159, 101, 0.2)")
+						.style("stroke", "#8E8074")
+						.style("stroke-width", "0.5px");
+
+					// Faster loading of paths
+					function loadPathsQuickly() {
+						const paths = mapPaths.nodes();
+						
+						// Use a single requestAnimationFrame to add loaded class to all paths
+						requestAnimationFrame(() => {
+							paths.forEach((path, index) => {
+								// Reduce stagger to compensate for slower transition
+								setTimeout(() => {
+									path.classList.add('loaded');
+								}, index * 1);
+							});
+						});
+					}
+
+					// Start loading very quickly after data is ready
+					setTimeout(loadPathsQuickly, 200);
+
+					// Event handling for paths
+					mapPaths.each(function(d) {
+						d3.select(this)
+							.on("mouseover", function() {
+								d3.select(this).attr("fill", "rgba(200, 159, 101, 0.5)");
+								d3.select("#countryName").text(d.properties.name)
+									.style("display", "block");
+							})
+							.on("mouseout", function() {
+								d3.select(this).attr("fill", "rgba(200, 159, 101, 0.2)");
+								d3.select("#countryName").style("display", "none");
+							})
+							.on("click", function() {
+								const countryName = d.properties.name;
+								selectedCountry = countryName;
+								
+								// Update popup with country-specific age and time
+								const popup = document.getElementById('ageVerificationPopup');
+								const title = document.getElementById('ageVerificationTitle');
+								const message = document.getElementById('ageVerificationMessage');
+								const buttons = document.querySelector('.age-verification-buttons');
+								
+								// Reset popup to default state
+								buttons.style.display = 'flex';
+								
+								// Determine timezone
+								const timezone = countryTimezones[countryName] || 'UTC';
+								const localTime = moment().tz(timezone);
+								const timeGreeting = getTimeGreeting(localTime);
+								
+								// Set title and message
+								title.textContent = timeGreeting;
+								
+								// Set message with legal age for the country
+								const legalAge = legalAges[countryName] || 18;
+								message.textContent = `Are you over ${legalAge} years old?`;
+								
+								// Show popup
+								popup.style.display = 'flex';
+							});
+					});
+				}
+			);
+		</script>
+	</body>
+</html>

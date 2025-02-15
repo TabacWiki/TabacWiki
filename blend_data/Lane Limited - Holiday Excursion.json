@@ -1,0 +1,94 @@
+{
+    "holidayexcursion": {
+        "imagePath": "../blend_pictures/Lane Limited - Holiday Excursion.jpg",
+        "name": "Holiday Excursion",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Burley,  Latakia,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "8 ounce tin",
+        "flavoring": "Other / Misc",
+        "description": "",
+        "notes": "Notes:From Pipes&Cigars website: Holiday Excursion is a traditional American/English blend with a significant amount of cube cut burley in addition to ribbon cut, Virginia, black cavendish and a bit of latakia and perique. Gentle enough to be an all day smoke.\n\nThis is an old Larus and Brother Company blend now made by Lane.",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 2.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 2,
+            "3_star": 7,
+            "2_star": 7,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 63.636363636364,
+                    "Mild to Medium": 100.0,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.333333333333,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 6.6666666666667,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 57.142857142857,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

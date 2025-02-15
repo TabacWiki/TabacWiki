@@ -1,0 +1,94 @@
+{
+    "ashbury": {
+        "imagePath": "../blend_pictures/G. L. Pease - Ashbury.jpg",
+        "name": "Ashbury",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "2oz tins, 8oz tins",
+        "flavoring": "",
+        "description": "An alluring assortment of exotic Oriental tobaccos is generously blended with bright and red Virginia leaf. Finally, just enough Cyprus latakia is added to provide an alluring smokiness, resulting in a tobacco that can best be described as a light-medium Balkan mixture. This is the blend for gentlemen with a Bohemian spirit and a sense of adventure.",
+        "notes": "Notes:Ashbury was released in October, 2005.",
+        "reviewCount": 43,
+        "totalReviews": 48,
+        "averageRating": 3.08,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 16,
+            "3_star": 23,
+            "2_star": 6,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 47.368421052632,
+                    "Mild to Medium": 94.736842105263,
+                    "Medium": 100.0,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 16.216216216216,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 8.1081081081081,
+                    "Medium to Strong": 2.7027027027027,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 81.25,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 10.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

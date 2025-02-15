@@ -1,0 +1,94 @@
+{
+    "honeydew": {
+        "imagePath": "../blend_pictures/McClelland - Honeydew.jpg",
+        "name": "Honeydew",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "The sweet fragrant Honeydew was all gone by the time Susan Cushing offered the container to Sherlock Holmes, but he was undoubtedly familiar with this fine Irish flake's gratifying flavor, its pleasing aroma and gentleness on the palate. A subtly sweet, fragrant flake tobacco in the Irish tradition.",
+        "notes": "",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 2.88,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 20,
+            "3_star": 27,
+            "2_star": 14,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 12.0,
+                    "Mild": 92.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.0,
+                    "Medium to Strong": 12.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 2.7027027027027,
+                    "Extremely Mild": 10.810810810811,
+                    "Very Mild": 27.027027027027,
+                    "Mild": 100.0,
+                    "Mild to Medium": 27.027027027027,
+                    "Medium": 8.1081081081081,
+                    "Medium to Strong": 2.7027027027027,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 2.7027027027027,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.7777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.777777777778,
+                    "Pleasant to Tolerable": 36.111111111111,
+                    "Tolerable": 19.444444444444,
+                    "Tolerable to Strong": 2.7777777777778,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3333333333333,
+                    "Very Mild": 3.3333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.333333333333,
+                    "Medium to Full": 6.6666666666667,
+                    "Full": 3.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

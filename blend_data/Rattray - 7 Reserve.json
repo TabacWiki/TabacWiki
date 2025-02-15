@@ -1,0 +1,94 @@
+{
+    "7reserve": {
+        "imagePath": "../blend_pictures/Rattray - 7 Reserve.jpg",
+        "name": "7 Reserve",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "English",
+        "contents": "Black Cavendish,  Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "This mixture is based on various Virginia tobaccos and Latakia, along with black cavendish and a bit of Oriental.",
+        "notes": "",
+        "reviewCount": 62,
+        "totalReviews": 69,
+        "averageRating": 2.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 32,
+            "2_star": 21,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 8.8235294117647,
+                    "Mild": 52.941176470588,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 8.8235294117647,
+                    "Strong": 0.0,
+                    "Very Strong": 2.9411764705882,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.888888888889,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.2222222222222,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.2222222222222
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.2258064516129,
+                    "Pleasant": 29.032258064516,
+                    "Very Pleasant": 6.4516129032258,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.290322580645,
+                    "Tolerable to Strong": 16.129032258065,
+                    "Strong": 3.2258064516129,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.2258064516129,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 13.636363636364,
+                    "Very Mild": 13.636363636364,
+                    "Mild": 68.181818181818,
+                    "Mild to Medium": 100.0,
+                    "Medium": 90.909090909091,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 4.5454545454545,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.5454545454545
+                }
+            }
+        }
+    }
+}

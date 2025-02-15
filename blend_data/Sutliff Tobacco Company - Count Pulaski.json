@@ -1,0 +1,94 @@
+{
+    "countpulaski": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Count Pulaski.jpg",
+        "name": "Count Pulaski",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Anisette,  Rum",
+        "description": "\"The Count Pulaski blend from Sutliff is a complex blend of four distinct sub-blends.  The leaf content is a mixture of burley shag, burley plug, burley cube, Carolina flake, Virginia and Latakia.  The primary flavors are Rose of Latakia and rum with a hint of anise\"\n\n\"Inspiration for this blend is Polish Count Casimir Pulaski, an all but forgotten Revolutionary War hero.  In another era Count Pulaski was better known, having counties and cities named for him in at least seven states.  Pulaski is regarded as the 'Father of the American Cavalry' having served at Valley Forge, Charleston, and Savannah.\"  \n\nThank you to Carl McAllister, Sutliff Manager of R&D for the above quote.",
+        "notes": "",
+        "reviewCount": 67,
+        "totalReviews": 75,
+        "averageRating": 2.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 33,
+            "3_star": 16,
+            "2_star": 17,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.7027027027027,
+                    "Mild": 35.135135135135,
+                    "Mild to Medium": 100.0,
+                    "Medium": 56.756756756757,
+                    "Medium to Strong": 8.1081081081081,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.5454545454545,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 40.909090909091,
+                    "Mild": 100.0,
+                    "Mild to Medium": 68.181818181818,
+                    "Medium": 86.363636363636,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 62.5,
+                    "Very Pleasant": 18.75,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 3.125,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.375,
+                    "Very Mild": 0.0,
+                    "Mild": 18.75,
+                    "Mild to Medium": 68.75,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.125,
+                    "Full": 9.375,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

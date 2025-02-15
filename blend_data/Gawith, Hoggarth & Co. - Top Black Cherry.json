@@ -1,0 +1,94 @@
+{
+    "topblackcherry": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Top Black Cherry.jpg",
+        "name": "Top Black Cherry",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Cherry",
+        "description": "Delightful aromatic with a wonderful cherry note.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 60,
+        "averageRating": 3.08,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 27,
+            "2_star": 8,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 17.391304347826,
+                    "Mild": 73.913043478261,
+                    "Mild to Medium": 100.0,
+                    "Medium": 47.826086956522,
+                    "Medium to Strong": 8.695652173913,
+                    "Strong": 0.0,
+                    "Very Strong": 4.3478260869565,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 4.3478260869565
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.0,
+                    "Mild": 24.0,
+                    "Mild to Medium": 48.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 32.0,
+                    "Strong": 28.0,
+                    "Very Strong": 4.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 76.923076923077,
+                    "Pleasant to Tolerable": 42.307692307692,
+                    "Tolerable": 3.8461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.8461538461538,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 65.384615384615,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 0.0,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            }
+        }
+    }
+}

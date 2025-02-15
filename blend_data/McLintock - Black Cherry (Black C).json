@@ -1,0 +1,94 @@
+{
+    "blackcherry(blackc)": {
+        "imagePath": "../blend_pictures/McLintock - Black Cherry (Black C).jpg",
+        "name": "Black Cherry (Black C)",
+        "blender": "McLintock",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "Cherry",
+        "description": "Bifermented black cavendish with a sweet and fruity note.",
+        "notes": "Notes:Due to EU regulations this is now known as \"Black C\".",
+        "reviewCount": 22,
+        "totalReviews": 25,
+        "averageRating": 2.52,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 5,
+            "2_star": 4,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 12.5
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.0,
+                    "Extremely Mild": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 40.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 30.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 44.444444444444,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 77.777777777778,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 11.111111111111
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 30.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 30.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

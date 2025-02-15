@@ -1,0 +1,94 @@
+{
+    "darkstrongkentucky": {
+        "imagePath": "../blend_pictures/Orlik Tobacco Company A/S - Dark Strong Kentucky.jpg",
+        "name": "Dark Strong Kentucky",
+        "blender": "Orlik Tobacco Company A/S",
+        "blendedBy": "Orlik Tobacco Company",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Black Cavendish,  Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams pouch, 50 grams tin",
+        "flavoring": "Licorice,  Molasses",
+        "description": "Virginias with dark fired Kentucky tobacco. Tobacco selection: Blending fine black cavendish with the irresistible qualities of Kentucky burley gives this flake a look, taste and feel uniquely its own.",
+        "notes": "",
+        "reviewCount": 143,
+        "totalReviews": 159,
+        "averageRating": 3.26,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 70,
+            "3_star": 65,
+            "2_star": 20,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 9.5890410958904,
+                    "Mild to Medium": 38.356164383562,
+                    "Medium": 100.0,
+                    "Medium to Strong": 54.794520547945,
+                    "Strong": 12.328767123288,
+                    "Very Strong": 2.7397260273973,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 72.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.555555555556,
+                    "Medium": 41.666666666667,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 2.7777777777778,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 22.641509433962,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 60.377358490566,
+                    "Tolerable to Strong": 15.094339622642,
+                    "Strong": 1.8867924528302,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 3.6363636363636,
+                    "Mild": 7.2727272727273,
+                    "Mild to Medium": 43.636363636364,
+                    "Medium": 78.181818181818,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 1.8181818181818,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

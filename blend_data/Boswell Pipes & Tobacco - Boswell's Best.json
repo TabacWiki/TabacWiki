@@ -1,0 +1,94 @@
+{
+    "boswell'sbest": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Boswell's Best.jpg",
+        "name": "Boswell's Best",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "J.M. Boswell",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "Vanilla",
+        "description": "Cavendish blended with black vanilla cavendish and Virginia to make an all day smoke.",
+        "notes": "Notes:First blended in 1975 by J.M. Boswell.",
+        "reviewCount": 69,
+        "totalReviews": 77,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 44,
+            "3_star": 22,
+            "2_star": 9,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 6.0,
+                    "Very Mild": 22.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.0,
+                    "Medium": 4.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 2.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 24.137931034483,
+                    "Mild": 96.551724137931,
+                    "Mild to Medium": 100.0,
+                    "Medium": 27.586206896552,
+                    "Medium to Strong": 13.793103448276,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.448275862069
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 73.809523809524,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 7.1428571428571,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.3809523809524
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3333333333333,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 36.666666666667,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 3.3333333333333
+                }
+            }
+        }
+    }
+}

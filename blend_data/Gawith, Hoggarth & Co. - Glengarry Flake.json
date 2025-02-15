@@ -1,0 +1,94 @@
+{
+    "glengarryflake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Glengarry Flake.jpg",
+        "name": "Glengarry Flake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "flavoring": "Alcohol / Liquor,  Honey,  Irish Mist,  Other / Misc,  Whisky",
+        "description": "A similar blend of pure Virginia leaf as Bright CR Flake, but with the addition of some special Virginia casings to enhance the natural sweetness of the leaf, finished off with a light top flavour of honey dew and other sweet flavourings which all combine after pressing to provide a mild sweet gently aromatic smoke.",
+        "notes": "",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 3.07,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 22,
+            "3_star": 31,
+            "2_star": 13,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.4074074074074,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 92.592592592593,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 7.4074074074074,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.0,
+                    "Extremely Mild": 12.0,
+                    "Very Mild": 4.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 64.0,
+                    "Medium to Strong": 28.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.810810810811,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 24.324324324324,
+                    "Pleasant to Tolerable": 35.135135135135,
+                    "Tolerable": 10.810810810811,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.7027027027027,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.3333333333333,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 25.0,
+                    "Mild to Medium": 95.833333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

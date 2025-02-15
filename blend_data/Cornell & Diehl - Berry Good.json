@@ -1,0 +1,94 @@
+{
+    "berrygood": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Berry Good.jpg",
+        "name": "Berry Good",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Raspberry,  Vanilla",
+        "description": "A combination of burleys and Green River Vanilla, with a raspberry sauce. This has become one of our most popular blends.",
+        "notes": "",
+        "reviewCount": 38,
+        "totalReviews": 43,
+        "averageRating": 2.77,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 17,
+            "2_star": 12,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 92.307692307692,
+                    "Medium": 100.0,
+                    "Medium to Strong": 30.769230769231,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 27.272727272727,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 81.818181818182,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.636363636364,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.764705882353,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 58.823529411765,
+                    "Pleasant to Tolerable": 52.941176470588,
+                    "Tolerable": 23.529411764706,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.8823529411765,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 58.823529411765,
+                    "Mild to Medium": 70.588235294118,
+                    "Medium": 100.0,
+                    "Medium to Full": 11.764705882353,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

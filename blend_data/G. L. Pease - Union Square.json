@@ -1,0 +1,94 @@
+{
+    "unionsquare": {
+        "imagePath": "../blend_pictures/G. L. Pease - Union Square.jpg",
+        "name": "Union Square",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "A blended, sliced cake of high grade flue cured leaf, from beautiful, sweet brights to deep, earthy reds, without the added sugars and flavorings common to many Virginia flakes. It's rich on the palate, evolving in layers with the clean, natural sweetness of pure tobaccos. It offers a pleasant room note, and a delightful finish. For those seeking the pure Virginia experience, try Union Square.",
+        "notes": "Notes:Union Square was released in May, 2009.",
+        "reviewCount": 138,
+        "totalReviews": 154,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 85,
+            "3_star": 51,
+            "2_star": 13,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.4925373134328,
+                    "Very Mild": 1.4925373134328,
+                    "Mild": 14.925373134328,
+                    "Mild to Medium": 56.716417910448,
+                    "Medium": 100.0,
+                    "Medium to Strong": 43.283582089552,
+                    "Strong": 8.955223880597,
+                    "Very Strong": 2.9850746268657,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 2.7972027972028,
+                    "Very Mild": 2.0979020979021,
+                    "Mild": 2.0979020979021,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.6993006993007,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.6153846153846,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 29.230769230769,
+                    "Pleasant to Tolerable": 61.538461538462,
+                    "Tolerable": 35.384615384615,
+                    "Tolerable to Strong": 3.0769230769231,
+                    "Strong": 1.5384615384615,
+                    "Very Strong": 1.5384615384615,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 1.6666666666667,
+                    "Mild": 25.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 53.333333333333,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "commonwealthmixture": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Commonwealth Mixture.jpg",
+        "name": "Commonwealth Mixture",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Latakia",
+        "contents": "Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Commonwealth is one of Samuel Gawith's oldest and best known. The blend of Virginias and Latakia offers a full strength smoke.",
+        "notes": "",
+        "reviewCount": 188,
+        "totalReviews": 209,
+        "averageRating": 3.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 104,
+            "3_star": 73,
+            "2_star": 28,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.96153846153846,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 37.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 30.769230769231,
+                    "Strong": 20.192307692308,
+                    "Very Strong": 2.8846153846154,
+                    "Extremely Strong": 0.96153846153846,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.883435582822,
+                    "Very Mild": 1.2269938650307,
+                    "Mild": 4.2944785276074,
+                    "Mild to Medium": 1.2269938650307,
+                    "Medium": 3.680981595092,
+                    "Medium to Strong": 1.840490797546,
+                    "Strong": 2.4539877300613,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.61349693251534
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.9180327868852,
+                    "Pleasant": 39.344262295082,
+                    "Very Pleasant": 8.1967213114754,
+                    "Pleasant to Tolerable": 70.491803278689,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 60.655737704918,
+                    "Strong": 50.819672131148,
+                    "Very Strong": 4.9180327868852,
+                    "Extra Strong": 1.6393442622951,
+                    "Overwhelming": 1.6393442622951
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.2820512820513,
+                    "Very Mild": 0.0,
+                    "Mild": 8.974358974359,
+                    "Mild to Medium": 12.820512820513,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 69.230769230769,
+                    "Very Full": 19.230769230769,
+                    "Extra Full": 6.4102564102564,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

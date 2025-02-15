@@ -1,0 +1,94 @@
+{
+    "royalcajundark": {
+        "imagePath": "../blend_pictures/McClelland - Royal Cajun Dark.jpg",
+        "name": "Royal Cajun Dark",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A blend of five exceptional red and stoved Virginias seasoned liberally with cool, subtly smokey Cajun Black. An incredible smoking experience - deeply rich in flavor, compelling in aroma, exquisitely mild on the palate.",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 30,
+        "averageRating": 3.3,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 12,
+            "2_star": 3,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.769230769231,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 66.666666666667,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 6.6666666666667,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 6.6666666666667,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 46.153846153846,
+                    "Very Pleasant": 30.769230769231,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 46.153846153846,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 61.538461538462,
+                    "Medium": 100.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 0.0,
+                    "Very Full": 7.6923076923077,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "royalnavyflake": {
+        "imagePath": "../blend_pictures/Holger Danske - Royal Navy Flake.jpg",
+        "name": "Royal Navy Flake",
+        "blender": "Holger Danske",
+        "blendedBy": "Planta",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus",
+        "description": "Virginia tobaccos matured under high pressure with discreet flavor of aromatic fruits. Burns down coolly and emphasizes the natural sweetness of the flakes.",
+        "notes": "",
+        "reviewCount": 30,
+        "totalReviews": 34,
+        "averageRating": 3.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 11,
+            "2_star": 8,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 35.714285714286,
+                    "Mild": 42.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 80.0,
+                    "Very Mild": 60.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 43.75,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 43.75,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 6.25,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.333333333333,
+                    "Medium to Full": 20.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

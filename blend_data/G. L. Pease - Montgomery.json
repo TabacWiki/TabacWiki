@@ -1,0 +1,94 @@
+{
+    "montgomery": {
+        "imagePath": "../blend_pictures/G. L. Pease - Montgomery.jpg",
+        "name": "Montgomery",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "Virginias, Virginias, Virginias! Several grades of wonderful flue-cured leaf, from soft yellow to deep red, are combined with just a touch of dark-fired Kentucky for a little added richness. A special process, recovered from ancient archives, provides the finishing touch to this wonderful blend. Naturally sweet, and possessing subtle complexity, Montgomery presents delightful new dimensions for the lover of sophisticated Virginia blends.",
+        "notes": "Notes:Montgomery was released in March, 2005.",
+        "reviewCount": 73,
+        "totalReviews": 82,
+        "averageRating": 3.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 34,
+            "3_star": 32,
+            "2_star": 13,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.1282051282051,
+                    "Mild": 51.282051282051,
+                    "Mild to Medium": 100.0,
+                    "Medium": 46.153846153846,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.625,
+                    "Very Mild": 4.6875,
+                    "Mild": 7.8125,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.6315789473684,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 15.789473684211,
+                    "Pleasant to Tolerable": 52.631578947368,
+                    "Tolerable": 44.736842105263,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.5714285714286,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 60.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 92.857142857143,
+                    "Medium to Full": 25.0,
+                    "Full": 3.5714285714286,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

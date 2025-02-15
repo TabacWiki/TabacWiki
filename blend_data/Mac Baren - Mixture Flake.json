@@ -1,0 +1,94 @@
+{
+    "mixtureflake": {
+        "imagePath": "../blend_pictures/Mac Baren - Mixture Flake.jpg",
+        "name": "Mixture Flake",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Unknown,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Honey,  Other / Misc",
+        "description": "When Mixture was introduced in 1958 is was considered a revolution in pipe smoking... Now? 47 years later you can enjoy the famous Mixture taste in this blend. Mixture Flake is made from more than 35 different tobacco leaves from different parts of the world. Mixture Flake is made from choice Virginia and burley tobacco and touch of the original Mac Baren Cavendish. Each leaf has its own special qualities and only by blending and pressing them in the right proportions does Mixture Flake achieve its unique taste. Mixture Flake does not consist of one dominant taste, but a profusion of different nuances of taste that keep changing? all from a single tamp of tobacco A unique, slow burning, slightly aromatic flake which you can enjoy all day long.",
+        "notes": "",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 3.02,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 20,
+            "2_star": 8,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.0,
+                    "Very Mild": 20.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 24.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 3.8461538461538,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 11.538461538462,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.513513513514,
+                    "Pleasant to Tolerable": 13.513513513514,
+                    "Tolerable": 8.1081081081081,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 5.0,
+                    "Mild": 85.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.0,
+                    "Medium to Full": 10.0,
+                    "Full": 5.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

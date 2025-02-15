@@ -1,0 +1,94 @@
+{
+    "r\u00e9servedupatron": {
+        "imagePath": "../blend_pictures/Tabac Manil - R\u00e9serve du Patron.jpg",
+        "name": "R\u00e9serve du Patron",
+        "blender": "Tabac Manil",
+        "blendedBy": "Vincent Manil",
+        "manufacturedBy": "Vincent Manil",
+        "production": "Currently available",
+        "country": "Belgium",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Ribbon",
+        "packaging": "100 or 250 gr pack",
+        "flavoring": "",
+        "description": "Semois leaf is a rich, pure leaf burley tobacco that is grown and processed in Belgium in the Ardennes Valley (Val Ardennais) - think Battle of the Bulge. Highly reminiscent of smoking a cigar, but in a pipe, it is a fascinating tobacco that has been highly regarded in Europe for well over 100 years. From start to finish, the flavor becomes more and more pronounced, giving a reliable and enjoyable smoke. There are no casings or flavorings added to this tobacco. This is the medium-cut version (coupe moyenne).",
+        "notes": "Notes:Semois is a Burley varietal that has been developed over hundreds of years in Belgium's Semois River region, in ground that is soggy and fog-shrouded.",
+        "reviewCount": 23,
+        "totalReviews": 26,
+        "averageRating": 3.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 7,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Strong": 100.0,
+                    "Strong": 53.846153846154,
+                    "Very Strong": 15.384615384615,
+                    "Extremely Strong": 7.6923076923077,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 30.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 50.0,
+                    "Very Strong": 10.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 23.076923076923,
+                    "Medium to Full": 100.0,
+                    "Full": 46.153846153846,
+                    "Very Full": 15.384615384615,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

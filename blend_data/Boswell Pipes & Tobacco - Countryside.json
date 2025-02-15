@@ -1,0 +1,94 @@
+{
+    "countryside": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Countryside.jpg",
+        "name": "Countryside",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "J.M. Boswell",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Black Cavendish, Latakia, Oriental/Turkish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin weight, bulk",
+        "flavoring": "Alcohol / Liquor, Other / Misc",
+        "description": "Countryside is our medium English blend.  A Virginia base with Latakia and select Orientals. It is a delicious, smooth-bodied blend with no tongue bite.  A wonderful balance for an enjoyable all-day smoke.",
+        "notes": "",
+        "reviewCount": 34,
+        "totalReviews": 41,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 13,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 45.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.6923076923077,
+                    "Extremely Mild": 30.769230769231,
+                    "Very Mild": 38.461538461538,
+                    "Mild": 92.307692307692,
+                    "Mild to Medium": 100.0,
+                    "Medium": 46.153846153846,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 47.368421052632,
+                    "Very Pleasant": 10.526315789474,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 36.842105263158,
+                    "Tolerable to Strong": 15.789473684211,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 20.833333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.1666666666667
+                }
+            }
+        }
+    }
+}

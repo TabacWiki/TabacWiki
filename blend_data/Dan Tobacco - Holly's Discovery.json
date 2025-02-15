@@ -1,0 +1,94 @@
+{
+    "holly'sdiscovery": {
+        "imagePath": "../blend_pictures/Dan Tobacco - Holly's Discovery.jpg",
+        "name": "Holly's Discovery",
+        "blender": "Dan Tobacco",
+        "blendedBy": "Dan Tobacco",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Latakia",
+        "contents": "Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 250 grams bulk",
+        "flavoring": "",
+        "description": "A blend of selected Virginia and latakia tobaccos specially  processed and matured to provide a cool and mild smoke.",
+        "notes": "",
+        "reviewCount": 23,
+        "totalReviews": 26,
+        "averageRating": 3.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 16,
+            "3_star": 8,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 77.777777777778,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 11.111111111111,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 4.7619047619048,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 9.0909090909091,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 27.272727272727,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 45.454545454545,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 18.181818181818,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 77.777777777778,
+                    "Very Full": 44.444444444444,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

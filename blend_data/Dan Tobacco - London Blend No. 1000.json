@@ -1,0 +1,94 @@
+{
+    "londonblendno.1000": {
+        "imagePath": "../blend_pictures/Dan Tobacco - London Blend No. 1000.jpg",
+        "name": "London Blend No. 1000",
+        "blender": "Dan Tobacco",
+        "blendedBy": "TH. Timm",
+        "manufacturedBy": "Dan Tobacco",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams pouch & tin",
+        "flavoring": "",
+        "description": "A full-bodied dark colored after dinner mixture. African Virginia and Turkish tobaccos with high amounts of latakia.",
+        "notes": "",
+        "reviewCount": 36,
+        "totalReviews": 41,
+        "averageRating": 3.27,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 23,
+            "3_star": 8,
+            "2_star": 8,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 64.705882352941,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.176470588235,
+                    "Strong": 17.647058823529,
+                    "Very Strong": 5.8823529411765,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 41.666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 8.3333333333333,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 42.857142857143,
+                    "Tolerable": 92.857142857143,
+                    "Tolerable to Strong": 35.714285714286,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 78.571428571429,
+                    "Medium to Full": 35.714285714286,
+                    "Full": 100.0,
+                    "Very Full": 14.285714285714,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "rumcake": {
+        "imagePath": "../blend_pictures/Wilke Pipe Tobacco - Rumcake.jpg",
+        "name": "Rumcake",
+        "blender": "Wilke Pipe Tobacco",
+        "blendedBy": "John Brandt",
+        "manufacturedBy": "Wilke Pipe Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz. bag, 4 oz. bag, 8 oz. bag 16 oz. bag",
+        "flavoring": "Butter,  Rum,  Vanilla",
+        "description": "Originally prepared as our 1993 Christmas blend, Rumcake proved so popular we made it available year round. This Jamaican rum laced blend is based on a mixture we originally made for actor Basil Rathbone. Due to the keen characteristics of the rum flavoring we prefer to offer this mixture in 8 or 16 ounce jars. This is the finest rum mixture offered anywhere!",
+        "notes": "",
+        "reviewCount": 51,
+        "totalReviews": 57,
+        "averageRating": 3.59,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 42,
+            "3_star": 9,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 20.833333333333,
+                    "Mild": 87.5,
+                    "Mild to Medium": 100.0,
+                    "Medium": 20.833333333333,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 50.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 55.555555555556,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 5.5555555555556
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.0,
+                    "Very Mild": 10.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.0,
+                    "Medium to Full": 20.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

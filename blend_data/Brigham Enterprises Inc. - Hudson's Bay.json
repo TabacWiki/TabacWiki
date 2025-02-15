@@ -1,0 +1,94 @@
+{
+    "hudson'sbay": {
+        "imagePath": "../blend_pictures/Brigham Enterprises Inc. - Hudson's Bay.jpg",
+        "name": "Hudson's Bay",
+        "blender": "Brigham Enterprises Inc.",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "1.76 ounce tin",
+        "flavoring": "",
+        "description": "Brigham Hudson's Bay Pipe Tobacco - Matured Virginia presented in an English style thick cut, broken flake. Medium and dark brown matured Virginia is compliments with the addition of stoved black Virginia to create a really rich, deep natural tobacco flavor and aroma.",
+        "notes": "Notes:This was formerly packaged as (Mr. B's) Yacht Club, from the d-series -- only the label on the tin has changed.",
+        "reviewCount": 9,
+        "totalReviews": 11,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 6,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 33.333333333333,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

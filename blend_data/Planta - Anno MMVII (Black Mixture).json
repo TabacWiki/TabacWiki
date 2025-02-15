@@ -1,0 +1,94 @@
+{
+    "annommvii(blackmixture)": {
+        "imagePath": "../blend_pictures/Planta - Anno MMVII (Black Mixture).jpg",
+        "name": "Anno MMVII (Black Mixture)",
+        "blender": "Planta",
+        "blendedBy": "Planta",
+        "manufacturedBy": "Planta",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "bulk, 50 grams tin",
+        "flavoring": "Fruit / Citrus",
+        "description": "Black and mellow, aromatic and smooth, black cavendish with the aroma of thoroughly matured bilberries. Blended by hand in Germany.",
+        "notes": "Notes:Planta's Tobacco of the Year for 2007. Still available in bulk from a number of online tobacco sellers.\n\nSome reviewers erroneously attribute the flavoring to blueberries, as bilberries both smell similar and are closely related to blueberries.",
+        "reviewCount": 20,
+        "totalReviews": 23,
+        "averageRating": 2.96,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 8,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 30.769230769231,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 80.0,
+                    "Strong": 100.0,
+                    "Very Strong": 40.0,
+                    "Extra Strong": 40.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 31.25,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 6.25,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 100.0,
+                    "Medium to Full": 12.5,
+                    "Full": 37.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

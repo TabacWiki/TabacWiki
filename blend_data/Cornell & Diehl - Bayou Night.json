@@ -1,0 +1,94 @@
+{
+    "bayounight": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bayou Night.jpg",
+        "name": "Bayou Night",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "flavoring": "",
+        "description": "A Scottish type blend of Latakia, perique, Virginias, Turkish, and burleys that boasts a heavier perique component than normally found in a classic Scottish blend. A full smoke that is surprisingly cool on the palate.",
+        "notes": "Notes:A full strength perique blend with a generous portion of stoved red Virginia, Latakia, Turkish and rough cut burley.",
+        "reviewCount": 85,
+        "totalReviews": 95,
+        "averageRating": 3.08,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 42,
+            "3_star": 28,
+            "2_star": 16,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.7027027027027,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.7027027027027,
+                    "Medium": 32.432432432432,
+                    "Medium to Strong": 100.0,
+                    "Strong": 70.27027027027,
+                    "Very Strong": 43.243243243243,
+                    "Extremely Strong": 2.7027027027027,
+                    "Overwhelming": 2.7027027027027
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 2.4691358024691,
+                    "Very Mild": 2.4691358024691,
+                    "Mild": 6.1728395061728,
+                    "Mild to Medium": 0.0,
+                    "Medium": 1.2345679012346,
+                    "Medium to Strong": 2.4691358024691,
+                    "Strong": 1.2345679012346,
+                    "Very Strong": 1.2345679012346,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.25,
+                    "Pleasant": 21.875,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 53.125,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 34.375,
+                    "Very Strong": 18.75,
+                    "Extra Strong": 6.25,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 29.166666666667,
+                    "Extra Full": 2.0833333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

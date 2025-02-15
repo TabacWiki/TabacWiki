@@ -1,0 +1,94 @@
+{
+    "londonmixture": {
+        "imagePath": "../blend_pictures/Dunhill - London Mixture.jpg",
+        "name": "London Mixture",
+        "blender": "Dunhill",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Medium cut matured Virginia and Oriental tobacco (soft and mellow flavour).",
+        "notes": "Notes:Descriptions from old Dunhill store catalogs: A delightfully harmonious blend of matured Virginia and Oriental tobaccos, soft and mellow, cool and fragrant. [Latakia with Virginia and Turkish leaf-1985]\n\nPreviously released by Murray's and Sons, UK.",
+        "reviewCount": 249,
+        "totalReviews": 277,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 140,
+            "3_star": 89,
+            "2_star": 35,
+            "1_star": 13
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.2658227848101,
+                    "Very Mild": 3.1645569620253,
+                    "Mild": 5.6962025316456,
+                    "Mild to Medium": 22.784810126582,
+                    "Medium": 100.0,
+                    "Medium to Strong": 32.911392405063,
+                    "Strong": 8.8607594936709,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.63291139240506
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.311475409836,
+                    "Very Mild": 3.8251366120219,
+                    "Mild": 9.2896174863388,
+                    "Mild to Medium": 6.5573770491803,
+                    "Medium": 4.9180327868852,
+                    "Medium to Strong": 4.9180327868852,
+                    "Strong": 0.54644808743169,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.803738317757,
+                    "Pleasant": 38.317757009346,
+                    "Very Pleasant": 11.214953271028,
+                    "Pleasant to Tolerable": 59.81308411215,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 32.710280373832,
+                    "Strong": 12.14953271028,
+                    "Very Strong": 0.93457943925234,
+                    "Extra Strong": 0.93457943925234,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0618556701031,
+                    "Very Mild": 3.0927835051546,
+                    "Mild": 11.340206185567,
+                    "Mild to Medium": 26.80412371134,
+                    "Medium": 95.876288659794,
+                    "Medium to Full": 100.0,
+                    "Full": 40.20618556701,
+                    "Very Full": 4.1237113402062,
+                    "Extra Full": 1.0309278350515,
+                    "Overwhelming": 1.0309278350515
+                }
+            }
+        }
+    }
+}

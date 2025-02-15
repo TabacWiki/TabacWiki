@@ -1,0 +1,94 @@
+{
+    "tom'sdarktwist": {
+        "imagePath": "../blend_pictures/Motzek - Tom's Dark Twist.jpg",
+        "name": "Tom's Dark Twist",
+        "blender": "Motzek",
+        "blendedBy": "Tom Darasz",
+        "manufacturedBy": "Motzek",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Other",
+        "contents": "Kentucky,  Perique",
+        "cut": "Rope",
+        "packaging": "100 grams pouch",
+        "flavoring": "",
+        "description": "The dark side of power. 50% dark fired Kentucky and 50% perique provide rich aroma and powerful spice. Still gentle and mild, almost velvety. Very rich, but never aggressive. Hand-spun and carefully baked for flavoring.",
+        "notes": "Notes:Comes in pouches of 100 grams, and [your] experience may vary from the pouch to pouch.",
+        "reviewCount": 7,
+        "totalReviews": 7,
+        "averageRating": 3.86,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 33.333333333333,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 50.0,
+                    "Very Strong": 50.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 100.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

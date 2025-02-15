@@ -1,0 +1,94 @@
+{
+    "rainyday": {
+        "imagePath": "../blend_pictures/Ashton - Rainy Day.jpg",
+        "name": "Rainy Day",
+        "blender": "Ashton",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus,  Other / Misc,  Whisky",
+        "description": "A savory blend of Virginia and burley Leaf with velvet black cavendish. Aged in whiskey barrels for precisely one month, this mixture smokes smooth and heralds a marvelous aroma of tropical fruit and hickory nuts.",
+        "notes": "",
+        "reviewCount": 38,
+        "totalReviews": 43,
+        "averageRating": 2.49,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 16,
+            "2_star": 11,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 31.25,
+                    "Mild": 100.0,
+                    "Mild to Medium": 81.25,
+                    "Medium": 31.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 6.25
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 69.230769230769,
+                    "Medium": 100.0,
+                    "Medium to Strong": 53.846153846154,
+                    "Strong": 23.076923076923,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 30.769230769231
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 93.75,
+                    "Pleasant to Tolerable": 43.75,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 6.25,
+                    "Strong": 6.25,
+                    "Very Strong": 6.25,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 76.923076923077,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 23.076923076923
+                }
+            }
+        }
+    }
+}

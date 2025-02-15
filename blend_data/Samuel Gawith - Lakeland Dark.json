@@ -1,0 +1,94 @@
+{
+    "lakelanddark": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Lakeland Dark.jpg",
+        "name": "Lakeland Dark",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk, 50 grams tin",
+        "flavoring": "",
+        "description": "Dark air cured Virginia and Kentucky tobaccos are cold pressed for a few hours before they are steam pressed for several hours at full heat. This gives the blend a strong, powerful and creamy smoke.",
+        "notes": "",
+        "reviewCount": 39,
+        "totalReviews": 44,
+        "averageRating": 3.3,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 23,
+            "3_star": 12,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 45.0,
+                    "Strong": 100.0,
+                    "Very Strong": 55.0,
+                    "Extremely Strong": 10.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.925925925926,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 7.4074074074074,
+                    "Mild to Medium": 0.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 3.7037037037037,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 3.7037037037037
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 45.454545454545,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 81.818181818182,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 54.545454545455,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 4.5454545454545,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 13.636363636364,
+                    "Medium to Full": 31.818181818182,
+                    "Full": 100.0,
+                    "Very Full": 45.454545454545,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.5454545454545
+                }
+            }
+        }
+    }
+}

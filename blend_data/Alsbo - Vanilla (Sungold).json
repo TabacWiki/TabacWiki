@@ -1,0 +1,94 @@
+{
+    "vanilla(sungold)": {
+        "imagePath": "../blend_pictures/Alsbo - Vanilla (Sungold).jpg",
+        "name": "Vanilla (Sungold)",
+        "blender": "Alsbo",
+        "blendedBy": "",
+        "manufacturedBy": "St-Group Assens",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50g Pouch",
+        "flavoring": "Vanilla",
+        "description": "The remarkable Dane with the unique vanilla aroma. Bright and mild Virginia Tobaccos blended with our super mild Black Cavendish create a mixture of outstanding quality. Our smooth vanilla flavor adds extra character and a perfect balanced taste and room note.",
+        "notes": "Notes:Due to EU regulations this is now known as \"Sungold\".",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 2.9,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 16,
+            "2_star": 6,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 66.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 14.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 35.714285714286,
+                    "Very Strong": 21.428571428571,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 38.888888888889,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 5.5555555555556,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 41.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 8.3333333333333,
+                    "Very Full": 8.3333333333333,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

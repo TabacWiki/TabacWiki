@@ -1,0 +1,94 @@
+{
+    "thebeast2023": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - The Beast 2023.jpg",
+        "name": "The Beast 2023",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Kentucky,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin Tin",
+        "flavoring": "Rum",
+        "description": "Among the few pipe tobaccos to focus on perique as a primary blending component, The Beast is a powerhouse blend of over 50% Perique, grown, harvested, cured, and fermented all at C&D\u2019s exclusive perique farm in St. James Parish, Louisiana. Supported by C&D's proprietary red Virginia cavendish, unsweetened black cavendish, and a whisper of dark-fired Kentucky, and soaked in dark, spiced rum for seven days, The Beast offers a robust flavor with notes of mesquite smoke, ripe stone fruits, and boozy spice, as well as a full body and rich finish.",
+        "notes": "Notes:Only 6543 tins were produced.",
+        "reviewCount": 2,
+        "totalReviews": 2,
+        "averageRating": 3.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Very Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 100.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

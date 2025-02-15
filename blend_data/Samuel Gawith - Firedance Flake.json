@@ -1,0 +1,94 @@
+{
+    "firedanceflake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Firedance Flake.jpg",
+        "name": "Firedance Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Blackberry,  Brandy,  Vanilla",
+        "description": "Developed with one of the U.S.A.'s lady smokers, FireDance is Our Best Brown 6\" Flake subtly flavoured with a combination of blackberry, brandy and vanilla. The smoke is a mild, cool experience with the blackberry the predominant flavour, the brandy in the background and rounded off with the vanilla. A mild and fruity smoke with the strength of Best Brown and a very pleasing room aroma.",
+        "notes": "",
+        "reviewCount": 126,
+        "totalReviews": 141,
+        "averageRating": 2.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 34,
+            "3_star": 49,
+            "2_star": 39,
+            "1_star": 19
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.0769230769231,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.0,
+                    "Medium to Strong": 6.1538461538462,
+                    "Strong": 1.5384615384615,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 49.019607843137,
+                    "Mild to Medium": 56.862745098039,
+                    "Medium": 100.0,
+                    "Medium to Strong": 29.411764705882,
+                    "Strong": 21.56862745098,
+                    "Very Strong": 3.921568627451,
+                    "Extra Strong": 3.921568627451
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 1.5384615384615,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 53.846153846154,
+                    "Pleasant to Tolerable": 38.461538461538,
+                    "Tolerable": 15.384615384615,
+                    "Tolerable to Strong": 4.6153846153846,
+                    "Strong": 1.5384615384615,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.5384615384615
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.6363636363636,
+                    "Very Mild": 10.909090909091,
+                    "Mild": 25.454545454545,
+                    "Mild to Medium": 67.272727272727,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 7.2727272727273,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.8181818181818
+                }
+            }
+        }
+    }
+}

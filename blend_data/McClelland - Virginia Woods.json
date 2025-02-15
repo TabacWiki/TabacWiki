@@ -1,0 +1,94 @@
+{
+    "virginiawoods": {
+        "imagePath": "../blend_pictures/McClelland - Virginia Woods.jpg",
+        "name": "Virginia Woods",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Other / Misc",
+        "description": "Formulated for a smooth, rich flavor with an incomparable woodsy aroma. Blended from finest matured red cake, stoved black Virginia, wide-cut bright Virginia and other premium tobaccos. Virginia Woods offers one of the ultimate experiences in fragrant matured Virginia blend smoking.",
+        "notes": "Notes:Community note: There is some debate about whether this blend is an aromatic or Virginia (straight or otherwise) offering. There is definitely a noticeable top-note, and the blender admits such.  Most reviewers find the fragrance and taste obvious, so classification as an aromatic may make sense.",
+        "reviewCount": 73,
+        "totalReviews": 82,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 32,
+            "2_star": 13,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 18.75,
+                    "Mild": 75.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.75,
+                    "Medium to Strong": 18.75,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 95.833333333333,
+                    "Very Mild": 37.5,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 25.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 4.1666666666667,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 96.551724137931,
+                    "Very Pleasant": 20.689655172414,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 58.620689655172,
+                    "Tolerable to Strong": 3.448275862069,
+                    "Strong": 3.448275862069,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.6774193548387,
+                    "Mild": 32.258064516129,
+                    "Mild to Medium": 87.096774193548,
+                    "Medium": 100.0,
+                    "Medium to Full": 25.806451612903,
+                    "Full": 9.6774193548387,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

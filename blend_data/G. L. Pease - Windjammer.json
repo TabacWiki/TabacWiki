@@ -1,0 +1,94 @@
+{
+    "windjammer": {
+        "imagePath": "../blend_pictures/G. L. Pease - Windjammer.jpg",
+        "name": "Windjammer",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Burley,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin",
+        "flavoring": "Rum",
+        "description": "Windjammer combines naturally sweet, ripe Virginias, nutty burleys, toasted black cavendish, and a generous measure of perique, married together with a splash of dark rum.",
+        "notes": "",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 3.28,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 16,
+            "3_star": 11,
+            "2_star": 3,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.1428571428571,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 100.0,
+                    "Medium to Strong": 64.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 41.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 58.333333333333,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 90.909090909091,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 45.454545454545,
+                    "Tolerable to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.8823529411765,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 17.647058823529,
+                    "Medium": 64.705882352941,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

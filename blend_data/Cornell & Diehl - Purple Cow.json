@@ -1,0 +1,94 @@
+{
+    "purplecow": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Purple Cow.jpg",
+        "name": "Purple Cow",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Burley,  Cigar Leaf,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "A classic blend of burleys, bright Virginia ribbon, Latakia and Maduro cigar leaf.",
+        "notes": "",
+        "reviewCount": 50,
+        "totalReviews": 56,
+        "averageRating": 2.86,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 19,
+            "2_star": 9,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 17.391304347826,
+                    "Medium": 100.0,
+                    "Medium to Strong": 56.521739130435,
+                    "Strong": 47.826086956522,
+                    "Very Strong": 8.695652173913,
+                    "Extremely Strong": 4.3478260869565,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.5217391304348,
+                    "Very Mild": 2.1739130434783,
+                    "Mild": 2.1739130434783,
+                    "Mild to Medium": 2.1739130434783,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 2.1739130434783,
+                    "Strong": 2.1739130434783,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 22.727272727273,
+                    "Very Pleasant": 4.5454545454545,
+                    "Pleasant to Tolerable": 40.909090909091,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 54.545454545455,
+                    "Strong": 22.727272727273,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.1666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 12.5,
+                    "Medium": 37.5,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 4.1666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.1666666666667
+                }
+            }
+        }
+    }
+}

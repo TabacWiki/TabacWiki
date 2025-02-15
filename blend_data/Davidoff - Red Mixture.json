@@ -1,0 +1,94 @@
+{
+    "redmixture": {
+        "imagePath": "../blend_pictures/Davidoff - Red Mixture.jpg",
+        "name": "Red Mixture",
+        "blender": "Davidoff",
+        "blendedBy": "Orlik Tobacco Company",
+        "manufacturedBy": "Orlik Tobacco Company",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams tin",
+        "flavoring": "Caramel,  Vanilla",
+        "description": "This mixture owes its distinctive aroma to a luxurious blend of black cavendish tobaccos and the interesting contrast of Virginian ribbon cut. This is an exceptionally smooth blend, which burns evenly.",
+        "notes": "",
+        "reviewCount": 36,
+        "totalReviews": 40,
+        "averageRating": 2.93,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 18,
+            "2_star": 8,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 18.181818181818,
+                    "Very Mild": 45.454545454545,
+                    "Mild": 100.0,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 4.5454545454545,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 27.272727272727,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 72.727272727273,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 27.272727272727,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 84.210526315789,
+                    "Pleasant to Tolerable": 21.052631578947,
+                    "Tolerable": 5.2631578947368,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 23.076923076923,
+                    "Very Mild": 23.076923076923,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Full": 0.0,
+                    "Full": 23.076923076923,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

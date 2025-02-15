@@ -1,0 +1,94 @@
+{
+    "andullo": {
+        "imagePath": "../blend_pictures/Lane Limited - Andullo.jpg",
+        "name": "Andullo",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Cigar Leaf Based",
+        "contents": "Black Cavendish,  Cigar Leaf,  Latakia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Anisette,  Licorice,  Vanilla",
+        "description": "From P&C's website: Lane Andullo brings a type of tobacco never sold commercially in the US to their huge following of fans. Dominican Republic cigar leaf is tightly bunched for two years to create a dark and flavorful tobacco that has been smoked as pipe tobacco in the Dominican for a long time. The folks at Lane Limited got their hands on some of this rich leaf and combined it with a good amount of silky black cavendish to add smoothness to the blend, and finished it with a touch of latakia to add depth and complexity.",
+        "notes": "",
+        "reviewCount": 13,
+        "totalReviews": 15,
+        "averageRating": 2.87,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 6,
+            "2_star": 4,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 12.5,
+                    "Pleasant to Tolerable": 12.5,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 83.333333333333,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "parson'sblend": {
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Parson's Blend.jpg",
+        "name": "Parson's Blend",
+        "blender": "The Country Squire Tobacconist",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Fruit / Citrus",
+        "description": "Meet Parson's Blend... developed for the parson himself!  One of our dear customers, who happens to be an Anglican priest, asked for a blend that his wife would let him smoke indoors and that also would not lead to tongue bite.  Parson's Blend is our effort to deliver these characteristics in a mild, aromatic blend that leaves your mouth feeling soft and smooth and fills the room with a delicious, warm note.  Customers often say that Parson's Blend's smoke is \"thick\"; our experience is that it leaves you in the midst of a very pleasant cloud.  Delicious and crowd-pleasing!",
+        "notes": "Notes:Founded by Jim and Gwen Reeves in August of 1970, The Country Squire has been a Mississippi fixture and mainstay for over 40 years.  As Mississippi's oldest tobacconist, we feature over 20 unique and interesting house pipe tobacco blends.",
+        "reviewCount": 16,
+        "totalReviews": 18,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 3,
+            "2_star": 1,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.5,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 5.8823529411765,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 85.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 28.571428571429,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

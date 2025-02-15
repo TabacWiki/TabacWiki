@@ -1,0 +1,94 @@
+{
+    "princealbert'scherryvanilla": {
+        "imagePath": "../blend_pictures/John Middleton, Inc - Prince Albert's Cherry Vanilla.jpg",
+        "name": "Prince Albert's Cherry Vanilla",
+        "blender": "John Middleton, Inc",
+        "blendedBy": "John Middleton, Inc",
+        "manufacturedBy": "John Middleton, Inc.",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "1.5 ounce pouch, 9 ounce bag",
+        "flavoring": "Cherry,  Vanilla",
+        "description": "Crimp and shag cut burley with flakes of golden Virginia and a touch of black cavendish. A smooth and mild smoke combining cherry and vanilla flavor impacts.",
+        "notes": "",
+        "reviewCount": 40,
+        "totalReviews": 45,
+        "averageRating": 2.31,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 12,
+            "2_star": 14,
+            "1_star": 12
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 12.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.166666666667,
+                    "Medium": 8.3333333333333,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 14.285714285714,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.894736842105,
+                    "Pleasant to Tolerable": 52.631578947368,
+                    "Tolerable": 15.789473684211,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 33.333333333333,
+                    "Medium to Full": 5.5555555555556,
+                    "Full": 5.5555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

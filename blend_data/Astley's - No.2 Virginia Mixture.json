@@ -1,0 +1,94 @@
+{
+    "no.2virginiamixture": {
+        "imagePath": "../blend_pictures/Astley's - No.2 Virginia Mixture.jpg",
+        "name": "No.2 Virginia Mixture",
+        "blender": "Astley's",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "An unusual, well modulated blend of red and gold Virginias, balanced with perique.",
+        "notes": "Notes:Originally blended in England.",
+        "reviewCount": 35,
+        "totalReviews": 39,
+        "averageRating": 3.08,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 20,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 0.0,
+                    "Mild": 42.105263157895,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.631578947368,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 60.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 26.666666666667,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 20.0,
+                    "Medium to Strong": 13.333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 20.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 100.0,
+                    "Medium": 94.117647058824,
+                    "Medium to Full": 17.647058823529,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

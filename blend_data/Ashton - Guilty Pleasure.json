@@ -1,0 +1,94 @@
+{
+    "guiltypleasure": {
+        "imagePath": "../blend_pictures/Ashton - Guilty Pleasure.jpg",
+        "name": "Guilty Pleasure",
+        "blender": "Ashton",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus,  Mango,  Vanilla",
+        "description": "This glorious mixture of cavendish, Virginia and Carolina burley carries an irresistible aroma of vanilla, mango, and exotic citrus.",
+        "notes": "",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 2.35,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 17,
+            "2_star": 18,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.538461538462,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 100.0,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 15.384615384615,
+                    "Medium to Strong": 3.8461538461538,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 58.333333333333,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 50.0,
+                    "Very Strong": 25.0,
+                    "Extra Strong": 8.3333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 63.157894736842,
+                    "Pleasant to Tolerable": 63.157894736842,
+                    "Tolerable": 15.789473684211,
+                    "Tolerable to Strong": 21.052631578947,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 73.333333333333,
+                    "Medium": 73.333333333333,
+                    "Medium to Full": 20.0,
+                    "Full": 0.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 6.6666666666667,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

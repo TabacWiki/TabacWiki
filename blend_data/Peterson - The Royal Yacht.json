@@ -1,0 +1,94 @@
+{
+    "theroyalyacht": {
+        "imagePath": "../blend_pictures/Peterson - The Royal Yacht.jpg",
+        "name": "The Royal Yacht",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Plum",
+        "description": "Truly a luxurious tobacco. Virginias are carefully conditioned to ensure sweetness. They are added to rich, heavier and cooler Virginias. A unique flavor is added to the final blend to enhance the subtle and piquant aroma.",
+        "notes": "Notes:Pure shade grown Virginias, very soft smoking, particularly recommended in cases of delicate throat. -1917 \n\nLemon and bronze Virginia leaves are carefully conditioned and are added to rich heavy body Virginias, a unique flavour is added to the final blend. -1985\n\nFormerly known as a Dunhill blend, it now sports the Peterson brand.",
+        "reviewCount": 394,
+        "totalReviews": 438,
+        "averageRating": 3.01,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 181,
+            "3_star": 129,
+            "2_star": 80,
+            "1_star": 49
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.64935064935065,
+                    "Very Mild": 0.64935064935065,
+                    "Mild": 3.8961038961039,
+                    "Mild to Medium": 9.7402597402597,
+                    "Medium": 34.415584415584,
+                    "Medium to Strong": 90.25974025974,
+                    "Strong": 100.0,
+                    "Very Strong": 31.818181818182,
+                    "Extremely Strong": 8.4415584415584,
+                    "Overwhelming": 4.5454545454545
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 24.793388429752,
+                    "Extremely Mild": 33.884297520661,
+                    "Very Mild": 43.801652892562,
+                    "Mild": 100.0,
+                    "Mild to Medium": 62.809917355372,
+                    "Medium": 61.157024793388,
+                    "Medium to Strong": 23.96694214876,
+                    "Strong": 7.4380165289256,
+                    "Very Strong": 2.4793388429752,
+                    "Extra Strong": 1.6528925619835
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.3969465648855,
+                    "Pleasant": 74.809160305344,
+                    "Very Pleasant": 7.6335877862595,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 91.603053435115,
+                    "Tolerable to Strong": 30.534351145038,
+                    "Strong": 19.083969465649,
+                    "Very Strong": 1.5267175572519,
+                    "Extra Strong": 0.76335877862595,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.5211267605634,
+                    "Very Mild": 4.2253521126761,
+                    "Mild": 6.3380281690141,
+                    "Mild to Medium": 26.760563380282,
+                    "Medium": 71.830985915493,
+                    "Medium to Full": 100.0,
+                    "Full": 71.12676056338,
+                    "Very Full": 16.197183098592,
+                    "Extra Full": 2.8169014084507,
+                    "Overwhelming": 5.6338028169014
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "darkstoved": {
+        "imagePath": "../blend_pictures/Butera - Dark Stoved.jpg",
+        "name": "Dark Stoved",
+        "blender": "Butera",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "For the connoisseur who appreciates and enjoys the tangy, fragrant aromas, and sweet, rich tastes of well-seasoned, dark stoved tobaccos. A single zesty lemon Virginia leaf, picked at its peak, aged to perfection, carefully slow-stoved under pressure until the cakes turn to beautiful chocolate brown. Cut to flake form, Dark Stoved offers a maze of diverse tastes, with a mysterious flavor curve ranging from tart and spicy, through smooth and mellow... The perfect after-dinner, evening smoke... Cool and slow burning from top to bottom.",
+        "notes": "",
+        "reviewCount": 38,
+        "totalReviews": 43,
+        "averageRating": 2.91,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 9,
+            "2_star": 10,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 22.222222222222,
+                    "Mild to Medium": 94.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.588235294118,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 73.333333333333,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 93.333333333333,
+                    "Tolerable to Strong": 6.6666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.235294117647,
+                    "Medium to Full": 41.176470588235,
+                    "Full": 17.647058823529,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

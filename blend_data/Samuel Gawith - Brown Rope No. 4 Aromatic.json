@@ -1,0 +1,94 @@
+{
+    "brownropeno.4aromatic": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Brown Rope No. 4 Aromatic.jpg",
+        "name": "Brown Rope No. 4 Aromatic",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Rope",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Other / Misc,  Tonquin Bean",
+        "description": "Twisted forms of aged dark brown leaf with an aromatic character. Enormous flavor aroma and strength tamed with slow puffing.",
+        "notes": "",
+        "reviewCount": 8,
+        "totalReviews": 8,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 1,
+            "2_star": 1,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 100.0,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 66.666666666667,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 66.666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 33.333333333333,
+                    "Tolerable": 66.666666666667,
+                    "Tolerable to Strong": 33.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 50.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

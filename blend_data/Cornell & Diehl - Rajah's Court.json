@@ -1,0 +1,94 @@
+{
+    "rajah'scourt": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Rajah's Court.jpg",
+        "name": "Rajah's Court",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 oz tin, 8 oz tin",
+        "flavoring": "",
+        "description": "Red and bright aged Virginias provide an excellent, gently sweet, base for this medium to full English blend. Turkish Oriental leaf and Latakia add layers of earthy smokiness and a mild pepperiness to the overall composition.",
+        "notes": "Notes:Reminiscent of old Dunhill Durbar.",
+        "reviewCount": 32,
+        "totalReviews": 36,
+        "averageRating": 3.31,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 13,
+            "2_star": 6,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 23.529411764706,
+                    "Mild to Medium": 47.058823529412,
+                    "Medium": 100.0,
+                    "Medium to Strong": 35.294117647059,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.125,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 3.125,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 53.846153846154,
+                    "Very Pleasant": 15.384615384615,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 69.230769230769,
+                    "Tolerable to Strong": 23.076923076923,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.6666666666667,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 53.333333333333,
+                    "Full": 40.0,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

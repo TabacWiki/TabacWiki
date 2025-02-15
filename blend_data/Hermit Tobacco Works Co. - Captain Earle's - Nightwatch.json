@@ -1,0 +1,94 @@
+{
+    "captainearle's-nightwatch": {
+        "imagePath": "../blend_pictures/Hermit Tobacco Works Co. - Captain Earle's - Nightwatch.jpg",
+        "name": "Captain Earle's - Nightwatch",
+        "blender": "Hermit Tobacco Works Co.",
+        "blendedBy": "Cornell & Diehl",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce and 8 ounce tins",
+        "flavoring": "",
+        "description": "Captain Earle's Nightwatch is deep, rich and full of smoky latakia. This old fashioned Crumble Cake is the perfect blend for those quiet, contemplative moments whether standing the night watch on the deck of a clipper ship or in the comfort of your study.",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 3.45,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 10,
+            "2_star": 2,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 21.428571428571,
+                    "Medium": 100.0,
+                    "Medium to Strong": 57.142857142857,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.448275862069,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 63.636363636364,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 63.636363636364,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 27.272727272727,
+                    "Strong": 18.181818181818,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 10.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 90.0,
+                    "Very Full": 40.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

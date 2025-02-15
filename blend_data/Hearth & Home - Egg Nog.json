@@ -1,0 +1,94 @@
+{
+    "eggnog": {
+        "imagePath": "../blend_pictures/Hearth & Home - Egg Nog.jpg",
+        "name": "Egg Nog",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "1.5oz Tin, 8oz Tin, Bulk",
+        "flavoring": "Cinnamon,  Other / Misc,  Rum,  Vanilla",
+        "description": "The first true aromatic in the Hearth and Home series. A light and dark mixture with rum, vanilla, cinnamon and nutmeg flavorings. Although the aroma is complex, pleasant and mildly sweet, the spice flavorings come through more prominently in the smoking. A bite-free blend that will please anyone in the room.",
+        "notes": "",
+        "reviewCount": 47,
+        "totalReviews": 53,
+        "averageRating": 2.6,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 16,
+            "3_star": 10,
+            "2_star": 17,
+            "1_star": 10
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 15.0,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 15.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 5.5555555555556,
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 72.222222222222,
+                    "Medium": 100.0,
+                    "Medium to Strong": 27.777777777778,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 5.5555555555556
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 80.769230769231,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 11.538461538462,
+                    "Tolerable": 3.8461538461538,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 3.8461538461538,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 23.809523809524,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.857142857143,
+                    "Medium to Full": 19.047619047619,
+                    "Full": 9.5238095238095,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "bayoumorningflake": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Bayou Morning Flake.jpg",
+        "name": "Bayou Morning Flake",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Bob Runowski",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "A Virginia/perique lover's delight! The folks at C&D start with old belt red Virginias, add 25% perique and press the whole thing before slicing it into Bayou Morning Flake.",
+        "notes": "",
+        "reviewCount": 90,
+        "totalReviews": 100,
+        "averageRating": 3.06,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 40,
+            "3_star": 32,
+            "2_star": 22,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.7142857142857,
+                    "Mild to Medium": 22.857142857143,
+                    "Medium": 91.428571428571,
+                    "Medium to Strong": 100.0,
+                    "Strong": 37.142857142857,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 8.5714285714286,
+                    "Overwhelming": 5.7142857142857
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.75,
+                    "Very Mild": 8.75,
+                    "Mild": 5.0,
+                    "Mild to Medium": 1.25,
+                    "Medium": 2.5,
+                    "Medium to Strong": 1.25,
+                    "Strong": 1.25,
+                    "Very Strong": 1.25,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.2631578947368,
+                    "Pleasant": 36.842105263158,
+                    "Very Pleasant": 7.8947368421053,
+                    "Pleasant to Tolerable": 47.368421052632,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 42.105263157895,
+                    "Strong": 18.421052631579,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.6315789473684,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 7.8947368421053,
+                    "Mild to Medium": 18.421052631579,
+                    "Medium": 100.0,
+                    "Medium to Full": 81.578947368421,
+                    "Full": 26.315789473684,
+                    "Very Full": 18.421052631579,
+                    "Extra Full": 2.6315789473684,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

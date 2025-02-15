@@ -1,0 +1,94 @@
+{
+    "barbarycoast": {
+        "imagePath": "../blend_pictures/G. L. Pease - Barbary Coast.jpg",
+        "name": "Barbary Coast",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "Brandy",
+        "description": "The finest cube-cut burley, chosen for its deep, nutty flavors, forms a robust foundation for this sophisticated blend. Rich, red Virginia tobaccos are added for their subtle sweetness and complexity, while the unique spice of perique provides added dimension. A delicate kiss of Brandy polishes the blend to a perfect finish. Barbary Coast is delightfully satisfying, with hints of black walnut, dark chocolate, and dried fruits. The perfect \"all-day\" smoke!",
+        "notes": "Notes:From GL Pease: The name, Barbary Coast, came from my good friend Toren Smiith, in one of the most mind-stunning stream of consciousness, free association, brain dump emails I've ever received. As soon as I saw it, I knew it was the perfect name. Thanks, Toren, and everyone else who sent great suggestions! The prize? You're lookin' at it, buddy! Fame, but no fortune.\n\nBarbary Coast was introduced in March, 2001.",
+        "reviewCount": 192,
+        "totalReviews": 214,
+        "averageRating": 3.01,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 79,
+            "3_star": 71,
+            "2_star": 52,
+            "1_star": 12
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.94339622641509,
+                    "Very Mild": 1.8867924528302,
+                    "Mild": 17.924528301887,
+                    "Mild to Medium": 46.22641509434,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.471698113208,
+                    "Strong": 6.6037735849057,
+                    "Very Strong": 1.8867924528302,
+                    "Extremely Strong": 0.94339622641509,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.5757575757576,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 60.606060606061,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.212121212121,
+                    "Medium": 46.969696969697,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 1.5151515151515,
+                    "Very Strong": 1.5151515151515,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.2105263157895,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 23.684210526316,
+                    "Pleasant to Tolerable": 98.684210526316,
+                    "Tolerable": 32.894736842105,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 6.5789473684211,
+                    "Very Strong": 1.3157894736842,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.9473684210526
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 3.1578947368421,
+                    "Mild": 9.4736842105263,
+                    "Mild to Medium": 41.052631578947,
+                    "Medium": 100.0,
+                    "Medium to Full": 45.263157894737,
+                    "Full": 16.842105263158,
+                    "Very Full": 2.1052631578947,
+                    "Extra Full": 1.0526315789474,
+                    "Overwhelming": 1.0526315789474
+                }
+            }
+        }
+    }
+}

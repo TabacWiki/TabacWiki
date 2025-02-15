@@ -1,0 +1,94 @@
+{
+    "cubesilver": {
+        "imagePath": "../blend_pictures/Mac Baren - Cube Silver.jpg",
+        "name": "Cube Silver",
+        "blender": "Mac Baren",
+        "blendedBy": "Henrik Halberg",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "3.5 ounce bag within a box, 40 grams pouch",
+        "flavoring": "Cocoa / Chocolate,  Fruit / Citrus,  Sweet / Sugar",
+        "description": "27 different tobaccos have been blended to achieve this mild and yet satisfying tobacco blend. We have used loose cut golden Virginia tobacco and a little ready rubbed burley. Then a special Virginia cavendish was added to complete the blend. Puzzle your senses with its deep, sweet and fruity taste. Each time will be better than the last. Mac Baren Cube is THE smoking experience for the true connoisseur.",
+        "notes": "",
+        "reviewCount": 21,
+        "totalReviews": 24,
+        "averageRating": 2.5,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 4,
+            "2_star": 7,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.363636363636,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 75.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 100.0,
+                    "Very Strong": 37.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 63.636363636364,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 27.272727272727,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.857142857143,
+                    "Medium": 14.285714285714,
+                    "Medium to Full": 57.142857142857,
+                    "Full": 71.428571428571,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 42.857142857143
+                }
+            }
+        }
+    }
+}

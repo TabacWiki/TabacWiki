@@ -1,0 +1,94 @@
+{
+    "nightcap": {
+        "imagePath": "../blend_pictures/Peterson - Nightcap.jpg",
+        "name": "Nightcap",
+        "blender": "Peterson",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A rich blend of Virginia, Oriental, and Latakia tobaccos, intended to be smoked late in the day. It's a smoky, delightfully satisfying mixture, with a hint of Perique added to enhance the bouquet.",
+        "notes": "Notes:Formerly known as Dunhill Nightcap, STG has changed the brand name from \"Dunhill\" to \"Peterson\".",
+        "reviewCount": 616,
+        "totalReviews": 685,
+        "averageRating": 3.46,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 436,
+            "3_star": 160,
+            "2_star": 59,
+            "1_star": 30
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.7843137254902,
+                    "Very Mild": 2.3529411764706,
+                    "Mild": 1.5686274509804,
+                    "Mild to Medium": 4.3137254901961,
+                    "Medium": 30.980392156863,
+                    "Medium to Strong": 84.313725490196,
+                    "Strong": 100.0,
+                    "Very Strong": 35.686274509804,
+                    "Extremely Strong": 5.0980392156863,
+                    "Overwhelming": 3.5294117647059
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 9.5022624434389,
+                    "Mild to Medium": 3.6199095022624,
+                    "Medium": 5.4298642533937,
+                    "Medium to Strong": 8.1447963800905,
+                    "Strong": 4.7511312217195,
+                    "Very Strong": 1.3574660633484,
+                    "Extra Strong": 0.90497737556561
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable to Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.7735849056604,
+                    "Pleasant": 34.591194968553,
+                    "Very Pleasant": 11.320754716981,
+                    "Pleasant to Tolerable": 57.232704402516,
+                    "Tolerable": 94.96855345912,
+                    "Tolerable to Strong": 100.0,
+                    "Strong": 93.081761006289,
+                    "Very Strong": 27.044025157233,
+                    "Extra Strong": 5.6603773584906,
+                    "Overwhelming": 3.1446540880503
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.2903225806452,
+                    "Very Mild": 1.2903225806452,
+                    "Mild": 3.5483870967742,
+                    "Mild to Medium": 4.1935483870968,
+                    "Medium": 14.838709677419,
+                    "Medium to Full": 42.258064516129,
+                    "Full": 100.0,
+                    "Very Full": 45.806451612903,
+                    "Extra Full": 5.8064516129032,
+                    "Overwhelming": 1.9354838709677
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "summertime2011": {
+        "imagePath": "../blend_pictures/Peterson - Summertime 2011.jpg",
+        "name": "Summertime 2011",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Blackberry, Blackcurrant",
+        "description": "A wonderful, bright pipe tobacco, blended with brown cavendish, double fermented black cavendish and a high proportion of golden Virginia is then rounded off with cube cuts. All combined the result is a highly aromatic and sweet  taste with a fantastic fruity aroma of blackcurrants and  blackberries",
+        "notes": "",
+        "reviewCount": 8,
+        "totalReviews": 9,
+        "averageRating": 2.89,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 4,
+            "2_star": 0,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 25.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 75.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 75.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 50.0,
+                    "Very Mild": 0.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

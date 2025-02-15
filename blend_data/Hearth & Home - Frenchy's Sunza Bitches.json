@@ -1,0 +1,94 @@
+{
+    "frenchy'ssunzabitches": {
+        "imagePath": "../blend_pictures/Hearth & Home - Frenchy's Sunza Bitches.jpg",
+        "name": "Frenchy's Sunza Bitches",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "Bourbon",
+        "description": "For those who prefer a little Virginia with their perique, your ship has come in. The addition of the burley and bourbon toppings does set it apart a bit, it's still a VaPer to the core with nothing spared when it comes to the perique.  This is an excellent blend that smokes clean and cool with not a hint of bite.",
+        "notes": "",
+        "reviewCount": 40,
+        "totalReviews": 45,
+        "averageRating": 2.44,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 12,
+            "2_star": 11,
+            "1_star": 12
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 41.176470588235,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 36.363636363636,
+                    "Extremely Mild": 90.909090909091,
+                    "Very Mild": 100.0,
+                    "Mild": 81.818181818182,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 27.272727272727,
+                    "Medium to Strong": 18.181818181818,
+                    "Strong": 0.0,
+                    "Very Strong": 9.0909090909091,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 52.941176470588,
+                    "Very Pleasant": 5.8823529411765,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 70.588235294118,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 11.764705882353,
+                    "Very Mild": 5.8823529411765,
+                    "Mild": 11.764705882353,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 100.0,
+                    "Medium to Full": 82.352941176471,
+                    "Full": 41.176470588235,
+                    "Very Full": 0.0,
+                    "Extra Full": 5.8823529411765,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

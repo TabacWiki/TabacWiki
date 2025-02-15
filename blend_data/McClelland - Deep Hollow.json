@@ -1,0 +1,94 @@
+{
+    "deephollow": {
+        "imagePath": "../blend_pictures/McClelland - Deep Hollow.jpg",
+        "name": "Deep Hollow",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Vanilla",
+        "description": "Far into the woods, away from the urban cacophony, is where the light, fragrant blend of rich red stoved Virginias is designed to transport the smoker. Relax and enjoy the moment.",
+        "notes": "Notes:The name Deep Hollow comes from the works of JRR Tolkien. Deephallow (Deep Hollow): A village on the Shire's eastern border, built on the banks of the River Brandywine. Immediately across the river was  Haysend, the southernmost point of Buckland, while just to the south of Deephallow, the River Shirebourn flowed into the Brandywine.",
+        "reviewCount": 72,
+        "totalReviews": 81,
+        "averageRating": 2.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 20,
+            "3_star": 27,
+            "2_star": 28,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.7619047619048,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 100.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 9.5238095238095,
+                    "Medium to Strong": 2.3809523809524,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 28.571428571429,
+                    "Extremely Mild": 35.714285714286,
+                    "Very Mild": 42.857142857143,
+                    "Mild": 100.0,
+                    "Mild to Medium": 32.142857142857,
+                    "Medium": 32.142857142857,
+                    "Medium to Strong": 7.1428571428571,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 3.5714285714286
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 52.631578947368,
+                    "Pleasant to Tolerable": 42.105263157895,
+                    "Tolerable": 15.789473684211,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 2.6315789473684,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.1081081081081,
+                    "Very Mild": 13.513513513514,
+                    "Mild": 54.054054054054,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.135135135135,
+                    "Medium to Full": 8.1081081081081,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

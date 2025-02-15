@@ -1,0 +1,94 @@
+{
+    "1792flake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - 1792 Flake.jpg",
+        "name": "1792 Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia Based",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Tonquin Bean",
+        "description": "",
+        "notes": "Notes:1792 Flake is a full-strength, mellow tobacco comprising a blend of dark fired  Tanzanian leaf. It is Gawith's best selling premium grade flake. It starts as 7 lbs. of hand stripped leaf and goes through a steaming process prior to being pressed. The cake, having been prepared, is wrapped in a select leaf and packed by hand into a 12 inch square. This cake is pressed and left for a minimum of two hours. Then, the pressed cake is placed into a steam press where it is baked at full heat for two to three hours. The baked cake has then taken on 1792's characteristic rich, dark color. Its hardening occurs during cooling. Once the process of cutting the flake and adding a tonquin flavor is carried out, hand wrapping and packing finalizes 1792, making it ready for rubbing into your pipe.\n\nSold as \"Cob Flake\" in England.",
+        "reviewCount": 409,
+        "totalReviews": 455,
+        "averageRating": 3.05,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 196,
+            "3_star": 138,
+            "2_star": 71,
+            "1_star": 50
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.51813471502591,
+                    "Very Mild": 0.0,
+                    "Mild": 1.0362694300518,
+                    "Mild to Medium": 1.5544041450777,
+                    "Medium": 10.362694300518,
+                    "Medium to Strong": 41.450777202073,
+                    "Strong": 100.0,
+                    "Very Strong": 53.367875647668,
+                    "Extremely Strong": 20.20725388601,
+                    "Overwhelming": 7.2538860103627
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.31746031746,
+                    "Extremely Mild": 5.5555555555556,
+                    "Very Mild": 15.079365079365,
+                    "Mild": 29.365079365079,
+                    "Mild to Medium": 34.126984126984,
+                    "Medium": 100.0,
+                    "Medium to Strong": 75.396825396825,
+                    "Strong": 65.079365079365,
+                    "Very Strong": 19.047619047619,
+                    "Extra Strong": 7.1428571428571
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.950495049505,
+                    "Pleasant": 58.415841584158,
+                    "Very Pleasant": 20.792079207921,
+                    "Pleasant to Tolerable": 80.19801980198,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 77.227722772277,
+                    "Strong": 62.376237623762,
+                    "Very Strong": 24.752475247525,
+                    "Extra Strong": 7.9207920792079,
+                    "Overwhelming": 13.861386138614
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.58823529411765,
+                    "Very Mild": 0.58823529411765,
+                    "Mild": 1.7647058823529,
+                    "Mild to Medium": 5.8823529411765,
+                    "Medium": 22.941176470588,
+                    "Medium to Full": 46.470588235294,
+                    "Full": 100.0,
+                    "Very Full": 62.352941176471,
+                    "Extra Full": 17.058823529412,
+                    "Overwhelming": 10.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1-q": {
+        "imagePath": "../blend_pictures/Lane Limited - 1-Q.jpg",
+        "name": "1-Q",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk, 50 grams tin",
+        "flavoring": "Vanilla",
+        "description": "Basically a golden cavendish blend but with a hint of fire-cured blended in provides scintillating taste and flavorful aroma.",
+        "notes": "Notes:Despite confusion caused by persistent rumor, 1-Q is a Lane product and a Lane invention, sold by many brick and mortar shops under many names, including 'Wilshire' by the TinderBox stores.",
+        "reviewCount": 360,
+        "totalReviews": 401,
+        "averageRating": 2.78,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 110,
+            "3_star": 146,
+            "2_star": 92,
+            "1_star": 54
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 14.414414414414,
+                    "Very Mild": 43.693693693694,
+                    "Mild": 100.0,
+                    "Mild to Medium": 17.567567567568,
+                    "Medium": 3.6036036036036,
+                    "Medium to Strong": 0.9009009009009,
+                    "Strong": 0.45045045045045,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 2.6785714285714,
+                    "Extremely Mild": 15.178571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 93.75,
+                    "Medium": 68.75,
+                    "Medium to Strong": 27.678571428571,
+                    "Strong": 15.178571428571,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 2.6785714285714
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.2654028436019,
+                    "Pleasant": 67.772511848341,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 11.848341232227,
+                    "Tolerable": 2.3696682464455,
+                    "Tolerable to Strong": 2.3696682464455,
+                    "Strong": 1.4218009478673,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 16.774193548387,
+                    "Very Mild": 31.612903225806,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.451612903226,
+                    "Medium": 28.387096774194,
+                    "Medium to Full": 8.3870967741935,
+                    "Full": 4.5161290322581,
+                    "Very Full": 1.9354838709677,
+                    "Extra Full": 0.64516129032258,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "brokenscotchcake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Broken Scotch Cake.jpg",
+        "name": "Broken Scotch Cake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "",
+        "description": "A very mild blend, using predominantly flue cured Virginia, but with the addition of some sun cured both to cool and sweeten the smoke. A rough cut into very coarse pieces also contributes to cooling the smoke.",
+        "notes": "",
+        "reviewCount": 50,
+        "totalReviews": 56,
+        "averageRating": 2.89,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 29,
+            "2_star": 12,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 10.526315789474,
+                    "Very Mild": 36.842105263158,
+                    "Mild": 94.736842105263,
+                    "Mild to Medium": 100.0,
+                    "Medium": 42.105263157895,
+                    "Medium to Strong": 10.526315789474,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 55.0,
+                    "Very Mild": 45.0,
+                    "Mild": 55.0,
+                    "Mild to Medium": 5.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 5.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 20.0,
+                    "Pleasant to Tolerable": 64.0,
+                    "Tolerable": 40.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 21.739130434783,
+                    "Mild": 60.869565217391,
+                    "Mild to Medium": 100.0,
+                    "Medium": 52.173913043478,
+                    "Medium to Full": 4.3478260869565,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.3478260869565
+                }
+            }
+        }
+    }
+}

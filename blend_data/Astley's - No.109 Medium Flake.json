@@ -1,0 +1,94 @@
+{
+    "no.109mediumflake": {
+        "imagePath": "../blend_pictures/Astley's - No.109 Medium Flake.jpg",
+        "name": "No.109 Medium Flake",
+        "blender": "Astley's",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "No longer in production",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "flavoring": "",
+        "description": "An excellent all day smoke for the Virginia lover. Mild and mellow mixture.",
+        "notes": "Notes:Originally blended in England.",
+        "reviewCount": 66,
+        "totalReviews": 74,
+        "averageRating": 3.24,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 33,
+            "3_star": 29,
+            "2_star": 9,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 65.384615384615,
+                    "Mild to Medium": 100.0,
+                    "Medium": 84.615384615385,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 0.0,
+                    "Very Strong": 3.8461538461538,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 37.5,
+                    "Very Mild": 17.5,
+                    "Mild": 27.5,
+                    "Mild to Medium": 0.0,
+                    "Medium": 2.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 90.0,
+                    "Tolerable": 30.0,
+                    "Tolerable to Strong": 3.3333333333333,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 32.258064516129,
+                    "Mild to Medium": 83.870967741935,
+                    "Medium": 100.0,
+                    "Medium to Full": 6.4516129032258,
+                    "Full": 12.903225806452,
+                    "Very Full": 0.0,
+                    "Extra Full": 3.2258064516129,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

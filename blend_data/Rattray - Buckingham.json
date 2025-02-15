@@ -1,0 +1,94 @@
+{
+    "buckingham": {
+        "imagePath": "../blend_pictures/Rattray - Buckingham.jpg",
+        "name": "Buckingham",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Mixture",
+        "packaging": "100 grams tin",
+        "flavoring": "Cinnamon,  Nuts / Beans,  Other / Misc,  Vanilla",
+        "description": "Buckingham combines a mixture of black cavendish, bright and dark Virginias and fragrant burley. Enjoying this blend you will experience the true promise of hickory nut and bourbon vanilla hitting the scent of cinnamon.",
+        "notes": "Notes:Buckingham is apparently a new incarnation of Peterson Gold Blend, whose recipe is owned by Kohlhase & Kopp.",
+        "reviewCount": 16,
+        "totalReviews": 18,
+        "averageRating": 3.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 8,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 62.5,
+                    "Mild to Medium": 62.5,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 10.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 100.0,
+                    "Medium to Full": 9.0909090909091,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

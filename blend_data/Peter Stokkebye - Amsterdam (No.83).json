@@ -1,0 +1,94 @@
+{
+    "amsterdam(no.83)": {
+        "imagePath": "../blend_pictures/Peter Stokkebye - Amsterdam (No.83).jpg",
+        "name": "Amsterdam (No.83)",
+        "blender": "Peter Stokkebye",
+        "blendedBy": "Peter Stokkebye",
+        "manufacturedBy": "Peter Stokkebye",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A spicy blend of excellent fire cured Kentucky and full bodied, rich Virginia tobaccos.",
+        "notes": "Notes:This comes in two cuts: a fine ribbon (in bulk) for pipes, and a fine shag (in pouch) for RYO.",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 2.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 15,
+            "2_star": 7,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 30.769230769231,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Strong": 61.538461538462,
+                    "Strong": 23.076923076923,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 4.7619047619048,
+                    "Mild": 9.5238095238095,
+                    "Mild to Medium": 9.5238095238095,
+                    "Medium": 4.7619047619048,
+                    "Medium to Strong": 0.0,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 21.428571428571,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 35.714285714286,
+                    "Strong": 7.1428571428571,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 27.272727272727,
+                    "Mild to Medium": 45.454545454545,
+                    "Medium": 100.0,
+                    "Medium to Full": 72.727272727273,
+                    "Full": 27.272727272727,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

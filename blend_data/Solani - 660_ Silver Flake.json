@@ -1,0 +1,94 @@
+{
+    "660:silverflake": {
+        "imagePath": "../blend_pictures/Solani - 660: Silver Flake.jpg",
+        "name": "660: Silver Flake",
+        "blender": "Solani",
+        "blendedBy": "R.L. Will",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia Based",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Flake",
+        "packaging": "100 grams tin",
+        "flavoring": "",
+        "description": "An incredible blend of premium dark red and sweet Virginias from the \"border belt\", light yellow Virginia from South Carolina, and dark-fired, spicy Kentucky.  Slow burning and because no flavoring has been added, this blend has a real tobacco taste.",
+        "notes": "",
+        "reviewCount": 113,
+        "totalReviews": 126,
+        "averageRating": 3.64,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 89,
+            "3_star": 30,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 24.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Strong": 38.571428571429,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.205128205128,
+                    "Very Mild": 14.102564102564,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 5.1282051282051,
+                    "Medium": 3.8461538461538,
+                    "Medium to Strong": 2.5641025641026,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.8181818181818,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 9.0909090909091,
+                    "Pleasant to Tolerable": 90.909090909091,
+                    "Tolerable": 56.818181818182,
+                    "Tolerable to Strong": 13.636363636364,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.8181818181818,
+                    "Very Mild": 0.0,
+                    "Mild": 7.2727272727273,
+                    "Mild to Medium": 23.636363636364,
+                    "Medium": 67.272727272727,
+                    "Medium to Full": 100.0,
+                    "Full": 25.454545454545,
+                    "Very Full": 1.8181818181818,
+                    "Extra Full": 1.8181818181818,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

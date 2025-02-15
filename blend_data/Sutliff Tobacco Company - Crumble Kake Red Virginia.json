@@ -1,0 +1,94 @@
+{
+    "crumblekakeredvirginia": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Crumble Kake Red Virginia.jpg",
+        "name": "Crumble Kake Red Virginia",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "1.5 ounce tin",
+        "flavoring": "",
+        "description": "Aged red Virginias pressed into a vintage crumble cake providing an exceptionally sweet and smooth smoke.",
+        "notes": "",
+        "reviewCount": 34,
+        "totalReviews": 38,
+        "averageRating": 3.24,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 9,
+            "2_star": 4,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 61.111111111111,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.4516129032258,
+                    "Very Mild": 9.6774193548387,
+                    "Mild": 3.2258064516129,
+                    "Mild to Medium": 3.2258064516129,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 75.0,
+                    "Tolerable": 31.25,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 11.111111111111,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "longbottomleaf": {
+        "imagePath": "../blend_pictures/Just For Him - Longbottom Leaf.jpg",
+        "name": "Longbottom Leaf",
+        "blender": "Just For Him",
+        "blendedBy": "Bob Schafer",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Vanilla",
+        "description": "This is the first in the Middle Earth Pipeweed Series! Fragrant Virginias are blended with a hint of vanilla to produce the finest leaf the Shire has to offer!",
+        "notes": "",
+        "reviewCount": 32,
+        "totalReviews": 36,
+        "averageRating": 2.72,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 18,
+            "2_star": 11,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 42.105263157895,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 22.727272727273,
+                    "Mild": 100.0,
+                    "Mild to Medium": 13.636363636364,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.764705882353,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 64.705882352941,
+                    "Pleasant to Tolerable": 23.529411764706,
+                    "Tolerable": 11.764705882353,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.1428571428571,
+                    "Very Mild": 28.571428571429,
+                    "Mild": 100.0,
+                    "Mild to Medium": 78.571428571429,
+                    "Medium": 35.714285714286,
+                    "Medium to Full": 7.1428571428571,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

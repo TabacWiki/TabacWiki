@@ -1,0 +1,94 @@
+{
+    "oldmaster": {
+        "imagePath": "../blend_pictures/McCranie's - Old Master.jpg",
+        "name": "Old Master",
+        "blender": "McCranie's",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Prime, ribbon-cut Burley with a touch of Virginia Bright. A truly rich Burley without added flavorings. A great natural blend for Burley lovers.",
+        "notes": "",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 3.57,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 16,
+            "3_star": 12,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 7.1428571428571,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 70.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 100.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 27.777777777778,
+                    "Pleasant to Tolerable": 22.222222222222,
+                    "Tolerable": 5.5555555555556,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 81.818181818182,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

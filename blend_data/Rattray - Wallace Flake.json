@@ -1,0 +1,94 @@
+{
+    "wallaceflake": {
+        "imagePath": "../blend_pictures/Rattray - Wallace Flake.jpg",
+        "name": "Wallace Flake",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Plum",
+        "description": "We would describe 'Wallace Flake' as the Holy Grail among the flakes. Try these extraordinary creation, and you will know why we stick out our neck that far. Virginia tobaccos, whose color ranges from golden to chocolate brown, were combined with sun-dried India and finally refined with a very fine plum aroma.",
+        "notes": "Notes:After K&K lost the Peterson range to Mac Baren, they did not want to waste their recipes. They tweaked them a little and simply renamed the old Peterson line to be re-released under the Rattray's label: Malcolm Flake being Erinmore Flake; Sterling Flake being Irish Flake; and Wallace Flake being University Flake.",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 2.93,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 14,
+            "2_star": 6,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 46.153846153846,
+                    "Medium": 100.0,
+                    "Medium to Strong": 38.461538461538,
+                    "Strong": 7.6923076923077,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 11.111111111111,
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 77.777777777778,
+                    "Mild": 100.0,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 11.111111111111
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 18.181818181818,
+                    "Pleasant": 90.909090909091,
+                    "Very Pleasant": 27.272727272727,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 18.181818181818,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

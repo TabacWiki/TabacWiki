@@ -1,0 +1,94 @@
+{
+    "cherrybomb": {
+        "imagePath": "../blend_pictures/CAO - Cherry Bomb.jpg",
+        "name": "Cherry Bomb",
+        "blender": "CAO",
+        "blendedBy": "Scandinavian Tobacco Group for CAO International",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "50 grams tin",
+        "flavoring": "Cherry,  Vanilla",
+        "description": "Cherry Bomb uses some of the finest flue cured Virginias and steamed black cavendish tobaccos and enhances them with excellent notes of tangy cherry and silky vanilla for wonderful flavor and aroma.",
+        "notes": "",
+        "reviewCount": 44,
+        "totalReviews": 49,
+        "averageRating": 2.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 15,
+            "2_star": 15,
+            "1_star": 13
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.1666666666667,
+                    "Very Mild": 37.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 7.6923076923077,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 69.230769230769,
+                    "Mild to Medium": 69.230769230769,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.153846153846,
+                    "Strong": 38.461538461538,
+                    "Very Strong": 15.384615384615,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 71.428571428571,
+                    "Pleasant to Tolerable": 28.571428571429,
+                    "Tolerable": 9.5238095238095,
+                    "Tolerable to Strong": 4.7619047619048,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 31.25,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 81.25,
+                    "Medium to Full": 0.0,
+                    "Full": 18.75,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

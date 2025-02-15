@@ -1,0 +1,94 @@
+{
+    "fleetenkieker": {
+        "imagePath": "../blend_pictures/Dan Tobacco - Fleetenkieker.jpg",
+        "name": "Fleetenkieker",
+        "blender": "Dan Tobacco",
+        "blendedBy": "Dan Tobacco",
+        "manufacturedBy": "Dan Tobacco",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Other",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 250 grams bulk",
+        "flavoring": "Other / Misc",
+        "description": "Sun cured, golden colored Virginia tobaccos from Zaire and Mysore in varying cuts, a tiny pinch of Louisiana perique and a lot of black cavendish with a mild aromatization. Sweet and aromatic, mellow and pleasantly gossamery. Suitable for any bowl with, but plays his strengths best in medium-wide bowls.\n\nThis way these old \"ragpickers\" became socially acceptable. An uncomplicated, reliable companian for all-day!",
+        "notes": "Notes:\"Once they rummaged through the \"Alsterkan\u00e4le\" (The canal-system of Alster; also called \"Fleete\") with their thigh-high boots, looking for (re-)useable things. Today a very popular restaurant in Hamburg is named after them.\n\n(The recipe was changed and now doesn't contain latakia, nor Oriental leafs.)",
+        "reviewCount": 3,
+        "totalReviews": 3,
+        "averageRating": 2.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 1,
+            "2_star": 2,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

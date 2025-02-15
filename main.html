@@ -1,0 +1,1638 @@
+<!DOCTYPE html>
+<!-- Version 1.0.1 -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabac Wiki</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        .title-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-bottom: 2rem;
+        }
+        .site-logo {
+            width: 48px;
+            height: 48px;
+            transition: transform 0.3s ease, filter 0.3s ease;
+        }
+        .site-logo:hover {
+            transform: scale(1.2) rotate(5deg) skew(5deg);
+            filter: brightness(1.2);
+        }
+        #suggestionsList {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        #suggestionsList .suggestion-item:hover {
+            background-color: rgba(255,255,255,0.1);
+        }
+        #debugOutput {
+            background-color: rgba(74, 43, 43, 0);
+            color: rgba(36, 36, 36, 0);
+            padding: 10px;
+            margin-top: 20px;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .custom-checkbox-container {
+            display: flex;
+            align-items: center;
+            padding: 6px 8px;
+            border-radius: 6px;
+            transition: background-color 0.2s;
+            cursor: pointer;
+            gap: 20px;
+        }
+        .custom-checkbox-container:hover {
+            background-color: rgba(255,255,255,0.05);
+        }
+        .custom-checkbox {
+            position: relative;
+            width: 18px;
+            height: 18px;
+            border: 2px solid #4b3f38b5;
+            border-radius: 4px;
+            transition: all 0.2s;
+            cursor: pointer;
+
+        }
+        .custom-checkbox input[type='checkbox'] {
+            opacity: 0;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+            z-index: 2;
+        }
+        .custom-checkbox .checkmark {
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            width: 12px;
+            height: 12px;
+            background-color: #1f1a18;
+            border-radius: 2px;
+            transform: scale(0);
+            transition: transform 0.2s;
+        }
+        .custom-checkbox input[type='checkbox']:checked + .checkmark {
+            transform: scale(1);
+        }
+        .custom-checkbox input[type='checkbox']:checked ~ .custom-checkbox {
+            border-color: #322222;
+        }
+        .custom-checkbox-label {
+            font-size: 0.9rem;
+            color: #E5E7EB;
+            user-select: none;
+
+        }
+        .upload-container {
+            position: relative;
+            cursor: pointer;
+        }
+        .upload-hover-banner {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(200, 159, 101, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            color: #27201E;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-radius: 0.5rem;
+        }
+        .upload-container:hover .upload-hover-banner {
+            opacity: 1;
+        }
+        @keyframes flag-wave {
+            0%, 100% { transform: rotate(0deg) skew(0deg); }
+            50% { transform: rotate(10deg) skew(5deg); }
+        }
+        .flag-wave {
+            animation: flag-wave 1.5s ease-in-out infinite;
+        }
+    </style>
+</head>
+<body class="bg-[#1f1a18] text-[#8E8074] min-h-screen">
+    <div id="initialLoadingOverlay" class="fixed inset-0 bg-[#1f1a18]/80 z-[1000] flex flex-col items-center justify-center">
+        <img src="/favicon.ico" alt="Tabac Wiki Logo" class="w-24 h-24 flag-wave">
+        <p class="text-[#8E8074] text-lg mt-4 tracking-wider">Loading database...</p>
+    </div>
+    <div class="flex min-h-screen" id="searchContainer">
+        <!-- Sidebar for Sorting -->
+        <div class="w-64 px-4 py-8 border-r border-[#27201e] bg-[#241e1c] flex-shrink-0">
+            <div class="title-container flex items-center">
+                <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="site-logo mr-0 w-10 h-10">
+                <a href="https://tabac.wiki" class="site-title-link hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                    <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
+                </a>
+            </div>
+            <h3 class="text-xl font-semibold mb-4 text-[#8E8074]">Sort By</h3>
+            <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" disabled selected>Select Sort Option</option>
+                <option value="averageRating">Rating Score (High to Low)</option>
+                <option value="ratingLowToHigh">Rating Score (Low to High)</option>
+                <option value="reviewCount">Rating Count (High to Low)</option>
+                <option value="reviewCountLowToHigh">Rating Count (Low to High)</option>
+                <option value="blenderAsc">Brand (A to Z)</option>
+                <option value="blenderDesc">Brand (Z to A)</option>
+                <option value="alphaAsc">Blend (A to Z)</option>
+                <option value="alphaDesc">Blend (Z to A)</option>
+            </select>
+            
+            <h3 class="text-xl font-semibold mt-6 mb-4 text-[#8E8074]">Filters</h3>
+            <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Brands</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Blenders</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Manufacturers</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Countries</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Cut Types</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Packaging Types</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="" selected>All Blend Types</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                <option value="All availabilities" selected>All Availabilities</option>
+            </select>
+
+            <div class="my-4"></div>
+
+            <div class="components-filter w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                <div class="flex items-center justify-between cursor-pointer" id="componentsHeader">
+                    <h3 class="text-[#8E8074]">Components</h3>
+                    <svg id="componentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div id="componentsCheckboxContainer" class="mt-2 space-y-2 hidden"></div>
+            </div>
+
+            <div class="my-4"></div>
+
+            <div class="rating-filter-container px-4">
+                <label class="text-[#8E8074] text-sm mb-2 block text-center">Average Rating</label>
+                <div class="relative w-full py-2 flex justify-center">
+                    <div id="ratingSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                        <div id="ratingTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                        <div 
+                            id="ratingMinHandle" 
+                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                        ></div>
+                        <div 
+                            id="ratingMaxHandle" 
+                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                        ></div>
+                    </div>
+                </div>
+                <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                    <span id="ratingMinValue">0</span>
+                    <span id="ratingMaxValue">4</span>
+                </div>
+                <input 
+                    type="hidden" 
+                    id="ratingMinInput" 
+                    name="rating_min" 
+                    value="0"
+                >
+                <input 
+                    type="hidden" 
+                    id="ratingMaxInput" 
+                    name="rating_max" 
+                    value="4"
+                >
+            </div>
+
+            <div class="my-4"></div>
+
+            <div class="review-count-filter-container px-4">
+                <label class="text-[#8E8074] text-sm mb-2 block text-center">Rating Count</label>
+                <div class="relative w-full py-2 flex justify-center">
+                    <div id="reviewCountSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                        <div id="reviewCountTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                        <div 
+                            id="reviewCountMinHandle" 
+                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                        ></div>
+                        <div 
+                            id="reviewCountMaxHandle" 
+                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                        ></div>
+                    </div>
+                </div>
+                <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                    <span id="reviewCountMinValue">0</span>
+                    <span id="reviewCountMaxValue">0</span>
+                </div>
+                <input 
+                    type="hidden" 
+                    id="reviewCountMinInput" 
+                    name="review_count_min" 
+                    value="0"
+                >
+                <input 
+                    type="hidden" 
+                    id="reviewCountMaxInput" 
+                    name="review_count_max" 
+                    value="0"
+                >
+            </div>
+
+            <script>
+                function createRatingRangeSlider() {
+                    const slider = document.getElementById('ratingSlider');
+                    const track = document.getElementById('ratingTrack');
+                    const minHandle = document.getElementById('ratingMinHandle');
+                    const maxHandle = document.getElementById('ratingMaxHandle');
+                    const minValueDisplay = document.getElementById('ratingMinValue');
+                    const maxValueDisplay = document.getElementById('ratingMaxValue');
+                    const minInput = document.getElementById('ratingMinInput');
+                    const maxInput = document.getElementById('ratingMaxInput');
+
+                    let isDraggingMin = false;
+                    let isDraggingMax = false;
+                    const min = 0;
+                    const max = 4;
+
+                    function updateSlider(minValue, maxValue) {
+                        const sliderWidth = slider.offsetWidth;
+                        const minPercent = (minValue / max) * 100;
+                        const maxPercent = (maxValue / max) * 100;
+
+                        minHandle.style.left = `${minPercent}%`;
+                        maxHandle.style.left = `${maxPercent}%`;
+                        track.style.left = `${minPercent}%`;
+                        track.style.width = `${maxPercent - minPercent}%`;
+
+                        minValueDisplay.textContent = minValue.toFixed(1);
+                        maxValueDisplay.textContent = maxValue.toFixed(1);
+                        minInput.value = minValue;
+                        maxInput.value = maxValue;
+                    }
+
+                    function getValueFromPosition(clientX) {
+                        const rect = slider.getBoundingClientRect();
+                        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                        return Math.round(percent * max * 10) / 10;
+                    }
+
+                    function handleMouseMove(e) {
+                        if (isDraggingMin) {
+                            let newMinValue = getValueFromPosition(e.clientX);
+                            const currentMaxValue = parseFloat(maxInput.value);
+                            newMinValue = Math.min(newMinValue, currentMaxValue);
+                            updateSlider(newMinValue, currentMaxValue);
+                        }
+                        if (isDraggingMax) {
+                            let newMaxValue = getValueFromPosition(e.clientX);
+                            const currentMinValue = parseFloat(minInput.value);
+                            newMaxValue = Math.max(newMaxValue, currentMinValue);
+                            updateSlider(currentMinValue, newMaxValue);
+                        }
+                    }
+
+                    function handleMouseUp() {
+                        if (isDraggingMin || isDraggingMax) {
+                            // Only trigger filter when mouse is released
+                            if (window.applyFiltersToResults) {
+                                applyFiltersToResults();
+                            }
+                            
+                            // Trigger search input to refresh results
+                            const searchInput = document.getElementById('searchInput');
+                            if (searchInput) {
+                                searchInput.dispatchEvent(new Event('input'));
+                            }
+                        }
+                        isDraggingMin = false;
+                        isDraggingMax = false;
+                        document.removeEventListener('mousemove', handleMouseMove);
+                        document.removeEventListener('mouseup', handleMouseUp);
+                    }
+
+                    minHandle.addEventListener('mousedown', (e) => {
+                        e.preventDefault();
+                        isDraggingMin = true;
+                        document.addEventListener('mousemove', handleMouseMove);
+                        document.addEventListener('mouseup', handleMouseUp);
+                    });
+
+                    maxHandle.addEventListener('mousedown', (e) => {
+                        e.preventDefault();
+                        isDraggingMax = true;
+                        document.addEventListener('mousemove', handleMouseMove);
+                        document.addEventListener('mouseup', handleMouseUp);
+                    });
+
+                    // Initial setup
+                    updateSlider(0, 4);
+                }
+
+                function createReviewCountRangeSlider() {
+                    const slider = document.getElementById('reviewCountSlider');
+                    const track = document.getElementById('reviewCountTrack');
+                    const minHandle = document.getElementById('reviewCountMinHandle');
+                    const maxHandle = document.getElementById('reviewCountMaxHandle');
+                    const minValueDisplay = document.getElementById('reviewCountMinValue');
+                    const maxValueDisplay = document.getElementById('reviewCountMaxValue');
+                    const minInput = document.getElementById('reviewCountMinInput');
+                    const maxInput = document.getElementById('reviewCountMaxInput');
+
+                    // Dynamically calculate max review count with smarter scaling
+                    const reviewCounts = allBlends.map(blend => blend.reviewCount || 0);
+                    const maxReviewCount = Math.max(...reviewCounts);
+                    
+                    // Custom scaling function to make smaller values more distinguishable
+                    function scaleValue(value, max) {
+                        // Logarithmic scaling with a soft curve
+                        return Math.round(Math.pow(value / max, 0.7) * max);
+                    }
+
+                    function unscaleValue(scaledValue, max) {
+                        // Reverse of the scaling function
+                        return Math.round(Math.pow(scaledValue / max, 1/0.7) * max);
+                    }
+
+                    const roundedMaxReviewCount = Math.ceil(maxReviewCount / 10) * 10; // Round up to nearest 10
+
+                    let isDraggingMin = false;
+                    let isDraggingMax = false;
+                    const min = 0;
+                    const max = roundedMaxReviewCount;
+
+                    function updateSlider(minValue, maxValue) {
+                        const sliderWidth = slider.offsetWidth;
+                        
+                        // Apply custom scaling
+                        const scaledMinPercent = (scaleValue(minValue, max) / max) * 100;
+                        const scaledMaxPercent = (scaleValue(maxValue, max) / max) * 100;
+
+                        minHandle.style.left = `${scaledMinPercent}%`;
+                        maxHandle.style.left = `${scaledMaxPercent}%`;
+                        track.style.left = `${scaledMinPercent}%`;
+                        track.style.width = `${scaledMaxPercent - scaledMinPercent}%`;
+
+                        // Display actual values
+                        minValueDisplay.textContent = Math.round(minValue);
+                        maxValueDisplay.textContent = Math.round(maxValue);
+                        minInput.value = Math.round(minValue);
+                        maxInput.value = Math.round(maxValue);
+                    }
+
+                    function getValueFromPosition(clientX) {
+                        const rect = slider.getBoundingClientRect();
+                        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                        
+                        // Unscale the value to get a more linear distribution
+                        const scaledValue = percent * max;
+                        return unscaleValue(scaledValue, max);
+                    }
+
+                    function handleMouseMove(e) {
+                        if (isDraggingMin) {
+                            let newMinValue = getValueFromPosition(e.clientX);
+                            const currentMaxValue = parseFloat(maxInput.value);
+                            newMinValue = Math.min(newMinValue, currentMaxValue);
+                            updateSlider(newMinValue, currentMaxValue);
+                        }
+                        if (isDraggingMax) {
+                            let newMaxValue = getValueFromPosition(e.clientX);
+                            const currentMinValue = parseFloat(minInput.value);
+                            newMaxValue = Math.max(newMaxValue, currentMinValue);
+                            updateSlider(currentMinValue, newMaxValue);
+                        }
+                    }
+
+                    function handleMouseUp() {
+                        if (isDraggingMin || isDraggingMax) {
+                            // Only trigger filter when mouse is released
+                            if (window.applyFiltersToResults) {
+                                applyFiltersToResults();
+                            }
+                            
+                            // Trigger search input to refresh results
+                            const searchInput = document.getElementById('searchInput');
+                            if (searchInput) {
+                                searchInput.dispatchEvent(new Event('input'));
+                            }
+                        }
+                        isDraggingMin = false;
+                        isDraggingMax = false;
+                        document.removeEventListener('mousemove', handleMouseMove);
+                        document.removeEventListener('mouseup', handleMouseUp);
+                    }
+
+                    minHandle.addEventListener('mousedown', (e) => {
+                        e.preventDefault();
+                        isDraggingMin = true;
+                        document.addEventListener('mousemove', handleMouseMove);
+                        document.addEventListener('mouseup', handleMouseUp);
+                    });
+
+                    maxHandle.addEventListener('mousedown', (e) => {
+                        e.preventDefault();
+                        isDraggingMax = true;
+                        document.addEventListener('mousemove', handleMouseMove);
+                        document.addEventListener('mouseup', handleMouseUp);
+                    });
+
+                    // Initial setup
+                    updateSlider(0, roundedMaxReviewCount);
+                }
+
+                // Run after page load
+                document.addEventListener('DOMContentLoaded', createRatingRangeSlider);
+                document.addEventListener('DOMContentLoaded', () => {
+                    // Wait for allBlends to be populated
+                    const checkAllBlends = setInterval(() => {
+                        if (window.allBlends && window.allBlends.length > 0) {
+                            clearInterval(checkAllBlends);
+                            createReviewCountRangeSlider();
+                        }
+                    }, 100);
+                });
+            </script>
+
+            <div class="my-4"></div>
+
+            <script>
+                document.getElementById('componentsHeader').addEventListener('click', () => {
+                    const container = document.getElementById('componentsCheckboxContainer');
+                    const arrow = document.getElementById('componentsArrow');
+                    const isExpanded = container.classList.contains('hidden');
+                    
+                    if (isExpanded) {
+                        // Expand
+                        container.classList.remove('hidden');
+                        arrow.style.transform = 'rotate(180deg)';
+                    } else {
+                        // Collapse
+                        container.classList.add('hidden');
+                        arrow.style.transform = 'rotate(0deg)';
+                    }
+                });
+            </script>
+
+            <div class="my-4"></div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="flex-1 px-8 py-8">
+            <div class="max-w-2xl mx-auto mb-4 relative">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search blends by name, brand, or type..." 
+                    class="w-full px-4 py-3 rounded-lg bg-[#352c26]/40 text-white focus:outline-none focus:ring-2 focus:ring-[#8E8074] placeholder-[#8E8074]"
+                    >
+                <div id="searchSummary" class="text-[#8E8074]/30 text-sm text-center mt-2"></div>
+                <div 
+                    id="suggestionsList" 
+                    class="absolute z-10 w-full bg-[#322520] rounded-lg mt-1 shadow-2xl hidden"
+                ></div>
+            </div>
+
+            <div id="searchResults" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8 search-results-container"></div>
+
+            <div class="flex justify-center items-center mt-4 space-x-4">
+                <button id="prevPageBtn" class="bg-[#4c3d37]/20 text-[#8E8074] rounded-lg px-4 py-2 hover:bg-[#312926] transition-colors disabled:opacity-50 disabled:cursor-not-allowed">Previous Page</button>
+                <div class="flex items-center space-x-1">
+                    <span id="currentPage" class="text-[#7c6f57]/30">1</span>
+                    <span class="text-[#7c6f57]/30">of</span>
+                    <span id="totalPages" class="text-[#7c6f57]/30">1</span>
+                </div>
+                <button id="nextPageBtn" class="bg-[#4c3d37]/20 text-[#8E8074] rounded-lg px-4 py-2 hover:bg-[#312926] transition-colors disabled:opacity-50 disabled:cursor-not-allowed">Next Page</button>
+            </div>
+
+            <div id="debugOutput"></div>
+        </div>
+    </div>
+
+    <div id="blendPopup" class="hidden fixed inset-0 bg-black bg-opacity-70 z-50 flex items-center justify-center">
+        <div id="popupContent" class="relative bg-[#42332E] rounded-xl w-auto max-w-[90vw] flex flex-col items-center justify-center"></div>
+    </div>
+
+    <!-- Name Input Popup -->
+    <div id="nameInputPopup" class="hidden fixed inset-0 bg-black bg-opacity-70 z-[1100] flex items-center justify-center p-4">
+        <div class="bg-[#362C29] rounded-xl p-6 max-w-md w-full">
+            <h3 class="text-xl font-semibold mb-4">Include your name to be credited!</h3>
+            <input type="text" id="submitterName" class="w-full px-4 py-2 rounded bg-[#42332E] mb-4" placeholder="">
+            <div class="flex justify-end gap-3">
+                <button id="cancelPhotoSubmit" class="px-4 py-2 rounded bg-[#42332E] hover:bg-[#312926] transition-colors">Cancel</button>
+                <button id="confirmPhotoSubmit" class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#cead59] transition-colors">Submit</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Animation -->
+    <div id="loadingSpinner" class="hidden fixed inset-0 bg-black bg-opacity-70 z-[1200] flex items-center justify-center">
+        <div class="bg-[#362C29] rounded-xl p-6">
+            <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-[#42332E] mx-auto"></div>
+            <p class="text-center mt-4">Uploading photo...</p>
+        </div>
+    </div>
+
+    <div id="uploadNotification" class="hidden fixed left-1/2 transform -translate-x-1/2 top-[-80px] bg-green-500 text-[#8E8074] px-4 py-2 rounded-lg shadow-lg transition-all duration-300 z-[60] opacity-100"></div>
+
+    <div id="loadingOverlay" class="fixed inset-0 bg-black bg-opacity-70 z-[100] flex flex-col items-center justify-center hidden">
+        <div class="w-80 bg-[#2E221F] rounded-2xl shadow-2xl border border-[#49362F] p-8 text-center transform transition-all duration-300 ease-in-out">
+            <div class="mb-6 flex justify-center">
+                <svg class="animate-spin h-12 w-12 text-[#C89F65]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-30" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-80" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+            </div>
+            <h2 class="text-2xl font-bold mb-4 text-[#D6B680] tracking-wide">Welcome!</h2>
+            <div class="w-full bg-[#3C2E29] rounded-full h-3 mb-4 overflow-hidden">
+                <div id="loadingProgress" class="bg-gradient-to-r from-[#705235] to-[#C89F65] h-4 rounded-full transition-all duration-500 ease-out" style="width: 0%"></div>
+            </div>
+            <p id="loadingText" class="text-[#A48B72] text-sm font-medium tracking-wider uppercase">Initializing...</p>
+        </div>
+    </div>    
+
+    <script type="module">
+        // Import popup modules
+        import * as popupModule from './blend_html/popup.js';
+        import { initDonationPopup } from './assets/js/donation-popup.js';
+        
+        // Make sure popup module is available globally
+        window.popupModule = popupModule;
+
+        // Global variables initialization
+        window.currentPage = 1;
+        window.currentSearchResults = [];
+        window.allBlends = [];
+        window.allBlendResults = [];
+        window.totalBlends = 0;
+        
+        // Constants
+        const BLEND_DATA_PATH = '/blend_data/';
+        const BLENDS_PER_PAGE = 21;
+
+        // Get DOM elements
+        const searchInput = document.getElementById('searchInput');
+        const suggestionsList = document.getElementById('suggestionsList');
+        const searchResults = document.getElementById('searchResults') || document.createElement('div');
+        const debugOutput = document.getElementById('debugOutput');
+        const prevPageBtn = document.getElementById('prevPageBtn');
+        const nextPageBtn = document.getElementById('nextPageBtn');
+        const currentPageSpan = document.getElementById('currentPage');
+        const totalPagesSpan = document.getElementById('totalPages');
+        const loadingOverlay = document.getElementById('loadingOverlay');
+
+        // Ensure searchResults is always a valid element
+        if (!searchResults.id) {
+            searchResults.id = 'searchResults';
+            searchResults.className = 'grid grid-cols-3 gap-4 mt-4';
+            document.querySelector('.flex-1.px-8.py-8').appendChild(searchResults);
+        }
+
+        // Function to update loading progress
+        function updateLoadingProgress(progress, text = 'Loading...') {
+            loadingProgress.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+            loadingText.textContent = text;
+        }
+
+        // Function to dynamically load dropdown options from JSON
+        /**
+         * Dynamically loads dropdown options from JSON files
+         * and populates the corresponding dropdown elements.
+         * Also loads component checkboxes.
+         */
+        async function loadDropdownOptions() {
+            const dropdownConfigs = [
+                { id: 'blenderDropdown', file: '/assets/data/blenders.json', defaultText: 'All Brands' },
+                { id: 'blendedByDropdown', file: '/assets/data/blended_by.json', defaultText: 'All Blenders' },
+                { id: 'manufacturedByDropdown', file: '/assets/data/manufactured_by.json', defaultText: 'All Manufacturers' },
+                { id: 'countryDropdown', file: '/assets/data/countries.json', defaultText: 'All Countries' },
+                { id: 'cutTypeDropdown', file: '/assets/data/cut_types.json', defaultText: 'All Cut Types' },
+                { id: 'packagingDropdown', file: '/assets/data/packaging_types.json', defaultText: 'All Packaging Types' },
+                { id: 'blendTypeDropdown', file: '/assets/data/blend_types.json', defaultText: 'All Blend Types' },
+                { id: 'productionDropdown', file: '/assets/data/production_status.json', defaultText: 'All availabilities' }
+            ];
+
+            for (const config of dropdownConfigs) {
+                const dropdown = document.getElementById(config.id);
+                
+                // Clear existing options except the default
+                while (dropdown.options.length > 1) {
+                    dropdown.remove(1);
+                }
+
+                try {
+                    // console.log(`Loading options for ${config.id} from ${config.file}`);
+                    const response = await fetch(config.file);
+                    if (!response.ok) {
+                        throw new Error(`Failed to load ${config.file}. Status: ${response.status}`);
+                    }
+                    const options = await response.json();
+                    // console.log(`Options for ${config.id}:`, options);
+
+                    // Special handling for packaging dropdown to extract first value
+                    const filteredOptions = config.id === 'packagingDropdown' 
+                        ? options.map(item => Array.isArray(item) ? item[0] : item).filter(opt => opt.trim() !== '')
+                        : options.filter(opt => opt.trim() !== '');
+
+                    // Use a Set to ensure unique options
+                    const uniqueOptions = [...new Set(filteredOptions)];
+
+                    // console.log(`Filtered options for ${config.id}:`, uniqueOptions);
+
+                    uniqueOptions.forEach(option => {
+                        // Check if option already exists to prevent duplicates
+                        const existingOption = Array.from(dropdown.options).find(opt => opt.value === option);
+                        if (!existingOption) {
+                            const optionElement = document.createElement('option');
+                            optionElement.value = option;
+                            optionElement.textContent = option;
+                            dropdown.appendChild(optionElement);
+                        }
+                    });
+
+                    // console.log(`Added ${uniqueOptions.length} unique options to ${config.id}`);
+                } catch (error) {
+                    console.error(`Error loading dropdown options for ${config.id}:`, error);
+                }
+            }
+
+            // Load Components Checkboxes
+            fetch('/assets/data/contents.json')
+                .then(response => response.json())
+                .then(components => {
+                    // console.log('Loading component checkboxes');
+                    const container = document.getElementById('componentsCheckboxContainer');
+                    
+                    // Clear existing checkboxes to prevent duplicates
+                    container.innerHTML = '';
+                    
+                    components.forEach(component => {
+                        const checkboxWrapper = document.createElement('label');
+                        checkboxWrapper.className = 'custom-checkbox-container';
+                        
+                        const checkboxDiv = document.createElement('div');
+                        checkboxDiv.className = 'custom-checkbox';
+                        
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.className = 'component-checkbox';
+                        checkbox.id = `component-${component.replace(/\s+/g, '-').toLowerCase()}`;
+                        checkbox.value = component;
+                        
+                        // Add change listener directly when creating checkbox
+                        checkbox.addEventListener('change', () => {
+                            console.log(`Component checkbox changed: ${component} - checked: ${checkbox.checked}`);
+                            performSearch(); // Use the new performSearch function
+                        });
+                        
+                        const checkmark = document.createElement('div');
+                        checkmark.className = 'checkmark';
+                        
+                        const label = document.createElement('span');
+                        label.className = 'custom-checkbox-label text-[#8E8074]';
+                        label.htmlFor = checkbox.id;
+                        label.textContent = component;
+                        
+                        checkboxDiv.appendChild(checkbox);
+                        checkboxDiv.appendChild(checkmark);
+                        checkboxWrapper.appendChild(checkboxDiv);
+                        checkboxWrapper.appendChild(label);
+                        container.appendChild(checkboxWrapper);
+                    });
+                });
+        }
+
+        // Simplified blend loading without caching
+        async function fetchAllBlends() {
+            try {
+                // Fetch blends from JSON
+                const response = await fetch('/assets/data/blend_index.json');
+                const blendIndex = await response.json();
+                
+                // Convert the index to an array of blend objects with full property names
+                const blends = Object.entries(blendIndex).map(([filename, data]) => {
+                    return {
+                        filename,
+                        name: data.n || '',
+                        blender: data.b || '',
+                        blendedBy: data.bb || '',
+                        manufacturedBy: data.mb || '',
+                        blendType: data.t || '',
+                        contents: data.c || '',
+                        averageRating: data.r || 0,
+                        reviewCount: data.rc || 0,
+                        cut: data.ct || '',
+                        country: data.y || '',
+                        packaging: data.p || '',
+                        production: data.pr || '',
+                        // Explicitly add properties used in display
+                        n: data.n || '',
+                        b: data.b || '',
+                        bb: data.bb || '',
+                        mb: data.mb || '',
+                        t: data.t || '',
+                        c: data.c || '',
+                        r: data.r || 0,
+                        rc: data.rc || 0,
+                        pr: data.pr || ''
+                    };
+                });
+
+                // Hide initial loading overlay
+                const initialLoadingOverlay = document.getElementById('initialLoadingOverlay');
+                if (initialLoadingOverlay) {
+                    initialLoadingOverlay.classList.add('hidden');
+                }
+
+                return blends;
+            } catch (error) {
+                console.error('Error loading blend index:', error);
+                return [];
+            }
+        }
+
+        // Modify initial search to use direct loading
+        async function loadBlendManifest() {
+            try {
+                const response = await fetch('/assets/data/blend_manifest.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load manifest: ${response.status}`);
+                }
+                const text = await response.text();
+                return text.split('\n').filter(line => line.trim().length > 0);
+            } catch (error) {
+                console.error('Error loading blend manifest:', error);
+                return [];
+            }
+        }
+
+        async function loadBlendIndex() {
+            try {
+                const response = await fetch('/assets/data/blend_index.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load blend index: ${response.status}`);
+                }
+                return await response.json();
+            } catch (error) {
+                console.error('Error loading blend index:', error);
+                return {};
+            }
+        }
+
+        async function loadBlendFile(filename) {
+            try {
+                // Load the full blend data
+                const response = await fetch(`/blend_data/${filename}`);
+                if (!response.ok) {
+                    console.warn(`Failed to load blend file ${filename}:`, response.status);
+                    return null;
+                }
+                const blendData = await response.json();
+                const blendKey = Object.keys(blendData)[0];
+                const fullData = blendData[blendKey];
+                
+                // Return full blend data
+                return {
+                    filename: filename,
+                    name: fullData.name || 'Unnamed Blend',
+                    blender: fullData.blender || 'Unknown',
+                    blendedBy: fullData.blendedBy || '',
+                    manufacturedBy: fullData.manufacturedBy || '',
+                    blendType: fullData.blendType || 'Unspecified',
+                    averageRating: fullData.averageRating || 0,
+                    reviewCount: fullData.reviewCount || 0,
+                    contents: fullData.contents || '',
+                    cut: fullData.cut || '',
+                    country: fullData.country || '',
+                    packaging: fullData.packaging || '',
+                    production: fullData.production || '',
+                    searchText: `${filename} ${fullData.name || ''} ${fullData.blender || ''} ${fullData.blendType || ''}`.toLowerCase()
+                };
+            } catch (error) {
+                console.warn(`Error loading blend file ${filename}:`, error);
+                return null;
+            }
+        }
+
+        // Simplified blend loading without caching
+        // Function already defined above, removing this duplicate
+
+        // Modify performSearch to use new filtering approach
+        function performSearch() {
+            if (!blendSearch) return;
+
+            const searchTerm = document.getElementById('searchInput').value;
+            
+            // Get selected components
+            const selectedComponents = Array.from(
+                document.querySelectorAll('.component-checkbox:checked')
+            ).map(cb => cb.value);
+
+            // Collect filter values
+            const filters = {
+                blender: document.getElementById('blenderDropdown').value,
+                blendedBy: document.getElementById('blendedByDropdown').value,
+                manufacturedBy: document.getElementById('manufacturedByDropdown').value,
+                country: document.getElementById('countryDropdown').value,
+                cutType: document.getElementById('cutTypeDropdown').value,
+                packaging: document.getElementById('packagingDropdown').value,
+                blendType: document.getElementById('blendTypeDropdown').value,
+                availability: document.getElementById('productionDropdown').value
+            };
+
+            // Remove empty filters
+            Object.keys(filters).forEach(key => {
+                if (filters[key] === '' || filters[key] === 'All ' + key.charAt(0).toUpperCase() + key.slice(1) + 's') {
+                    delete filters[key];
+                }
+            });
+
+            // Perform search
+            const results = blendSearch.search(searchTerm, selectedComponents, filters);
+            
+            // Display results
+            displayPaginatedResults(results);
+        }
+
+        // Unified sort function
+        function performSort() {
+            if (!blendSearch) return;
+
+            const sortDropdown = document.getElementById('sortDropdown');
+            const sortKey = sortDropdown.value;
+            
+            let key = 'n';  // Default
+            let ascending = true;
+
+            switch(sortKey) {
+                case 'averageRating':
+                    key = 'r';
+                    ascending = false;
+                    break;
+                case 'ratingLowToHigh':
+                    key = 'r';
+                    ascending = true;
+                    break;
+                case 'reviewCount':
+                    key = 'rc';
+                    ascending = false;
+                    break;
+                case 'reviewCountLowToHigh':
+                    key = 'rc';
+                    ascending = true;
+                    break;
+                case 'blenderAsc':
+                    key = 'b';
+                    ascending = true;
+                    break;
+                case 'blenderDesc':
+                    key = 'b';
+                    ascending = false;
+                    break;
+                case 'alphaAsc':
+                    key = 'n';
+                    ascending = true;
+                    break;
+                case 'alphaDesc':
+                    key = 'n';
+                    ascending = false;
+                    break;
+            }
+
+            blendSearch.sort(key, ascending);
+            displayPaginatedResults(blendSearch.currentResults);
+        }
+
+        // Function to display paginated results
+        function displayPaginatedResults(results, page = 1) {
+            // Validate searchResults
+            if (!searchResults) {
+                console.error('Search results container not found');
+                return;
+            }
+
+            // Update global current search results for consistent pagination
+            window.allBlendResults = results;
+            currentSearchResults = results;
+
+            // Clear previous results
+            searchResults.innerHTML = '';
+
+            // More comprehensive result validation
+            const validResults = results.filter(blend => {
+                if (!blend || typeof blend !== 'object') {
+                    console.warn('Invalid blend (not an object):', blend);
+                    return false;
+                }
+
+                // Log detailed information about each blend for debugging
+                // console.log('Blend details:', {
+                //    filename: blend.filename,
+                //     name: blend.name,
+                //     blender: blend.blender,
+                //     blendType: blend.blendType,
+                //     keys: Object.keys(blend)
+                // });
+
+                // Less strict validation
+                return blend.n || 
+                       blend.b || 
+                       blend.t || 
+                       blend.filename;
+            });
+
+            // console.log(`Valid results: ${validResults.length}`);
+            // console.log('First few valid results:', validResults.slice(0, 5));
+
+            if (validResults.length === 0) {
+                searchResults.innerHTML = `
+                    <div class="col-span-full text-center text-[#8E8074]">
+                        <p class="text-xl mb-4">This is uncharted territory!</p>
+                        <p class="text-sm text-[#8E8074]">Try adjusting your search or filters</p>
+                    </div>
+                `;
+                
+                // Disable pagination buttons
+                prevPageBtn.disabled = true;
+                nextPageBtn.disabled = true;
+                currentPageSpan.textContent = '1';
+                totalPagesSpan.textContent = '1';
+                currentPage = 1;
+                return;
+            }
+
+            // Calculate total pages
+            const totalPages = Math.ceil(validResults.length / BLENDS_PER_PAGE);
+            
+            // Ensure current page is within valid range
+            if (currentPage > totalPages) {
+                currentPage = totalPages;
+            }
+
+            // Slice results for current page
+            const startIndex = (currentPage - 1) * BLENDS_PER_PAGE;
+            const endIndex = Math.min(startIndex + BLENDS_PER_PAGE, validResults.length);
+            const pageResults = validResults.slice(startIndex, endIndex);
+
+            // console.log(`Rendering ${pageResults.length} blends on page ${currentPage} of ${totalPages}`);
+
+            // Display the current page results
+            pageResults.forEach(blend => {
+                const blendCard = document.createElement('div');
+                blendCard.className = 'bg-[#241e1c] rounded-lg p-4 shadow-lg hover:shadow-xl transition-shadow cursor-pointer';
+                blendCard.setAttribute('data-blend-key', blend.filename);
+                blendCard.addEventListener('click', () => window.popupModule.openPopup(blend.filename));
+                
+                const rating = blend.r ? 
+                    (typeof blend.r === 'number' ? 
+                        blend.r.toFixed(1) : 
+                        '0.0') 
+                    : '0.0';
+
+                blendCard.innerHTML = `
+                    <div class="relative">
+                        <div class="absolute top-0 right-0 text-[#aa8a3f] text-base font-bold">
+                            ★ ${rating}
+                        </div>
+                        <h3 class="text-lg font-semibold text-[#BDA58F] mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
+
+                        <div class="text-sm text-[#8E8074] mb-2">
+                            <span>${blend.b || 'Unknown Brand'}</span>
+                        </div>
+                        <div class="flex justify-between items-center text-sm text-[#8E8074] mt-1">
+                            <span class="italic">${blend.t || 'Unspecified Type'}</span>
+                            <span class="italic">${blend.rc || 0} Ratings</span>
+                        </div>
+                    </div>
+                `;
+
+                searchResults.appendChild(blendCard);
+            });
+
+            // Update search summary
+            const searchSummary = document.getElementById('searchSummary');
+            if (searchSummary) {
+                searchSummary.textContent = `Showing ${startIndex + 1}-${endIndex} of ${validResults.length} blend${validResults.length !== 1 ? 's' : ''}`;
+            } else {
+                console.warn('Search summary element not found');
+            }
+
+            // Update pagination UI
+            currentPageSpan.textContent = currentPage;
+            totalPagesSpan.textContent = totalPages;
+            prevPageBtn.disabled = currentPage === 1;
+            nextPageBtn.disabled = currentPage === totalPages;
+        }
+
+        // Initialize pagination event listeners
+        if (!window.paginationListenersAdded) {
+            prevPageBtn.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayPaginatedResults(currentSearchResults);
+                }
+            });
+
+            nextPageBtn.addEventListener('click', () => {
+                const totalPages = Math.ceil(currentSearchResults.length / BLENDS_PER_PAGE);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayPaginatedResults(currentSearchResults);
+                }
+            });
+
+            window.paginationListenersAdded = true;
+        }
+
+        // Popup opening function to fetch full details
+        window.openBlendPopup = async function(filename) {
+            try {
+                // Use the renderBlendPopup from popup.js to handle popup rendering
+                await renderBlendPopup(filename);
+            } catch (error) {
+                console.error('Error opening blend popup:', error);
+                // Fallback error handling
+                const blendPopup = document.getElementById('blendPopup');
+                const popupContent = document.getElementById('popupContent');
+                
+                popupContent.innerHTML = `
+                    <div class="text-center text-red-500 p-6">
+                        <h2 class="text-2xl mb-4">Error Loading Blend</h2>
+                        <p>Unable to load details for the selected blend.</p>
+                        <p class="text-sm mt-2">Filename: ${filename}</p>
+                        <button onclick="closePopup()" class="mt-4 px-4 py-2 bg-red-600 text-[#8E8074] rounded">Close</button>
+                    </div>
+                `;
+                
+                blendPopup.style.display = 'flex';
+            }
+        };
+
+        // Ensure popup can be closed
+        window.closePopup = function() {
+            document.getElementById('blendPopup').style.display = 'none';
+        };
+
+        // Close popup when clicking outside
+        document.getElementById('blendPopup').addEventListener('click', function(event) {
+            if (event.target === this) {
+                this.classList.remove('flex');
+                this.classList.add('hidden');
+            }
+        });
+
+        // Global event listener for Escape key to close popups
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                const blendPopup = document.getElementById('blendPopup');
+                
+                // Check if popup is visible using multiple methods
+                if (blendPopup && 
+                    (blendPopup.style.display !== 'none' || 
+                     !blendPopup.classList.contains('hidden') || 
+                     blendPopup.classList.contains('flex'))) {
+                    
+                    // Explicitly hide the popup
+                    blendPopup.style.display = 'none';
+                    blendPopup.classList.remove('flex');
+                    blendPopup.classList.add('hidden');
+                }
+            }
+        });
+
+        // Add initializeBlends function before the window.addEventListener('load')
+        async function initializeBlends() {
+            try {
+                const allBlends = await fetchAllBlends();
+                
+                if (allBlends.length === 0) {
+                    console.error('No blends could be loaded');
+                    const searchResults = document.getElementById('searchResults');
+                    if (searchResults) {
+                        searchResults.innerHTML = '<div class="text-red-500 text-center">Unable to load blends. Please try again later.</div>';
+                    }
+                    return [];
+                }
+                
+                // Setup search functionality with loaded blends
+                setupSearchFunctionality(allBlends);
+                
+                // Display initial results
+                displayPaginatedResults(allBlends);
+                
+                return allBlends;
+            } catch (error) {
+                console.error('Error initializing blends:', error);
+                return [];
+            }
+        }
+
+        // Add setupSearchFunctionality function
+        function setupSearchFunctionality(allBlends) {
+            // Store allBlends globally to be accessible in other functions
+            window.allBlends = allBlends;
+            window.allBlendResults = allBlends;
+            window.currentSearchResults = allBlends;
+
+            // Create a new BlendSearch instance
+            window.blendSearch = new BlendSearch(allBlends);
+
+            // Function to apply all filters and sorting
+            function applyFiltersToResults() {
+                // Start with the full set of blends
+                let filteredBlends = [...allBlends];
+
+                // Get current filter values
+                const searchTerm = (document.getElementById('searchInput')?.value || '').toLowerCase();
+                const blenderFilter = document.getElementById('blenderDropdown')?.value.toLowerCase();
+                const blendedByFilter = document.getElementById('blendedByDropdown')?.value.toLowerCase();
+                const manufacturedByFilter = document.getElementById('manufacturedByDropdown')?.value.toLowerCase();
+                const countryFilter = document.getElementById('countryDropdown')?.value.toLowerCase();
+                const cutTypeFilter = document.getElementById('cutTypeDropdown')?.value.toLowerCase();
+                const packagingFilter = document.getElementById('packagingDropdown')?.value.toLowerCase();
+                const blendTypeFilter = document.getElementById('blendTypeDropdown')?.value.toLowerCase();
+                const productionFilter = document.getElementById('productionDropdown')?.value.toLowerCase();
+                const sortOption = document.getElementById('sortDropdown')?.value;
+
+                // Get selected components
+                const selectedComponents = Array.from(
+                    document.querySelectorAll('.component-checkbox:checked')
+                ).map(checkbox => checkbox.value.toLowerCase());
+
+                // Get rating range
+                const minRating = parseFloat(document.getElementById('ratingMinInput').value);
+                const maxRating = parseFloat(document.getElementById('ratingMaxInput').value);
+
+                // Get rating count range
+                const minReviewCount = parseFloat(document.getElementById('reviewCountMinInput').value);
+                const maxReviewCount = parseFloat(document.getElementById('reviewCountMaxInput').value);
+
+                // Text search filter
+                if (searchTerm) {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.name.toLowerCase().includes(searchTerm) ||
+                        blend.blender.toLowerCase().includes(searchTerm) ||
+                        blend.blendType.toLowerCase().includes(searchTerm) ||
+                        blend.contents.toLowerCase().includes(searchTerm)
+                    );
+                }
+
+                // Blender filter
+                if (blenderFilter && blenderFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.blender.toLowerCase().includes(blenderFilter)
+                    );
+                }
+
+                // Blended By filter
+                if (blendedByFilter && blendedByFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.blendedBy.toLowerCase().includes(blendedByFilter)
+                    );
+                }
+
+                // Manufactured By filter
+                if (manufacturedByFilter && manufacturedByFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.manufacturedBy.toLowerCase().includes(manufacturedByFilter)
+                    );
+                }
+
+                // Country filter
+                if (countryFilter && countryFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.country.toLowerCase().includes(countryFilter)
+                    );
+                }
+
+                // Cut Type filter
+                if (cutTypeFilter && cutTypeFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.cut.toLowerCase() === cutTypeFilter
+                    );
+                }
+
+                // Packaging filter
+                if (packagingFilter && packagingFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.packaging.toLowerCase().includes(packagingFilter)
+                    );
+                }
+
+                // Blend Type filter
+                if (blendTypeFilter && blendTypeFilter !== '') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.blendType.toLowerCase() === blendTypeFilter
+                    );
+                }
+
+                // Production/Availability filter
+                if (productionFilter && productionFilter !== '' && productionFilter !== 'all availabilities') {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        blend.production.toLowerCase() === productionFilter
+                    );
+                }
+
+                // Rating range filter
+                filteredBlends = filteredBlends.filter(blend => {
+                    const blendRating = blend.averageRating || 0;
+                    return blendRating >= minRating && blendRating <= maxRating;
+                });
+
+                // Review count filter
+                filteredBlends = filteredBlends.filter(blend => {
+                    const reviewCount = blend.reviewCount || 0;
+                    return reviewCount >= minReviewCount && reviewCount <= maxReviewCount;
+                });
+
+                // Components filter
+                if (selectedComponents.length > 0) {
+                    filteredBlends = filteredBlends.filter(blend => 
+                        selectedComponents.every(component => 
+                            (blend.contents || '').toLowerCase().split(',')
+                                .map(c => c.trim().toLowerCase())
+                                .includes(component)
+                        )
+                    );
+                }
+
+                // Sorting
+                switch(sortOption) {
+                    case 'averageRating':
+                        filteredBlends.sort((a, b) => (b.averageRating || 0) - (a.averageRating || 0));
+                        break;
+                    case 'ratingLowToHigh':
+                        filteredBlends.sort((a, b) => (a.averageRating || 0) - (b.averageRating || 0));
+                        break;
+                    case 'reviewCount':
+                        filteredBlends.sort((a, b) => (b.reviewCount || 0) - (a.reviewCount || 0));
+                        break;
+                    case 'reviewCountLowToHigh':
+                        filteredBlends.sort((a, b) => (a.reviewCount || 0) - (b.reviewCount || 0));
+                        break;
+                    case 'blenderAsc':
+                        filteredBlends.sort((a, b) => a.blender.localeCompare(b.blender));
+                        break;
+                    case 'blenderDesc':
+                        filteredBlends.sort((a, b) => b.blender.localeCompare(a.blender));
+                        break;
+                    case 'alphaAsc':
+                        filteredBlends.sort((a, b) => a.name.localeCompare(b.name));
+                        break;
+                    case 'alphaDesc':
+                        filteredBlends.sort((a, b) => b.name.localeCompare(a.name));
+                        break;
+                }
+
+                // Update global results and display
+                window.allBlendResults = filteredBlends;
+                window.currentSearchResults = filteredBlends;
+                displayPaginatedResults(filteredBlends);
+            }
+
+            // Search input event listener
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) {
+                searchInput.addEventListener('input', applyFiltersToResults);
+            }
+
+            // Add event listeners to all filter dropdowns
+            const filterDropdowns = [
+                'blenderDropdown', 
+                'blendedByDropdown',
+                'manufacturedByDropdown',
+                'countryDropdown', 
+                'cutTypeDropdown', 
+                'packagingDropdown', 
+                'blendTypeDropdown',
+                'productionDropdown',
+                'sortDropdown'
+            ];
+
+            filterDropdowns.forEach(dropdownId => {
+                const dropdown = document.getElementById(dropdownId);
+                if (dropdown) {
+                    dropdown.addEventListener('change', applyFiltersToResults);
+                }
+            });
+
+            // Add event listener for component checkboxes
+            const componentCheckboxes = document.querySelectorAll('.component-checkbox');
+            componentCheckboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', applyFiltersToResults);
+            });
+        }
+
+        // Simplified Blend Search and Filter Class
+        class BlendSearch {
+            constructor(blends) {
+                this.allBlends = blends;
+                this.currentResults = blends;
+            }
+
+            // Core search method
+            search(query, components = [], filters = {}) {
+                // Normalize query
+                const normalizedQuery = query.toLowerCase().trim();
+
+                // Filter blends based on query and components
+                this.currentResults = this.allBlends.filter(blend => {
+                    // Text search across multiple fields
+                    const matchesQuery = !normalizedQuery || [
+                        blend.name, // name
+                        blend.blender, // blender
+                        blend.blendType, // blend type
+                        blend.contents  // contents
+                    ].some(field => 
+                        field && field.toLowerCase().includes(normalizedQuery)
+                    );
+
+                    // Component filtering
+                    const blendContents = (blend.contents || '').toLowerCase().split(',').map(c => c.trim());
+                    const matchesComponents = components.length === 0 || 
+                        components.every(component => 
+                            blendContents.includes(component.toLowerCase())
+                        );
+
+                    return matchesQuery && matchesComponents;
+                });
+
+                return this.currentResults;
+            }
+
+            // Sorting method
+            sort(key = 'name', ascending = true) {
+                const sortMultiplier = ascending ? 1 : -1;
+                
+                this.currentResults.sort((a, b) => {
+                    const valueA = a[key] || '';
+                    const valueB = b[key] || '';
+
+                    if (typeof valueA === 'string') {
+                        return sortMultiplier * valueA.localeCompare(valueB);
+                    }
+                    return sortMultiplier * (valueA - valueB);
+                });
+
+                return this.currentResults;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            await loadDropdownOptions();
+            await initializeBlends();
+            
+            // Explicitly set global variables
+            window.allBlends = allBlends;
+            window.allBlendResults = allBlends;
+            window.currentSearchResults = allBlends;
+            
+            // Setup filter event listeners
+            const filterDropdowns = [
+                'blenderDropdown', 
+                'blendedByDropdown',
+                'manufacturedByDropdown',
+                'countryDropdown', 
+                'cutTypeDropdown', 
+                'packagingDropdown', 
+                'blendTypeDropdown',
+                'productionDropdown',
+                'sortDropdown'
+            ];
+
+            filterDropdowns.forEach(dropdownId => {
+                const dropdown = document.getElementById(dropdownId);
+                // Remove any existing listeners first
+                const newDropdown = dropdown.cloneNode(true);
+                dropdown.parentNode.replaceChild(newDropdown, dropdown);
+                newDropdown.addEventListener('change', () => {
+                    performSearch(); // Use performSearch instead of applyFiltersToResults
+                });
+            });
+
+            // Setup search and filter functionality
+            setupSearchFunctionality(allBlends);
+        });
+
+        // Perform full search
+        async function performFullSearch(query) {
+            console.log('Performing full search for:', query);
+            
+            // If no query, reset to all blends
+            if (!query) {
+                updateSearchResults(window.allBlends);
+                return;
+            }
+
+            // Use the current filtered results if they exist, otherwise use all blends
+            const currentResults = window.currentFilteredResults || window.allBlends;
+
+            // Filter the current results based on the query
+            const searchResults = currentResults.filter(blend => 
+                blend.n.toLowerCase().includes(query) ||
+                blend.d.toLowerCase().includes(query) ||
+                blend.components.some(component => 
+                    component.name.toLowerCase().includes(query)
+                )
+            );
+
+            // Update search results without changing the current order
+            updateSearchResults(searchResults);
+        }
+
+        // Update results summary function
+        function updateResultsSummary(totalResults, errorCount, searchTerm) {
+            // Calculate search duration
+            const searchEndTime = performance.now();
+            const searchDuration = ((searchEndTime - searchStartTime) / 1000).toFixed(2);
+            
+            // Get results summary element
+            const resultsSummary = document.getElementById('searchSummary');
+            
+            if (resultsSummary) {
+                if (totalResults > 0) {
+                    // For initial load or full results, show total number of blends
+                    if (!searchTerm) {
+                        resultsSummary.textContent = `Found ${totalResults} total blends in ${searchDuration} seconds`;
+                    } else {
+                        // For search results, show search-specific message
+                        resultsSummary.textContent = `Found ${totalResults} results containing "${searchTerm}" in ${searchDuration} seconds`;
+                    }
+                } else {
+                    resultsSummary.textContent = `No results found${searchTerm ? ` for "${searchTerm}"` : ''}`;
+                }
+            }
+        }
+
+        // Modify sorting and filtering to work with pagination
+        function updateSearchResults(results, sortOption = '') {
+            console.log('Updating search results. Input results:', results.length);
+            
+            // Set global total blends
+            window.totalBlends = results.length;
+            
+            // Sort results if a sort option is selected
+            if (sortOption) {
+                results = sortBlends(results, sortOption);
+            }
+
+            // Update search results display
+            const searchResultsContainer = document.getElementById('searchResults');
+            if (searchResultsContainer) {
+                searchResultsContainer.innerHTML = ''; // Clear previous results
+                
+                // Display results or show no results message
+                if (results.length === 0) {
+                    searchResultsContainer.innerHTML = '<p>No blends found.</p>';
+                }
+            }
+
+            // Trigger pagination
+            if (typeof displayPaginatedResults === 'function') {
+                displayPaginatedResults(results);
+            }
+
+            return results;
+        }
+
+        // Initialize pagination event listeners
+        if (!window.paginationListenersAdded) {
+            prevPageBtn.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayPaginatedResults(currentSearchResults);
+                }
+            });
+
+            nextPageBtn.addEventListener('click', () => {
+                const totalPages = Math.ceil(currentSearchResults.length / BLENDS_PER_PAGE);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayPaginatedResults(currentSearchResults);
+                }
+            });
+
+            window.paginationListenersAdded = true;
+        }
+
+        // Sorting functions
+        function sortBlends(results, sortOption) {
+            switch(sortOption) {
+                case 'averageRating':
+                    console.log('Sorting by Average Rating (High to Low)');
+                    return results.sort((a, b) => (b.r || 0) - (a.r || 0));
+                case 'ratingLowToHigh':
+                    console.log('Sorting by Average Rating (Low to High)');
+                    return results.sort((a, b) => (a.r || 0) - (b.r || 0));
+                case 'reviewCount':
+                    console.log('Sorting by Review Count (High to Low)');
+                    return results.sort((a, b) => (b.rc || 0) - (a.rc || 0));
+                case 'reviewCountLowToHigh':
+                    console.log('Sorting by Review Count (Low to High)');
+                    return results.sort((a, b) => (a.rc || 0) - (b.rc || 0));
+                case 'blenderAsc':
+                    console.log('Sorting by Blender (A to Z)');
+                    return results.sort((a, b) => a.b.localeCompare(b.b));
+                case 'blenderDesc':
+                    console.log('Sorting by Blender (Z to A)');
+                    return results.sort((a, b) => b.b.localeCompare(a.b));
+                case 'alphaAsc':
+                    console.log('Sorting by Name (A to Z)');
+                    return results.sort((a, b) => a.n.localeCompare(b.n));
+                case 'alphaDesc':
+                    console.log('Sorting by Name (Z to A)');
+                    return results.sort((a, b) => b.n.localeCompare(a.n));
+            }
+        }
+
+        // Add event listener to sort dropdown
+        document.getElementById('sortDropdown').addEventListener('change', (event) => {
+            const sortOption = event.target.value;
+            const currentSearchTerm = searchInput.value;
+            
+            // Simply apply filters and sorting to current results
+            performSort();
+        });
+
+        // Event Listeners
+        searchInput.addEventListener('keydown', async (e) => {
+            if (e.key === 'Enter') {
+                const query = e.target.value.trim();
+                await performFullSearch(query);
+            }
+        });
+
+        // Close popup when clicking outside
+        document.getElementById('blendPopup').addEventListener('click', function(event) {
+            if (event.target === this) {
+                this.classList.remove('flex');
+                this.classList.add('hidden');
+            }
+        });
+
+        // Event listeners for donate and wiki status buttons
+        const donateButton = document.getElementById('donateBtn');
+        const wikiStatusButton = document.getElementById('wikiStatusBtn');
+
+        // Directly call initDonationPopup to restore original implementation
+        if (typeof initDonationPopup === 'function') {
+            initDonationPopup();
+        } else {
+            console.warn('Donation popup initialization not found');
+        }
+
+        // Remove any additional event listeners
+        if (donateButton) {
+            donateButton.remove();
+        }
+        if (wikiStatusButton) {
+            wikiStatusButton.remove();
+        }
+    </script>
+</body>
+</html>

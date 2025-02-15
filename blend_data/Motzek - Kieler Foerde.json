@@ -1,0 +1,94 @@
+{
+    "kielerfoerde": {
+        "imagePath": "../blend_pictures/Motzek - Kieler Foerde.jpg",
+        "name": "Kieler Foerde",
+        "blender": "Motzek",
+        "blendedBy": "Tom Darasz",
+        "manufacturedBy": "Motzek / TAK",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "100 grams pouch, bulk",
+        "flavoring": "",
+        "description": "Delicate, highly piquant pleasure for the latakia enthusiast! 65% full-bodied, velvety latakia, with the fruitiness of the perique and the airy spice of Orientals make for a satisfying taste-experience, compleetly without Virginia. An unique mixture.",
+        "notes": "Notes:\"F\u00f6rde\" means \"firth\" and the name relates to the \"Kieler F\u00f6rde\", a 17km long firth in the Baltic Sea.",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 4.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 50.0,
+                    "Very Strong": 100.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 0.0,
+                    "Full": 100.0,
+                    "Very Full": 50.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 50.0
+                }
+            }
+        }
+    }
+}

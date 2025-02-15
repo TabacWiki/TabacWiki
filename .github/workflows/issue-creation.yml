@@ -1,0 +1,37 @@
+name: Issue Creation
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  create-issue:
+    if: github.event.issue.number == 7  # Issue Reporter issue number
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Issue from Comment
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const comment = context.payload.comment.body;
+            try {
+              const data = JSON.parse(comment);
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: data.title || 'User Reported Issue',
+                body: data.body,
+                labels: data.labels || ['user-reported']
+              });
+              
+              // Add a reaction to show it worked
+              await github.rest.reactions.createForIssueComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: context.payload.comment.id,
+                content: 'rocket'
+              });
+            } catch (error) {
+              console.error('Error processing comment:', error);
+            }

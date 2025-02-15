@@ -1,0 +1,94 @@
+{
+    "riverboatgambler": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Riverboat Gambler.jpg",
+        "name": "Riverboat Gambler",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Bob Runowski / Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin, 8oz Tin",
+        "flavoring": "",
+        "description": "A Runowski/Tarler blend. In the tradition of the mysterious Mississippi riverboat gamblin' men, a flavorful blend of the South's tobaccos. Burleys, Virginias, and Perique with the exotic taste of Turkish leaf. The odds are with you when you smoke this blend.",
+        "notes": "",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 3.03,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 9,
+            "2_star": 5,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 100.0,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.0,
+                    "Mild to Medium": 4.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 4.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 5.8823529411765,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 47.058823529412,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 5.8823529411765,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 5.8823529411765,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 6.6666666666667,
+                    "Medium": 20.0,
+                    "Medium to Full": 100.0,
+                    "Full": 53.333333333333,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

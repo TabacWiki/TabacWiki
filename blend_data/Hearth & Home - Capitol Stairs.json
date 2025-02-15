@@ -1,0 +1,94 @@
+{
+    "capitolstairs": {
+        "imagePath": "../blend_pictures/Hearth & Home - Capitol Stairs.jpg",
+        "name": "Capitol Stairs",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Pipes & Cigars",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce tin, bulk",
+        "flavoring": "",
+        "description": "Named after the famed Million-Dollar Staircase in Albany, NY's State Capitol building, it is a truly unique combination of mild, nutty burley, sweet Virginia and perique, and finished off with Deer Tongue (a vanilla-like herb). The result is a non-aromatic blend (no added flavorings) that has an almost French toast-like aroma, and a lightly sweet, smooth smoke that you can enjoy all day.",
+        "notes": "Notes:According to a recent (07/21/2014) informational request, Deer Tongue has been removed from the blend.",
+        "reviewCount": 24,
+        "totalReviews": 27,
+        "averageRating": 2.48,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 11,
+            "2_star": 6,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 100.0,
+                    "Medium": 53.846153846154,
+                    "Medium to Strong": 7.6923076923077,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 41.666666666667,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 16.666666666667,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 8.3333333333333,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 45.454545454545,
+                    "Pleasant to Tolerable": 36.363636363636,
+                    "Tolerable": 63.636363636364,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 0.0,
+                    "Mild": 23.076923076923,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.461538461538,
+                    "Medium to Full": 38.461538461538,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

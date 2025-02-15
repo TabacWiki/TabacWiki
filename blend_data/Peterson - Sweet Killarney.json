@@ -1,0 +1,94 @@
+{
+    "sweetkillarney": {
+        "imagePath": "../blend_pictures/Peterson - Sweet Killarney.jpg",
+        "name": "Sweet Killarney",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Caramel,  Cream",
+        "description": "A unique mixture of selected tobaccos including golden Virginia and black cavendish, topped with a cream caramel flavor. To make this wonderful tobacco even more attractive, it is blended with hand-rubbed Virginia flake which results in a fantastic aroma.",
+        "notes": "Notes:Due to EU regulations, this is now renamed and sold in those countries as \"Killarney\".",
+        "reviewCount": 149,
+        "totalReviews": 166,
+        "averageRating": 2.24,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 24,
+            "3_star": 45,
+            "2_star": 44,
+            "1_star": 53
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 8.955223880597,
+                    "Very Mild": 26.865671641791,
+                    "Mild": 100.0,
+                    "Mild to Medium": 73.134328358209,
+                    "Medium": 28.358208955224,
+                    "Medium to Strong": 7.4626865671642,
+                    "Strong": 1.4925373134328,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.4925373134328
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 10.25641025641,
+                    "Extremely Mild": 12.820512820513,
+                    "Very Mild": 25.641025641026,
+                    "Mild": 69.230769230769,
+                    "Mild to Medium": 79.487179487179,
+                    "Medium": 100.0,
+                    "Medium to Strong": 74.358974358974,
+                    "Strong": 30.769230769231,
+                    "Very Strong": 15.384615384615,
+                    "Extra Strong": 7.6923076923077
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.1666666666667,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 77.777777777778,
+                    "Pleasant to Tolerable": 23.611111111111,
+                    "Tolerable": 18.055555555556,
+                    "Tolerable to Strong": 1.3888888888889,
+                    "Strong": 4.1666666666667,
+                    "Very Strong": 1.3888888888889,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 22.222222222222,
+                    "Very Mild": 31.111111111111,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 97.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 15.555555555556,
+                    "Very Full": 0.0,
+                    "Extra Full": 2.2222222222222,
+                    "Overwhelming": 8.8888888888889
+                }
+            }
+        }
+    }
+}

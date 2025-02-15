@@ -1,0 +1,94 @@
+{
+    "chocolatecream": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Chocolate Cream.jpg",
+        "name": "Chocolate Cream",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish",
+        "cut": "Ribbon",
+        "packaging": "bulk",
+        "flavoring": "Cocoa / Chocolate, Vanilla",
+        "description": "Rich dark chocolate taste with a vanilla finish, the customers have said it is very mild, with a whiff of chocolate aroma.  Easy on the palate.",
+        "notes": "",
+        "reviewCount": 39,
+        "totalReviews": 44,
+        "averageRating": 3.25,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 14,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 47.826086956522,
+                    "Mild": 100.0,
+                    "Mild to Medium": 34.782608695652,
+                    "Medium": 4.3478260869565,
+                    "Medium to Strong": 4.3478260869565,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 91.666666666667,
+                    "Medium": 83.333333333333,
+                    "Medium to Strong": 16.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 8.3333333333333,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 46.428571428571,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 7.1428571428571,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 46.153846153846,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 100.0,
+                    "Medium": 76.923076923077,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

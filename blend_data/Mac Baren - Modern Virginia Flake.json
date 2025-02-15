@@ -1,0 +1,94 @@
+{
+    "modernvirginiaflake": {
+        "imagePath": "../blend_pictures/Mac Baren - Modern Virginia Flake.jpg",
+        "name": "Modern Virginia Flake",
+        "blender": "Mac Baren",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Mac Baren",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley, Cavendish, Virginia",
+        "cut": "Flake",
+        "packaging": "1.75 ounce tin weight",
+        "flavoring": "Apricot, Pineapple",
+        "description": "The tobacco is pressed into blocks and stored for minimum 30 days before they are cut into flakes. Finally the flakes are hand packed to protect the tobacco from breaking up.\n\nThis flake is made of Virginias out of 2 continents. A bright yellow and a darker Virginia have been used in combination with a modern cavendish. A touch of burley ensures a soft and smooth smoke. This flake gives you a natural sweet taste of tobacco and just a detectable topping of sweet, ripe fruit.",
+        "notes": "",
+        "reviewCount": 18,
+        "totalReviews": 20,
+        "averageRating": 3.05,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 5,
+            "2_star": 4,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 30.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 28.571428571429,
+                    "Very Mild": 57.142857142857,
+                    "Mild": 100.0,
+                    "Mild to Medium": 71.428571428571,
+                    "Medium": 14.285714285714,
+                    "Medium to Strong": 14.285714285714,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 30.769230769231,
+                    "Pleasant to Tolerable": 15.384615384615,
+                    "Tolerable": 7.6923076923077,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

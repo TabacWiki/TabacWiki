@@ -1,0 +1,94 @@
+{
+    "507cvirginiaslices": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - 507C Virginia Slices.jpg",
+        "name": "507C Virginia Slices",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "bulk",
+        "flavoring": "",
+        "description": "The ultimate in natural quality tobacco. 100% A-1 bright matured Virginias pressed and single cut in the classic British European tradition.",
+        "notes": "Notes:Available in 5 lb. brick.  Individually boxed.",
+        "reviewCount": 51,
+        "totalReviews": 57,
+        "averageRating": 3.44,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 24,
+            "2_star": 4,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 17.241379310345,
+                    "Mild": 100.0,
+                    "Mild to Medium": 58.620689655172,
+                    "Medium": 20.689655172414,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 28.947368421053,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.814814814815,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.111111111111,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 18.518518518519,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 40.909090909091,
+                    "Medium to Full": 13.636363636364,
+                    "Full": 4.5454545454545,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

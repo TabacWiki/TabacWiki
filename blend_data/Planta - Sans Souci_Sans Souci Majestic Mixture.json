@@ -1,0 +1,94 @@
+{
+    "sanssouci/sanssoucimajesticmixture": {
+        "imagePath": "../blend_pictures/Planta - Sans Souci/Sans Souci Majestic Mixture.jpg",
+        "name": "Sans Souci/Sans Souci Majestic Mixture",
+        "blender": "Planta",
+        "blendedBy": "Planta",
+        "manufacturedBy": "Planta",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams pouch, 100 grams tin, bulk",
+        "flavoring": "Bourbon,  Caramel,  Coffee,  Fruit / Citrus,  Peach,  Sweet / Sugar",
+        "description": "Epitome of a fine, exclusive mixture. The noble aroma exudes elegance and finesse. Comprised of bright high quality Virginia tobaccos of light strength, refined with ripe, dark black cavendish. Captivates by its gentle mildness, with tender fruity flavour.",
+        "notes": "Notes:When sold in the bulk form, the name is only Sans Souci, but in the red pouch bears the label \"Sans Souci Majestic Mixture\".",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 2.62,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 9,
+            "2_star": 7,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 22.222222222222,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 11.111111111111,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 80.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.0,
+                    "Medium to Strong": 40.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 10.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 12.5,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

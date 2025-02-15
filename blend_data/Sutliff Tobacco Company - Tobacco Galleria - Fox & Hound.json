@@ -1,0 +1,94 @@
+{
+    "tobaccogalleria-fox&hound": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Tobacco Galleria - Fox & Hound.jpg",
+        "name": "Tobacco Galleria - Fox & Hound",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce pouch, Bulk",
+        "flavoring": "Fruit / Citrus",
+        "description": "A traditional smoke for the discriminating English smoker, this mix of red Virginia, Turkish, burley, latakia and perique is of medium strength and guaranteed to please.",
+        "notes": "",
+        "reviewCount": 63,
+        "totalReviews": 70,
+        "averageRating": 2.04,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 4,
+            "3_star": 19,
+            "2_star": 23,
+            "1_star": 24
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 6.25,
+                    "Very Mild": 3.125,
+                    "Mild": 53.125,
+                    "Mild to Medium": 100.0,
+                    "Medium": 37.5,
+                    "Medium to Strong": 15.625,
+                    "Strong": 3.125,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 45.161290322581,
+                    "Very Mild": 16.129032258065,
+                    "Mild": 25.806451612903,
+                    "Mild to Medium": 9.6774193548387,
+                    "Medium": 6.4516129032258,
+                    "Medium to Strong": 16.129032258065,
+                    "Strong": 6.4516129032258,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.8461538461538,
+                    "Pleasant": 19.230769230769,
+                    "Very Pleasant": 3.8461538461538,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 26.923076923077,
+                    "Strong": 11.538461538462,
+                    "Very Strong": 3.8461538461538,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.8965517241379,
+                    "Very Mild": 17.241379310345,
+                    "Mild": 34.48275862069,
+                    "Mild to Medium": 100.0,
+                    "Medium": 51.724137931034,
+                    "Medium to Full": 17.241379310345,
+                    "Full": 6.8965517241379,
+                    "Very Full": 6.8965517241379,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

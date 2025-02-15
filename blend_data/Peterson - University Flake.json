@@ -1,0 +1,94 @@
+{
+    "universityflake": {
+        "imagePath": "../blend_pictures/Peterson - University Flake.jpg",
+        "name": "University Flake",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Plum",
+        "description": "Peterson's University Flake features a traditional mix of Virginia and Burley tobaccos that are slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. A subtle plum flavor further enhances this remarkable blend.",
+        "notes": "Notes:Originally manufactured in Ireland by Murray, it is currently blended in Denmark by Scandinavian Tobacco Group.",
+        "reviewCount": 395,
+        "totalReviews": 439,
+        "averageRating": 2.98,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 156,
+            "3_star": 164,
+            "2_star": 74,
+            "1_star": 45
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.2857142857143,
+                    "Very Mild": 1.7142857142857,
+                    "Mild": 6.8571428571429,
+                    "Mild to Medium": 26.285714285714,
+                    "Medium": 73.142857142857,
+                    "Medium to Strong": 100.0,
+                    "Strong": 33.714285714286,
+                    "Very Strong": 5.1428571428571,
+                    "Extremely Strong": 1.1428571428571,
+                    "Overwhelming": 0.57142857142857
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 15.286624203822,
+                    "Extremely Mild": 23.566878980892,
+                    "Very Mild": 40.127388535032,
+                    "Mild": 100.0,
+                    "Mild to Medium": 54.777070063694,
+                    "Medium": 33.12101910828,
+                    "Medium to Strong": 8.2802547770701,
+                    "Strong": 2.5477707006369,
+                    "Very Strong": 1.2738853503185,
+                    "Extra Strong": 0.63694267515924
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.688311688312,
+                    "Pleasant to Tolerable": 93.506493506493,
+                    "Tolerable": 59.090909090909,
+                    "Tolerable to Strong": 10.38961038961,
+                    "Strong": 3.8961038961039,
+                    "Very Strong": 1.9480519480519,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.875,
+                    "Very Mild": 3.125,
+                    "Mild": 16.25,
+                    "Mild to Medium": 30.625,
+                    "Medium": 100.0,
+                    "Medium to Full": 85.0,
+                    "Full": 27.5,
+                    "Very Full": 2.5,
+                    "Extra Full": 0.625,
+                    "Overwhelming": 1.875
+                }
+            }
+        }
+    }
+}

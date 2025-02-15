@@ -1,0 +1,94 @@
+{
+    "ausdemkraterplug": {
+        "imagePath": "../blend_pictures/HU Tobacco - Aus dem Krater Plug.jpg",
+        "name": "Aus dem Krater Plug",
+        "blender": "HU Tobacco",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Other",
+        "contents": "Kentucky,  Perique,  Virginia",
+        "cut": "Plug",
+        "packaging": "100 grams tin",
+        "flavoring": "",
+        "description": "The Krater Plug is a medium strength, pleasantly sweet and spicy plug tobacco. For experienced pipe smokers it's a wonderful tobacco. Yet due to its pleasant strength and good burning characteristics, this tobacco is also for pipe smokers that aren't too experienced. A delight for any tobacco lover that just wants to gain some experiences with plug tobaccos without getting overwhelmed by their strength. Not too strong, but also not too mild, not too sweet, but also not too spicy. All in all a well balanced and simply tasty blend. The Kraterplug is a perfect companion for the classic Kraterflakes.\n\nVirginia/Kentucky/Perique at its best!",
+        "notes": "Notes:Released in 01/18.",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 3.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

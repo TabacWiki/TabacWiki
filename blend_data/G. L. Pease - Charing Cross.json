@@ -1,0 +1,94 @@
+{
+    "charingcross": {
+        "imagePath": "../blend_pictures/G. L. Pease - Charing Cross.jpg",
+        "name": "Charing Cross",
+        "blender": "G. L. Pease",
+        "blendedBy": "Gregory Pease",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin, 8 ounce tin",
+        "flavoring": "",
+        "description": "Charing Cross is a traditional Balkan style blend of fine Virginia leaf, richly seasoned with smoky Cyprian latakia, and spiced with the exquisite and exotic tobaccos of the Orient. This is the one for latakia lovers. Hints of roasted cocoa beans, orange zest, green pepper and campfires. This is the big one - fuller than Blackpoint, and a little less sweet.",
+        "notes": "Notes:Charing Cross was released in March, 2003.",
+        "reviewCount": 100,
+        "totalReviews": 112,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 53,
+            "3_star": 43,
+            "2_star": 11,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 1.8181818181818,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 65.454545454545,
+                    "Strong": 14.545454545455,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.8181818181818
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.951219512195,
+                    "Very Mild": 4.8780487804878,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.6585365853659,
+                    "Medium to Strong": 3.6585365853659,
+                    "Strong": 1.219512195122,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.219512195122
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.5,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 30.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 52.5,
+                    "Strong": 35.0,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.6511627906977,
+                    "Very Mild": 0.0,
+                    "Mild": 2.3255813953488,
+                    "Mild to Medium": 6.9767441860465,
+                    "Medium": 58.139534883721,
+                    "Medium to Full": 100.0,
+                    "Full": 67.441860465116,
+                    "Very Full": 16.279069767442,
+                    "Extra Full": 4.6511627906977,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

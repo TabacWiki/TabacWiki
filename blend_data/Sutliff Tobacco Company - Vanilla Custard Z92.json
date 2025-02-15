@@ -1,0 +1,94 @@
+{
+    "vanillacustardz92": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Vanilla Custard Z92.jpg",
+        "name": "Vanilla Custard Z92",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Cavendish",
+        "cut": "Coarse Cut",
+        "packaging": "Bulk",
+        "flavoring": "Cream,  Vanilla",
+        "description": "A deep brown coarse cut cavendish with some black. A very prominent buttered-vanilla pouch aroma.",
+        "notes": "",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 3.04,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 25,
+            "3_star": 13,
+            "2_star": 5,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 80.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 45.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 61.538461538462,
+                    "Medium": 84.615384615385,
+                    "Medium to Strong": 61.538461538462,
+                    "Strong": 100.0,
+                    "Very Strong": 15.384615384615,
+                    "Extra Strong": 30.769230769231
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 46.666666666667,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 10.0,
+                    "Tolerable": 3.3333333333333,
+                    "Tolerable to Strong": 3.3333333333333,
+                    "Strong": 3.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 14.285714285714,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 64.285714285714,
+                    "Mild to Medium": 64.285714285714,
+                    "Medium": 100.0,
+                    "Medium to Full": 57.142857142857,
+                    "Full": 28.571428571429,
+                    "Very Full": 7.1428571428571,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 21.428571428571
+                }
+            }
+        }
+    }
+}

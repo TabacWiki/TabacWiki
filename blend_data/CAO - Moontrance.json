@@ -1,0 +1,94 @@
+{
+    "moontrance": {
+        "imagePath": "../blend_pictures/CAO - Moontrance.jpg",
+        "name": "Moontrance",
+        "blender": "CAO",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Bourbon,  Fruit / Citrus,  Honey,  Vanilla",
+        "description": "Moontrance is the most popular cigar in the CAO Flavours line, and the taste translates beautifully to this unique pipe tobacco. The Virginia/black cavendish blend uses the sweet influence of exotic fruit flavors and one of the richest of all vanillas- Bourbon vanilla from Madagascar. This is a one of a kind aromatic.",
+        "notes": "",
+        "reviewCount": 49,
+        "totalReviews": 55,
+        "averageRating": 2.95,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 20,
+            "2_star": 10,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.7037037037037,
+                    "Very Mild": 25.925925925926,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.037037037037,
+                    "Medium": 37.037037037037,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 21.052631578947,
+                    "Very Mild": 0.0,
+                    "Mild": 36.842105263158,
+                    "Mild to Medium": 73.684210526316,
+                    "Medium": 100.0,
+                    "Medium to Strong": 42.105263157895,
+                    "Strong": 10.526315789474,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 84.0,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 28.0,
+                    "Tolerable": 8.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.5238095238095,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 52.380952380952,
+                    "Mild to Medium": 76.190476190476,
+                    "Medium": 100.0,
+                    "Medium to Full": 9.5238095238095,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

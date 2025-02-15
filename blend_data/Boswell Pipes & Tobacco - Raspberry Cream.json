@@ -1,0 +1,94 @@
+{
+    "raspberrycream": {
+        "imagePath": "../blend_pictures/Boswell Pipes & Tobacco - Raspberry Cream.jpg",
+        "name": "Raspberry Cream",
+        "blender": "Boswell Pipes & Tobacco",
+        "blendedBy": "J.M. & Dan Boswell",
+        "manufacturedBy": "Boswell Pipes & Tobacco",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Cavendish",
+        "cut": "Shag",
+        "packaging": "bulk",
+        "flavoring": "Raspberry",
+        "description": "Rich toasted raspberry cavendish with a sprinkle of golden cavendish is a mild and sweet blend.",
+        "notes": "",
+        "reviewCount": 55,
+        "totalReviews": 62,
+        "averageRating": 3.56,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 42,
+            "3_star": 14,
+            "2_star": 5,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 14.285714285714,
+                    "Very Mild": 46.428571428571,
+                    "Mild": 100.0,
+                    "Mild to Medium": 28.571428571429,
+                    "Medium": 28.571428571429,
+                    "Medium to Strong": 3.5714285714286,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 55.555555555556,
+                    "Mild to Medium": 100.0,
+                    "Medium": 88.888888888889,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 11.111111111111,
+                    "Extra Strong": 5.5555555555556
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 28.260869565217,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 2.1739130434783,
+                    "Tolerable": 2.1739130434783,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 2.1739130434783,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.7619047619048,
+                    "Very Mild": 19.047619047619,
+                    "Mild": 47.619047619048,
+                    "Mild to Medium": 100.0,
+                    "Medium": 61.904761904762,
+                    "Medium to Full": 33.333333333333,
+                    "Full": 14.285714285714,
+                    "Very Full": 9.5238095238095,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.7619047619048
+                }
+            }
+        }
+    }
+}

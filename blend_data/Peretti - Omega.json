@@ -1,0 +1,94 @@
+{
+    "omega": {
+        "imagePath": "../blend_pictures/Peretti - Omega.jpg",
+        "name": "Omega",
+        "blender": "Peretti",
+        "blendedBy": "L.J. Peretti",
+        "manufacturedBy": "L.J. Peretti",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Rich and full flavored, it is ideal for relaxing in the evening after a fine meal.  This blend is pleasantly spiced with the gentle flavor of Latakia and superb Turkish.",
+        "notes": "",
+        "reviewCount": 36,
+        "totalReviews": 40,
+        "averageRating": 3.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 10,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 9.5238095238095,
+                    "Medium": 38.095238095238,
+                    "Medium to Strong": 100.0,
+                    "Strong": 28.571428571429,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 2.6315789473684,
+                    "Very Mild": 0.0,
+                    "Mild": 2.6315789473684,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 28.571428571429,
+                    "Very Pleasant": 28.571428571429,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 78.571428571429,
+                    "Tolerable to Strong": 28.571428571429,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 5.2631578947368,
+                    "Medium": 10.526315789474,
+                    "Medium to Full": 100.0,
+                    "Full": 84.210526315789,
+                    "Very Full": 10.526315789474,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

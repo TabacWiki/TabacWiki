@@ -1,0 +1,94 @@
+{
+    "stonehaven": {
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Stonehaven.jpg",
+        "name": "Stonehaven",
+        "blender": "Esoterica Tobacciana",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Flake",
+        "packaging": "2 ounce tin, 8 ounce bag",
+        "flavoring": "Other / Misc",
+        "description": "A marriage of air-cured leaf and Burley with selected dark Virginia. Hard pressed and aged to produce brown flakes with dark undertones. A traditional English flake favored by experienced pipe smokers.",
+        "notes": "",
+        "reviewCount": 195,
+        "totalReviews": 217,
+        "averageRating": 3.55,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 149,
+            "3_star": 46,
+            "2_star": 15,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.688311688312,
+                    "Mild to Medium": 32.467532467532,
+                    "Medium": 98.701298701299,
+                    "Medium to Strong": 100.0,
+                    "Strong": 31.168831168831,
+                    "Very Strong": 6.4935064935065,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.2987012987013
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 59.016393442623,
+                    "Very Mild": 60.655737704918,
+                    "Mild": 73.770491803279,
+                    "Mild to Medium": 21.311475409836,
+                    "Medium": 32.786885245902,
+                    "Medium to Strong": 6.5573770491803,
+                    "Strong": 1.6393442622951,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 18.181818181818,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 86.363636363636,
+                    "Tolerable to Strong": 21.212121212121,
+                    "Strong": 10.606060606061,
+                    "Very Strong": 3.030303030303,
+                    "Extra Strong": 1.5151515151515,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.6923076923077,
+                    "Very Mild": 1.5384615384615,
+                    "Mild": 10.769230769231,
+                    "Mild to Medium": 29.230769230769,
+                    "Medium": 70.769230769231,
+                    "Medium to Full": 100.0,
+                    "Full": 90.769230769231,
+                    "Very Full": 20.0,
+                    "Extra Full": 1.5384615384615,
+                    "Overwhelming": 1.5384615384615
+                }
+            }
+        }
+    }
+}

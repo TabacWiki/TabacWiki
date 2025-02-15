@@ -1,0 +1,94 @@
+{
+    "fullvirginiaflake": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Full Virginia Flake.jpg",
+        "name": "Full Virginia Flake",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 250 grams box, bulk",
+        "flavoring": "",
+        "description": "Samuel Gawith Full Virginia Flake is for lovers of pure pressed Virginias. Created in the heart of Lakeland, the hot-pressed blended Virginias take on a delicious and distinctive dark colour that creates a pipe smokers dream, a feeling of calm, serenity and anticipation of the next pipeful. A \"must have\" for all Virginia lovers. Medium strength.",
+        "notes": "",
+        "reviewCount": 550,
+        "totalReviews": 612,
+        "averageRating": 3.47,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 398,
+            "3_star": 122,
+            "2_star": 72,
+            "1_star": 20
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.65789473684211,
+                    "Very Mild": 0.32894736842105,
+                    "Mild": 9.2105263157895,
+                    "Mild to Medium": 31.25,
+                    "Medium": 100.0,
+                    "Medium to Strong": 48.026315789474,
+                    "Strong": 9.2105263157895,
+                    "Very Strong": 1.6447368421053,
+                    "Extremely Strong": 0.98684210526316,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 18.097447795824,
+                    "Very Mild": 6.4965197215777,
+                    "Mild": 8.1206496519722,
+                    "Mild to Medium": 4.6403712296984,
+                    "Medium": 3.2482598607889,
+                    "Medium to Strong": 1.1600928074246,
+                    "Strong": 0.0,
+                    "Very Strong": 0.23201856148492,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.046511627907,
+                    "Pleasant": 84.651162790698,
+                    "Very Pleasant": 15.813953488372,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 66.976744186047,
+                    "Tolerable to Strong": 7.4418604651163,
+                    "Strong": 3.2558139534884,
+                    "Very Strong": 0.46511627906977,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3492822966507,
+                    "Very Mild": 4.3062200956938,
+                    "Mild": 14.354066985646,
+                    "Mild to Medium": 26.794258373206,
+                    "Medium": 87.081339712919,
+                    "Medium to Full": 100.0,
+                    "Full": 46.88995215311,
+                    "Very Full": 8.133971291866,
+                    "Extra Full": 1.9138755980861,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

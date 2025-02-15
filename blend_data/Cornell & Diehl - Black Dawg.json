@@ -1,0 +1,94 @@
+{
+    "blackdawg": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Black Dawg.jpg",
+        "name": "Black Dawg",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Black Cavendish,  Latakia,  Perique",
+        "cut": "Ribbon",
+        "packaging": "2oz Tin, 8oz Tin",
+        "flavoring": "",
+        "description": "An all day smoke which consists of Syrian Latakia, Perique and unsweetened black cavendish.",
+        "notes": "Notes:Discontinued Blend.",
+        "reviewCount": 20,
+        "totalReviews": 23,
+        "averageRating": 2.78,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 10,
+            "2_star": 6,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 44.444444444444,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.5,
+                    "Very Mild": 6.25,
+                    "Mild": 6.25,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 0.0,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 66.666666666667,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 50.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 83.333333333333,
+                    "Strong": 66.666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 10.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 20.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

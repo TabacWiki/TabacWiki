@@ -1,0 +1,94 @@
+{
+    "plantationevening": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Plantation Evening.jpg",
+        "name": "Plantation Evening",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A smooth, reasonably light blend of aged Virginias, Latakia, Perique and a little Turkish.  An outstanding, middle of  the road English blend with a delightful flavor.",
+        "notes": "",
+        "reviewCount": 42,
+        "totalReviews": 47,
+        "averageRating": 3.13,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 15,
+            "3_star": 24,
+            "2_star": 7,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 11.111111111111,
+                    "Mild to Medium": 55.555555555556,
+                    "Medium": 100.0,
+                    "Medium to Strong": 7.4074074074074,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 4.5454545454545,
+                    "Very Mild": 0.0,
+                    "Mild": 2.2727272727273,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 47.368421052632,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 78.947368421053,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 15.789473684211,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 0.0,
+                    "Mild to Medium": 57.142857142857,
+                    "Medium": 100.0,
+                    "Medium to Full": 38.095238095238,
+                    "Full": 14.285714285714,
+                    "Very Full": 0.0,
+                    "Extra Full": 4.7619047619048,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

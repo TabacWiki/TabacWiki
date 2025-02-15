@@ -1,0 +1,94 @@
+{
+    "nougat(no.24)": {
+        "imagePath": "../blend_pictures/Peter Stokkebye - Nougat (No.24).jpg",
+        "name": "Nougat (No.24)",
+        "blender": "Peter Stokkebye",
+        "blendedBy": "Peter Stokkebye",
+        "manufacturedBy": "Peter Stokkebye",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Nougat,  Sweet / Sugar,  Vanilla",
+        "description": "Peter Stokkebye's best selling blend. Superior golden African Virginias are combined with burleys and mild black cavendish then finished with a unique vanilla and chocolate essence to achieve the superb taste favored by millions.",
+        "notes": "Notes:According to an employee from Peter Stokkebye, this is the blend smoked on-screen by the actors during the filming of the Lord of the Rings movies.",
+        "reviewCount": 63,
+        "totalReviews": 71,
+        "averageRating": 2.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 24,
+            "2_star": 28,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 30.30303030303,
+                    "Mild": 100.0,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 6.0606060606061,
+                    "Medium to Strong": 3.030303030303,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 11.538461538462,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 69.230769230769,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 11.538461538462,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 83.870967741935,
+                    "Pleasant to Tolerable": 35.483870967742,
+                    "Tolerable": 9.6774193548387,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 15.384615384615,
+                    "Very Mild": 19.230769230769,
+                    "Mild": 69.230769230769,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 15.384615384615,
+                    "Full": 3.8461538461538,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "danishblackvanilla": {
+        "imagePath": "../blend_pictures/Planta - Danish Black Vanilla.jpg",
+        "name": "Danish Black Vanilla",
+        "blender": "Planta",
+        "blendedBy": "",
+        "manufacturedBy": "Planta",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Vanilla",
+        "description": "A blend of twelve American and Korean Virginias selected and blended with burley. The mixture ripens in a special cavendish process and achieves its superb flavor through the addition of genuine Madagascar vanilla. A very tasty even burning tobacco.",
+        "notes": "",
+        "reviewCount": 53,
+        "totalReviews": 59,
+        "averageRating": 1.93,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 9,
+            "2_star": 19,
+            "1_star": 25
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 6.8965517241379,
+                    "Very Mild": 44.827586206897,
+                    "Mild": 100.0,
+                    "Mild to Medium": 31.034482758621,
+                    "Medium": 17.241379310345,
+                    "Medium to Strong": 3.448275862069,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 15.384615384615,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 46.153846153846,
+                    "Medium": 100.0,
+                    "Medium to Strong": 92.307692307692,
+                    "Strong": 76.923076923077,
+                    "Very Strong": 23.076923076923,
+                    "Extra Strong": 23.076923076923
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 92.0,
+                    "Pleasant to Tolerable": 16.0,
+                    "Tolerable": 12.0,
+                    "Tolerable to Strong": 4.0,
+                    "Strong": 4.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 61.111111111111,
+                    "Medium": 66.666666666667,
+                    "Medium to Full": 16.666666666667,
+                    "Full": 16.666666666667,
+                    "Very Full": 5.5555555555556,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            }
+        }
+    }
+}

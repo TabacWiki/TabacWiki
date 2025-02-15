@@ -1,0 +1,94 @@
+{
+    "cubanmixture": {
+        "imagePath": "../blend_pictures/Peretti - Cuban Mixture.jpg",
+        "name": "Cuban Mixture",
+        "blender": "Peretti",
+        "blendedBy": "L.J. Peretti",
+        "manufacturedBy": "L.J. Peretti",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley,  Cavendish,  Cigar Leaf,  Kentucky,  Latakia,  Maryland,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Mint,  Other / Misc",
+        "description": "Our oldest mixture, this combination of seven different tobaccos was originally blended by L. J. Peretti at the turn of the 20th century. Exceptionally mild and smooth, it can be smoked all day by itself or blended with other mixtures for a milder effect.",
+        "notes": "",
+        "reviewCount": 28,
+        "totalReviews": 32,
+        "averageRating": 3.69,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 23,
+            "3_star": 8,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 75.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 41.666666666667,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 72.727272727273,
+                    "Very Mild": 27.272727272727,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 9.0909090909091,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 23.076923076923,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 53.846153846154,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 30.0,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

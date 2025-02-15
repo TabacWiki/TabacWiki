@@ -1,0 +1,94 @@
+{
+    "threefriars": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Three Friars.jpg",
+        "name": "Three Friars",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "A combination of Virginia ribbon, brown Virginia, burley and perique.",
+        "notes": "Notes:Reminiscent of old original Three Nuns in ribbon version.",
+        "reviewCount": 77,
+        "totalReviews": 86,
+        "averageRating": 3.19,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 32,
+            "3_star": 39,
+            "2_star": 14,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.9230769230769,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 34.615384615385,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.384615384615,
+                    "Strong": 1.9230769230769,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 3.8461538461538,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 15.873015873016,
+                    "Very Mild": 9.5238095238095,
+                    "Mild": 6.3492063492063,
+                    "Mild to Medium": 1.5873015873016,
+                    "Medium": 1.5873015873016,
+                    "Medium to Strong": 1.5873015873016,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 74.193548387097,
+                    "Very Pleasant": 6.4516129032258,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.870967741935,
+                    "Tolerable to Strong": 6.4516129032258,
+                    "Strong": 6.4516129032258,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.0,
+                    "Mild to Medium": 32.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.0
+                }
+            }
+        }
+    }
+}

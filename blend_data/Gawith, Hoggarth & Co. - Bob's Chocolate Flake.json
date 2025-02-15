@@ -1,0 +1,94 @@
+{
+    "bob'schocolateflake": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Bob's Chocolate Flake.jpg",
+        "name": "Bob's Chocolate Flake",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Cocoa / Chocolate,  Vanilla,  Whisky",
+        "description": "The main characteristics of this flake come from the 8% latakia included in the blend and the smooth chocolate aroma. Brazilian, Zimbabwe, Malawi Virginia leaf make up 82% of the blend providing a mild/medium smoke cooled with the addition of 8% Malawi sun cured and 2% Malawi burley. The latakia cools but does also add strength and aroma. The cocoa casings and chocolate top flavors are rounded off with vanillas and other flavors providing sweet notes.",
+        "notes": "Notes:Due to EU regulations, this was renamed and sold in those countries as \"Bob's Flake\".",
+        "reviewCount": 234,
+        "totalReviews": 260,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 99,
+            "3_star": 89,
+            "2_star": 48,
+            "1_star": 25
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.5625,
+                    "Very Mild": 3.125,
+                    "Mild": 21.09375,
+                    "Mild to Medium": 46.875,
+                    "Medium": 100.0,
+                    "Medium to Strong": 24.21875,
+                    "Strong": 4.6875,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.5625
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 1.2345679012346,
+                    "Extremely Mild": 12.345679012346,
+                    "Very Mild": 20.987654320988,
+                    "Mild": 66.666666666667,
+                    "Mild to Medium": 100.0,
+                    "Medium": 70.37037037037,
+                    "Medium to Strong": 39.506172839506,
+                    "Strong": 6.1728395061728,
+                    "Very Strong": 2.4691358024691,
+                    "Extra Strong": 1.2345679012346
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.627906976744,
+                    "Pleasant": 93.023255813953,
+                    "Very Pleasant": 30.232558139535,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 55.813953488372,
+                    "Tolerable to Strong": 6.9767441860465,
+                    "Strong": 2.3255813953488,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.1627906976744,
+                    "Overwhelming": 1.1627906976744
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.2,
+                    "Very Mild": 3.2,
+                    "Mild": 9.6,
+                    "Mild to Medium": 33.6,
+                    "Medium": 100.0,
+                    "Medium to Full": 43.2,
+                    "Full": 8.0,
+                    "Very Full": 4.0,
+                    "Extra Full": 0.8,
+                    "Overwhelming": 2.4
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "curlycut": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Curly Cut.jpg",
+        "name": "Curly Cut",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Curly Cut",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Manufactured by spinning tobacco leaves into a rope which is then made into a roll form, pressed, and finally sliced to produce round tobacco circles. Unlike the whole ropes, which use all dark leaf, this rope is spun using Bright Virginia outer wrapper leaves. This gives the tobacco a milder nature as well as an attractive contrast in color.",
+        "notes": "",
+        "reviewCount": 26,
+        "totalReviews": 29,
+        "averageRating": 3.03,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 10,
+            "3_star": 13,
+            "2_star": 3,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 5.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 25.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 8.3333333333333,
+                    "Very Mild": 4.1666666666667,
+                    "Mild": 4.1666666666667,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 4.1666666666667
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 50.0,
+                    "Very Pleasant": 25.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 87.5,
+                    "Tolerable to Strong": 50.0,
+                    "Strong": 12.5,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 12.5
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.6666666666667,
+                    "Very Mild": 0.0,
+                    "Mild": 20.0,
+                    "Mild to Medium": 13.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 13.333333333333,
+                    "Full": 33.333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.6666666666667
+                }
+            }
+        }
+    }
+}

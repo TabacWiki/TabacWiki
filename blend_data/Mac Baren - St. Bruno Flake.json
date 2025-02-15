@@ -1,0 +1,94 @@
+{
+    "st.brunoflake": {
+        "imagePath": "../blend_pictures/Mac Baren - St. Bruno Flake.jpg",
+        "name": "St. Bruno Flake",
+        "blender": "Mac Baren",
+        "blendedBy": "",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Kentucky, Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight, 50 grams pouch weight",
+        "flavoring": "Floral Essences, Fruit / Citrus",
+        "description": "St. Bruno Flake is a distinctive blend of smooth Virginia and smoky dark fired Kentucky \u2014 pressed and sliced into thin flakes that are easy to prepare and enjoy. It's topped with subtle floral and fruity notes for a unique aromatic experience.",
+        "notes": "Notes:Made by MacBaren since 2006, the company has owned the blend since 2015.",
+        "reviewCount": 156,
+        "totalReviews": 174,
+        "averageRating": 3.29,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 87,
+            "3_star": 61,
+            "2_star": 15,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.5873015873016,
+                    "Very Mild": 3.1746031746032,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 22.222222222222,
+                    "Medium": 98.412698412698,
+                    "Medium to Strong": 100.0,
+                    "Strong": 31.746031746032,
+                    "Very Strong": 6.3492063492063,
+                    "Extremely Strong": 1.5873015873016,
+                    "Overwhelming": 6.3492063492063
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 42.5,
+                    "Extremely Mild": 32.5,
+                    "Very Mild": 27.5,
+                    "Mild": 100.0,
+                    "Mild to Medium": 92.5,
+                    "Medium": 72.5,
+                    "Medium to Strong": 50.0,
+                    "Strong": 15.0,
+                    "Very Strong": 2.5,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.5238095238095,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 12.698412698413,
+                    "Pleasant to Tolerable": 69.84126984127,
+                    "Tolerable": 49.206349206349,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 7.9365079365079,
+                    "Very Strong": 3.1746031746032,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 1.5873015873016
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.2786885245902,
+                    "Very Mild": 0.0,
+                    "Mild": 4.9180327868852,
+                    "Mild to Medium": 27.868852459016,
+                    "Medium": 72.131147540984,
+                    "Medium to Full": 100.0,
+                    "Full": 57.377049180328,
+                    "Very Full": 11.475409836066,
+                    "Extra Full": 3.2786885245902,
+                    "Overwhelming": 4.9180327868852
+                }
+            }
+        }
+    }
+}

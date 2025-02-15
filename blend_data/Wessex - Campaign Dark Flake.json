@@ -1,0 +1,94 @@
+{
+    "campaigndarkflake": {
+        "imagePath": "../blend_pictures/Wessex - Campaign Dark Flake.jpg",
+        "name": "Campaign Dark Flake",
+        "blender": "Wessex",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Dark brown Virginia, full bodied and smooth.",
+        "notes": "",
+        "reviewCount": 58,
+        "totalReviews": 65,
+        "averageRating": 3.54,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 40,
+            "3_star": 20,
+            "2_star": 5,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 8.8235294117647,
+                    "Mild to Medium": 55.882352941176,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.588235294118,
+                    "Strong": 5.8823529411765,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.621621621622,
+                    "Very Mild": 27.027027027027,
+                    "Mild": 27.027027027027,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.3478260869565,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 4.3478260869565,
+                    "Pleasant to Tolerable": 86.95652173913,
+                    "Tolerable": 69.565217391304,
+                    "Tolerable to Strong": 4.3478260869565,
+                    "Strong": 13.04347826087,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.9411764705882,
+                    "Mild to Medium": 29.411764705882,
+                    "Medium": 100.0,
+                    "Medium to Full": 35.294117647059,
+                    "Full": 20.588235294118,
+                    "Very Full": 2.9411764705882,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

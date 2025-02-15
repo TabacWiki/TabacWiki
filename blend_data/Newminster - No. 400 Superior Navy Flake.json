@@ -1,0 +1,94 @@
+{
+    "no.400superiornavyflake": {
+        "imagePath": "../blend_pictures/Newminster - No. 400 Superior Navy Flake.jpg",
+        "name": "No. 400 Superior Navy Flake",
+        "blender": "Newminster",
+        "blendedBy": "",
+        "manufacturedBy": "Villiger",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "The finest Virginias from USA, Brazil and Africa.",
+        "notes": "",
+        "reviewCount": 76,
+        "totalReviews": 85,
+        "averageRating": 3.15,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 34,
+            "3_star": 35,
+            "2_star": 11,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.2631578947368,
+                    "Very Mild": 7.8947368421053,
+                    "Mild": 84.210526315789,
+                    "Mild to Medium": 100.0,
+                    "Medium": 23.684210526316,
+                    "Medium to Strong": 2.6315789473684,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 42.424242424242,
+                    "Very Mild": 48.484848484848,
+                    "Mild": 24.242424242424,
+                    "Mild to Medium": 24.242424242424,
+                    "Medium": 12.121212121212,
+                    "Medium to Strong": 6.0606060606061,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.2553191489362,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.5106382978723,
+                    "Pleasant to Tolerable": 46.808510638298,
+                    "Tolerable": 19.148936170213,
+                    "Tolerable to Strong": 2.1276595744681,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 100.0,
+                    "Medium": 44.444444444444,
+                    "Medium to Full": 2.7777777777778,
+                    "Full": 2.7777777777778,
+                    "Very Full": 2.7777777777778,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

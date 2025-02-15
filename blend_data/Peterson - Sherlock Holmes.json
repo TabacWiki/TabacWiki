@@ -1,0 +1,94 @@
+{
+    "sherlockholmes": {
+        "imagePath": "../blend_pictures/Peterson - Sherlock Holmes.jpg",
+        "name": "Sherlock Holmes",
+        "blender": "Peterson",
+        "blendedBy": "Peterson",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia Based",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus",
+        "description": "An old 19th century blend of orange and red smoking leaf, Brazilian burley and Virginia Mysore Indian tobacco.",
+        "notes": "Notes:From the current Peterson website: A signature Peterson tobacco made with an old Irish recipe dating back to 1889. It is one of the finest tobaccos smoked in the time of Sherlock Holmes. The straight Virginia blend possesses all of the natural flavour associated with a premier Virginia tobacco. \n\nModerator note: there is a conflict between the tin description and Peterson's website regarding whether or not burley is present. We have elected to use both descriptions for now.",
+        "reviewCount": 236,
+        "totalReviews": 263,
+        "averageRating": 2.67,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 48,
+            "3_star": 112,
+            "2_star": 71,
+            "1_star": 32
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.0309278350515,
+                    "Very Mild": 17.525773195876,
+                    "Mild": 81.443298969072,
+                    "Mild to Medium": 100.0,
+                    "Medium": 54.639175257732,
+                    "Medium to Strong": 9.2783505154639,
+                    "Strong": 4.1237113402062,
+                    "Very Strong": 2.0618556701031,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 1.0309278350515
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 25.531914893617,
+                    "Extremely Mild": 32.978723404255,
+                    "Very Mild": 44.68085106383,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.553191489362,
+                    "Medium": 25.531914893617,
+                    "Medium to Strong": 6.3829787234043,
+                    "Strong": 1.063829787234,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 1.063829787234
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 8.8235294117647,
+                    "Pleasant": 92.156862745098,
+                    "Very Pleasant": 10.78431372549,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 40.196078431373,
+                    "Tolerable to Strong": 2.9411764705882,
+                    "Strong": 1.9607843137255,
+                    "Very Strong": 0.98039215686275,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.0808080808081,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 50.505050505051,
+                    "Mild to Medium": 100.0,
+                    "Medium": 63.636363636364,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 5.0505050505051,
+                    "Very Full": 1.010101010101,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 1.010101010101
+                }
+            }
+        }
+    }
+}

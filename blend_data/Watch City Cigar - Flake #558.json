@@ -1,0 +1,94 @@
+{
+    "flake#558": {
+        "imagePath": "../blend_pictures/Watch City Cigar - Flake #558.jpg",
+        "name": "Flake #558",
+        "blender": "Watch City Cigar",
+        "blendedBy": "Ernie Q.",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "558 is a decadent \"Crumble Flake\"  of three different Virginias and perique. A rich matured Virginia, a deep, dark stoved Virginia and the highest grade of bright Virginia is used as a backdrop for a heavy dose of perique.  Rich and satisfying with a subtle natural sweetness.",
+        "notes": "Notes:Blender's note- Some well meaning fellow edited the original description of this blend to say it contains Kentucky fire cured. This blend absolutely does NOT contain even a trace of Kentucky or fire cured of any form. This is a blend of Virginias and perique only.",
+        "reviewCount": 21,
+        "totalReviews": 24,
+        "averageRating": 3.71,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 17,
+            "3_star": 7,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 35.714285714286,
+                    "Medium": 100.0,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 31.25,
+                    "Very Mild": 6.25,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 6.25,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 50.0,
+                    "Pleasant": 83.333333333333,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 16.666666666667,
+                    "Mild to Medium": 25.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 50.0,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

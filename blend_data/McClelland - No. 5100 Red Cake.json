@@ -1,0 +1,94 @@
+{
+    "no.5100redcake": {
+        "imagePath": "../blend_pictures/McClelland - No. 5100 Red Cake.jpg",
+        "name": "No. 5100 Red Cake",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "This blend is a style of English Virginia that has seldom been seen in the United States. A sweet, exceptionally soft, fully rubbed matured cake.",
+        "notes": "",
+        "reviewCount": 173,
+        "totalReviews": 193,
+        "averageRating": 3.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 97,
+            "3_star": 75,
+            "2_star": 18,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.2987012987013,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 92.207792207792,
+                    "Mild to Medium": 100.0,
+                    "Medium": 48.051948051948,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 26.785714285714,
+                    "Very Mild": 16.071428571429,
+                    "Mild": 18.75,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 2.6785714285714,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.89285714285714,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 1.3513513513514,
+                    "Pleasant": 94.594594594595,
+                    "Very Pleasant": 24.324324324324,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 39.189189189189,
+                    "Tolerable to Strong": 1.3513513513514,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.219512195122,
+                    "Very Mild": 7.3170731707317,
+                    "Mild": 43.90243902439,
+                    "Mild to Medium": 100.0,
+                    "Medium": 58.536585365854,
+                    "Medium to Full": 15.853658536585,
+                    "Full": 4.8780487804878,
+                    "Very Full": 3.6585365853659,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

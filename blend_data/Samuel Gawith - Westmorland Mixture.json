@@ -1,0 +1,94 @@
+{
+    "westmorlandmixture": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Westmorland Mixture.jpg",
+        "name": "Westmorland Mixture",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "English",
+        "contents": "Cavendish,  Latakia,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Other / Misc",
+        "description": "Westmorland Mixture is a well balanced combination of bright Virginias, Cyprian latakia, and cavendishes. It is lightly sweetened and wonderfully round and subtle.",
+        "notes": "",
+        "reviewCount": 47,
+        "totalReviews": 53,
+        "averageRating": 2.66,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 9,
+            "3_star": 26,
+            "2_star": 9,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 15.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 10.0,
+                    "Very Strong": 5.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 50.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 5.0,
+                    "Medium to Strong": 5.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 88.235294117647,
+                    "Very Pleasant": 17.647058823529,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.470588235294,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 13.333333333333,
+                    "Mild": 80.0,
+                    "Mild to Medium": 86.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 6.6666666666667,
+                    "Very Full": 6.6666666666667,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

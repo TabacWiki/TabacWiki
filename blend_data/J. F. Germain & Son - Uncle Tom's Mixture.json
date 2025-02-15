@@ -1,0 +1,94 @@
+{
+    "uncletom'smixture": {
+        "imagePath": "../blend_pictures/J. F. Germain & Son - Uncle Tom's Mixture.jpg",
+        "name": "Uncle Tom's Mixture",
+        "blender": "J. F. Germain & Son",
+        "blendedBy": "J. F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Cavendish Based",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams tin; 50 grams pouch",
+        "flavoring": "",
+        "description": "Black pressed cavendish, with matured, air-cured and flue-cured tobacco. An old-fashioned style, with plenty of taste.",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 2.71,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 15,
+            "2_star": 8,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 16.666666666667,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 83.333333333333,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 90.0,
+                    "Very Mild": 60.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 14.285714285714,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 7.1428571428571,
+                    "Pleasant to Tolerable": 57.142857142857,
+                    "Tolerable": 42.857142857143,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 30.0,
+                    "Very Mild": 20.0,
+                    "Mild": 90.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 10.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

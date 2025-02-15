@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "text": "Blend Card Navigation Errors",
+            "subtext": "Navigates only through the currently loaded blend array."
+        },
+        {
+            "text": "Pagination Errors",
+            "subtext": "Pagination breaks in background when navigating blend cards."
+        }
+    ]
+}

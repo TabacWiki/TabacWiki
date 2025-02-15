@@ -1,0 +1,94 @@
+{
+    "davinci": {
+        "imagePath": "../blend_pictures/Dan Tobacco - Da Vinci.jpg",
+        "name": "Da Vinci",
+        "blender": "Dan Tobacco",
+        "blendedBy": "Dan Tobacco",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Alcohol / Liquor",
+        "description": "A delightful blend of light Virginia grades combined with black cavendish. Infused with Tuscan red wine, this blend has a pleasant aroma.",
+        "notes": "Notes:Tin of mid 90's CAO Da Vinci (manufactured in the EU by D.T.M.) says, \"Da Vinci pipe smoking tobacco made from golden light Virginia grades and soothing sweet mild black cavendish matured under addition of fullbodied red chianti wines from the growing area known as the Colli Senesi. A real pleasure for all spoilt smokers and tobacco connoisseurs, enjoy this sweet mild and pleasant smoke and its fragrant aroma.\"",
+        "reviewCount": 83,
+        "totalReviews": 93,
+        "averageRating": 2.73,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 23,
+            "3_star": 35,
+            "2_star": 22,
+            "1_star": 13
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 5.8823529411765,
+                    "Very Mild": 23.529411764706,
+                    "Mild": 100.0,
+                    "Mild to Medium": 91.176470588235,
+                    "Medium": 47.058823529412,
+                    "Medium to Strong": 2.9411764705882,
+                    "Strong": 0.0,
+                    "Very Strong": 2.9411764705882,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 11.111111111111,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 66.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 18.518518518519,
+                    "Extra Strong": 3.7037037037037
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.9411764705882,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 91.176470588235,
+                    "Pleasant to Tolerable": 38.235294117647,
+                    "Tolerable": 26.470588235294,
+                    "Tolerable to Strong": 2.9411764705882,
+                    "Strong": 8.8235294117647,
+                    "Very Strong": 2.9411764705882,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 6.8965517241379,
+                    "Very Mild": 20.689655172414,
+                    "Mild": 58.620689655172,
+                    "Mild to Medium": 100.0,
+                    "Medium": 82.758620689655,
+                    "Medium to Full": 37.931034482759,
+                    "Full": 6.8965517241379,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.8965517241379
+                }
+            }
+        }
+    }
+}

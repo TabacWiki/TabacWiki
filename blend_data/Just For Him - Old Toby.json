@@ -1,0 +1,94 @@
+{
+    "oldtoby": {
+        "imagePath": "../blend_pictures/Just For Him - Old Toby.jpg",
+        "name": "Old Toby",
+        "blender": "Just For Him",
+        "blendedBy": "Bob Schafer",
+        "manufacturedBy": "Just For Him",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia Based",
+        "contents": "Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "Cinnamon,  Cocoa / Chocolate",
+        "description": "This is the second in the Middle Earth Pipeweed Series! Matured and red Virginias are blended with sweet Burleys to enhance aroma. Perique is added to produce a wonderfully smooth, earthy-sweet all day smoke that is perfect with a pint of ale.",
+        "notes": "",
+        "reviewCount": 31,
+        "totalReviews": 35,
+        "averageRating": 2.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 8,
+            "3_star": 9,
+            "2_star": 7,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 40.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 46.666666666667,
+                    "Medium": 20.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 37.5,
+                    "Pleasant to Tolerable": 68.75,
+                    "Tolerable": 12.5,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 18.181818181818,
+                    "Very Mild": 36.363636363636,
+                    "Mild": 100.0,
+                    "Mild to Medium": 90.909090909091,
+                    "Medium": 27.272727272727,
+                    "Medium to Full": 27.272727272727,
+                    "Full": 18.181818181818,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

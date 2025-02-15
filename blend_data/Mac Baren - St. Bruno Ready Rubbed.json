@@ -1,0 +1,94 @@
+{
+    "st.brunoreadyrubbed": {
+        "imagePath": "../blend_pictures/Mac Baren - St. Bruno Ready Rubbed.jpg",
+        "name": "St. Bruno Ready Rubbed",
+        "blender": "Mac Baren",
+        "blendedBy": "Mac Baren",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Kentucky, Virginia",
+        "cut": "Ready Rubbed",
+        "packaging": "pouch weight",
+        "flavoring": "Floral Essences, Fruit / Citrus",
+        "description": "Blend of Virginia and Kentucky. Slow burning and cool with a pleasant aroma.",
+        "notes": "Notes:Made by MacBaren since 2006, the company owns the blend as of 2015.",
+        "reviewCount": 127,
+        "totalReviews": 142,
+        "averageRating": 3.03,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 55,
+            "3_star": 53,
+            "2_star": 20,
+            "1_star": 15
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.9607843137255,
+                    "Very Mild": 1.9607843137255,
+                    "Mild": 19.607843137255,
+                    "Mild to Medium": 31.372549019608,
+                    "Medium": 96.078431372549,
+                    "Medium to Strong": 100.0,
+                    "Strong": 23.529411764706,
+                    "Very Strong": 3.921568627451,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 21.276595744681,
+                    "Extremely Mild": 12.765957446809,
+                    "Very Mild": 34.042553191489,
+                    "Mild": 100.0,
+                    "Mild to Medium": 53.191489361702,
+                    "Medium": 46.808510638298,
+                    "Medium to Strong": 23.404255319149,
+                    "Strong": 4.2553191489362,
+                    "Very Strong": 4.2553191489362,
+                    "Extra Strong": 2.1276595744681
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.8181818181818,
+                    "Pleasant": 90.909090909091,
+                    "Very Pleasant": 11.363636363636,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 84.090909090909,
+                    "Tolerable to Strong": 13.636363636364,
+                    "Strong": 15.909090909091,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 1.9230769230769,
+                    "Very Mild": 3.8461538461538,
+                    "Mild": 15.384615384615,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Full": 71.153846153846,
+                    "Full": 38.461538461538,
+                    "Very Full": 3.8461538461538,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

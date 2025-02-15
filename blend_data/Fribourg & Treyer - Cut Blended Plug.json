@@ -1,0 +1,94 @@
+{
+    "cutblendedplug": {
+        "imagePath": "../blend_pictures/Fribourg & Treyer - Cut Blended Plug.jpg",
+        "name": "Cut Blended Plug",
+        "blender": "Fribourg & Treyer",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia Based",
+        "contents": "Unknown,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "Fruit / Citrus,  Other / Misc",
+        "description": "A light red Virginia flake, slightly sweet with natural flavoring.",
+        "notes": "",
+        "reviewCount": 40,
+        "totalReviews": 45,
+        "averageRating": 3.36,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 25,
+            "3_star": 14,
+            "2_star": 3,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.526315789474,
+                    "Mild": 31.578947368421,
+                    "Mild to Medium": 100.0,
+                    "Medium": 78.947368421053,
+                    "Medium to Strong": 5.2631578947368,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.2631578947368
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 47.368421052632,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 31.578947368421,
+                    "Mild": 47.368421052632,
+                    "Mild to Medium": 10.526315789474,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 9.0909090909091,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.636363636364,
+                    "Pleasant to Tolerable": 59.090909090909,
+                    "Tolerable": 22.727272727273,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 5.2631578947368,
+                    "Mild": 31.578947368421,
+                    "Mild to Medium": 63.157894736842,
+                    "Medium": 100.0,
+                    "Medium to Full": 21.052631578947,
+                    "Full": 10.526315789474,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "granger": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Granger.jpg",
+        "name": "Granger",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Burley Based",
+        "contents": "Burley",
+        "cut": "Coarse Cut",
+        "packaging": "7 ounce tin",
+        "flavoring": "Anisette",
+        "description": "Granger Pipe Tobacco is a classic American burley based blend with a slight top flavor. This rough cut classic lights and burns easily, delivering a smooth, crisp, mild, medium bodied smoke and a pleasant, fragrant room note.",
+        "notes": "Notes:Formerly made by Pinkerton.",
+        "reviewCount": 117,
+        "totalReviews": 131,
+        "averageRating": 2.82,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 41,
+            "3_star": 47,
+            "2_star": 22,
+            "1_star": 21
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.3809523809524,
+                    "Very Mild": 11.904761904762,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 80.952380952381,
+                    "Medium to Strong": 21.428571428571,
+                    "Strong": 2.3809523809524,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 46.938775510204,
+                    "Extremely Mild": 32.65306122449,
+                    "Very Mild": 51.020408163265,
+                    "Mild": 100.0,
+                    "Mild to Medium": 18.367346938776,
+                    "Medium": 8.1632653061224,
+                    "Medium to Strong": 8.1632653061224,
+                    "Strong": 2.0408163265306,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.1724137931034,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 8.6206896551724,
+                    "Pleasant to Tolerable": 63.793103448276,
+                    "Tolerable": 44.827586206897,
+                    "Tolerable to Strong": 1.7241379310345,
+                    "Strong": 1.7241379310345,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 12.5,
+                    "Very Mild": 7.5,
+                    "Mild": 95.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 85.0,
+                    "Medium to Full": 22.5,
+                    "Full": 5.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

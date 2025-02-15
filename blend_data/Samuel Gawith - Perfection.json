@@ -1,0 +1,94 @@
+{
+    "perfection": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Perfection.jpg",
+        "name": "Perfection",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Vanilla",
+        "description": "A variety of Brown & Bright Virginias with a touch of latakia & fine Turkish, steamed then a hint of vanilla has been added.",
+        "notes": "Notes:Named after a local pipe-smoker, who couldn't find his regular tobacco, asked Samuel Gawith to make up a blend - his reaction to the new mixture- PERFECTION!! A combination of Virginias, latakias, and Turkish have been touched by the subtle flavor of vanilla.",
+        "reviewCount": 128,
+        "totalReviews": 143,
+        "averageRating": 2.7,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 30,
+            "3_star": 55,
+            "2_star": 43,
+            "1_star": 15
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 3.7735849056604,
+                    "Very Mild": 9.4339622641509,
+                    "Mild": 66.037735849057,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.264150943396,
+                    "Medium to Strong": 16.981132075472,
+                    "Strong": 9.4339622641509,
+                    "Very Strong": 1.8867924528302,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 18.181818181818,
+                    "Extremely Mild": 77.272727272727,
+                    "Very Mild": 70.454545454545,
+                    "Mild": 100.0,
+                    "Mild to Medium": 25.0,
+                    "Medium": 15.909090909091,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 6.8181818181818,
+                    "Very Strong": 2.2727272727273,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.0816326530612,
+                    "Pleasant": 81.632653061224,
+                    "Very Pleasant": 14.285714285714,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 67.34693877551,
+                    "Tolerable to Strong": 18.367346938776,
+                    "Strong": 6.1224489795918,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 7.5471698113208,
+                    "Very Mild": 9.4339622641509,
+                    "Mild": 33.962264150943,
+                    "Mild to Medium": 77.358490566038,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.415094339623,
+                    "Full": 9.4339622641509,
+                    "Very Full": 3.7735849056604,
+                    "Extra Full": 1.8867924528302,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

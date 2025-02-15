@@ -1,0 +1,94 @@
+{
+    "poplarcamp": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Poplar Camp.jpg",
+        "name": "Poplar Camp",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Almost 20% perique and a dash of unsweetened black cavendish are combined with Yorktown to make a Virginia/perique lover's dream blend. \n\nMuch like Bayou Morning, be forewarned; the muscular presence of perique makes C&D's Poplar Camp for the stout of heart.",
+        "notes": "",
+        "reviewCount": 36,
+        "totalReviews": 40,
+        "averageRating": 3.05,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 12,
+            "3_star": 20,
+            "2_star": 6,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Strong": 66.666666666667,
+                    "Strong": 22.222222222222,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 21.428571428571,
+                    "Very Mild": 10.714285714286,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 3.5714285714286,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 81.25,
+                    "Tolerable": 25.0,
+                    "Tolerable to Strong": 18.75,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.25,
+                    "Mild to Medium": 50.0,
+                    "Medium": 75.0,
+                    "Medium to Full": 100.0,
+                    "Full": 12.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 6.25
+                }
+            }
+        }
+    }
+}

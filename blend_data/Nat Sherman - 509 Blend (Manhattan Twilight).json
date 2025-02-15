@@ -1,0 +1,94 @@
+{
+    "509blend(manhattantwilight)": {
+        "imagePath": "../blend_pictures/Nat Sherman - 509 Blend (Manhattan Twilight).jpg",
+        "name": "509 Blend (Manhattan Twilight)",
+        "blender": "Nat Sherman",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, bulk",
+        "flavoring": "Other / Misc,  Vanilla",
+        "description": "Dark cured cavendish. Cool, mild smoke with velvety smooth flavor.",
+        "notes": "Notes:Zimbabwe blended with black cavendish and mild burley. (Zimbabwe: Virginia flue-cured, burley and Oriental tobacco).",
+        "reviewCount": 19,
+        "totalReviews": 22,
+        "averageRating": 2.64,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 5,
+            "2_star": 5,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 30.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 40.0,
+                    "Medium": 10.0,
+                    "Medium to Strong": 10.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 12.5,
+                    "Mild to Medium": 25.0,
+                    "Medium": 12.5,
+                    "Medium to Strong": 100.0,
+                    "Strong": 62.5,
+                    "Very Strong": 37.5,
+                    "Extra Strong": 25.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 63.636363636364,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 18.181818181818,
+                    "Tolerable": 18.181818181818,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 20.0,
+                    "Very Mild": 60.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 80.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 40.0,
+                    "Full": 20.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 20.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "tilbury": {
+        "imagePath": "../blend_pictures/Esoterica Tobacciana - Tilbury.jpg",
+        "name": "Tilbury",
+        "blender": "Esoterica Tobacciana",
+        "blendedBy": "J.F. Germain & Son",
+        "manufacturedBy": "J.F. Germain & Son",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin, 8 ounce bag",
+        "flavoring": "",
+        "description": "A harmonious blend of golden and dark Virginias with small portions of burley and air-cured leaf. Matured by a special process over 100 years old, producing a unique natural aroma and piquant flavor.",
+        "notes": "",
+        "reviewCount": 93,
+        "totalReviews": 104,
+        "averageRating": 3.34,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 56,
+            "3_star": 34,
+            "2_star": 7,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 2.1276595744681,
+                    "Mild": 12.765957446809,
+                    "Mild to Medium": 46.808510638298,
+                    "Medium": 100.0,
+                    "Medium to Strong": 34.042553191489,
+                    "Strong": 21.276595744681,
+                    "Very Strong": 2.1276595744681,
+                    "Extremely Strong": 2.1276595744681,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 12.64367816092,
+                    "Very Mild": 0.0,
+                    "Mild": 3.448275862069,
+                    "Mild to Medium": 1.1494252873563,
+                    "Medium": 0.0,
+                    "Medium to Strong": 1.1494252873563,
+                    "Strong": 0.0,
+                    "Very Strong": 1.1494252873563,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.764705882353,
+                    "Pleasant": 82.352941176471,
+                    "Very Pleasant": 20.588235294118,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 76.470588235294,
+                    "Tolerable to Strong": 2.9411764705882,
+                    "Strong": 11.764705882353,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.4390243902439,
+                    "Very Mild": 2.4390243902439,
+                    "Mild": 17.073170731707,
+                    "Mild to Medium": 48.780487804878,
+                    "Medium": 100.0,
+                    "Medium to Full": 56.09756097561,
+                    "Full": 19.512195121951,
+                    "Very Full": 4.8780487804878,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.4390243902439
+                }
+            }
+        }
+    }
+}

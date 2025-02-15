@@ -1,0 +1,94 @@
+{
+    "pinkchampagne": {
+        "imagePath": "../blend_pictures/Hermit Tobacco Works Co. - Pink Champagne.jpg",
+        "name": "Pink Champagne",
+        "blender": "Hermit Tobacco Works Co.",
+        "blendedBy": "Bob Gregory",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Cavendish,  Latakia,  Oriental/Turkish",
+        "cut": "Ribbon",
+        "packaging": "2 ounce tin",
+        "flavoring": "Alcohol / Liquor",
+        "description": "Whole leaf latakia, Turkish and cavendish with a light champagne topping.",
+        "notes": "",
+        "reviewCount": 8,
+        "totalReviews": 8,
+        "averageRating": 2.63,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 1,
+            "2_star": 2,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 75.0,
+                    "Very Strong": 25.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 25.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 50.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 0.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 66.666666666667,
+                    "Strong": 33.333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 33.333333333333
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 75.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

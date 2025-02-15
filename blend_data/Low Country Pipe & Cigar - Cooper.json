@@ -1,0 +1,94 @@
+{
+    "cooper": {
+        "imagePath": "../blend_pictures/Low Country Pipe & Cigar - Cooper.jpg",
+        "name": "Cooper",
+        "blender": "Low Country Pipe & Cigar",
+        "blendedBy": "Cornell & Diehl",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Broken Flake",
+        "packaging": "2 ounce tin",
+        "flavoring": "",
+        "description": "The confluence of the Cooper and Ashley Rivers create Charleston Harbor, the most important port in the antebellum South. Following trade winds, goods flowed to points north and, especially, across the Atlantic to the great British ports of call. Commemorating the Cooper River's contribution to world trade, we have selected choice Orientals and Cyprian latakia to accent a base of fine bright leaf and red Virginias to create this exceptional medium English flake.",
+        "notes": "",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 3.73,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 25,
+            "3_star": 7,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.7619047619048,
+                    "Mild to Medium": 23.809523809524,
+                    "Medium": 100.0,
+                    "Medium to Strong": 23.809523809524,
+                    "Strong": 4.7619047619048,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 6.8965517241379,
+                    "Very Mild": 3.448275862069,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 3.448275862069,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 58.333333333333,
+                    "Very Pleasant": 8.3333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 83.333333333333,
+                    "Tolerable to Strong": 16.666666666667,
+                    "Strong": 8.3333333333333,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 7.6923076923077,
+                    "Mild": 0.0,
+                    "Mild to Medium": 23.076923076923,
+                    "Medium": 100.0,
+                    "Medium to Full": 92.307692307692,
+                    "Full": 30.769230769231,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

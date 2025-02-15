@@ -1,0 +1,94 @@
+{
+    "anniversarykake": {
+        "imagePath": "../blend_pictures/Hearth & Home - Anniversary Kake.jpg",
+        "name": "Anniversary Kake",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "bulk, 1.75 ounce tin",
+        "flavoring": "Rum",
+        "description": "Created in celebration of the 1st anniversary of the Hearth and Home line of tobaccos. This is a special blend of Virginias ranging from lemon through brown, combined with a liberal dash of St. James perique, presenting an exquisite aroma and naturally sweet flavor.",
+        "notes": "",
+        "reviewCount": 145,
+        "totalReviews": 162,
+        "averageRating": 3.31,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 95,
+            "3_star": 30,
+            "2_star": 29,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 7.6923076923077,
+                    "Very Mild": 10.769230769231,
+                    "Mild": 52.307692307692,
+                    "Mild to Medium": 100.0,
+                    "Medium": 66.153846153846,
+                    "Medium to Strong": 12.307692307692,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 72.5,
+                    "Very Mild": 87.5,
+                    "Mild": 80.0,
+                    "Mild to Medium": 27.5,
+                    "Medium": 30.0,
+                    "Medium to Strong": 7.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 14.102564102564,
+                    "Pleasant to Tolerable": 53.846153846154,
+                    "Tolerable": 28.205128205128,
+                    "Tolerable to Strong": 3.8461538461538,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.4794520547945,
+                    "Very Mild": 8.2191780821918,
+                    "Mild": 20.547945205479,
+                    "Mild to Medium": 49.315068493151,
+                    "Medium": 100.0,
+                    "Medium to Full": 26.027397260274,
+                    "Full": 8.2191780821918,
+                    "Very Full": 4.1095890410959,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

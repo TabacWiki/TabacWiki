@@ -1,0 +1,94 @@
+{
+    "beacon": {
+        "imagePath": "../blend_pictures/McClelland - Beacon.jpg",
+        "name": "Beacon",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Bright high sugar content Virginia cake made with lemon yellow and orange Virginia leaf along with a healthy dose of seven year old Louisiana perique. A blend to calm a weary sailor outrunning an approaching storm.",
+        "notes": "Notes:Repurposed in 2009 from a PCCA Blend.",
+        "reviewCount": 36,
+        "totalReviews": 41,
+        "averageRating": 3.56,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 26,
+            "3_star": 12,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.7037037037037,
+                    "Mild": 0.0,
+                    "Mild to Medium": 25.925925925926,
+                    "Medium": 100.0,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 2.6315789473684,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 2.6315789473684,
+                    "Medium": 2.6315789473684,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.8823529411765,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 11.764705882353,
+                    "Pleasant to Tolerable": 76.470588235294,
+                    "Tolerable": 29.411764705882,
+                    "Tolerable to Strong": 11.764705882353,
+                    "Strong": 0.0,
+                    "Very Strong": 5.8823529411765,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.0,
+                    "Mild to Medium": 10.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 60.0,
+                    "Full": 25.0,
+                    "Very Full": 5.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

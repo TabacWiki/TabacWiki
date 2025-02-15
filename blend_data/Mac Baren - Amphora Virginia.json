@@ -1,0 +1,94 @@
+{
+    "amphoravirginia": {
+        "imagePath": "../blend_pictures/Mac Baren - Amphora Virginia.jpg",
+        "name": "Amphora Virginia",
+        "blender": "Mac Baren",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "50 grams pouch, 100 grams tin",
+        "flavoring": "",
+        "description": "Amphora Virginia is a well-balanced and mellow blend with the natural sweetness and flavours enjoyed by Virginia lovers worldwide. Made with a mixture of Virginias from Brazil, USA & Zambia.",
+        "notes": "",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 3.35,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 33,
+            "3_star": 27,
+            "2_star": 7,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.5714285714286,
+                    "Mild": 35.714285714286,
+                    "Mild to Medium": 100.0,
+                    "Medium": 82.142857142857,
+                    "Medium to Strong": 17.857142857143,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 22.448979591837,
+                    "Very Mild": 4.0816326530612,
+                    "Mild": 6.1224489795918,
+                    "Mild to Medium": 2.0408163265306,
+                    "Medium": 4.0816326530612,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 27.272727272727,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.636363636364,
+                    "Pleasant to Tolerable": 81.818181818182,
+                    "Tolerable": 72.727272727273,
+                    "Tolerable to Strong": 4.5454545454545,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 4.5454545454545,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.3333333333333,
+                    "Very Mild": 0.0,
+                    "Mild": 23.333333333333,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 30.0,
+                    "Full": 10.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

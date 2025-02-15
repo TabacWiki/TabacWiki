@@ -1,0 +1,94 @@
+{
+    "cobplug": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Cob Plug.jpg",
+        "name": "Cob Plug",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Kentucky,  Virginia",
+        "cut": "Plug",
+        "packaging": "Bulk",
+        "flavoring": "Tonquin Bean,  Whisky",
+        "description": "Samuel Gawith Cob Plug is a full strength, mellow tobacco, comprising a blend of dark fired leaf, oven baked and flavored. For the pipe smoker who requires strength and flavor.",
+        "notes": "Notes:This is the plug version of Cob Flake (which is marketed as 1792 in the United States.",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 3.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 14,
+            "3_star": 13,
+            "2_star": 5,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.8823529411765,
+                    "Mild to Medium": 0.0,
+                    "Medium": 23.529411764706,
+                    "Medium to Strong": 100.0,
+                    "Strong": 35.294117647059,
+                    "Very Strong": 23.529411764706,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.8823529411765
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 20.0,
+                    "Mild": 40.0,
+                    "Mild to Medium": 30.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 40.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 85.714285714286,
+                    "Tolerable": 85.714285714286,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 14.285714285714,
+                    "Overwhelming": 14.285714285714
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 23.076923076923,
+                    "Medium to Full": 76.923076923077,
+                    "Full": 100.0,
+                    "Very Full": 30.769230769231,
+                    "Extra Full": 7.6923076923077,
+                    "Overwhelming": 7.6923076923077
+                }
+            }
+        }
+    }
+}

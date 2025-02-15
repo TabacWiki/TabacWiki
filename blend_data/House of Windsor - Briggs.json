@@ -1,0 +1,94 @@
+{
+    "briggs": {
+        "imagePath": "../blend_pictures/House of Windsor - Briggs.jpg",
+        "name": "Briggs",
+        "blender": "House of Windsor",
+        "blendedBy": "House of Windsor",
+        "manufacturedBy": "House of Windsor",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "1.5 ounce pouch, 2 ounce tin, 10 ounce tin",
+        "flavoring": "",
+        "description": "\"When a feller needs a friend.\"",
+        "notes": "",
+        "reviewCount": 37,
+        "totalReviews": 42,
+        "averageRating": 2.36,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 12,
+            "2_star": 12,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 27.777777777778,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 18.75,
+                    "Extremely Mild": 56.25,
+                    "Very Mild": 50.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 6.25,
+                    "Medium": 25.0,
+                    "Medium to Strong": 6.25,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 12.5,
+                    "Pleasant": 81.25,
+                    "Very Pleasant": 18.75,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 43.75,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 6.25,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 46.153846153846,
+                    "Very Mild": 46.153846153846,
+                    "Mild": 84.615384615385,
+                    "Mild to Medium": 100.0,
+                    "Medium": 15.384615384615,
+                    "Medium to Full": 30.769230769231,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

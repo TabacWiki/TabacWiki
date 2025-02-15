@@ -1,0 +1,94 @@
+{
+    "113:sweetmystery": {
+        "imagePath": "../blend_pictures/Solani - 113: Sweet Mystery.jpg",
+        "name": "113: Sweet Mystery",
+        "blender": "Solani",
+        "blendedBy": "R.L. Will",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "Blackcurrant,  Cocoa / Chocolate,  Rum",
+        "description": "This is a blend of coarse cut sweet red Virginia, bright broad cut Virginia, broken Virginia flake and sweet black cavendish. Two toppings are used, black currants treated with Bacardi and coco cream, resulting in a wonderful tin and room aroma.",
+        "notes": "Notes:Due to EU regulations, this is renamed and sold in those countries as \"Mystery\".",
+        "reviewCount": 31,
+        "totalReviews": 35,
+        "averageRating": 2.57,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 14,
+            "2_star": 6,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 31.578947368421,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.105263157895,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium to Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 8.3333333333333,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 33.333333333333,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 75.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 16.666666666667,
+                    "Very Strong": 16.666666666667,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.7619047619048,
+                    "Pleasant": 38.095238095238,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 19.047619047619,
+                    "Tolerable": 4.7619047619048,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 33.333333333333,
+                    "Very Mild": 16.666666666667,
+                    "Mild": 100.0,
+                    "Mild to Medium": 75.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 8.3333333333333,
+                    "Full": 8.3333333333333,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

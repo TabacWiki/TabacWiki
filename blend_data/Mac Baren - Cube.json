@@ -1,0 +1,94 @@
+{
+    "cube": {
+        "imagePath": "../blend_pictures/Mac Baren - Cube.jpg",
+        "name": "Cube",
+        "blender": "Mac Baren",
+        "blendedBy": "Henrik Halberg",
+        "manufacturedBy": "Mac Baren",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Burley, Cavendish, Kentucky, Virginia",
+        "cut": "Ribbon",
+        "packaging": "pouch weight",
+        "flavoring": "Fruit / Citrus",
+        "description": "For nearly a quarter of a decade, Henrik Halberg, master blender and 4th generation owner of Mac Baren Tobacco, has been selecting the five tobaccos used to craft this outstanding blend. The Blend consists of both pressed tobacco and loose cut varieties that make filling your pipe easy and ensure a cool, slow burn. Enjoy the elements experienced from the finest craftsmanship available in fine pipe tobacco. Puzzle your senses with its deep, sweet and fruity taste. Each time will be better than the last. Mac Baren Cube is THE smoking experience for the true connoisseur.",
+        "notes": "Notes:Introduced in 2004.",
+        "reviewCount": 87,
+        "totalReviews": 97,
+        "averageRating": 2.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 27,
+            "2_star": 24,
+            "1_star": 35
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.627906976744,
+                    "Very Mild": 34.883720930233,
+                    "Mild": 100.0,
+                    "Mild to Medium": 48.837209302326,
+                    "Medium": 25.581395348837,
+                    "Medium to Strong": 2.3255813953488,
+                    "Strong": 2.3255813953488,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 3.448275862069,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 13.793103448276,
+                    "Mild to Medium": 17.241379310345,
+                    "Medium": 86.206896551724,
+                    "Medium to Strong": 62.068965517241,
+                    "Strong": 100.0,
+                    "Very Strong": 27.586206896552,
+                    "Extra Strong": 17.241379310345
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 4.5454545454545,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 65.909090909091,
+                    "Pleasant to Tolerable": 20.454545454545,
+                    "Tolerable": 15.909090909091,
+                    "Tolerable to Strong": 6.8181818181818,
+                    "Strong": 4.5454545454545,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.2727272727273
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 8.8235294117647,
+                    "Very Mild": 8.8235294117647,
+                    "Mild": 41.176470588235,
+                    "Mild to Medium": 55.882352941176,
+                    "Medium": 100.0,
+                    "Medium to Full": 17.647058823529,
+                    "Full": 20.588235294118,
+                    "Very Full": 5.8823529411765,
+                    "Extra Full": 8.8235294117647,
+                    "Overwhelming": 17.647058823529
+                }
+            }
+        }
+    }
+}

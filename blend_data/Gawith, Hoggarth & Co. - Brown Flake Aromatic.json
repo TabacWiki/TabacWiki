@@ -1,0 +1,94 @@
+{
+    "brownflakearomatic": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Brown Flake Aromatic.jpg",
+        "name": "Brown Flake Aromatic",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "",
+        "manufacturedBy": "Gawith Hoggarth",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Burley, Virginia",
+        "cut": "Flake",
+        "packaging": "bulk",
+        "flavoring": "Fruit / Citrus, Other / Misc, Vanilla",
+        "description": "Comprised from the same tobaccos as unscented Brown Flake, this medium bodied flake is augmented with the addition of traditional British flavorings (70%) and vanilla and fig extract (15% each). Designed for those smokers who enjoy the Brown Flake, but want a more traditionally flavored British Flake.",
+        "notes": "",
+        "reviewCount": 25,
+        "totalReviews": 28,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 8,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.333333333333,
+                    "Mild to Medium": 26.666666666667,
+                    "Medium": 100.0,
+                    "Medium to Strong": 46.666666666667,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 30.0,
+                    "Very Mild": 10.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 70.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 30.0,
+                    "Strong": 30.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 20.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 60.0,
+                    "Pleasant to Tolerable": 40.0,
+                    "Tolerable": 60.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.6923076923077,
+                    "Mild to Medium": 38.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Full": 53.846153846154,
+                    "Full": 7.6923076923077,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 7.6923076923077
+                }
+            }
+        }
+    }
+}

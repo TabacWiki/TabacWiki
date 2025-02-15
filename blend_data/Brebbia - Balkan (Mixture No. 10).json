@@ -1,0 +1,94 @@
+{
+    "balkan(mixtureno.10)": {
+        "imagePath": "../blend_pictures/Brebbia - Balkan (Mixture No. 10).jpg",
+        "name": "Balkan (Mixture No. 10)",
+        "blender": "Brebbia",
+        "blendedBy": "Planta",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Balkan",
+        "contents": "Kentucky,  Latakia,  Oriental/Turkish,  Perique",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Full bodied blend of finest Oriental leaves, dark fired Kentucky, Louisiana perique, and 40% of Syrian latakia.",
+        "notes": "",
+        "reviewCount": 31,
+        "totalReviews": 35,
+        "averageRating": 3.43,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 18,
+            "3_star": 14,
+            "2_star": 3,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 5.2631578947368,
+                    "Mild to Medium": 10.526315789474,
+                    "Medium": 100.0,
+                    "Medium to Strong": 63.157894736842,
+                    "Strong": 0.0,
+                    "Very Strong": 5.2631578947368,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 61.538461538462,
+                    "Very Pleasant": 7.6923076923077,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 61.538461538462,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 23.076923076923,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 26.666666666667,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 20.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

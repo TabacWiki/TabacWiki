@@ -1,0 +1,94 @@
+{
+    "blendno.5": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Blend No.5.jpg",
+        "name": "Blend No.5",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Carl McCallister",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "English",
+        "contents": "Burley,  Latakia,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "1.5 ounce tin",
+        "flavoring": "",
+        "description": "A robust English blend with character. Plenty of latakia, pressed Virginia and burley provide the base. Perfect for fans of Dunhill My Mixture #965.",
+        "notes": "Notes:This blend is manufactured by Sutliff, and sold under their \"Sutliff Private Stock\" brand.",
+        "reviewCount": 72,
+        "totalReviews": 81,
+        "averageRating": 2.79,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 34,
+            "2_star": 20,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.0606060606061,
+                    "Mild": 54.545454545455,
+                    "Mild to Medium": 100.0,
+                    "Medium": 60.606060606061,
+                    "Medium to Strong": 15.151515151515,
+                    "Strong": 9.0909090909091,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.689655172414,
+                    "Very Mild": 31.034482758621,
+                    "Mild": 37.931034482759,
+                    "Mild to Medium": 44.827586206897,
+                    "Medium": 34.48275862069,
+                    "Medium to Strong": 10.344827586207,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.6666666666667,
+                    "Pleasant": 73.333333333333,
+                    "Very Pleasant": 10.0,
+                    "Pleasant to Tolerable": 60.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.8965517241379,
+                    "Mild": 31.034482758621,
+                    "Mild to Medium": 58.620689655172,
+                    "Medium": 100.0,
+                    "Medium to Full": 65.51724137931,
+                    "Full": 17.241379310345,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

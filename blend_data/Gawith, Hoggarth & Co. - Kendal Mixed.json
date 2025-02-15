@@ -1,0 +1,94 @@
+{
+    "kendalmixed": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Kendal Mixed.jpg",
+        "name": "Kendal Mixed",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Shag",
+        "packaging": "Bulk",
+        "flavoring": "",
+        "description": "Bag states, \"A classic blend of the highest quality bright and dark fired Virginias.\"",
+        "notes": "Notes:Previously listed as a Virginia/Burley, but it is a straight VA.\n\nKendal comes in a number of strengths and cuts, based on blend of either Bright Leaf or Dark Fired.\n\nKendal Gold \u2013 All bright leaf \nKendal No6 \u2013 Mainly bright with a little fired\nKendal Mixed \u2013 Pretty much 50/50 of the two\nKendal No7 \u2013 Mainly dark fired with some bright leaf\nKendal Dark - All dark fired leaf",
+        "reviewCount": 18,
+        "totalReviews": 21,
+        "averageRating": 3.1,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 11,
+            "2_star": 1,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 10.0,
+                    "Mild": 10.0,
+                    "Mild to Medium": 60.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.0,
+                    "Strong": 10.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 54.545454545455,
+                    "Very Mild": 9.0909090909091,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 9.0909090909091,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 25.0,
+                    "Pleasant": 37.5,
+                    "Very Pleasant": 37.5,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 50.0,
+                    "Tolerable to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 14.285714285714,
+                    "Mild": 14.285714285714,
+                    "Mild to Medium": 100.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.571428571429,
+                    "Full": 42.857142857143,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

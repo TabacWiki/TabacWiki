@@ -1,0 +1,94 @@
+{
+    "celtictalisman": {
+        "imagePath": "../blend_pictures/Samuel Gawith - Celtic Talisman.jpg",
+        "name": "Celtic Talisman",
+        "blender": "Samuel Gawith",
+        "blendedBy": "Samuel Gawith",
+        "manufacturedBy": "Samuel Gawith",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Burley,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Alcohol / Liquor,  Cherry,  Kirsch,  Vanilla",
+        "description": "Bright Virginias, burley and black cavendish with a dash of kirsch and vanilla gives Celtic its light and aromatic personality.",
+        "notes": "",
+        "reviewCount": 81,
+        "totalReviews": 90,
+        "averageRating": 2.76,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 26,
+            "3_star": 32,
+            "2_star": 16,
+            "1_star": 16
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 3.030303030303,
+                    "Mild": 72.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 84.848484848485,
+                    "Medium to Strong": 12.121212121212,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 6.4516129032258,
+                    "Mild": 29.032258064516,
+                    "Mild to Medium": 64.516129032258,
+                    "Medium": 100.0,
+                    "Medium to Strong": 54.838709677419,
+                    "Strong": 25.806451612903,
+                    "Very Strong": 9.6774193548387,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 2.3255813953488,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 48.837209302326,
+                    "Pleasant to Tolerable": 32.558139534884,
+                    "Tolerable": 9.3023255813953,
+                    "Tolerable to Strong": 4.6511627906977,
+                    "Strong": 9.3023255813953,
+                    "Very Strong": 2.3255813953488,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.1276595744681,
+                    "Very Mild": 6.3829787234043,
+                    "Mild": 12.765957446809,
+                    "Mild to Medium": 31.914893617021,
+                    "Medium": 100.0,
+                    "Medium to Full": 29.787234042553,
+                    "Full": 6.3829787234043,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.1276595744681
+                }
+            }
+        }
+    }
+}

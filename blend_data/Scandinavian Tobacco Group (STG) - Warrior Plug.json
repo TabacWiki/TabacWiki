@@ -1,0 +1,94 @@
+{
+    "warriorplug": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Warrior Plug.jpg",
+        "name": "Warrior Plug",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Murray Sons & Co, Ltd",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Virginia",
+        "cut": "Plug",
+        "packaging": "50 grams pouch",
+        "flavoring": "Plum",
+        "description": "Akin to Yachtsman Plug, but with the strongest taste and flavour.",
+        "notes": "",
+        "reviewCount": 31,
+        "totalReviews": 35,
+        "averageRating": 3.14,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 13,
+            "3_star": 15,
+            "2_star": 6,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 7.1428571428571,
+                    "Mild to Medium": 7.1428571428571,
+                    "Medium": 57.142857142857,
+                    "Medium to Strong": 100.0,
+                    "Strong": 57.142857142857,
+                    "Very Strong": 14.285714285714,
+                    "Extremely Strong": 7.1428571428571,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Very Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 66.666666666667,
+                    "Extremely Mild": 44.444444444444,
+                    "Very Mild": 100.0,
+                    "Mild": 77.777777777778,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 44.444444444444,
+                    "Medium to Strong": 11.111111111111,
+                    "Strong": 11.111111111111,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 13.333333333333,
+                    "Pleasant": 46.666666666667,
+                    "Very Pleasant": 6.6666666666667,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 46.666666666667,
+                    "Tolerable to Strong": 13.333333333333,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 18.181818181818,
+                    "Mild to Medium": 18.181818181818,
+                    "Medium": 100.0,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 27.272727272727,
+                    "Extra Full": 9.0909090909091,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

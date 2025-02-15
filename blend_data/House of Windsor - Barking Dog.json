@@ -1,0 +1,94 @@
+{
+    "barkingdog": {
+        "imagePath": "../blend_pictures/House of Windsor - Barking Dog.jpg",
+        "name": "Barking Dog",
+        "blender": "House of Windsor",
+        "blendedBy": "House of Windsor",
+        "manufacturedBy": "House of Windsor",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "American",
+        "contents": "Burley,  Latakia",
+        "cut": "Coarse Cut",
+        "packaging": "50 grams pouch, 2 ounce tin, 14 ounce can",
+        "flavoring": "",
+        "description": "A substantial mixture of cube cut burleys and latakia.",
+        "notes": "",
+        "reviewCount": 50,
+        "totalReviews": 56,
+        "averageRating": 2.64,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 7,
+            "3_star": 26,
+            "2_star": 19,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 50.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 62.5,
+                    "Medium to Strong": 12.5,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 83.333333333333,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 100.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 41.666666666667,
+                    "Medium": 58.333333333333,
+                    "Medium to Strong": 25.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 8.3333333333333
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 65.0,
+                    "Very Pleasant": 15.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 75.0,
+                    "Tolerable to Strong": 20.0,
+                    "Strong": 5.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 4.5454545454545,
+                    "Very Mild": 4.5454545454545,
+                    "Mild": 22.727272727273,
+                    "Mild to Medium": 100.0,
+                    "Medium": 68.181818181818,
+                    "Medium to Full": 50.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 4.5454545454545
+                }
+            }
+        }
+    }
+}

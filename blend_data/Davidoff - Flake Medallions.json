@@ -1,0 +1,94 @@
+{
+    "flakemedallions": {
+        "imagePath": "../blend_pictures/Davidoff - Flake Medallions.jpg",
+        "name": "Flake Medallions",
+        "blender": "Davidoff",
+        "blendedBy": "Orlik Tobacco Company",
+        "manufacturedBy": "Orlik Tobacco Company",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Coin cut of finest Virginia and perique tobaccos with a core of black cavendish.",
+        "notes": "",
+        "reviewCount": 143,
+        "totalReviews": 159,
+        "averageRating": 3.28,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 79,
+            "3_star": 54,
+            "2_star": 17,
+            "1_star": 9
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 4.5454545454545,
+                    "Mild": 21.212121212121,
+                    "Mild to Medium": 78.787878787879,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.333333333333,
+                    "Strong": 3.030303030303,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 70.769230769231,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 27.692307692308,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 4.6153846153846,
+                    "Medium to Strong": 3.0769230769231,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.5573770491803,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 19.672131147541,
+                    "Pleasant to Tolerable": 91.803278688525,
+                    "Tolerable": 32.786885245902,
+                    "Tolerable to Strong": 6.5573770491803,
+                    "Strong": 1.6393442622951,
+                    "Very Strong": 1.6393442622951,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.0769230769231,
+                    "Very Mild": 4.6153846153846,
+                    "Mild": 26.153846153846,
+                    "Mild to Medium": 58.461538461538,
+                    "Medium": 100.0,
+                    "Medium to Full": 38.461538461538,
+                    "Full": 10.769230769231,
+                    "Very Full": 3.0769230769231,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

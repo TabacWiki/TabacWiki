@@ -1,0 +1,94 @@
+{
+    "paladinblackcherry": {
+        "imagePath": "../blend_pictures/Lane Limited - Paladin Black Cherry.jpg",
+        "name": "Paladin Black Cherry",
+        "blender": "Lane Limited",
+        "blendedBy": "Lane Limited",
+        "manufacturedBy": "Lane Limited",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "14 ounce tin, 1.5 ounce pouch",
+        "flavoring": "Cherry",
+        "description": "Paladin is an aromatic blend of flue cured and burley tobaccos.",
+        "notes": "Notes:Previously manufactured by Pinkerton.",
+        "reviewCount": 121,
+        "totalReviews": 135,
+        "averageRating": 1.97,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 11,
+            "3_star": 31,
+            "2_star": 36,
+            "1_star": 57
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 10.344827586207,
+                    "Very Mild": 39.655172413793,
+                    "Mild": 100.0,
+                    "Mild to Medium": 37.931034482759,
+                    "Medium": 25.862068965517,
+                    "Medium to Strong": 8.6206896551724,
+                    "Strong": 1.7241379310345,
+                    "Very Strong": 5.1724137931034,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 3.448275862069
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 4.0,
+                    "Extremely Mild": 16.0,
+                    "Very Mild": 8.0,
+                    "Mild": 32.0,
+                    "Mild to Medium": 44.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 96.0,
+                    "Strong": 96.0,
+                    "Very Strong": 88.0,
+                    "Extra Strong": 56.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.6923076923077,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 48.076923076923,
+                    "Pleasant to Tolerable": 46.153846153846,
+                    "Tolerable": 21.153846153846,
+                    "Tolerable to Strong": 15.384615384615,
+                    "Strong": 11.538461538462,
+                    "Very Strong": 5.7692307692308,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.8461538461538
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 25.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 58.333333333333,
+                    "Mild to Medium": 52.777777777778,
+                    "Medium": 100.0,
+                    "Medium to Full": 22.222222222222,
+                    "Full": 25.0,
+                    "Very Full": 11.111111111111,
+                    "Extra Full": 5.5555555555556,
+                    "Overwhelming": 41.666666666667
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "tentomidnight": {
+        "imagePath": "../blend_pictures/Hearth & Home - Ten to Midnight.jpg",
+        "name": "Ten to Midnight",
+        "blender": "Hearth & Home",
+        "blendedBy": "Russ Ouellette",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "bulk",
+        "flavoring": "",
+        "description": "A dark, full Balkan style tobacco containing bright and matured Carolina and Virginias, a healthy mixture of Turkish and Orientals, and plenty of flavorful, fragrant latakia. A superb late-evening smoke that can stand up to a sturdy single-malt scotch, small-batch bourbon or hearty port.",
+        "notes": "",
+        "reviewCount": 54,
+        "totalReviews": 60,
+        "averageRating": 3.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 26,
+            "2_star": 11,
+            "1_star": 4
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 17.647058823529,
+                    "Mild to Medium": 32.352941176471,
+                    "Medium": 100.0,
+                    "Medium to Strong": 20.588235294118,
+                    "Strong": 2.9411764705882,
+                    "Very Strong": 2.9411764705882,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 1.7857142857143,
+                    "Very Mild": 0.0,
+                    "Mild": 1.7857142857143,
+                    "Mild to Medium": 0.0,
+                    "Medium": 1.7857142857143,
+                    "Medium to Strong": 0.0,
+                    "Strong": 1.7857142857143,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 9.375,
+                    "Very Pleasant": 6.25,
+                    "Pleasant to Tolerable": 31.25,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 31.25,
+                    "Strong": 9.375,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 4.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 52.0,
+                    "Medium to Full": 100.0,
+                    "Full": 52.0,
+                    "Very Full": 12.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

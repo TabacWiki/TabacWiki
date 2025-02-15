@@ -1,0 +1,94 @@
+{
+    "bosuncutplug": {
+        "imagePath": "../blend_pictures/Gawith, Hoggarth & Co. - Bosun Cut Plug.jpg",
+        "name": "Bosun Cut Plug",
+        "blender": "Gawith, Hoggarth & Co.",
+        "blendedBy": "Gawith, Hoggarth & Co.",
+        "manufacturedBy": "Gawith, Hoggarth & Co.",
+        "production": "Currently available",
+        "country": "United Kingdom",
+        "blendType": "Aromatic",
+        "contents": "Virginia",
+        "cut": "Broken Flake",
+        "packaging": "Bulk, 16 ounce bag",
+        "flavoring": "Floral Essences,  Spices",
+        "description": "With only slightly over 50% (54%) flue-cured Virginias from Brazil, Zimbabwe and Malawi, and 31% dark fired leaf, this is a fairly strong smoke. The addition of some sweeter sun cured leaf from Malawi, and the rich cigar type notes from the dark air cured Indian grade help to round off the blend. The special Virginia casings complement the top notes derived from the addition of sharper flavours including oil of cloves and rose geranium.",
+        "notes": "",
+        "reviewCount": 65,
+        "totalReviews": 73,
+        "averageRating": 3.33,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 35,
+            "3_star": 30,
+            "2_star": 5,
+            "1_star": 3
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 6.4516129032258,
+                    "Mild to Medium": 0.0,
+                    "Medium": 67.741935483871,
+                    "Medium to Strong": 100.0,
+                    "Strong": 58.064516129032,
+                    "Very Strong": 3.2258064516129,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 8.695652173913,
+                    "Mild": 21.739130434783,
+                    "Mild to Medium": 34.782608695652,
+                    "Medium": 100.0,
+                    "Medium to Strong": 78.260869565217,
+                    "Strong": 65.217391304348,
+                    "Very Strong": 4.3478260869565,
+                    "Extra Strong": 4.3478260869565
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 7.1428571428571,
+                    "Pleasant": 60.714285714286,
+                    "Very Pleasant": 17.857142857143,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 42.857142857143,
+                    "Tolerable to Strong": 14.285714285714,
+                    "Strong": 10.714285714286,
+                    "Very Strong": 3.5714285714286,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 3.5714285714286
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.3809523809524,
+                    "Mild to Medium": 4.7619047619048,
+                    "Medium": 21.428571428571,
+                    "Medium to Full": 100.0,
+                    "Full": 40.47619047619,
+                    "Very Full": 2.3809523809524,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.3809523809524
+                }
+            }
+        }
+    }
+}

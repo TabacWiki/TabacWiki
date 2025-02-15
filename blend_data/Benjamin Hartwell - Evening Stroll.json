@@ -1,0 +1,94 @@
+{
+    "eveningstroll": {
+        "imagePath": "../blend_pictures/Benjamin Hartwell - Evening Stroll.jpg",
+        "name": "Evening Stroll",
+        "blender": "Benjamin Hartwell",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Re-release",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Alcohol / Liquor,  Caramel,  Other / Misc,  Vanilla",
+        "description": "Mild and flavorful - Benjamin Hartwell's friend, Jim Murdoch, was a real dandy, always dressed in the most fashionable styles of his day. He preferred his pipe tobaccos mild and with a hint of sweetness to please the women as he walked by. Ben made his blend for Jim and called it Evening Stroll.",
+        "notes": "",
+        "reviewCount": 50,
+        "totalReviews": 56,
+        "averageRating": 2.91,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 19,
+            "3_star": 19,
+            "2_star": 12,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 9.0909090909091,
+                    "Very Mild": 72.727272727273,
+                    "Mild": 100.0,
+                    "Mild to Medium": 59.090909090909,
+                    "Medium": 13.636363636364,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 11.764705882353,
+                    "Very Mild": 17.647058823529,
+                    "Mild": 29.411764705882,
+                    "Mild to Medium": 82.352941176471,
+                    "Medium": 100.0,
+                    "Medium to Strong": 47.058823529412,
+                    "Strong": 29.411764705882,
+                    "Very Strong": 11.764705882353,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 42.105263157895,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 5.2631578947368,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 35.0,
+                    "Mild": 70.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 50.0,
+                    "Medium to Full": 15.0,
+                    "Full": 5.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 5.0
+                }
+            }
+        }
+    }
+}

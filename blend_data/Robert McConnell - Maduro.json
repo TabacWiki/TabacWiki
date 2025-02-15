@@ -1,0 +1,94 @@
+{
+    "maduro": {
+        "imagePath": "../blend_pictures/Robert McConnell - Maduro.jpg",
+        "name": "Maduro",
+        "blender": "Robert McConnell",
+        "blendedBy": "Kohlhase, Kopp und Co. KG",
+        "manufacturedBy": "",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Burley,  Perique,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "Rum",
+        "description": "One of the original blends from 1848. Rich Dark Virginia and Carolina Mature Leaf blended and pressed in steam ovens produce this unique dark mature tobacco, according to the sailor men method called \"Carottes\". Surprisingly mild and very slow burning. No latakia.",
+        "notes": "Notes:McConnell's Maduro is a blend of deep, dark, heat pressed Virginias with perique and a Navy rum top note. A black cavendish made from various burley and Virginia tobaccos is rounded off with a whiff of perique (K&K Website).",
+        "reviewCount": 30,
+        "totalReviews": 34,
+        "averageRating": 2.38,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 6,
+            "3_star": 9,
+            "2_star": 11,
+            "1_star": 8
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 15.789473684211,
+                    "Very Mild": 15.789473684211,
+                    "Mild": 100.0,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 0.0,
+                    "Strong": 5.2631578947368,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 33.333333333333,
+                    "Extremely Mild": 50.0,
+                    "Very Mild": 33.333333333333,
+                    "Mild": 100.0,
+                    "Mild to Medium": 33.333333333333,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 27.777777777778,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 16.666666666667,
+                    "Pleasant to Tolerable": 38.888888888889,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 36.363636363636,
+                    "Very Mild": 18.181818181818,
+                    "Mild": 90.909090909091,
+                    "Mild to Medium": 100.0,
+                    "Medium": 45.454545454545,
+                    "Medium to Full": 18.181818181818,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

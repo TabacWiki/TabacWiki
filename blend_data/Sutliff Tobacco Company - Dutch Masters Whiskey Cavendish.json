@@ -1,0 +1,94 @@
+{
+    "dutchmasterswhiskeycavendish": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Dutch Masters Whiskey Cavendish.jpg",
+        "name": "Dutch Masters Whiskey Cavendish",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Sutliff Tobacco Company",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish,  Cavendish",
+        "cut": "Ribbon",
+        "packaging": "1.5 ounce pouch, 14 ounce tub.",
+        "flavoring": "Whisky",
+        "description": "Previously sold as Old Grand Dad Whiskey Cavendish, This is a mixture of aged black and golden cavendish laced with a famous Kentucky Straight Bourbon Whiskey.",
+        "notes": "",
+        "reviewCount": 30,
+        "totalReviews": 34,
+        "averageRating": 2.68,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 19,
+            "2_star": 4,
+            "1_star": 6
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 22.222222222222,
+                    "Mild": 100.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 5.5555555555556,
+                    "Medium to Strong": 5.5555555555556,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 5.5555555555556
+                }
+            },
+            "flavoring": {
+                "level": "Mild to Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 15.384615384615,
+                    "Mild": 61.538461538462,
+                    "Mild to Medium": 100.0,
+                    "Medium": 38.461538461538,
+                    "Medium to Strong": 23.076923076923,
+                    "Strong": 15.384615384615,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 7.6923076923077
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.444444444444,
+                    "Pleasant to Tolerable": 27.777777777778,
+                    "Tolerable": 5.5555555555556,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 5.5555555555556,
+                    "Very Strong": 5.5555555555556,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 15.0,
+                    "Medium to Full": 5.0,
+                    "Full": 5.0,
+                    "Very Full": 5.0,
+                    "Extra Full": 5.0,
+                    "Overwhelming": 5.0
+                }
+            }
+        }
+    }
+}

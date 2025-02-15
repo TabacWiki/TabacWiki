@@ -1,0 +1,94 @@
+{
+    "durbar": {
+        "imagePath": "../blend_pictures/Dunhill - Durbar.jpg",
+        "name": "Durbar",
+        "blender": "Dunhill",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "United Kingdom",
+        "blendType": "Balkan",
+        "contents": "Latakia,  Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "This blend contains a high proportion of Oriental leaf, Virginia and latakia.  It is a broad cut mixture, giving rich body, but has a slow rate of burn and is medium in strength.",
+        "notes": "",
+        "reviewCount": 108,
+        "totalReviews": 120,
+        "averageRating": 3.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 59,
+            "3_star": 32,
+            "2_star": 24,
+            "1_star": 5
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.2222222222222,
+                    "Mild to Medium": 15.555555555556,
+                    "Medium": 100.0,
+                    "Medium to Strong": 93.333333333333,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 4.4444444444444,
+                    "Extremely Strong": 2.2222222222222,
+                    "Overwhelming": 4.4444444444444
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 3.6697247706422,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 5.5045871559633,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.91743119266055
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.4054054054054,
+                    "Pleasant": 29.72972972973,
+                    "Very Pleasant": 16.216216216216,
+                    "Pleasant to Tolerable": 43.243243243243,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 67.567567567568,
+                    "Strong": 40.540540540541,
+                    "Very Strong": 16.216216216216,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 5.4054054054054
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 2.2222222222222,
+                    "Mild to Medium": 20.0,
+                    "Medium": 53.333333333333,
+                    "Medium to Full": 100.0,
+                    "Full": 66.666666666667,
+                    "Very Full": 15.555555555556,
+                    "Extra Full": 4.4444444444444,
+                    "Overwhelming": 4.4444444444444
+                }
+            }
+        }
+    }
+}

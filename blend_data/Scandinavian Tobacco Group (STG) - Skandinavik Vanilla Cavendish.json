@@ -1,0 +1,94 @@
+{
+    "skandinavikvanillacavendish": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Skandinavik Vanilla Cavendish.jpg",
+        "name": "Skandinavik Vanilla Cavendish",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Peter Stokkebye",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "",
+        "country": "Denmark",
+        "blendType": "Aromatic",
+        "contents": "Burley,  Cavendish,  Oriental/Turkish,  Virginia",
+        "cut": "Mixture",
+        "packaging": "50 grams pouch",
+        "flavoring": "Vanilla",
+        "description": "A mixture of golden Virginia, mild Danish Cavendish, Oriental and white Tennessee Burley tobaccos.  The blend is cut to facilitate easy filling of the pipe.  Skandinavik Vanilla Cavendish combines the flavor of the high grade leaf tobaccos with a deep vanilla flavor.",
+        "notes": "",
+        "reviewCount": 29,
+        "totalReviews": 33,
+        "averageRating": 2.21,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 3,
+            "3_star": 11,
+            "2_star": 9,
+            "1_star": 10
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 11.111111111111,
+                    "Very Mild": 77.777777777778,
+                    "Mild": 100.0,
+                    "Mild to Medium": 88.888888888889,
+                    "Medium": 22.222222222222,
+                    "Medium to Strong": 22.222222222222,
+                    "Strong": 44.444444444444,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 15.384615384615,
+                    "Medium": 15.384615384615,
+                    "Medium to Strong": 61.538461538462,
+                    "Strong": 100.0,
+                    "Very Strong": 53.846153846154,
+                    "Extra Strong": 7.6923076923077
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 57.142857142857,
+                    "Pleasant to Tolerable": 21.428571428571,
+                    "Tolerable": 14.285714285714,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 14.285714285714,
+                    "Very Strong": 28.571428571429,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 8.3333333333333,
+                    "Mild": 41.666666666667,
+                    "Mild to Medium": 50.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Full": 50.0,
+                    "Full": 100.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 8.3333333333333
+                }
+            }
+        }
+    }
+}

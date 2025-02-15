@@ -1,0 +1,94 @@
+{
+    "thebeast": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - The Beast.jpg",
+        "name": "The Beast",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Jeremy Reeves",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Re-release",
+        "country": "United States",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Kentucky,  Perique,  Virginia",
+        "cut": "Mixture",
+        "packaging": "2 ounce tin",
+        "flavoring": "Rum",
+        "description": "Legend has it that Aleister Crowley, famed adept of the Order of the Golden Dawn and founder of the Ordo Templi Orientis, is purported to have made a habit of smoking rum-soaked perique as a meditative aid. \n\nTo date, many a dabbler has pursued his own manifestation of this concoction out of sheer curiosity. We have too. And so in the spirit of the nefarious occultist himself, we sought to tame the Beast with our own rendering of the recipe, soaked for seven days in spiced rum, so that we might share our vision of it with the most inquisitive and brave of pipe smokers.",
+        "notes": "Notes:From Cornell & Diehl website: The Beast features 51% Perique, soaked in spiced rum for seven days and supported by C&D's proprietary Red Virginia Cavendish, unsweetened Black Cavendish, and a whisper of Dark-Fired Kentucky. Given Perique's naturally high nicotine levels, its majority presence makes for quite a robust smoke, yet as a mixture, it's exceedingly complex: The modest addition of Dark-Fired Kentucky lends the blend a subtle, tangy note of mesquite smoke, with the Red Virginia and unsweetened Black Cavendish supporting the Perique's natural flavors of stone fruits and piquant spice.",
+        "reviewCount": 16,
+        "totalReviews": 18,
+        "averageRating": 2.78,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 6,
+            "2_star": 5,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 16.666666666667,
+                    "Medium to Strong": 83.333333333333,
+                    "Strong": 100.0,
+                    "Very Strong": 83.333333333333,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 16.666666666667
+                }
+            },
+            "flavoring": {
+                "level": "Strong",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 20.0,
+                    "Very Mild": 0.0,
+                    "Mild": 60.0,
+                    "Mild to Medium": 20.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 100.0,
+                    "Very Strong": 60.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 40.0,
+                    "Pleasant": 40.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 20.0,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 40.0,
+                    "Strong": 60.0,
+                    "Very Strong": 20.0,
+                    "Extra Strong": 20.0,
+                    "Overwhelming": 20.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 12.5,
+                    "Medium to Full": 12.5,
+                    "Full": 100.0,
+                    "Very Full": 62.5,
+                    "Extra Full": 25.0,
+                    "Overwhelming": 12.5
+                }
+            }
+        }
+    }
+}

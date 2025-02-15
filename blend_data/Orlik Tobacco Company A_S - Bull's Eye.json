@@ -1,0 +1,94 @@
+{
+    "bull'seye": {
+        "imagePath": "../blend_pictures/Orlik Tobacco Company A/S - Bull's Eye.jpg",
+        "name": "Bull's Eye",
+        "blender": "Orlik Tobacco Company A/S",
+        "blendedBy": "",
+        "manufacturedBy": "",
+        "production": "No longer in production",
+        "country": "Denmark",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Curly Cut",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "A blend of dark and bright Virginias with strong perique from Louisiana. The blend is pressed into  thin plates, which are matured under pressure before being spun tightly into rolls around a core of black cavendish. Again the rolls mature before being cut and packed. Tobacco from three continents. Know it on the black eye!",
+        "notes": "Notes:It was released as a replica of Dunhill Deluxe Navy Rolls. Discontinued in late 2013.",
+        "reviewCount": 35,
+        "totalReviews": 39,
+        "averageRating": 3.74,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 29,
+            "3_star": 10,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 13.636363636364,
+                    "Mild to Medium": 54.545454545455,
+                    "Medium": 100.0,
+                    "Medium to Strong": 9.0909090909091,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Extremely Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 75.0,
+                    "Extremely Mild": 100.0,
+                    "Very Mild": 18.75,
+                    "Mild": 37.5,
+                    "Mild to Medium": 12.5,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 36.842105263158,
+                    "Pleasant to Tolerable": 42.105263157895,
+                    "Tolerable": 21.052631578947,
+                    "Tolerable to Strong": 5.2631578947368,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 6.25,
+                    "Mild": 18.75,
+                    "Mild to Medium": 56.25,
+                    "Medium": 100.0,
+                    "Medium to Full": 43.75,
+                    "Full": 12.5,
+                    "Very Full": 6.25,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "nighttrain": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Night Train.jpg",
+        "name": "Night Train",
+        "blender": "Cornell & Diehl",
+        "blendedBy": "Craig Tarler",
+        "manufacturedBy": "Cornell & Diehl",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley,  Cavendish,  Perique,  Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "2 ounce tin, 8 ounce tin, bulk",
+        "flavoring": "",
+        "description": "Bright Virginia ribbon, bright Virginia flake, cavendish cut, [Virginia grown brown] burley, and perique are pressed into an old fashioned crumble cake to form a smoke as smooth as a train gliding effortlessly through the late night hours. Pressed only.",
+        "notes": "",
+        "reviewCount": 81,
+        "totalReviews": 90,
+        "averageRating": 3.32,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 45,
+            "3_star": 31,
+            "2_star": 12,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 11.111111111111,
+                    "Medium": 52.777777777778,
+                    "Medium to Strong": 100.0,
+                    "Strong": 61.111111111111,
+                    "Very Strong": 19.444444444444,
+                    "Extremely Strong": 2.7777777777778,
+                    "Overwhelming": 2.7777777777778
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 20.338983050847,
+                    "Very Mild": 6.7796610169492,
+                    "Mild": 11.864406779661,
+                    "Mild to Medium": 5.0847457627119,
+                    "Medium": 3.3898305084746,
+                    "Medium to Strong": 0.0,
+                    "Strong": 3.3898305084746,
+                    "Very Strong": 1.6949152542373,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 3.030303030303,
+                    "Pleasant": 54.545454545455,
+                    "Very Pleasant": 3.030303030303,
+                    "Pleasant to Tolerable": 75.757575757576,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 30.30303030303,
+                    "Strong": 3.030303030303,
+                    "Very Strong": 3.030303030303,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 2.5,
+                    "Mild": 0.0,
+                    "Mild to Medium": 15.0,
+                    "Medium": 47.5,
+                    "Medium to Full": 100.0,
+                    "Full": 55.0,
+                    "Very Full": 2.5,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.5
+                }
+            }
+        }
+    }
+}

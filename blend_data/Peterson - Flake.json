@@ -1,0 +1,94 @@
+{
+    "flake": {
+        "imagePath": "../blend_pictures/Peterson - Flake.jpg",
+        "name": "Flake",
+        "blender": "Peterson",
+        "blendedBy": "Dunhill",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Straight Virginia",
+        "contents": "Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "Brown Virginia Pipe Tobacco. Pressed first and then delicately cut into fine slices.",
+        "notes": "Notes:Description from old Dunhill store catalogs: Flake (aka Light Flake): This \u2018processed\u2019 Virginia is a cut flake of medium strength, very cool, and has a pleasant, slightly sweet flavour and aroma (1959) [Lemon and Bronze Virginias, ideal for sportsmen - 1985].\n\nFormerly known as Dunhill Flake, STG has changed the brand name from \"Dunhill\" to \"Peterson\".",
+        "reviewCount": 208,
+        "totalReviews": 232,
+        "averageRating": 3.55,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 147,
+            "3_star": 68,
+            "2_star": 15,
+            "1_star": 2
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 1.9607843137255,
+                    "Very Mild": 0.98039215686275,
+                    "Mild": 22.549019607843,
+                    "Mild to Medium": 82.352941176471,
+                    "Medium": 100.0,
+                    "Medium to Strong": 15.686274509804,
+                    "Strong": 3.921568627451,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 33.082706766917,
+                    "Very Mild": 11.278195488722,
+                    "Mild": 15.789473684211,
+                    "Mild to Medium": 7.5187969924812,
+                    "Medium": 5.2631578947368,
+                    "Medium to Strong": 1.5037593984962,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 6.5217391304348,
+                    "Pleasant": 80.434782608696,
+                    "Very Pleasant": 18.478260869565,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 41.304347826087,
+                    "Tolerable to Strong": 3.2608695652174,
+                    "Strong": 2.1739130434783,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0618556701031,
+                    "Very Mild": 2.0618556701031,
+                    "Mild": 22.680412371134,
+                    "Mild to Medium": 74.226804123711,
+                    "Medium": 100.0,
+                    "Medium to Full": 29.896907216495,
+                    "Full": 7.2164948453608,
+                    "Very Full": 1.0309278350515,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

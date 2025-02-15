@@ -1,0 +1,94 @@
+{
+    "marlinflake": {
+        "imagePath": "../blend_pictures/Rattray - Marlin Flake.jpg",
+        "name": "Marlin Flake",
+        "blender": "Rattray",
+        "blendedBy": "Kohlhase & Kopp",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Virginia/Perique",
+        "contents": "Black Cavendish,  Perique,  Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin, 100 grams tin",
+        "flavoring": "",
+        "description": "Marlin Flake combines dark Virginias, black cavendish as well as a pinch of perique.",
+        "notes": "Notes:A companion to Old Gowrie. A shade darker, different aroma, but otherwise a tobacco in the same tradition.",
+        "reviewCount": 250,
+        "totalReviews": 278,
+        "averageRating": 3.31,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 154,
+            "3_star": 72,
+            "2_star": 37,
+            "1_star": 15
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 2.2556390977444,
+                    "Very Mild": 4.5112781954887,
+                    "Mild": 12.781954887218,
+                    "Mild to Medium": 51.87969924812,
+                    "Medium": 100.0,
+                    "Medium to Strong": 33.834586466165,
+                    "Strong": 3.0075187969925,
+                    "Very Strong": 0.75187969924812,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 32.432432432432,
+                    "Very Mild": 12.162162162162,
+                    "Mild": 22.297297297297,
+                    "Mild to Medium": 11.486486486486,
+                    "Medium": 6.0810810810811,
+                    "Medium to Strong": 2.7027027027027,
+                    "Strong": 0.67567567567568,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 5.9405940594059,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 13.861386138614,
+                    "Pleasant to Tolerable": 95.049504950495,
+                    "Tolerable": 50.49504950495,
+                    "Tolerable to Strong": 7.9207920792079,
+                    "Strong": 0.99009900990099,
+                    "Very Strong": 0.99009900990099,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 5.2631578947368,
+                    "Very Mild": 1.7543859649123,
+                    "Mild": 14.035087719298,
+                    "Mild to Medium": 36.842105263158,
+                    "Medium": 100.0,
+                    "Medium to Full": 58.771929824561,
+                    "Full": 21.929824561404,
+                    "Very Full": 5.2631578947368,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

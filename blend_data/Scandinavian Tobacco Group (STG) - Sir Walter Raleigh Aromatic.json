@@ -1,0 +1,94 @@
+{
+    "sirwalterraleigharomatic": {
+        "imagePath": "../blend_pictures/Scandinavian Tobacco Group (STG) - Sir Walter Raleigh Aromatic.jpg",
+        "name": "Sir Walter Raleigh Aromatic",
+        "blender": "Scandinavian Tobacco Group (STG)",
+        "blendedBy": "Scandinavian Tobacco Group",
+        "manufacturedBy": "Scandinavian Tobacco Group",
+        "production": "Currently available",
+        "country": "United States",
+        "blendType": "Aromatic",
+        "contents": "Burley, Virginia",
+        "cut": "Coarse Cut",
+        "packaging": "",
+        "flavoring": "Alcohol / Liquor, Orange",
+        "description": "A unique blend of aged tobaccos moistened with imported French and Dutch liqueurs for a rich aroma and a mellow, comfortable smoke. Our unique combination of tobaccos is aged just long enough to ripen to maturity. Then, it is lightly sprinkled with three imported liqueurs to provide this blend with its distinctive aroma and a satisfying taste.",
+        "notes": "Notes:Production in the United States was moved overseas in 2021.",
+        "reviewCount": 165,
+        "totalReviews": 184,
+        "averageRating": 2.99,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 65,
+            "3_star": 68,
+            "2_star": 38,
+            "1_star": 14
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.97087378640777,
+                    "Very Mild": 13.592233009709,
+                    "Mild": 100.0,
+                    "Mild to Medium": 42.718446601942,
+                    "Medium": 17.47572815534,
+                    "Medium to Strong": 3.8834951456311,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Mild",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 1.6666666666667,
+                    "Extremely Mild": 5.0,
+                    "Very Mild": 25.0,
+                    "Mild": 100.0,
+                    "Mild to Medium": 96.666666666667,
+                    "Medium": 56.666666666667,
+                    "Medium to Strong": 15.0,
+                    "Strong": 6.6666666666667,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.99009900990099,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 44.554455445545,
+                    "Pleasant to Tolerable": 23.762376237624,
+                    "Tolerable": 8.9108910891089,
+                    "Tolerable to Strong": 2.970297029703,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.99009900990099
+                }
+            },
+            "taste": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.5,
+                    "Very Mild": 7.5,
+                    "Mild": 60.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 43.75,
+                    "Medium to Full": 11.25,
+                    "Full": 2.5,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 2.5
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "dockworker": {
+        "imagePath": "../blend_pictures/HU Tobacco - Dockworker.jpg",
+        "name": "Dockworker",
+        "blender": "HU Tobacco",
+        "blendedBy": "Hans Wiedemann",
+        "manufacturedBy": "Dan Tobacco",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Burley Based",
+        "contents": "Burley, Oriental/Turkish, Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin weight",
+        "flavoring": "",
+        "description": "A strong, chocolaty and spicy Malawi Burley is at the center of the Dockworker Flake. It is complemented by spicy Orientals and Virginia from Zambia, India and the Philippines. The result is a sweet-spicy blend with a beautiful Burley/Oriental touch. This unusual blend impresses with a very complex and well balanced flavor. A medium strong flake for friends of fragrant tobaccos . No added flavor!",
+        "notes": "",
+        "reviewCount": 27,
+        "totalReviews": 31,
+        "averageRating": 3.52,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 21,
+            "3_star": 6,
+            "2_star": 3,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 4.3478260869565,
+                    "Very Mild": 0.0,
+                    "Mild": 8.695652173913,
+                    "Mild to Medium": 13.04347826087,
+                    "Medium": 100.0,
+                    "Medium to Strong": 8.695652173913,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 38.461538461538,
+                    "Very Mild": 30.769230769231,
+                    "Mild": 46.153846153846,
+                    "Mild to Medium": 7.6923076923077,
+                    "Medium": 15.384615384615,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 11.111111111111,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 33.333333333333,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 77.777777777778,
+                    "Tolerable to Strong": 22.222222222222,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 9.0909090909091,
+                    "Very Mild": 0.0,
+                    "Mild": 9.0909090909091,
+                    "Mild to Medium": 27.272727272727,
+                    "Medium": 81.818181818182,
+                    "Medium to Full": 100.0,
+                    "Full": 45.454545454545,
+                    "Very Full": 9.0909090909091,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

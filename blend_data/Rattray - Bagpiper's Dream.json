@@ -1,0 +1,94 @@
+{
+    "bagpiper'sdream": {
+        "imagePath": "../blend_pictures/Rattray - Bagpiper's Dream.jpg",
+        "name": "Bagpiper's Dream",
+        "blender": "Rattray",
+        "blendedBy": "",
+        "manufacturedBy": "Kohlhase & Kopp",
+        "production": "Currently available",
+        "country": "Germany",
+        "blendType": "Aromatic",
+        "contents": "Black Cavendish, Virginia",
+        "cut": "Ribbon",
+        "packaging": "100 grams tin weight",
+        "flavoring": "Cognac",
+        "description": "A fragrant pipe tobacco blend of Black Cavendish and four ready rubbed Golden Virginia tobaccos including ribbon cut, plug, curly, and flake, lightly top dressed with cognac for an elegant smoke. Tobaccos used are 5.6% domestically grown and 94.4% foreign grown.",
+        "notes": "",
+        "reviewCount": 61,
+        "totalReviews": 68,
+        "averageRating": 3.18,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 37,
+            "3_star": 13,
+            "2_star": 11,
+            "1_star": 7
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 7.1428571428571,
+                    "Mild": 92.857142857143,
+                    "Mild to Medium": 100.0,
+                    "Medium": 35.714285714286,
+                    "Medium to Strong": 3.5714285714286,
+                    "Strong": 3.5714285714286,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "Medium",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 0.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 21.428571428571,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 35.714285714286,
+                    "Strong": 25.0,
+                    "Very Strong": 7.1428571428571,
+                    "Extra Strong": 3.5714285714286
+                }
+            },
+            "roomNote": {
+                "level": "Very Pleasant",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 51.351351351351,
+                    "Very Pleasant": 100.0,
+                    "Pleasant to Tolerable": 10.810810810811,
+                    "Tolerable": 13.513513513514,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 5.4054054054054,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.7027027027027
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 3.125,
+                    "Very Mild": 3.125,
+                    "Mild": 15.625,
+                    "Mild to Medium": 40.625,
+                    "Medium": 100.0,
+                    "Medium to Full": 28.125,
+                    "Full": 18.75,
+                    "Very Full": 3.125,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

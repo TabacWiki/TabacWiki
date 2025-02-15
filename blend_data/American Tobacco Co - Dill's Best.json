@@ -1,0 +1,94 @@
+{
+    "dill'sbest": {
+        "imagePath": "../blend_pictures/American Tobacco Co - Dill's Best.jpg",
+        "name": "Dill's Best",
+        "blender": "American Tobacco Co",
+        "blendedBy": "J.G. Dill Co.",
+        "manufacturedBy": "American Tobacco Co",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia Based",
+        "contents": "Cigar Leaf, Virginia",
+        "cut": "Mixture",
+        "packaging": "",
+        "flavoring": "",
+        "description": "Celebrated for it's pipe smoking qualities since 1848.",
+        "notes": "Notes:Originally produced by J.G. Dill Co. of Richmond, VA, this blend was quite popular from the turn of the 20th to about the 1950s. Not much information about the actual blend is known, but it did come in a wide variety of packaging and cuts. It has been called either a straight Virginia blend or consisting of \"pure cigar leaf\". Having been bought out by the American Tobacco Company, production stopped in the 50s when pipe smoking saw a decline and the product no longer sold as well as it once had. The brand does live on in it's line of pipe cleaners, still widely available almost anywhere pipe tobacco products are sold. Image courtesy of marybethhale on Etsy.",
+        "reviewCount": 4,
+        "totalReviews": 4,
+        "averageRating": 2.75,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 0,
+            "3_star": 3,
+            "2_star": 1,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 100.0,
+                    "Medium": 33.333333333333,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 100.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 50.0,
+                    "Mild to Medium": 50.0,
+                    "Medium": 100.0,
+                    "Medium to Full": 0.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}

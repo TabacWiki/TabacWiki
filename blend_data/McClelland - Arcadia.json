@@ -1,0 +1,94 @@
+{
+    "arcadia": {
+        "imagePath": "../blend_pictures/McClelland - Arcadia.jpg",
+        "name": "Arcadia",
+        "blender": "McClelland",
+        "blendedBy": "McClelland Tobacco Company",
+        "manufacturedBy": "McClelland Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Oriental",
+        "contents": "Oriental/Turkish,  Virginia",
+        "cut": "Ribbon",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "It was said to be such arresting character, such delicacy that it stopped all conversations. Holmes recognized it by its characteristic fluffy, white ash. It was Dr. Watson's favorite. It is our hope that this formula, deduced after careful study of several vintage examples of what was know as the original and made available to us by dedicated collectors, will please most discriminating smokers. A rich oriental mixture worthy of all Sherlockians.",
+        "notes": "Notes:Arcadia is the second of 221b Series, after Black Shag. Arcadia is a re-creation of the legendary Carreras Craven's Mixture, which was referred to as \"Arcadia\" in J.M. Barrie's book, \"The Lady Nicotine.\"",
+        "reviewCount": 106,
+        "totalReviews": 118,
+        "averageRating": 3.01,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 43,
+            "3_star": 44,
+            "2_star": 20,
+            "1_star": 11
+        },
+        "ratings": {
+            "strength": {
+                "level": "Mild to Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 1.7241379310345,
+                    "Mild": 46.551724137931,
+                    "Mild to Medium": 100.0,
+                    "Medium": 48.275862068966,
+                    "Medium to Strong": 6.8965517241379,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 52.542372881356,
+                    "Very Mild": 18.64406779661,
+                    "Mild": 10.169491525424,
+                    "Mild to Medium": 11.864406779661,
+                    "Medium": 5.0847457627119,
+                    "Medium to Strong": 1.6949152542373,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 89.189189189189,
+                    "Very Pleasant": 13.513513513514,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 91.891891891892,
+                    "Tolerable to Strong": 8.1081081081081,
+                    "Strong": 13.513513513514,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 2.7027027027027
+                }
+            },
+            "taste": {
+                "level": "Medium",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 2.0833333333333,
+                    "Very Mild": 6.25,
+                    "Mild": 22.916666666667,
+                    "Mild to Medium": 58.333333333333,
+                    "Medium": 100.0,
+                    "Medium to Full": 37.5,
+                    "Full": 14.583333333333,
+                    "Very Full": 2.0833333333333,
+                    "Extra Full": 2.0833333333333,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
+    }
+}
