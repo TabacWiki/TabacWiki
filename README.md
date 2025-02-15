@@ -1,95 +1,149 @@
 # Tabac Wiki - Community-Driven Pipe Tobacco Database
 
-This is an entirely community-driven database for pipe tobacco enthusiasts! The Tabac Wiki mission is to provide a comprehensive, searchable database of pipe tobacco blends to help allow enthusiasts to explore and discover freely and seamlessly.
 
-[Click here to explore Tabac Wiki!](https://tabac.wiki)
+**Tabac Wiki** is a community-driven, open-source database dedicated to pipe tobacco enthusiasts. Our mission is to provide a comprehensive, searchable repository of pipe tobacco blends—empowering users to explore, discover, and contribute their knowledge in a collaborative environment.
+
+> **Explore The Tabac Wiki:** [https://tabac.wiki](https://tabac.wiki)
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Bug Bounty Program](#bug-bounty-program)
+- [Rewards & Payment Options](#rewards--payment-options)
+- [How to Contribute](#how-to-contribute)
+- [Technical Stack](#technical-stack)
+- [Getting Started](#getting-started)
+- [File Structure](#file-structure)
+- [Blend Index Format Guide](#blend-index-format-guide)
+- [License](#license)
+- [Contact & Community](#contact--community)
+
+---
+
+## Introduction
+
+Tabac Wiki is built for enthusiasts by enthusiasts. Whether you’re a seasoned pipe aficionado or a curious newcomer, our database allows you to explore detailed information about various pipe tobacco blends. Contributions—from coding and bug fixes to documentation and community discussions—are what make Tabac Wiki thrive.
+
+---
+
+## Features
+
+- **Comprehensive Blend Database:** Easily search, sort, and filter through an extensive collection of pipe tobacco blends.
+- **Community-Driven Content:** Add new blends or update existing ones with your expertise.
+- **Detailed Ratings & Reviews:** View overall ratings along with granular rating breakdowns covering strength, flavor, room note, and taste.
+- **Simple, Static Site:** A fully functional static site with no backend required, ensuring fast loading and easy maintenance.
+- **Responsive & Accessible:** Designed with modern web standards and Tailwind CSS for a clean and responsive user interface.
+
+---
 
 ## Bug Bounty Program
 
-Earn bug bounty prizes for contributions to Tabac Wiki! Whether you're fixing bugs, adding features, or improving the user experience, your help is valuable to the community and if a bug bounty prize has been allocated to the issue or task, you'll get paid for your work! 
+We encourage our community members to help improve Tabac Wiki. If you discover a bug, have an idea for a new feature, or want to improve user experience, check our [Issues](https://github.com/TabacWiki/TabacWiki/issues) page.
 
+**Bug Bounty Highlights:**
 
-*Not a coder?* You can still directly contribute to the wiki to help shape its future by donating toward its maintenance, upkeep and bug bounty program, reporting bugs or issues as they're found, commenting on existing issues and submitting pull requests! Without this, those that *can* code have nothing *to* code - yin and yang!
+- **Earn Rewards:** Contribute fixes and earn bounty prizes (e.g., *"Blend_Data Initialization Loading Error - $10 USD"*).
+- **Fair Valuation:** Bounties are assigned fairly based on the complexity and impact.
+- **Inclusive Contributions:** Whether you're a coder or a community member providing feedback, your contributions are valued.
+- **Community Credit:** All contributors are recognized in our [Contributor List](https://github.com/TabacWiki/TabacWiki/contributors).
 
+---
 
-## Rewards
+## Rewards & Payment Options
 
-- As issues are raised, a bounty prize will be assigned
-   - (e.g. "Blend_Data Initialization Loading Error - $10 USD")
-- Bounty prizes will be determined as fairly as possible
-- Contributions will be accepted in a "first to come and successfully serve, is served" manner.
-- All contributors will be credited as a [Contributor](https://github.com/TabacWiki/TabacWiki/contributors)
-- Bounty prizes will be paid in the currency of either the contributers preference;
-   - or whichever currency Tabac Wiki is able to fulfill the bounty prize with.
+Bounty prizes will be paid out in the contributors preference of currency or that which Tabac Wiki is able to fulfill the bounty prize with - in this event Tabac Wiki will confirm the contributor is willing to accept the alternative currency; we will always strive to find a suitable compromise. Options include:
 
-| Currency | Name | Key Features |
-|----------|------|---------------|
-| XMR | Monero | Decentralized, ring signatures, stealth addresses, Bulletproofs |
-| ICP | Internet Computer Protocol | Decentralized, canister-based, chain-key verification |
-| BTC | Bitcoin | Legacy, proof-of-work - 10-minute block times, SHA-256 |
-| ETH | Ethereum | Solidity, PoS, scalability via sharding, gas fees|
-| LTC | Litecoin | Proof-of-work, faster block times, Scrypt |
+| Currency | Name                          | Key Features                                                                              |
+|----------|-------------------------------|-------------------------------------------------------------------------------------------|
+| **XMR**  | Monero                        | Decentralized, ring signatures, stealth addresses, Bulletproofs                           |
+| **ICP**  | Internet Computer Protocol    | Decentralized, canister-based, chain-key verification                                      |
+| **BTC**  | Bitcoin                       | Legacy, proof-of-work, 10-minute block times, SHA-256                                      |
+| **ETH**  | Ethereum                      | Solidity, proof-of-stake, scalability via sharding, gas fees                               |
+| **LTC**  | Litecoin                      | Proof-of-work, faster block times, Scrypt                                                  |
 
+---
 
 ## How to Contribute
 
-1. **Pick an Issue or Feature**
-   - Check our [Issues](https://github.com/TabacWiki/TabacWiki/issues) page
-   - Comment on the issue you want to work on, let us know what your plan is!
-   - Or create a new issue for bugs you've found
+Contributions are the cornerstone of Tabac Wiki’s success. Here’s how you can help:
 
-2. **Development Process**
-   - Fork the repository
-   - Create a feature branch: `git checkout -b feature/amazing-feature`
-   - Make your changes
-   - Test thoroughly
-   - Commit with clear messages: `git commit -m "Add amazing feature"`
-   - Push to your fork: `git push origin feature/amazing-feature`
-   - Create a Pull Request
+### 1. Pick an Issue or Feature
+- Browse our [Issues](https://github.com/TabacWiki/TabacWiki/issues) page.
+- Comment on an existing issue or create a new one for bugs or feature requests.
 
-3. **Code Guidelines**
-   - Keep it simple and maintainable
-   - Comment your code when necessary
-   - Follow existing code style
-   - Test your changes thoroughly
-   - Update documentation if needed
+### 2. Development Process
+- **Fork the Repository:** Click the "Fork" button at the top right of our GitHub page.
+- **Create a Feature Branch:**  
+  ```bash
+  git checkout -b feature/amazing-feature
+  ```
+- **Make Your Changes:** Ensure you follow our coding guidelines.
+- **Commit with Clear Messages:**  
+  ```bash
+  git commit -m "Add amazing feature"
+  ```
+- **Push to Your Fork:**  
+  ```bash
+  git push origin feature/amazing-feature
+  ```
+- **Open a Pull Request:** Provide a detailed description of your changes.
 
-4. **Testing**
-   - Test across different browsers
-   - Check mobile responsiveness
-   - Verify data integrity
-   - Test edge cases
+### 3. Code Guidelines
+- Write clear, maintainable code.
+- Comment where necessary.
+- Follow the existing style and structure.
+- Update documentation if applicable.
+- Test your changes thoroughly (including browser compatibility and mobile responsiveness).
 
+### 4. Testing
+- Test across multiple browsers.
+- Ensure responsiveness on various devices.
+- Verify data integrity and handle edge cases.
 
-## Documentation
+Even if you're not a coder, you can still contribute by:
+- **Reporting Bugs:** Use the [Issues](https://github.com/TabacWiki/TabacWiki/issues) tab.
+- **Suggesting Features:** Participate in discussions and propose improvements.
+- **Donating:** Help fund the project’s maintenance, upkeep, and bounty program.
+
+---
 
 ## Technical Stack
 
-- Frontend: HTML, JavaScript, Tailwind CSS
-- Data Storage: JSON files for easy editing and version control
-- No backend required - static site for simplicity
+- **Frontend:** HTML, JavaScript, Tailwind CSS
+- **Data Storage:** JSON files for easy editing and version control
+- **Static Site:** No backend required—ensuring simplicity and speed
+
+---
 
 ## Getting Started
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/TabacWiki/TabacWiki.git
-   cd TabacWiki
-   ```
+### Clone the Repository
 
-2. **Setup**
-   - No build process required
-   - Open `index.html` in your browser
-   - For development, we recommend using a local server:
-     ```bash
-     python -m http.server 8000
-     # or
-     php -S localhost:8000
-     ```
+```bash
+git clone https://github.com/TabacWiki/TabacWiki.git
+cd TabacWiki
+```
 
-3. **File Structure**
-   ```
-   TabacWiki/
+### Setup
+
+- **No Build Process Required:** Simply open `index.html` in your browser.
+- **Local Development:** For an optimal development experience, run a local server:
+
+  ```bash
+  python -m http.server 8000
+  # or
+  php -S localhost:8000
+  ```
+
+---
+
+## File Structure
+
+```plaintext
+TabacWiki/
    ├── blend_data/                       # Blend information database
    ├── blend_pictures/                   # Blend image database
    ├── assets/
@@ -133,239 +187,97 @@ Earn bug bounty prizes for contributions to Tabac Wiki! Whether you're fixing bu
    ├── package-lock.json
    ├── package.json
    └── README.md                         # You are here!
-   
-   ```
-
-# Blend Index Format Guide
-
-## Overview
-This document explains the structure and abbreviations used in the `blend_index.json` file.
-
-Blend card loading, search, sorting and filtering loads from database index - /assets/data/blend_index.json
-Blend info popups load from individual blend data files - /blend_data/
-
-## Top-Level Blend Entry Structure
-
-### Basic Blend Information
-- `n`: Name of the blend (full name)
-- `b`: Blender (brand or company)
-- `bb`: Blended By (specific blender/creator)
-- `mb`: Manufactured By (production company)
-- `t`: Blend Type 
-- `c`: Contents (tobacco composition)
-- `ct`: Cut (tobacco cut type)
-- `y`: Country (of origin)
-- `p`: Packaging
-- `f`: Flavoring
-- `pr`: Production method/type
-
-### Rating Information
-- `r`: Average Rating (numeric)
-- `mr`: Maximum Rating (typically 5)
-- `rc`: Review Count
-
-### Rating Distribution
-- `rd`: Rating Distribution
-  - `'4'`: Number of 4-star ratings
-  - `'3'`: Number of 3-star ratings
-  - `'2'`: Number of 2-star ratings
-  - `'1'`: Number of 1-star ratings
-
-## Detailed Ratings Taxonomy
-
-### Ratings Structure Overview
-Each rating category follows a consistent structure:
-- `l`: Level (primary characteristic)
-- `d`: Distribution (detailed breakdown of characteristics)
-
-### 1. Strength Ratings (`s`)
-
-#### Levels
-- `EM`: Extremely Mild
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MS`: Medium to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extremely Strong
-- `O`: Overwhelming
-
-#### Distribution Levels
-- `EM`: Extremely Mild
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MS`: Medium to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extremely Strong
-- `O`: Overwhelming
-
-### 2. Flavoring Ratings (`f`)
-
-#### Levels
-- `ND`: None Detected
-- `EM`: Extremely Mild
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MS`: Medium to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extra Strong
-
-#### Distribution Levels
-- `ND`: None Detected
-- `EM`: Extremely Mild
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MS`: Medium to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extra Strong
-- `O`: Overwhelming
-
-### 3. Room Note Ratings (`r`)
-
-#### Levels
-- `UN`: Unnoticeable
-- `P`: Pleasant
-- `VP`: Very Pleasant
-- `PT`: Pleasant to Tolerable
-- `T`: Tolerable
-- `TS`: Tolerable to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extra Strong
-- `O`: Overwhelming
-
-#### Distribution Levels
-- `UN`: Unnoticeable
-- `P`: Pleasant
-- `VP`: Very Pleasant
-- `PT`: Pleasant to Tolerable
-- `T`: Tolerable
-- `TS`: Tolerable to Strong
-- `S`: Strong
-- `VS`: Very Strong
-- `ES`: Extra Strong
-- `O`: Overwhelming
-
-### 4. Taste Ratings (`t`)
-
-#### Levels
-- `EMF`: Extremely Mild (Flat)
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MF`: Medium to Full
-- `F`: Full
-- `VF`: Very Full
-- `EF`: Extra Full
-- `O`: Overwhelming
-
-#### Distribution Levels
-- `EMF`: Extremely Mild (Flat)
-- `VM`: Very Mild
-- `M`: Mild
-- `MM`: Mild to Medium
-- `Med`: Medium
-- `MF`: Medium to Full
-- `F`: Full
-- `VF`: Very Full
-- `EF`: Extra Full
-- `O`: Overwhelming
-
-### Interpretation Guidelines
-
-1. **Level (`l`)**: Represents the primary characteristic of the rating.
-   - Indicates the overall intensity or quality of the attribute.
-   - Typically a single, most representative descriptor.
-
-2. **Distribution (`d`)**: Provides a detailed breakdown of the characteristic.
-   - Each key represents a specific sub-level or nuance.
-   - The value indicates the prevalence or intensity of that sub-level.
-   - Values are absolute numbers, not percentages.
-
-### Example Interpretation
-
-```json
-"rt": {
-  "s": {
-    "l": "Med",  // Overall strength is Medium
-    "d": {
-      "MM": 50,  // 50 reviews rate it Mild to Medium
-      "Med": 40, // 40 reviews rate it Medium
-      "MS": 10   // 10 reviews rate it Medium to Strong
-    }
-  }
-}
 ```
 
-In this example, while the overall strength is Medium, the distribution shows a nuanced view of how different reviewers perceived the blend's strength.
+---
 
-### Notes
-- Not all blends will have entries for every sub-level.
-- Zero values are common and indicate no reviews at that specific level.
-- The distribution provides insight beyond the primary level descriptor.
+## Blend Index Format Guide
 
-## Example Entry
-```json
-{
-  "n": "Example Blend",
-  "b": "Tobacco Co",
-  "bb": "Master Blender",
-  "mb": "Global Tobacco Inc",
-  "t": "Virginia Blend",
-  "c": "Virginia, Burley",
-  "ct": "Ribbon Cut",
-  "y": "USA",
-  "p": "Tin",
-  "f": "Vanilla",
-  "pr": "Small Batch",
-  "r": 4.2,
-  "mr": 5,
-  "rc": 150,
-  "rd": {
-    "4": 90,
-    "3": 40,
-    "2": 15,
-    "1": 5
-  },
-  "rt": {
-    "s": {
-      "l": "Medium",
-      "d": {
-        "MM": 50,
-        "Med": 40,
-        "MS": 10
-      }
-    },
-    // Similar structures for f, r, t
-  }
-}
-```
+The `blend_index.json` file is the backbone of our blend loading, search, sorting, and filtering functionalities. It links to individual blend data files located in the `/blend_data/` directory.
 
-## Notes
-- All entries are optional and may be empty or zero
-- Percentages and distributions are represented as absolute numbers
-- Levels and distributions provide a nuanced view of blend characteristics
+### Top-Level Entry Structure
 
+- **Basic Blend Information:**
+  - `n`: Name (full name of the blend)
+  - `b`: Blender (brand or company)
+  - `bb`: Blended By (specific creator)
+  - `mb`: Manufactured By (production company)
+  - `t`: Blend Type
+  - `c`: Contents (tobacco composition)
+  - `ct`: Cut type (tobacco cut)
+  - `y`: Country of origin
+  - `p`: Packaging type
+  - `f`: Flavoring details
+  - `pr`: Production method/type
 
-## Contact
+- **Rating Information:**
+  - `r`: Average Rating
+  - `mr`: Maximum Rating (usually 5)
+  - `rc`: Review Count
+  - `rd`: Rating Distribution (number of 1- to 4-star ratings)
 
-- Create an [Issue](https://github.com/TabacWiki/TabacWiki/issues) for bug reports or feature requests
-- Join our community discussions in the [Discussions](https://github.com/TabacWiki/TabacWiki/discussions) tab
+- **Detailed Ratings Taxonomy:**
+  - **Strength (`s`):** Levels range from *Extremely Mild (EM)* to *Overwhelming (O)*.
+  - **Flavoring (`f`):** Levels range from *None Detected (ND)* to *Extra Strong (ES)*.
+  - **Room Note (`r`):** Ranges from *Unnoticeable (UN)* to *Overwhelming (O)*.
+  - **Taste (`t`):** Ranges from *Extremely Mild (Flat)* to *Overwhelming (O)*.
+
+> **Example:**
+>
+> ```json
+> {
+>   "n": "Example Blend",
+>   "b": "Tobacco Co",
+>   "bb": "Master Blender",
+>   "mb": "Global Tobacco Inc",
+>   "t": "Virginia Blend",
+>   "c": "Virginia, Burley",
+>   "ct": "Ribbon Cut",
+>   "y": "USA",
+>   "p": "Tin",
+>   "f": "Vanilla",
+>   "pr": "Small Batch",
+>   "r": 4.2,
+>   "mr": 5,
+>   "rc": 150,
+>   "rd": {
+>     "4": 90,
+>     "3": 40,
+>     "2": 15,
+>     "1": 5
+>   },
+>   "rt": {
+>     "s": {
+>       "l": "Med",
+>       "d": {
+>         "MM": 50,
+>         "Med": 40,
+>         "MS": 10
+>       }
+>     }
+>     // Additional structures for 'f', 'r', and 't' follow similarly...
+>   }
+> }
+> ```
+
+---
 
 ## License
 
-This project is open source and we are confused about licensing and really the whole thing in general so if you are a person of the people that is in the know with things to do with stuff that you think we should be privy to please contact us!
+Tabac Wiki is open-source. We're still determining the best licensing model, so if you have suggestions or insights into licensing options, please [open an issue](https://github.com/TabacWiki/TabacWiki/issues) or contact us directly.
 
 ---
+
+## Contact & Community
+
+- **Bug Reports / Feature Requests:** [GitHub Issues](https://github.com/TabacWiki/TabacWiki/issues)
+- **Community Discussions:** [GitHub Discussions](https://github.com/TabacWiki/TabacWiki/discussions)
+- **Contributors:** Check out our [Contributor List](https://github.com/TabacWiki/TabacWiki/contributors)
+
+Join us on our journey to build the ultimate resource for pipe tobacco enthusiasts!
+
+---
+
+[![GitHub license](https://img.shields.io/github/license/TabacWiki/TabacWiki)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/TabacWiki/TabacWiki)](https://github.com/TabacWiki/TabacWiki/issues)
+[![GitHub stars](https://img.shields.io/github/stars/TabacWiki/TabacWiki)](https://github.com/TabacWiki/TabacWiki/stargazers)
