@@ -1,4 +1,4 @@
-import ProblemReportModule from './problem-report.js';
+// Donation popup functionality
 
 export function initDonationPopup() {
     // Create container for both buttons
@@ -192,11 +192,7 @@ export function initDonationPopup() {
             // Reattach event listeners
             document.getElementById('closeStatusPopup').addEventListener('click', closeStatusPopup);
             document.getElementById('reportProblemBtn').addEventListener('click', () => {
-                // Close the status popup before opening the problem report popup
-                closeStatusPopup();
-                
-                // Use the createProblemReportPopup method from the imported module
-                ProblemReportModule.createProblemReportPopup();
+                window.open('https://github.com/TabacWiki/TabacWiki/issues/new', '_blank');
             });
 
             // Add toggle functionality for issues and features sections

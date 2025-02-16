@@ -1,6 +1,6 @@
 // Problem Report Popup Module
 const ProblemReportModule = (function() {
-  const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
+  const CLOUDFLARE_WORKER_URL = 'https://problem-report.tabacwiki.workers.dev';
 
   function createProblemReportPopup() {
     // Create popup container
@@ -153,61 +153,24 @@ const ProblemReportModule = (function() {
     event.preventDefault();
     const form = event.target;
     const submitButton = form.querySelector('#submit-problem-report');
-    const problemTitle = form.querySelector('#problem-title').value.trim();
-    const problemDescription = form.querySelector('#problem-description').value.trim();
-    const submitterName = form.querySelector('#submitter-name').value.trim() || 'Anonymous';
-    const attachmentInput = form.querySelector('#attachment');
+    const formData = new FormData(form);
 
-    // Validate required fields
-    if (!problemTitle) {
-      alert('Please provide a problem title.');
+    // Basic validation
+    if (!validateForm(form)) {
       return;
     }
-
-    if (!problemDescription) {
-      alert('Please provide a problem description.');
-      return;
-    }
-
-    const file = attachmentInput.files[0];  // Optional file
 
     try {
       submitButton.disabled = true;
       submitButton.textContent = 'Submitting...';
 
-      const formData = new FormData();
-      formData.append('problem_title', problemTitle);
-      formData.append('problem_description', problemDescription);
-      formData.append('submitter_name', submitterName);
-
-      if (file) {
-        formData.append('attachment', file);
-      }
-
-      // Log the form data for debugging
-      console.log('Problem Report Form Data:');
-      for (const [key, value] of formData.entries()) {
-        console.log(`${key}: ${value instanceof File ? value.name : value}`);
-      }
-
-      const response = await fetch('https://problem-report.decombust.workers.dev', {
+      const response = await fetch(CLOUDFLARE_WORKER_URL, {
         method: 'POST',
         body: formData,
-        mode: 'cors',
-        credentials: 'include',
-        headers: {
-          'Origin': 'https://tabac.wiki'
-        }
+        credentials: 'include'
       });
 
-      const responseText = await response.text();
-      console.log('Problem Report Response:', response.status, responseText);
-
-      if (!response.ok) {
-        throw new Error('Submission failed: ' + responseText);
-      }
-
-      const result = JSON.parse(responseText);
+      const result = await response.json();
 
       if (result.success) {
         alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
@@ -224,54 +187,71 @@ const ProblemReportModule = (function() {
     }
   }
 
+  function validateForm(form) {
+    const problemTitle = form.querySelector('#problem-title');
+    const problemDescription = form.querySelector('#problem-description');
+
+    if (!problemTitle.value.trim()) {
+      alert('Please provide a problem title.');
+      problemTitle.focus();
+      return false;
+    }
+
+    if (!problemDescription.value.trim()) {
+      alert('Please provide a detailed problem description.');
+      problemDescription.focus();
+      return false;
+    }
+
+    return true;
+  }
+
   // Hyperlink method (placeholder for future implementation)
   function reportProblemViaHyperlink() {
     // Future implementation to redirect to GitHub issues
     window.open('https://github.com/TabacWiki/TabacWiki/issues/new', '_blank');
   }
 
-  function attachEventListeners() {
-    console.log('Attaching event listeners');
-
-    // Register global function for opening problem report popup
-    window.openProblemReportPopup = function() {
-      const existingPopup = document.getElementById('problem-report-popup');
-      if (existingPopup) {
-        existingPopup.remove();
-      }
-      createProblemReportPopup();
-    };
-
-    // Try multiple ways to find and attach event listeners
-    const wikiStatusButton = document.getElementById('wiki-status-problem-report-button');
-    const navbarProblemReportButton = document.getElementById('navbar-problem-report-button');
-    const footerProblemReportButton = document.getElementById('footer-problem-report-button');
-
-    [wikiStatusButton, navbarProblemReportButton, footerProblemReportButton].forEach(button => {
-      if (button) {
-        console.log('Attaching event listener to button:', button.id);
-        button.addEventListener('click', window.openProblemReportPopup);
-      } else {
-        console.warn('Could not find button:', button);
-      }
-    });
-
-    console.log('Problem report script loaded, openProblemReportPopup function registered');
-  }
-
-  // Expose functions globally
-  window.ProblemReportModule = {
+  return {
     createProblemReportPopup,
-    closeProblemReportPopup,
-    handleProblemReportSubmission
+    reportProblemViaHyperlink
   };
-
-  // Try to attach listeners immediately and on DOM content loaded
-  attachEventListeners();
-  document.addEventListener('DOMContentLoaded', attachEventListeners);
-
-  console.log('Problem report script loaded, openProblemReportPopup function registered');
 })();
 
 // Export for potential use in other modules
 export default ProblemReportModule;
+
+// Immediately expose function to global scope
+if (typeof window !== 'undefined') {
+  window.openProblemReportPopup = ProblemReportModule.createProblemReportPopup;
+  console.log('openProblemReportPopup function set globally');
+}
+
+// Multiple ways to attach the event listener
+function attachEventListeners() {
+  console.log('Attaching event listeners');
+  
+  // Method 1: Direct button in Wiki Status popup
+  const reportButton1 = document.querySelector('#wiki-status-popup button');
+  if (reportButton1) {
+    console.log('Found button in Wiki Status popup');
+    reportButton1.addEventListener('click', ProblemReportModule.createProblemReportPopup);
+  } else {
+    console.warn('Could not find button in Wiki Status popup');
+  }
+
+  // Method 2: Button by specific ID
+  const reportButton2 = document.getElementById('report-problem-btn');
+  if (reportButton2) {
+    console.log('Found button by ID');
+    reportButton2.addEventListener('click', ProblemReportModule.createProblemReportPopup);
+  } else {
+    console.warn('Could not find button by ID');
+  }
+}
+
+// Try to attach listeners immediately and on DOM content loaded
+attachEventListeners();
+document.addEventListener('DOMContentLoaded', attachEventListeners);
+
+console.log('Problem report script loaded, openProblemReportPopup function registered');
