@@ -14,7 +14,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 		
 		<!-- Primary Meta Tags -->
-		<title>Tabac Wiki - Global Pipe Tobacco Blend Database and Community</title>
+		<title>Tabac Wiki</title>
 		<meta name="description" content="Discover, explore, and review pipe tobacco blends from around the world. A comprehensive, community-driven database for tobacco enthusiasts and collectors.">
 		<meta name="keywords" content="pipe tobacco, tobacco blends, tobacco database, tobacco reviews, tobacco ratings, tobacco varieties, smoking culture">
 		<meta name="author" content="Tabac Wiki Community">
@@ -23,7 +23,7 @@
 		<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 		<link rel="canonical" href="https://tabac.wiki">
 		
-		<!-- Geo Meta Tags -->
+		<!-- Geo Meta Tags a-->
 		<meta name="geo.region" content="Global">
 		<meta name="geo.position" content="0;0">
 		<meta name="ICBM" content="0, 0">
@@ -312,10 +312,10 @@
 		<div id="ageVerificationPopup">
 			<div class="age-verification-content">
 				<h2 id="ageVerificationTitle">Age Verification</h2>
-				<p id="ageVerificationMessage">Are you over the legal age?</p>
+				<p id="ageVerificationMessage">You must be of legal age to access this site.</p>
 				<div class="age-verification-buttons">
-					<button class="yes-btn" id="yesAgeButton" onclick="handleAgeVerification(true)">Yes</button>
-					<button class="no-btn" id="noAgeButton" onclick="handleAgeVerification(false)">No</button>
+					<button class="yes-btn" onclick="handleAgeVerification(true)">Yes, I am</button>
+					<button class="no-btn" onclick="handleAgeVerification(false)">No, I am not</button>
 				</div>
 			</div>
 		</div>
@@ -373,36 +373,46 @@
 			document.addEventListener('DOMContentLoaded', function() {
 				// Check if user has already verified age
 				if (localStorage.getItem('isOfAge') === 'true') {
-					// Redirect to main page if already verified
-					window.location.href = 'main.html';
-					return;
+					window.location.replace('main.html');
 				}
 			});
 
+			// Enhanced Age Verification Handling
 			function handleAgeVerification(isOfAge) {
+				const popup = document.getElementById('ageVerificationPopup');
+				const title = document.getElementById('ageVerificationTitle');
+				const message = document.getElementById('ageVerificationMessage');
+				const buttons = document.querySelector('.age-verification-buttons');
+				
 				if (isOfAge) {
+					// User is of age
 					localStorage.setItem('isOfAge', 'true');
-					
-					// Fetch main.html content dynamically
-					fetch('main.html')
-						.then(response => response.text())
-						.then(html => {
-							// Replace entire document content
-							document.open();
-							document.write(html);
-							document.close();
-							
-							// Update URL without reload
-							window.history.pushState({}, '', '/');
-						})
-						.catch(error => {
-							console.error('Error loading main content:', error);
-							window.location.href = 'main.html';
-						});
+					window.location.href = 'main.html';
 				} else {
-					alert('Sorry, you must be of legal age to access this site.');
+					title.textContent = "Access Restricted";
+					message.innerHTML = `
+						<strong>Sorry, you must be of legal age to access this site.</strong><br><br>
+						This website contains content intended for adults only.
+					`;
+					
+					// Remove existing buttons and add only an acknowledgement button
+					buttons.innerHTML = `
+						<button class="no-btn" onclick="handleUnderageAccess()">I Understand</button>
+					`;
+					
+					// Prevent closing the popup
+					popup.style.display = 'flex';
+					popup.style.pointerEvents = 'all';
 				}
 			}
+
+			// Handle underage access attempt
+			function handleUnderageAccess() {
+				// Redirect to an external site or show a final warning
+				window.location.href = "https://www.google.com";
+			}
+
+			// Removed beforeunload event listener to prevent "Leave site?" warnings
 
 			var svg = d3.select("#newWorldMap");
 			var path = d3.geoPath();
@@ -438,82 +448,86 @@
 				mapTitleContainer.style.opacity = '1';
 			});
 
-			// Loading the json data
-			d3.json(
-				"https://raw.githubusercontent.com/janasayantan/datageojson/master/world.json",
-				function (data) {
-					// Draw the map
-					const mapPaths = svg.append("g")
-						.selectAll("path")
-						.data(data.features)
-						.enter()
-						.append("path")
-						.attr("d", path)
-						.attr("fill", "rgba(200, 159, 101, 0.2)")
-						.style("stroke", "#8E8074")
-						.style("stroke-width", "0.5px");
+			d3.json("assets/css/world.json", function (data) {
+				// Draw the map
+				const mapPaths = svg.append("g")
+					.selectAll("path")
+					.data(data.features)
+					.enter()
+					.append("path")
+					.attr("d", path)
+					.attr("fill", "rgba(200, 159, 101, 0.2)")
+					.style("stroke", "#8E8074")
+					.style("stroke-width", "0.5px");
 
-					// Faster loading of paths
-					function loadPathsQuickly() {
-						const paths = mapPaths.nodes();
-						
-						// Use a single requestAnimationFrame to add loaded class to all paths
-						requestAnimationFrame(() => {
-							paths.forEach((path, index) => {
-								// Reduce stagger to compensate for slower transition
-								setTimeout(() => {
-									path.classList.add('loaded');
-								}, index * 1);
-							});
+				// Faster loading of paths
+				function loadPathsQuickly() {
+					// Calculate path areas and sort by latitude (bottom to top)
+					const sortedPaths = mapPaths.nodes()
+						.map(pathNode => {
+							const pathData = d3.select(pathNode).datum();
+							return { node: pathNode };
 						});
-					}
-
-					// Start loading very quickly after data is ready
-					setTimeout(loadPathsQuickly, 200);
-
-					// Event handling for paths
-					mapPaths.each(function(d) {
-						d3.select(this)
-							.on("mouseover", function() {
-								d3.select(this).attr("fill", "rgba(200, 159, 101, 0.5)");
-								d3.select("#countryName").text(d.properties.name)
-									.style("display", "block");
-							})
-							.on("mouseout", function() {
-								d3.select(this).attr("fill", "rgba(200, 159, 101, 0.2)");
-								d3.select("#countryName").style("display", "none");
-							})
-							.on("click", function() {
-								const countryName = d.properties.name;
-								selectedCountry = countryName;
-								
-								// Update popup with country-specific age and time
-								const popup = document.getElementById('ageVerificationPopup');
-								const title = document.getElementById('ageVerificationTitle');
-								const message = document.getElementById('ageVerificationMessage');
-								const buttons = document.querySelector('.age-verification-buttons');
-								
-								// Reset popup to default state
-								buttons.style.display = 'flex';
-								
-								// Determine timezone
-								const timezone = countryTimezones[countryName] || 'UTC';
-								const localTime = moment().tz(timezone);
-								const timeGreeting = getTimeGreeting(localTime);
-								
-								// Set title and message
-								title.textContent = timeGreeting;
-								
-								// Set message with legal age for the country
-								const legalAge = legalAges[countryName] || 18;
-								message.textContent = `Are you over ${legalAge} years old?`;
-								
-								// Show popup
-								popup.style.display = 'flex';
+					
+					// Total duration for all paths to load
+					const totalLoadDuration = 100; // Reduced from 1500 to 100ms
+					const totalPaths = sortedPaths.length;
+					
+					// Quickly load all paths
+					sortedPaths.forEach((pathInfo, index) => {
+						setTimeout(() => {
+							requestAnimationFrame(() => {
+								pathInfo.node.classList.add('loaded');
 							});
+						}, Math.random() * totalLoadDuration);
 					});
 				}
-			);
+
+				// Start loading very quickly after data is ready
+				setTimeout(loadPathsQuickly, 200);
+
+				// Event handling for paths
+				mapPaths.each(function(d) {
+					d3.select(this)
+						.on("mouseover", function() {
+							d3.select(this).attr("fill", "rgba(200, 159, 101, 0.5)");
+							d3.select("#countryName").text(d.properties.name)
+								.style("display", "block");
+						})
+						.on("mouseout", function() {
+							d3.select(this).attr("fill", "rgba(200, 159, 101, 0.2)");
+							d3.select("#countryName").style("display", "none");
+						})
+						.on("click", function() {
+							const countryName = d.properties.name;
+							selectedCountry = countryName;
+							
+							// Update popup with country-specific age and time
+							const popup = document.getElementById('ageVerificationPopup');
+							const title = document.getElementById('ageVerificationTitle');
+							const message = document.getElementById('ageVerificationMessage');
+							const buttons = document.querySelector('.age-verification-buttons');
+							
+							// Reset popup to default state
+							buttons.style.display = 'flex';
+							
+							// Determine timezone
+							const timezone = countryTimezones[countryName] || 'UTC';
+							const localTime = moment().tz(timezone);
+							const timeGreeting = getTimeGreeting(localTime);
+							
+							// Set title and message
+							title.textContent = timeGreeting;
+							
+							// Set message with legal age for the country
+							const legalAge = legalAges[countryName] || 18;
+							message.textContent = `Are you over ${legalAge} years old?`;
+							
+							// Show popup
+							popup.style.display = 'flex';
+						});
+				});
+			});
 		</script>
 	</body>
 </html>

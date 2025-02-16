@@ -142,7 +142,12 @@
                     <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
                 </a>
             </div>
-            <h3 class="text-xl font-semibold mb-4 text-[#8E8074]">Sort By</h3>
+            <div class="flex items-center justify-between mb-4">
+                <h3 class="text-xl font-semibold text-[#8E8074]">Sort By</h3>
+                <button id="resetFiltersBtn" class="text-sm text-[#8E8074] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
+                    Reset
+                </button>
+            </div>
             <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                 <option value="" disabled selected>Select Sort Option</option>
                 <option value="averageRating">Rating Score (High to Low)</option>
@@ -372,6 +377,23 @@
 
                     // Initial setup
                     updateSlider(0, 4);
+
+                    // Add reset method to window scope
+                    window.resetRatingSlider = () => {
+                        // Reset to full range (0 to 4)
+                        updateSlider(0, 4);
+
+                        // Trigger filter application
+                        if (window.applyFiltersToResults) {
+                            applyFiltersToResults();
+                        }
+                        
+                        // Trigger search input to refresh results
+                        const searchInput = document.getElementById('searchInput');
+                        if (searchInput) {
+                            searchInput.dispatchEvent(new Event('input'));
+                        }
+                    };
                 }
 
                 function createReviewCountRangeSlider() {
@@ -484,6 +506,23 @@
 
                     // Initial setup
                     updateSlider(0, roundedMaxReviewCount);
+
+                    // Add reset method to window scope
+                    window.resetReviewCountSlider = () => {
+                        // Reset to full range of review counts
+                        updateSlider(0, roundedMaxReviewCount);
+
+                        // Trigger filter application
+                        if (window.applyFiltersToResults) {
+                            applyFiltersToResults();
+                        }
+                        
+                        // Trigger search input to refresh results
+                        const searchInput = document.getElementById('searchInput');
+                        if (searchInput) {
+                            searchInput.dispatchEvent(new Event('input'));
+                        }
+                    };
                 }
 
                 // Run after page load
@@ -1632,6 +1671,143 @@
         }
         if (wikiStatusButton) {
             wikiStatusButton.remove();
+        }
+
+        // Reset Filters Functionality
+        function resetAllFilters() {
+            // Reset sort dropdown
+            const sortDropdown = document.getElementById('sortDropdown');
+            if (sortDropdown) {
+                sortDropdown.value = '';
+            }
+
+            // Reset brand dropdown
+            const blenderDropdown = document.getElementById('blenderDropdown');
+            if (blenderDropdown) {
+                blenderDropdown.value = '';
+            }
+
+            // Reset blended by dropdown
+            const blendedByDropdown = document.getElementById('blendedByDropdown');
+            if (blendedByDropdown) {
+                blendedByDropdown.value = '';
+            }
+
+            // Reset manufactured by dropdown
+            const manufacturedByDropdown = document.getElementById('manufacturedByDropdown');
+            if (manufacturedByDropdown) {
+                manufacturedByDropdown.value = '';
+            }
+
+            // Reset search input
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) {
+                searchInput.value = '';
+            }
+
+            // Reset rating slider
+            if (typeof resetRatingSlider === 'function') {
+                resetRatingSlider();
+            }
+
+            // Reset review count slider
+            if (typeof resetReviewCountSlider === 'function') {
+                resetReviewCountSlider();
+            }
+
+            // Uncheck all component checkboxes
+            const componentCheckboxes = document.querySelectorAll('#componentsCheckboxContainer input[type="checkbox"]');
+            componentCheckboxes.forEach(checkbox => {
+                checkbox.checked = false;
+            });
+
+            // Reset country dropdown
+            const countryDropdown = document.getElementById('countryDropdown');
+            if (countryDropdown) {
+                countryDropdown.selectedIndex = 0;
+            }
+
+            // Reset cut type dropdown
+            const cutTypeDropdown = document.getElementById('cutTypeDropdown');
+            if (cutTypeDropdown) {
+                cutTypeDropdown.selectedIndex = 0;
+            }
+
+            // Reset packaging dropdown
+            const packagingDropdown = document.getElementById('packagingDropdown');
+            if (packagingDropdown) {
+                packagingDropdown.selectedIndex = 0;
+            }
+
+            // Reset blend type dropdown
+            const blendTypeDropdown = document.getElementById('blendTypeDropdown');
+            if (blendTypeDropdown) {
+                blendTypeDropdown.selectedIndex = 0;
+            }
+
+            // Reset production dropdown
+            const productionDropdown = document.getElementById('productionDropdown');
+            if (productionDropdown) {
+                productionDropdown.selectedIndex = 0;
+            }
+
+            // Trigger search to reset results
+            if (typeof performSearch === 'function') {
+                performSearch();
+            } else if (window.allBlends) {
+                // Fallback to displaying all blends if performSearch is not available
+                window.currentSearchResults = window.allBlends;
+                displayPaginatedResults(window.allBlends);
+            }
+        }
+
+        // Add event listener to reset filters button
+        const resetFiltersBtn = document.getElementById('resetFiltersBtn');
+        if (resetFiltersBtn) {
+            resetFiltersBtn.addEventListener('click', resetAllFilters);
+        }
+
+        // Modify existing slider creation functions to add reset method
+        function createRatingRangeSlider() {
+            // Existing slider creation code...
+
+            // Add reset method
+            window.resetRatingSlider = () => {
+                const ratingSlider = document.getElementById('ratingSlider');
+                const ratingTrack = document.getElementById('ratingTrack');
+                const ratingThumb = document.getElementById('ratingThumb');
+                const ratingMin = document.getElementById('ratingMin');
+                const ratingMax = document.getElementById('ratingMax');
+
+                if (ratingSlider && ratingTrack && ratingThumb && ratingMin && ratingMax) {
+                    // Reset to full range
+                    ratingMin.textContent = '0';
+                    ratingMax.textContent = '5';
+                    ratingTrack.style.width = '100%';
+                    ratingThumb.style.left = '100%';
+                }
+            };
+        }
+
+        function createReviewCountRangeSlider() {
+            // Existing slider creation code...
+
+            // Add reset method
+            window.resetReviewCountSlider = () => {
+                const reviewSlider = document.getElementById('reviewCountSlider');
+                const reviewTrack = document.getElementById('reviewCountTrack');
+                const reviewThumb = document.getElementById('reviewCountThumb');
+                const reviewMin = document.getElementById('reviewCountMin');
+                const reviewMax = document.getElementById('reviewCountMax');
+
+                if (reviewSlider && reviewTrack && reviewThumb && reviewMin && reviewMax) {
+                    // Reset to full range
+                    reviewMin.textContent = '0';
+                    reviewMax.textContent = window.maxReviewCount || '1000';
+                    reviewTrack.style.width = '100%';
+                    reviewThumb.style.left = '100%';
+                }
+            };
         }
     </script>
 </body>
