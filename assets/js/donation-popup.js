@@ -1,6 +1,6 @@
 // Donation popup functionality
 
-import ProblemReportModule from '../problem-report.js';
+import ProblemReportModule from './problem-report.js';
 
 export function initDonationPopup() {
     // Create container for both buttons
@@ -198,7 +198,7 @@ export function initDonationPopup() {
                 closeStatusPopup();
                 
                 // Use the createProblemReportPopup method from the imported module
-                window.openProblemReportPopup();
+                ProblemReportModule.createProblemReportPopup();
             });
 
             // Add toggle functionality for issues and features sections
