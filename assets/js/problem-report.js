@@ -1,5 +1,5 @@
 // Problem Report Module
-(function() {
+const ProblemReportModule = (function() {
   const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
 
   function createProblemReportPopup() {
@@ -224,8 +224,8 @@
     closeProblemReportPopup
   };
 
-  // Attach event listeners to buttons if they exist
-  function attachProblemReportButtons() {
+  // Attach event listeners on DOM content loaded
+  document.addEventListener('DOMContentLoaded', function() {
     const buttonSelectors = [
       '#wiki-status-problem-report-button',
       '#navbar-problem-report-button', 
@@ -239,8 +239,14 @@
         button.addEventListener('click', createProblemReportPopup);
       }
     });
-  }
+  });
 
-  // Attach listeners on DOM content loaded
-  document.addEventListener('DOMContentLoaded', attachProblemReportButtons);
+  // Return an object for module export
+  return {
+    createProblemReportPopup,
+    closeProblemReportPopup
+  };
 })();
+
+// Add default export for module compatibility
+export default ProblemReportModule;

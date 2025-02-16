@@ -1,6 +1,6 @@
 // Donation popup functionality
 
-import ProblemReportModule from './problem-report.js';
+import ProblemReportModule from '../problem-report.js';
 
 export function initDonationPopup() {
     // Create container for both buttons
