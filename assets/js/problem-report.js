@@ -164,11 +164,32 @@ const ProblemReportModule = (function() {
       submitButton.disabled = true;
       submitButton.textContent = 'Submitting...';
 
+      // Log the exact URL and FormData contents for debugging
+      console.log('Submission URL:', CLOUDFLARE_WORKER_URL);
+      console.log('FormData contents:');
+      for (let [key, value] of formData.entries()) {
+        console.log(`${key}: ${value instanceof File ? value.name : value}`);
+      }
+
       const response = await fetch(CLOUDFLARE_WORKER_URL, {
         method: 'POST',
         body: formData,
-        credentials: 'include'
+        mode: 'cors', // Explicitly set CORS mode
+        credentials: 'include',
+        headers: {
+          'Origin': window.location.origin
+        }
       });
+
+      // Log raw response for debugging
+      console.log('Response status:', response.status);
+      console.log('Response headers:', Object.fromEntries(response.headers.entries()));
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error('Server error response:', errorText);
+        throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
+      }
 
       const result = await response.json();
 
@@ -180,6 +201,11 @@ const ProblemReportModule = (function() {
       }
     } catch (error) {
       console.error('Problem report submission error:', error);
+      console.error('Error details:', {
+        name: error.name,
+        message: error.message,
+        stack: error.stack
+      });
       alert(`Failed to submit problem report: ${error.message}`);
     } finally {
       submitButton.disabled = false;
