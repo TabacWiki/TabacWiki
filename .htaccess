@@ -1,6 +1,9 @@
 RewriteEngine On
 RewriteBase /
 
+# Redirect main.html to index.html
+RewriteRule ^main\.html$ /index.html [R=301,L]
+
 # Prevent directory listings
 Options -Indexes
 
