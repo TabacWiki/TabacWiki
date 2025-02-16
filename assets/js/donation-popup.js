@@ -1,5 +1,3 @@
-// Donation popup functionality
-
 import ProblemReportModule from './problem-report.js';
 
 export function initDonationPopup() {
