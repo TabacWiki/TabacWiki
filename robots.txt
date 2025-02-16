@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tabac.wiki/sitemap.xml
+
+# Crawl-delay to prevent overwhelming the server
+Crawl-delay: 10
+
+# Directories to potentially disallow
+Disallow: /node_modules/
+Disallow: /site_tools/
+Disallow: /site_tools_output/
+Disallow: /.git/
+Disallow: /.github/
