@@ -1810,5 +1810,12 @@
             };
         }
     </script>
+    <script type="module">
+        // Use History API to mask URL on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            // Replace the current history entry with the base URL
+            history.replaceState(null, '', '/');
+        });
+    </script>
 </body>
 </html>

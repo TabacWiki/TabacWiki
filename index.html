@@ -373,7 +373,9 @@
 			document.addEventListener('DOMContentLoaded', function() {
 				// Check if user has already verified age
 				if (localStorage.getItem('isOfAge') === 'true') {
-					window.location.replace('main.html');
+					// Use History API to mask URL
+					history.replaceState(null, '', '/');
+					window.location.href = '/';
 				}
 			});
 
@@ -387,7 +389,9 @@
 				if (isOfAge) {
 					// User is of age
 					localStorage.setItem('isOfAge', 'true');
-					window.location.href = 'main.html';
+					// Use History API to mask URL
+					history.replaceState(null, '', '/');
+					window.location.href = '/';
 				} else {
 					title.textContent = "Access Restricted";
 					message.innerHTML = `
