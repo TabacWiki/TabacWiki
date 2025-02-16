@@ -1,8 +1,14 @@
-// Problem Report Popup Module
-const ProblemReportModule = (function() {
+// Problem Report Module
+(function() {
   const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
 
   function createProblemReportPopup() {
+    // Remove any existing popup
+    const existingPopup = document.getElementById('problem-report-popup');
+    if (existingPopup) {
+      existingPopup.remove();
+    }
+
     // Create popup container
     const popupContainer = document.createElement('div');
     popupContainer.id = 'problem-report-popup';
@@ -36,7 +42,8 @@ const ProblemReportModule = (function() {
     `;
 
     // Add styles
-    const styles = `
+    const styleElement = document.createElement('style');
+    styleElement.textContent = `
       .problem-report-popup {
         position: fixed;
         top: 0;
@@ -125,14 +132,12 @@ const ProblemReportModule = (function() {
         border-color: #C89F65;
       }
     `;
-
-    const styleElement = document.createElement('style');
-    styleElement.textContent = styles;
     document.head.appendChild(styleElement);
 
-    // Add event listeners
+    // Add to body
     document.body.appendChild(popupContainer);
     
+    // Add event listeners
     const form = popupContainer.querySelector('#problem-report-form');
     const cancelButton = popupContainer.querySelector('#cancel-problem-report');
 
@@ -187,12 +192,22 @@ const ProblemReportModule = (function() {
       const response = await fetch(CLOUDFLARE_WORKER_URL, {
         method: 'POST',
         body: formData,
-        mode: 'no-cors'  // Changed to no-cors to bypass CORS
+        mode: 'cors',
+        credentials: 'include'
       });
 
-      // Since no-cors doesn't allow reading the response, we'll assume success
-      alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
-      closeProblemReportPopup();
+      if (!response.ok) {
+        throw new Error('Submission failed');
+      }
+
+      const result = await response.json();
+
+      if (result.success) {
+        alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
+        closeProblemReportPopup();
+      } else {
+        throw new Error(result.error || 'Submission failed');
+      }
     } catch (error) {
       console.error('Problem report submission error:', error);
       alert(`Failed to submit problem report: ${error.message}`);
@@ -202,46 +217,30 @@ const ProblemReportModule = (function() {
     }
   }
 
-  function attachEventListeners() {
-    // Simplified global function
-    window.openProblemReportPopup = function() {
-      const existingPopup = document.getElementById('problem-report-popup');
-      if (existingPopup) {
-        existingPopup.remove();
-      }
-      createProblemReportPopup();
-    };
-
-    // Silently try to attach to multiple potential buttons
-    const buttons = [
-      document.getElementById('wiki-status-problem-report-button'),
-      document.getElementById('navbar-problem-report-button'),
-      document.getElementById('footer-problem-report-button'),
-      document.getElementById('report-problem-btn')
-    ];
-
-    buttons.forEach(button => {
-      if (button) {
-        button.addEventListener('click', window.openProblemReportPopup);
-      }
-    });
-  }
-
-  // Expose module functions
+  // Expose functions globally
+  window.openProblemReportPopup = createProblemReportPopup;
   window.ProblemReportModule = {
     createProblemReportPopup,
     closeProblemReportPopup
   };
 
-  // Attach listeners
-  attachEventListeners();
-  document.addEventListener('DOMContentLoaded', attachEventListeners);
+  // Attach event listeners to buttons if they exist
+  function attachProblemReportButtons() {
+    const buttonSelectors = [
+      '#wiki-status-problem-report-button',
+      '#navbar-problem-report-button', 
+      '#footer-problem-report-button',
+      '#report-problem-btn'
+    ];
 
-  return {
-    createProblemReportPopup,
-    closeProblemReportPopup
-  };
+    buttonSelectors.forEach(selector => {
+      const button = document.querySelector(selector);
+      if (button) {
+        button.addEventListener('click', createProblemReportPopup);
+      }
+    });
+  }
+
+  // Attach listeners on DOM content loaded
+  document.addEventListener('DOMContentLoaded', attachProblemReportButtons);
 })();
-
-// Export for potential use in other modules
-export default ProblemReportModule;

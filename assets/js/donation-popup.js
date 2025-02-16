@@ -198,7 +198,7 @@ export function initDonationPopup() {
                 closeStatusPopup();
                 
                 // Use the createProblemReportPopup method from the imported module
-                ProblemReportModule.createProblemReportPopup();
+                window.openProblemReportPopup();
             });
 
             // Add toggle functionality for issues and features sections
