@@ -1,7 +1,7 @@
 // Problem Report Popup Module
 const ProblemReportModule = (function() {
-  const CLOUDFLARE_WORKER_URL = 'https://tabacwiki-reporting.decombust.workers.dev/submit';
-  const FALLBACK_WORKER_URL = 'https://problem-report.tabacwiki.com/submit';  // Keep fallback URL
+  const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
+  const FALLBACK_WORKER_URL = 'https://problem-report.decombust.com/submit';  // Add a fallback URL
 
   function createProblemReportPopup() {
     // Create popup container
@@ -178,16 +178,9 @@ const ProblemReportModule = (function() {
           const response = await fetch(url, {
             method: 'POST',
             body: formData,
-            credentials: 'omit',  
-            mode: 'cors',  
-            headers: {
-              'Origin': 'https://tabac.wiki'  
-            }
+            credentials: 'include',
+            timeout: 10000  // 10-second timeout
           });
-
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
 
           const result = await response.json();
 
@@ -215,8 +208,6 @@ const ProblemReportModule = (function() {
         errorMessage += ' Unable to connect to the server. Please check your internet connection.';
       } else if (error.message.includes('No internet connection')) {
         errorMessage += ' Please check your network settings.';
-      } else if (error.message.includes('HTTP error')) {
-        errorMessage += ' Server returned an error. Please try again later.';
       }
 
       alert(errorMessage);
