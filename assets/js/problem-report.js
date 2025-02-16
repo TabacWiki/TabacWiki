@@ -193,7 +193,11 @@ const ProblemReportModule = (function() {
       const response = await fetch('https://problem-report.decombust.workers.dev', {
         method: 'POST',
         body: formData,
-        mode: 'cors'
+        mode: 'cors',
+        credentials: 'include',
+        headers: {
+          'Origin': 'https://tabac.wiki'
+        }
       });
 
       const responseText = await response.text();
@@ -226,46 +230,48 @@ const ProblemReportModule = (function() {
     window.open('https://github.com/TabacWiki/TabacWiki/issues/new', '_blank');
   }
 
-  return {
+  function attachEventListeners() {
+    console.log('Attaching event listeners');
+
+    // Register global function for opening problem report popup
+    window.openProblemReportPopup = function() {
+      const existingPopup = document.getElementById('problem-report-popup');
+      if (existingPopup) {
+        existingPopup.remove();
+      }
+      createProblemReportPopup();
+    };
+
+    // Try multiple ways to find and attach event listeners
+    const wikiStatusButton = document.getElementById('wiki-status-problem-report-button');
+    const navbarProblemReportButton = document.getElementById('navbar-problem-report-button');
+    const footerProblemReportButton = document.getElementById('footer-problem-report-button');
+
+    [wikiStatusButton, navbarProblemReportButton, footerProblemReportButton].forEach(button => {
+      if (button) {
+        console.log('Attaching event listener to button:', button.id);
+        button.addEventListener('click', window.openProblemReportPopup);
+      } else {
+        console.warn('Could not find button:', button);
+      }
+    });
+
+    console.log('Problem report script loaded, openProblemReportPopup function registered');
+  }
+
+  // Expose functions globally
+  window.ProblemReportModule = {
     createProblemReportPopup,
-    reportProblemViaHyperlink
+    closeProblemReportPopup,
+    handleProblemReportSubmission
   };
+
+  // Try to attach listeners immediately and on DOM content loaded
+  attachEventListeners();
+  document.addEventListener('DOMContentLoaded', attachEventListeners);
+
+  console.log('Problem report script loaded, openProblemReportPopup function registered');
 })();
 
 // Export for potential use in other modules
 export default ProblemReportModule;
-
-// Immediately expose function to global scope
-if (typeof window !== 'undefined') {
-  window.openProblemReportPopup = ProblemReportModule.createProblemReportPopup;
-  console.log('openProblemReportPopup function set globally');
-}
-
-// Multiple ways to attach the event listener
-function attachEventListeners() {
-  console.log('Attaching event listeners');
-  
-  // Method 1: Direct button in Wiki Status popup
-  const reportButton1 = document.querySelector('#wiki-status-popup button');
-  if (reportButton1) {
-    console.log('Found button in Wiki Status popup');
-    reportButton1.addEventListener('click', ProblemReportModule.createProblemReportPopup);
-  } else {
-    console.warn('Could not find button in Wiki Status popup');
-  }
-
-  // Method 2: Button by specific ID
-  const reportButton2 = document.getElementById('report-problem-btn');
-  if (reportButton2) {
-    console.log('Found button by ID');
-    reportButton2.addEventListener('click', ProblemReportModule.createProblemReportPopup);
-  } else {
-    console.warn('Could not find button by ID');
-  }
-}
-
-// Try to attach listeners immediately and on DOM content loaded
-attachEventListeners();
-document.addEventListener('DOMContentLoaded', attachEventListeners);
-
-console.log('Problem report script loaded, openProblemReportPopup function registered');
