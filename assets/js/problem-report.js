@@ -1,7 +1,6 @@
 // Problem Report Popup Module
 const ProblemReportModule = (function() {
   const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
-  const FALLBACK_WORKER_URL = 'https://problem-report.decombust.com/submit';  // Add a fallback URL
 
   function createProblemReportPopup() {
     // Create popup container
@@ -156,84 +155,79 @@ const ProblemReportModule = (function() {
     const submitButton = form.querySelector('#submit-problem-report');
     const formData = new FormData(form);
 
-    // Basic validation
-    if (!validateForm(form)) {
-      return;
-    }
-
-    try {
-      submitButton.disabled = true;
-      submitButton.textContent = 'Submitting...';
-
-      // Add network connectivity check
-      if (!navigator.onLine) {
-        throw new Error('No internet connection. Please check your network.');
-      }
-
-      const urls = [CLOUDFLARE_WORKER_URL, FALLBACK_WORKER_URL];
-      let submissionError = null;
-
-      for (const url of urls) {
-        try {
-          const response = await fetch(url, {
-            method: 'POST',
-            body: formData,
-            credentials: 'include',
-            timeout: 10000  // 10-second timeout
-          });
-
-          const result = await response.json();
-
-          if (result.success) {
-            alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
-            closeProblemReportPopup();
-            return;
-          }
-
-          throw new Error(result.error || 'Submission failed');
-        } catch (error) {
-          console.warn(`Submission failed for URL ${url}:`, error);
-          submissionError = error;
-        }
-      }
-
-      // If all URLs fail
-      throw submissionError || new Error('Could not submit problem report');
-    } catch (error) {
-      console.error('Problem report submission error:', error);
-      
-      // More detailed error messages
-      let errorMessage = 'Failed to submit problem report.';
-      if (error.message.includes('Failed to fetch')) {
-        errorMessage += ' Unable to connect to the server. Please check your internet connection.';
-      } else if (error.message.includes('No internet connection')) {
-        errorMessage += ' Please check your network settings.';
-      }
-
-      alert(errorMessage);
-    } finally {
-      submitButton.disabled = false;
-      submitButton.textContent = 'Submit Report';
-    }
-  }
-
-  function validateForm(form) {
+    // Detailed form validation
     const problemTitle = form.querySelector('#problem-title');
     const problemDescription = form.querySelector('#problem-description');
 
     if (!problemTitle.value.trim()) {
       alert('Please provide a problem title.');
       problemTitle.focus();
-      return false;
+      return;
     }
 
     if (!problemDescription.value.trim()) {
       alert('Please provide a detailed problem description.');
       problemDescription.focus();
-      return false;
+      return;
     }
 
-    return true;
+    // Prepare UI for submission
+    submitButton.disabled = true;
+    submitButton.textContent = 'Submitting...';
+
+    try {
+      // Comprehensive network and submission checks
+      if (!navigator.onLine) {
+        throw new Error('No internet connection. Please check your network settings.');
+      }
+
+      // Advanced fetch with timeout and error handling
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 10000);  // 10-second timeout
+
+      const response = await fetch(CLOUDFLARE_WORKER_URL, {
+        method: 'POST',
+        body: formData,
+        signal: controller.signal,
+        headers: {
+          'Accept': 'application/json'
+        }
+      });
+
+      clearTimeout(timeoutId);
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`Server error: ${response.status} - ${errorText}`);
+      }
+
+      const result = await response.json();
+
+      if (result.success) {
+        alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
+        closeProblemReportPopup();
+      } else {
+        throw new Error(result.error || 'Submission failed unexpectedly');
+      }
+
+    } catch (error) {
+      console.error('Problem report submission error:', error);
+
+      let userMessage = 'Failed to submit problem report.';
+      
+      if (error.name === 'AbortError') {
+        userMessage = 'Submission timed out. Please check your internet connection.';
+      } else if (error.message.includes('Failed to fetch')) {
+        userMessage = 'Unable to connect to the server. Please check your internet connection.';
+      } else if (error.message.includes('No internet connection')) {
+        userMessage = 'No internet connection. Please check your network settings.';
+      }
+
+      alert(userMessage);
+    } finally {
+      submitButton.disabled = false;
+      submitButton.textContent = 'Submit Report';
+    }
   }
 
   // Hyperlink method (placeholder for future implementation)
