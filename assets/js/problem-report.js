@@ -1,6 +1,6 @@
 // Problem Report Popup Module
 const ProblemReportModule = (function() {
-  const CLOUDFLARE_WORKER_URL = 'https://problem-report.tabacwiki.workers.dev';
+  const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
 
   function createProblemReportPopup() {
     // Create popup container
