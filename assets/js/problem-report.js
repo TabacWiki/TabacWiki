@@ -1,6 +1,7 @@
 // Problem Report Popup Module
 const ProblemReportModule = (function() {
-  const CLOUDFLARE_WORKER_URL = 'https://problem-report.decombust.workers.dev';
+  const CLOUDFLARE_WORKER_URL = 'https://tabacwiki-reporting.decombust.workers.dev';
+  const FALLBACK_WORKER_URL = 'https://problem-report.tabacwiki.com/submit';  // Keep fallback URL
 
   function createProblemReportPopup() {
     // Create popup container
@@ -164,23 +165,52 @@ const ProblemReportModule = (function() {
       submitButton.disabled = true;
       submitButton.textContent = 'Submitting...';
 
-      const response = await fetch(CLOUDFLARE_WORKER_URL, {
-        method: 'POST',
-        body: formData,
-        credentials: 'include'
-      });
-
-      const result = await response.json();
-
-      if (result.success) {
-        alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
-        closeProblemReportPopup();
-      } else {
-        throw new Error(result.error || 'Submission failed');
+      // Add network connectivity check
+      if (!navigator.onLine) {
+        throw new Error('No internet connection. Please check your network.');
       }
+
+      const urls = [CLOUDFLARE_WORKER_URL, FALLBACK_WORKER_URL];
+      let submissionError = null;
+
+      for (const url of urls) {
+        try {
+          const response = await fetch(url, {
+            method: 'POST',
+            body: formData,
+            credentials: 'include',
+            timeout: 10000  // 10-second timeout
+          });
+
+          const result = await response.json();
+
+          if (result.success) {
+            alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
+            closeProblemReportPopup();
+            return;
+          }
+
+          throw new Error(result.error || 'Submission failed');
+        } catch (error) {
+          console.warn(`Submission failed for URL ${url}:`, error);
+          submissionError = error;
+        }
+      }
+
+      // If all URLs fail
+      throw submissionError || new Error('Could not submit problem report');
     } catch (error) {
       console.error('Problem report submission error:', error);
-      alert(`Failed to submit problem report: ${error.message}`);
+      
+      // More detailed error messages
+      let errorMessage = 'Failed to submit problem report.';
+      if (error.message.includes('Failed to fetch')) {
+        errorMessage += ' Unable to connect to the server. Please check your internet connection.';
+      } else if (error.message.includes('No internet connection')) {
+        errorMessage += ' Please check your network settings.';
+      }
+
+      alert(errorMessage);
     } finally {
       submitButton.disabled = false;
       submitButton.textContent = 'Submit Report';
