@@ -640,21 +640,9 @@
         import * as popupModule from './blend_html/popup.js';
         import { initDonationPopup } from './assets/js/donation-popup.js';
         
-        // Enhanced URL masking function
-        function maskAndRedirect(path) {
-            // Replace current history entry with base URL
-            history.replaceState(null, '', path);
-            
-            // Use pushState to ensure URL is masked
-            history.pushState(null, '', path);
-        }
+        // Make sure popup module is available globally
+        window.popupModule = popupModule;
 
-        // Use History API to mask URL on page load
-        window.addEventListener('DOMContentLoaded', () => {
-            // Mask the URL to always show base path
-            maskAndRedirect('/');
-        });
-        
         // Global variables initialization
         window.currentPage = 1;
         window.currentSearchResults = [];

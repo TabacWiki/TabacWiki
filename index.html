@@ -373,22 +373,11 @@
 			document.addEventListener('DOMContentLoaded', function() {
 				// Check if user has already verified age
 				if (localStorage.getItem('isOfAge') === 'true') {
-					// Use History API to mask URL and redirect
-					maskAndRedirect('/');
+					// Use History API to mask URL
+					history.replaceState(null, '', '/');
+					window.location.href = '/';
 				}
 			});
-
-			// Enhanced URL masking function
-			function maskAndRedirect(path) {
-				// Replace current history entry with base URL
-				history.replaceState(null, '', path);
-				
-				// Use pushState to ensure URL is masked
-				history.pushState(null, '', path);
-				
-				// Redirect to the specified path
-				window.location.href = path;
-			}
 
 			// Enhanced Age Verification Handling
 			function handleAgeVerification(isOfAge) {
@@ -400,8 +389,9 @@
 				if (isOfAge) {
 					// User is of age
 					localStorage.setItem('isOfAge', 'true');
-					// Use enhanced URL masking
-					maskAndRedirect('/');
+					// Use History API to mask URL
+					history.replaceState(null, '', '/');
+					window.location.href = '/';
 				} else {
 					title.textContent = "Access Restricted";
 					message.innerHTML = `
@@ -425,6 +415,8 @@
 				// Redirect to an external site or show a final warning
 				window.location.href = "https://www.google.com";
 			}
+
+			// Removed beforeunload event listener to prevent "Leave site?" warnings
 
 			var svg = d3.select("#newWorldMap");
 			var path = d3.geoPath();
