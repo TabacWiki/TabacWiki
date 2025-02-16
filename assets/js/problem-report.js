@@ -153,45 +153,57 @@ const ProblemReportModule = (function() {
     event.preventDefault();
     const form = event.target;
     const submitButton = form.querySelector('#submit-problem-report');
-    const formData = new FormData(form);
+    const problemTitle = form.querySelector('#problem-title').value.trim();
+    const problemDescription = form.querySelector('#problem-description').value.trim();
+    const submitterName = form.querySelector('#submitter-name').value.trim() || 'Anonymous';
+    const attachmentInput = form.querySelector('#attachment');
 
-    // Basic validation
-    if (!validateForm(form)) {
+    // Validate required fields
+    if (!problemTitle) {
+      alert('Please provide a problem title.');
       return;
     }
+
+    if (!problemDescription) {
+      alert('Please provide a problem description.');
+      return;
+    }
+
+    const file = attachmentInput.files[0];  // Optional file
 
     try {
       submitButton.disabled = true;
       submitButton.textContent = 'Submitting...';
 
-      // Log the exact URL and FormData contents for debugging
-      console.log('Submission URL:', CLOUDFLARE_WORKER_URL);
-      console.log('FormData contents:');
-      for (let [key, value] of formData.entries()) {
+      const formData = new FormData();
+      formData.append('problem_title', problemTitle);
+      formData.append('problem_description', problemDescription);
+      formData.append('submitter_name', submitterName);
+
+      if (file) {
+        formData.append('attachment', file);
+      }
+
+      // Log the form data for debugging
+      console.log('Problem Report Form Data:');
+      for (const [key, value] of formData.entries()) {
         console.log(`${key}: ${value instanceof File ? value.name : value}`);
       }
 
-      const response = await fetch(CLOUDFLARE_WORKER_URL, {
+      const response = await fetch('https://problem-report.decombust.workers.dev', {
         method: 'POST',
         body: formData,
-        mode: 'cors', // Explicitly set CORS mode
-        credentials: 'include',
-        headers: {
-          'Origin': window.location.origin
-        }
+        mode: 'cors'
       });
 
-      // Log raw response for debugging
-      console.log('Response status:', response.status);
-      console.log('Response headers:', Object.fromEntries(response.headers.entries()));
+      const responseText = await response.text();
+      console.log('Problem Report Response:', response.status, responseText);
 
       if (!response.ok) {
-        const errorText = await response.text();
-        console.error('Server error response:', errorText);
-        throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
+        throw new Error('Submission failed: ' + responseText);
       }
 
-      const result = await response.json();
+      const result = JSON.parse(responseText);
 
       if (result.success) {
         alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
@@ -201,35 +213,11 @@ const ProblemReportModule = (function() {
       }
     } catch (error) {
       console.error('Problem report submission error:', error);
-      console.error('Error details:', {
-        name: error.name,
-        message: error.message,
-        stack: error.stack
-      });
       alert(`Failed to submit problem report: ${error.message}`);
     } finally {
       submitButton.disabled = false;
       submitButton.textContent = 'Submit Report';
     }
-  }
-
-  function validateForm(form) {
-    const problemTitle = form.querySelector('#problem-title');
-    const problemDescription = form.querySelector('#problem-description');
-
-    if (!problemTitle.value.trim()) {
-      alert('Please provide a problem title.');
-      problemTitle.focus();
-      return false;
-    }
-
-    if (!problemDescription.value.trim()) {
-      alert('Please provide a detailed problem description.');
-      problemDescription.focus();
-      return false;
-    }
-
-    return true;
   }
 
   // Hyperlink method (placeholder for future implementation)
