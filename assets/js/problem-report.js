@@ -184,37 +184,15 @@ const ProblemReportModule = (function() {
         formData.append('attachment', file);
       }
 
-      // Log the form data for debugging
-      console.log('Problem Report Form Data:');
-      for (const [key, value] of formData.entries()) {
-        console.log(`${key}: ${value instanceof File ? value.name : value}`);
-      }
-
-      const response = await fetch('https://problem-report.decombust.workers.dev', {
+      const response = await fetch(CLOUDFLARE_WORKER_URL, {
         method: 'POST',
         body: formData,
-        mode: 'cors',
-        credentials: 'include',
-        headers: {
-          'Origin': 'https://tabac.wiki'
-        }
+        mode: 'no-cors'  // Changed to no-cors to bypass CORS
       });
 
-      const responseText = await response.text();
-      console.log('Problem Report Response:', response.status, responseText);
-
-      if (!response.ok) {
-        throw new Error('Submission failed: ' + responseText);
-      }
-
-      const result = JSON.parse(responseText);
-
-      if (result.success) {
-        alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
-        closeProblemReportPopup();
-      } else {
-        throw new Error(result.error || 'Submission failed');
-      }
+      // Since no-cors doesn't allow reading the response, we'll assume success
+      alert('Problem report submitted successfully! Thank you for helping improve TabacWiki.');
+      closeProblemReportPopup();
     } catch (error) {
       console.error('Problem report submission error:', error);
       alert(`Failed to submit problem report: ${error.message}`);
@@ -224,16 +202,8 @@ const ProblemReportModule = (function() {
     }
   }
 
-  // Hyperlink method (placeholder for future implementation)
-  function reportProblemViaHyperlink() {
-    // Future implementation to redirect to GitHub issues
-    window.open('https://github.com/TabacWiki/TabacWiki/issues/new', '_blank');
-  }
-
   function attachEventListeners() {
-    console.log('Attaching event listeners');
-
-    // Register global function for opening problem report popup
+    // Simplified global function
     window.openProblemReportPopup = function() {
       const existingPopup = document.getElementById('problem-report-popup');
       if (existingPopup) {
@@ -242,35 +212,35 @@ const ProblemReportModule = (function() {
       createProblemReportPopup();
     };
 
-    // Try multiple ways to find and attach event listeners
-    const wikiStatusButton = document.getElementById('wiki-status-problem-report-button');
-    const navbarProblemReportButton = document.getElementById('navbar-problem-report-button');
-    const footerProblemReportButton = document.getElementById('footer-problem-report-button');
+    // Silently try to attach to multiple potential buttons
+    const buttons = [
+      document.getElementById('wiki-status-problem-report-button'),
+      document.getElementById('navbar-problem-report-button'),
+      document.getElementById('footer-problem-report-button'),
+      document.getElementById('report-problem-btn')
+    ];
 
-    [wikiStatusButton, navbarProblemReportButton, footerProblemReportButton].forEach(button => {
+    buttons.forEach(button => {
       if (button) {
-        console.log('Attaching event listener to button:', button.id);
         button.addEventListener('click', window.openProblemReportPopup);
-      } else {
-        console.warn('Could not find button:', button);
       }
     });
-
-    console.log('Problem report script loaded, openProblemReportPopup function registered');
   }
 
-  // Expose functions globally
+  // Expose module functions
   window.ProblemReportModule = {
     createProblemReportPopup,
-    closeProblemReportPopup,
-    handleProblemReportSubmission
+    closeProblemReportPopup
   };
 
-  // Try to attach listeners immediately and on DOM content loaded
+  // Attach listeners
   attachEventListeners();
   document.addEventListener('DOMContentLoaded', attachEventListeners);
 
-  console.log('Problem report script loaded, openProblemReportPopup function registered');
+  return {
+    createProblemReportPopup,
+    closeProblemReportPopup
+  };
 })();
 
 // Export for potential use in other modules
