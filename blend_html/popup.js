@@ -30,37 +30,17 @@ const RATING_SCALES = {
     }
 };
 
-// Track current blend, available blends, and page info for navigation
-let currentBlendIndex = -1;
-let availableBlends = [];
-let currentPage = 1;
-let totalPages = 1;
+// Standard state variables
 let blendsPerPage = 12; // Assuming 12 blends per page
 
-// Function to sync pagination state based on current blend index
-function syncPaginationState() {
-    if (currentBlendIndex >= 0) {
-        currentPage = Math.floor(currentBlendIndex / blendsPerPage) + 1;
-    }
-}
-
-// Keyboard navigation handler
+// Keyboard handler for escape key
 function handleKeyNavigation(event) {
-    if (event.key === 'ArrowLeft') {
-        window.popupModule.navigateBlend('prev');
-    } else if (event.key === 'ArrowRight') {
-        window.popupModule.navigateBlend('next');
-    } else if (event.key === 'Escape') {
+    if (event.key === 'Escape') {
         // Get the blend popup
         const blendPopup = document.getElementById('blendPopup');
         if (blendPopup) {
-            // Smooth fade-out before closing
-            blendPopup.style.opacity = '0';
-            blendPopup.style.transition = 'opacity 0.2s ease-out';
-            
-            setTimeout(() => {
-                window.popupModule.closePopup();
-            }, 200);
+            // Just call closePopup directly since it handles the animation
+            window.popupModule.closePopup();
         }
     }
 }
@@ -94,6 +74,11 @@ async function loadBlendData(filename) {
             return null;
         }
 
+        // Simplified image path handling with non-blocking image check
+        const imagePath = originalBlendData.imagePath && originalBlendData.imagePath.trim() !== '' 
+            ? originalBlendData.imagePath 
+            : '/blend_pictures/pictureless.jpg';
+
         // Return blend details with additional metadata
         const processedBlendData = { 
             filename: filename,
@@ -106,7 +91,7 @@ async function loadBlendData(filename) {
             searchText: `${filename} ${originalBlendData.name} ${originalBlendData.blender} ${originalBlendData.blendType}`.toLowerCase(),
             averageRating: originalBlendData.averageRating || 0,
             reviewCount: originalBlendData.reviewCount || 0,
-            imagePath: originalBlendData.imagePath || '',
+            imagePath: imagePath,
             contents: originalBlendData.contents || '',
             cut: originalBlendData.cut || '',
             packaging: originalBlendData.packaging || '',
@@ -217,27 +202,7 @@ async function renderBlendPopup(blendKey) {
             existingPopup.remove();
         }
 
-        // Update available blends if not already set
-        if (availableBlends.length === 0) {
-            const blendElements = document.querySelectorAll('[data-blend-key]');
-            // Convert to array and maintain the order from the DOM
-            availableBlends = Array.from(blendElements)
-                .sort((a, b) => {
-                    const aOrder = parseInt(a.getAttribute('data-order') || '0');
-                    const bOrder = parseInt(b.getAttribute('data-order') || '0');
-                    return aOrder - bOrder;
-                })
-                .map(el => el.getAttribute('data-blend-key'));
-            
-            // Calculate total pages
-            totalPages = Math.ceil(availableBlends.length / blendsPerPage);
-        }
-        
-        // Find the index of the current blend
-        currentBlendIndex = availableBlends.indexOf(blendKey);
-        
-        // Sync pagination state with current blend
-        syncPaginationState();
+
         
         const blendPopup = document.createElement('div');
         blendPopup.id = 'blendPopup';
@@ -296,29 +261,16 @@ async function renderBlendPopup(blendKey) {
                 return;
             }
 
-            // Determine image path with robust fallback
-            const imagePath = blend.imagePath && blend.imagePath.trim() !== '' 
-                ? blend.imagePath 
-                : '/blend_pictures/pictureless.jpg';
-
             // Create main content structure
             popupContent.innerHTML = `
-                <div class="relative bg-[#241e1c] rounded-xl shadow-2xl max-w-7xl mx-auto overflow-visible">
-                    <!-- Navigation buttons -->
-                    <button onclick="window.popupModule.navigateBlend('prev')" 
-                        class="absolute top-1/2 -left-16 -translate-y-1/2 text-[#8E8074] hover:text-[#C89F65] p-3 z-[1000] bg-[#352c26]/40 rounded-full hover:bg-[#49362F] transition-all duration-200 backdrop-blur-sm shadow-lg">
-                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
-                        </svg>
-                    </button>
-                    <button onclick="window.popupModule.navigateBlend('next')" 
-                        class="absolute top-1/2 -right-16 -translate-y-1/2 text-[#8E8074] hover:text-[#C89F65] p-3 z-[1000] bg-[#352c26]/40 rounded-full hover:bg-[#49362F] transition-all duration-200 backdrop-blur-sm shadow-lg">
-                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                <div class="relative bg-[#241e1c] rounded-xl shadow-2xl max-w-7xl mx-auto overflow-visible p-8">
+                    <button onclick="window.popupModule.closePopup()" class="absolute top-2 right-2 w-8 h-8 flex items-center justify-center z-50 group hover:scale-110 transition-all duration-200 lg:hidden">
+                        <svg width="20" height="20" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-transform duration-200 drop-shadow-lg">
+                            <path d="M1 1L13 13M1 13L13 1" stroke="#8E8074" stroke-width="2.5" stroke-linecap="round"/>
                         </svg>
                     </button>
                     
-                    <div class="flex flex-col gap-8 p-8">
+                    <div class="flex flex-col gap-8">
                         <!-- Header Section with Title and Image -->
                         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
                             <!-- Left Column with Title -->
@@ -354,18 +306,21 @@ async function renderBlendPopup(blendKey) {
                                         <input type="hidden" name="blend_key" value="${blendKey}">
                                         <input type="hidden" name="blender" value="${blend.blender}">
                                         <input type="hidden" name="current_time" value="${new Date().toISOString()}">
-                                        <div class="upload-container">
-                                            <label for="imageInput" class="block cursor-pointer">
-                                                <div class="upload-hover-banner">Submit a photo!</div>
-                                            </label>
+                                        <div class="upload-container relative" id="uploadContainer">
                                             <img 
-                                                src="${imagePath}" 
+                                                src="${blend.imagePath}" 
                                                 alt="${blend.name}" 
-                                                class="w-full rounded-xl shadow-2xl border border-[#28201E]/50 object-cover aspect-square transition-opacity duration-200 cursor-pointer hover:opacity-80"
-                                                onclick="document.getElementById('imageInput').click()"
-                                                title="Click to upload a new picture"
+                                                class="w-full rounded-xl shadow-2xl border border-[#28201E]/50 object-cover aspect-square"
                                                 onerror="this.onerror=null; this.src='/blend_pictures/pictureless.jpg';"
                                             />
+                                            <div id="uploadOverlay" class="absolute inset-0 bg-black/60 backdrop-blur-[2px] rounded-xl opacity-0 transition-opacity duration-200 flex items-center justify-center pointer-events-none">
+                                                <span class="text-[#C89F65] text-lg font-medium">Submit a photo</span>
+                                            </div>
+                                            <label for="imageInput" class="absolute bottom-3 right-3 w-12 h-12 flex items-center justify-center cursor-pointer hover:scale-110 transition-all duration-200" onmouseenter="document.getElementById('uploadOverlay').style.opacity = '1'" onmouseleave="document.getElementById('uploadOverlay').style.opacity = '0'">
+                                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-transform duration-200 drop-shadow-lg">
+                                                    <path d="M12 4V20M4 12H20" stroke="#8E8074" stroke-width="3" stroke-linecap="round"/>
+                                                </svg>
+                                            </label>
                                         </div>
                                     </form>
                                 </div>
@@ -550,51 +505,75 @@ function scalePopupContent() {
 
     // Ensure content is fully rendered
     requestAnimationFrame(() => {
-        // Reset any previous transformations
-        popupContent.style.transform = '';
-        popupContent.style.maxWidth = '';
-        popupContent.style.width = '';
+        // Reset styles
+        popupContainer.setAttribute('style', '');
+        popupContent.setAttribute('style', '');
 
         // Get viewport dimensions
         const viewportWidth = window.innerWidth;
         const viewportHeight = window.innerHeight;
 
-        // Get popup content dimensions
-        const contentWidth = popupContent.scrollWidth;
-        const contentHeight = popupContent.scrollHeight;
+        // Determine device type
+        const isMobile = viewportWidth < 768;
 
-        // Calculate scaling factors
-        const widthScale = viewportWidth / (contentWidth + 40);  // Add padding
-        const heightScale = viewportHeight / (contentHeight + 40);  // Add padding
+        // Base styles for popup container
+        popupContainer.style.position = 'fixed';
+        popupContainer.style.top = '0';
+        popupContainer.style.left = '0';
+        popupContainer.style.width = '100%';
+        popupContainer.style.height = '100%';
+        popupContainer.style.display = 'block';
+        popupContainer.style.backgroundColor = 'rgba(0,0,0,0.85)';
+        popupContainer.style.zIndex = '1000';
+        popupContainer.style.overflow = 'hidden';
 
-        // Choose the most appropriate scale
-        const scale = Math.min(Math.min(widthScale, heightScale), 1);
+        if (isMobile) {
+            // Mobile styles
+            popupContent.style.width = '100%';
+            popupContent.style.maxWidth = '100%';
+            popupContent.style.margin = '0';
+            popupContent.style.padding = '15px';
+            popupContent.style.transform = 'none';
+            popupContent.style.transformOrigin = 'top left';
+            
+            // Ensure vertical-only scrolling
+            popupContent.style.overflowY = 'scroll';
+            popupContent.style.overflowX = 'hidden';
+            popupContent.style.WebkitOverflowScrolling = 'touch';  // Smooth scrolling for iOS
+            popupContent.style.maxHeight = `${viewportHeight}px`;
+            popupContent.style.height = '100%';
+        } else {
+            // Desktop styles
+            const contentWidth = popupContent.scrollWidth;
+            const contentHeight = popupContent.scrollHeight;
 
-        // Apply responsive scaling
-        if (scale < 1) {
+            const scaleX = viewportWidth / (contentWidth + 80);  // Add some padding
+            const scaleY = viewportHeight / (contentHeight + 80);
+            const scale = Math.min(scaleX, scaleY, 1);
+
+            popupContent.style.width = '90%';
+            popupContent.style.maxWidth = '1200px';
             popupContent.style.transform = `scale(${scale}) translateZ(0)`;
-            popupContent.style.transformOrigin = 'center center';
-            popupContent.style.maxWidth = `${contentWidth * scale}px`;
-            popupContent.style.width = '90%';  // Fallback for very large content
+            popupContent.style.transformOrigin = 'top center';
+            popupContent.style.margin = '40px auto';
+            popupContent.style.padding = '40px';
         }
 
-        // Ensure content is centered
-        popupContainer.style.display = 'flex';
-        popupContainer.style.justifyContent = 'center';
-        popupContainer.style.alignItems = 'center';
+        // Reset visibility and positioning
+        popupContent.style.visibility = 'visible';
+        popupContent.style.position = 'relative';
 
-        // Add a small delay to ensure layout is fully processed
-        setTimeout(() => {
-            // Optional: Add a resize observer for continuous adjustment
-            const resizeObserver = new ResizeObserver(() => {
-                scalePopupContent();
-            });
-            resizeObserver.observe(popupContent);
-        }, 100);
+        // Ensure content is fully visible
+        popupContent.style.display = 'block';
+
+        // Optional: Add a resize observer for continuous adjustment
+        const resizeObserver = new ResizeObserver(() => {
+            scalePopupContent();
+        });
+        resizeObserver.observe(popupContent);
     });
 }
 
-// Add a function to dynamically set popup styles
 function setPopupStyles() {
     const popupContainer = document.getElementById('blendPopup');
     const popupContent = document.getElementById('popupContent');
@@ -616,147 +595,45 @@ function setPopupStyles() {
     }
 }
 
-// Navigation functions
-async function navigateBlend(direction) {
-    if (availableBlends.length === 0) return;
 
-    // Determine the next blend index based on direction
-    let newBlendIndex;
-    if (direction === 'next') {
-        newBlendIndex = (currentBlendIndex + 1) % availableBlends.length;
-    } else if (direction === 'prev') {
-        newBlendIndex = (currentBlendIndex - 1 + availableBlends.length) % availableBlends.length;
-    } else {
-        return;
-    }
-
-    // Get the new blend key
-    const newBlendKey = availableBlends[newBlendIndex];
-
-    // Preserve the existing background
-    const blendPopup = document.getElementById('blendPopup');
-    const popupContent = document.getElementById('popupContent');
-
-    // Remove existing content but keep the background
-    if (popupContent) {
-        popupContent.remove();
-    }
-
-    // Render new blend content within the existing popup
-    const newPopupContent = document.createElement('div');
-    newPopupContent.id = 'popupContent';
-    blendPopup.appendChild(newPopupContent);
-
-    // Render the new blend popup
-    renderBlendPopup(newBlendKey);
-
-    // Update current blend key
-    window.currentBlendKey = newBlendKey;
-
-    // Update navigation buttons
-    updateNavigationButtons();
-
-    // Scale popup content
-    scalePopupContent();
-}
-
-// Update navigation button visibility
-function updateNavigationButtons() {
-    const startIndexOnPage = (currentPage - 1) * blendsPerPage;
-    const endIndexOnPage = Math.min(startIndexOnPage + blendsPerPage - 1, availableBlends.length - 1);
-    
-    const prevButton = document.querySelector('.nav-prev');
-    const nextButton = document.querySelector('.nav-next');
-    
-    if (prevButton) {
-        prevButton.style.visibility = (currentPage === 1) ? 'hidden' : 'visible';
-    }
-    if (nextButton) {
-        nextButton.style.visibility = (currentPage === totalPages) ? 'hidden' : 'visible';
-    }
-}
-
-// Load a specific page of blends
-async function loadPage(pageNumber) {
-    if (pageNumber < 1 || pageNumber > totalPages) {
-        console.error(`Invalid page number: ${pageNumber}`);
-        return false;
-    }
-    
-    currentPage = pageNumber;
-    const startIndex = (currentPage - 1) * blendsPerPage;
-    const endIndex = Math.min(startIndex + blendsPerPage - 1, availableBlends.length - 1);
-    
-    const visibleBlends = document.querySelectorAll('[data-blend-key]');
-    let visibleCount = 0;
-    
-    visibleBlends.forEach(blend => {
-        const order = parseInt(blend.getAttribute('data-order') || '-1');
-        if (order >= startIndex && order <= endIndex) {
-            blend.style.display = '';
-            visibleCount++;
-        } else {
-            blend.style.display = 'none';
-        }
-    });
-    
-    if (visibleCount === 0) {
-        console.warn(`No blends found for page ${pageNumber}`);
-    }
-    
-    updateNavigationButtons();
-    return true;
-}
 
 // Popup Control Functions
 function closePopup() {
     const blendPopup = document.getElementById('blendPopup');
     if (blendPopup) {
-        // Smooth fade-out
+        // Set a faster transition
+        blendPopup.style.transition = 'opacity 0.15s ease-out';
         blendPopup.style.opacity = '0';
-        blendPopup.style.transition = 'opacity 0.2s ease-out';
         
+        // Remove event listeners immediately
+        document.removeEventListener('keydown', handleKeyNavigation);
+        
+        // Remove popup slightly before the transition ends for a snappier feel
         setTimeout(() => {
-            // Remove event listeners
-            document.removeEventListener('keydown', handleKeyNavigation);
-            
-            // Remove popup from DOM
             blendPopup.remove();
-        }, 200);
+        }, 100);
     }
 }
 
 function openPopup(blendKey) {
-    // Immediately remove any existing popups with a quick fade-out
-    const existingPopup = document.getElementById('blendPopup');
-    if (existingPopup) {
-        existingPopup.style.opacity = '0';
-        existingPopup.style.transition = 'opacity 0.2s ease-out';
-        setTimeout(() => {
-            existingPopup.remove();
-        }, 200);
-    }
-
-    // Render new popup with a slight delay to ensure clean transition
-    setTimeout(() => {
-        renderBlendPopup(blendKey);
+    // Render the popup immediately
+    renderBlendPopup(blendKey);
+    
+    // Get the newly created popup and show it with a fade-in
+    const newPopup = document.getElementById('blendPopup');
+    if (newPopup) {
+        newPopup.style.opacity = '0';
+        newPopup.classList.remove('hidden');
+        newPopup.classList.add('flex');
         
-        // Get the newly created popup and show it with a fade-in
-        const newPopup = document.getElementById('blendPopup');
-        if (newPopup) {
-            newPopup.style.opacity = '0';
-            newPopup.classList.remove('hidden');
-            newPopup.classList.add('flex');
-            
-            // Force reflow
-            newPopup.offsetHeight;
-            
-            newPopup.style.transition = 'opacity 0.3s ease-in';
-            newPopup.style.opacity = '1';
-            
-            setPopupStyles();
-        }
-    }, 50);
+        // Force reflow
+        newPopup.offsetHeight;
+        
+        newPopup.style.transition = 'opacity 0.3s ease-in';
+        newPopup.style.opacity = '1';
+        
+        setPopupStyles();
+    }
 }
 
 // Add global click handler for popup closing
@@ -1009,14 +886,12 @@ document.getElementById('nameInputPopup').addEventListener('click', function(eve
 window.popupModule = {
     openPopup,
     closePopup,
-    navigateBlend,
     renderBlendPopup
 };
 
 export {
     openPopup,
     closePopup,
-    navigateBlend,
     renderBlendPopup
 };
 

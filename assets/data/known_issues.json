@@ -1,12 +1,16 @@
 {
     "items": [
         {
-            "text": "Blend Card Navigation Errors",
-            "subtext": "Navigates only through the currently loaded blend array."
+            "text": "No Rustica!?!",
+            "subtext": "Initially the search and filters were loose enough to find a vast amount of blends for various edge case searches (Java, Brazillian, Rustica), however it seems by tuning them in they've become sometimes restrictive. We're looking into this now!"
         },
         {
-            "text": "Pagination Errors",
-            "subtext": "Pagination breaks in background when navigating blend cards."
+            "text": "Blend cards are a mess on mobile!",
+            "subtext": "We couldn't agree more and will have this fixed ASAP!"
+        },
+        {
+            "text": "No blend card navigation!",
+            "subtext": "Once the UI is completely mobile friendly, we'll begin to reimplement this feature."
         }
     ]
 }

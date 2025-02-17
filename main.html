@@ -3,6 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Tabac Wiki</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -29,7 +30,23 @@
         #suggestionsList {
             max-height: 300px;
             overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: #352c26 #241e1c;
         }
+        #suggestionsList::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        #suggestionsList::-webkit-scrollbar-track {
+            background: #241e1c;
+        }
+        
+        #suggestionsList::-webkit-scrollbar-thumb {
+            background-color: #352c26;
+            border-radius: 4px;
+            border: 2px solid #241e1c;
+        }
+
         #suggestionsList .suggestion-item:hover {
             background-color: rgba(255,255,255,0.1);
         }
@@ -40,6 +57,26 @@
             margin-top: 20px;
             white-space: pre-wrap;
             word-break: break-all;
+        }
+
+        /* Custom Scrollbar */
+        .custom-scrollbar {
+            scrollbar-width: thin;
+            scrollbar-color: #352c26 #241e1c;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #241e1c;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: #352c26;
+            border-radius: 4px;
+            border: 2px solid #241e1c;
         }
         .custom-checkbox-container {
             display: flex;
@@ -126,471 +163,831 @@
         .flag-wave {
             animation: flag-wave 1.5s ease-in-out infinite;
         }
+        html, body {
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .responsive-layout {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            max-height: 100vh;
+        }
+        .main-content {
+            display: flex;
+            flex-grow: 1;
+            overflow: hidden;
+        }
+        .sidebar {
+            width: 16rem;
+            overflow-y: auto;
+        }
+        .content-area {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .results-container {
+            flex-grow: 1;
+            overflow-y: auto;
+        }
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+            .sidebar {
+                width: 100%;
+                max-height: none;
+            }
+            /* Ensure the content area scrolls properly on mobile */
+            .content-area {
+                flex: 1;
+                overflow-y: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+        }
+        
+        /* Responsive Base Styles */
+        html, body {
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            font-size: 16px;
+        }
+        
+        /* Full Viewport Layout */
+        .app-container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        /* Main Content Area */
+        .main-content {
+            display: flex;
+            flex-grow: 1;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 16rem;
+            background-color: #241e1c;
+            border-right: 1px solid #27201e;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+            flex-shrink: 0;
+        }
+        
+        /* Content Area */
+        .content-area {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        /* Scrollable Results */
+        .results-container {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 1rem;
+        }
+        
+        /* Responsive Breakpoints */
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                max-height: 50vh;
+            }
+            
+            html, body {
+                font-size: 14px;
+            }
+        }
+        
+        /* Utility Classes */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        
+        /* Blend Card Styles */
+        .blend-card {
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        .blend-card .hover-details {
+            position: absolute;
+            inset: 0;
+            background-color: #241e1c;
+            color: #8E8074;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+        .blend-card:hover .hover-details {
+            opacity: 1;
+        }
+        .hover-details .detail-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.875rem; /* text-sm */
+            color: #8E8074;
+            margin-bottom: 0.5rem;
+        }
+        .hover-details .detail-row:first-child span:first-child,
+        .hover-details .detail-row:nth-child(2) span:first-child {
+            color: inherit;
+            font-style: normal;
+        }
+        .hover-details .detail-row:last-child {
+            text-align: center;
+            justify-content: center;
+        }
     </style>
 </head>
-<body class="bg-[#1f1a18] text-[#8E8074] min-h-screen">
-    <div id="initialLoadingOverlay" class="fixed inset-0 bg-[#1f1a18]/80 z-[1000] flex flex-col items-center justify-center">
-        <img src="/favicon.ico" alt="Tabac Wiki Logo" class="w-24 h-24 flag-wave">
-        <p class="text-[#8E8074] text-lg mt-4 tracking-wider">Loading database...</p>
-    </div>
-    <div class="flex min-h-screen" id="searchContainer">
-        <!-- Sidebar for Sorting -->
-        <div class="w-64 px-4 py-8 border-r border-[#27201e] bg-[#241e1c] flex-shrink-0">
-            <div class="title-container flex items-center">
-                <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="site-logo mr-0 w-10 h-10">
-                <a href="https://tabac.wiki" class="site-title-link hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
-                    <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
-                </a>
-            </div>
-            <div class="flex items-center justify-between mb-4">
-                <h3 class="text-xl font-semibold text-[#8E8074]">Sort By</h3>
-                <button id="resetFiltersBtn" class="text-sm text-[#8E8074] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
-                    Reset
-                </button>
-            </div>
-            <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" disabled selected>Select Sort Option</option>
-                <option value="averageRating">Rating Score (High to Low)</option>
-                <option value="ratingLowToHigh">Rating Score (Low to High)</option>
-                <option value="reviewCount">Rating Count (High to Low)</option>
-                <option value="reviewCountLowToHigh">Rating Count (Low to High)</option>
-                <option value="blenderAsc">Brand (A to Z)</option>
-                <option value="blenderDesc">Brand (Z to A)</option>
-                <option value="alphaAsc">Blend (A to Z)</option>
-                <option value="alphaDesc">Blend (Z to A)</option>
-            </select>
-            
-            <h3 class="text-xl font-semibold mt-6 mb-4 text-[#8E8074]">Filters</h3>
-            <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Brands</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Blenders</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Manufacturers</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Countries</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Cut Types</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Packaging Types</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="" selected>All Blend Types</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
-                <option value="All availabilities" selected>All Availabilities</option>
-            </select>
-
-            <div class="my-4"></div>
-
-            <div class="components-filter w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
-                <div class="flex items-center justify-between cursor-pointer" id="componentsHeader">
-                    <h3 class="text-[#8E8074]">Components</h3>
-                    <svg id="componentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                    </svg>
-                </div>
-                <div id="componentsCheckboxContainer" class="mt-2 space-y-2 hidden"></div>
-            </div>
-
-            <div class="my-4"></div>
-
-            <div class="rating-filter-container px-4">
-                <label class="text-[#8E8074] text-sm mb-2 block text-center">Average Rating</label>
-                <div class="relative w-full py-2 flex justify-center">
-                    <div id="ratingSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
-                        <div id="ratingTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
-                        <div 
-                            id="ratingMinHandle" 
-                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
-                        ></div>
-                        <div 
-                            id="ratingMaxHandle" 
-                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
-                        ></div>
-                    </div>
-                </div>
-                <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
-                    <span id="ratingMinValue">0</span>
-                    <span id="ratingMaxValue">4</span>
-                </div>
-                <input 
-                    type="hidden" 
-                    id="ratingMinInput" 
-                    name="rating_min" 
-                    value="0"
-                >
-                <input 
-                    type="hidden" 
-                    id="ratingMaxInput" 
-                    name="rating_max" 
-                    value="4"
-                >
-            </div>
-
-            <div class="my-4"></div>
-
-            <div class="review-count-filter-container px-4">
-                <label class="text-[#8E8074] text-sm mb-2 block text-center">Rating Count</label>
-                <div class="relative w-full py-2 flex justify-center">
-                    <div id="reviewCountSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
-                        <div id="reviewCountTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
-                        <div 
-                            id="reviewCountMinHandle" 
-                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
-                        ></div>
-                        <div 
-                            id="reviewCountMaxHandle" 
-                            class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
-                        ></div>
-                    </div>
-                </div>
-                <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
-                    <span id="reviewCountMinValue">0</span>
-                    <span id="reviewCountMaxValue">0</span>
-                </div>
-                <input 
-                    type="hidden" 
-                    id="reviewCountMinInput" 
-                    name="review_count_min" 
-                    value="0"
-                >
-                <input 
-                    type="hidden" 
-                    id="reviewCountMaxInput" 
-                    name="review_count_max" 
-                    value="0"
-                >
-            </div>
-
-            <script>
-                function createRatingRangeSlider() {
-                    const slider = document.getElementById('ratingSlider');
-                    const track = document.getElementById('ratingTrack');
-                    const minHandle = document.getElementById('ratingMinHandle');
-                    const maxHandle = document.getElementById('ratingMaxHandle');
-                    const minValueDisplay = document.getElementById('ratingMinValue');
-                    const maxValueDisplay = document.getElementById('ratingMaxValue');
-                    const minInput = document.getElementById('ratingMinInput');
-                    const maxInput = document.getElementById('ratingMaxInput');
-
-                    let isDraggingMin = false;
-                    let isDraggingMax = false;
-                    const min = 0;
-                    const max = 4;
-
-                    function updateSlider(minValue, maxValue) {
-                        const sliderWidth = slider.offsetWidth;
-                        const minPercent = (minValue / max) * 100;
-                        const maxPercent = (maxValue / max) * 100;
-
-                        minHandle.style.left = `${minPercent}%`;
-                        maxHandle.style.left = `${maxPercent}%`;
-                        track.style.left = `${minPercent}%`;
-                        track.style.width = `${maxPercent - minPercent}%`;
-
-                        minValueDisplay.textContent = minValue.toFixed(1);
-                        maxValueDisplay.textContent = maxValue.toFixed(1);
-                        minInput.value = minValue;
-                        maxInput.value = maxValue;
-                    }
-
-                    function getValueFromPosition(clientX) {
-                        const rect = slider.getBoundingClientRect();
-                        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
-                        return Math.round(percent * max * 10) / 10;
-                    }
-
-                    function handleMouseMove(e) {
-                        if (isDraggingMin) {
-                            let newMinValue = getValueFromPosition(e.clientX);
-                            const currentMaxValue = parseFloat(maxInput.value);
-                            newMinValue = Math.min(newMinValue, currentMaxValue);
-                            updateSlider(newMinValue, currentMaxValue);
-                        }
-                        if (isDraggingMax) {
-                            let newMaxValue = getValueFromPosition(e.clientX);
-                            const currentMinValue = parseFloat(minInput.value);
-                            newMaxValue = Math.max(newMaxValue, currentMinValue);
-                            updateSlider(currentMinValue, newMaxValue);
-                        }
-                    }
-
-                    function handleMouseUp() {
-                        if (isDraggingMin || isDraggingMax) {
-                            // Only trigger filter when mouse is released
-                            if (window.applyFiltersToResults) {
-                                applyFiltersToResults();
-                            }
-                            
-                            // Trigger search input to refresh results
-                            const searchInput = document.getElementById('searchInput');
-                            if (searchInput) {
-                                searchInput.dispatchEvent(new Event('input'));
-                            }
-                        }
-                        isDraggingMin = false;
-                        isDraggingMax = false;
-                        document.removeEventListener('mousemove', handleMouseMove);
-                        document.removeEventListener('mouseup', handleMouseUp);
-                    }
-
-                    minHandle.addEventListener('mousedown', (e) => {
-                        e.preventDefault();
-                        isDraggingMin = true;
-                        document.addEventListener('mousemove', handleMouseMove);
-                        document.addEventListener('mouseup', handleMouseUp);
-                    });
-
-                    maxHandle.addEventListener('mousedown', (e) => {
-                        e.preventDefault();
-                        isDraggingMax = true;
-                        document.addEventListener('mousemove', handleMouseMove);
-                        document.addEventListener('mouseup', handleMouseUp);
-                    });
-
-                    // Initial setup
-                    updateSlider(0, 4);
-
-                    // Add reset method to window scope
-                    window.resetRatingSlider = () => {
-                        // Reset to full range (0 to 4)
-                        updateSlider(0, 4);
-
-                        // Trigger filter application
-                        if (window.applyFiltersToResults) {
-                            applyFiltersToResults();
-                        }
-                        
-                        // Trigger search input to refresh results
-                        const searchInput = document.getElementById('searchInput');
-                        if (searchInput) {
-                            searchInput.dispatchEvent(new Event('input'));
-                        }
-                    };
-                }
-
-                function createReviewCountRangeSlider() {
-                    const slider = document.getElementById('reviewCountSlider');
-                    const track = document.getElementById('reviewCountTrack');
-                    const minHandle = document.getElementById('reviewCountMinHandle');
-                    const maxHandle = document.getElementById('reviewCountMaxHandle');
-                    const minValueDisplay = document.getElementById('reviewCountMinValue');
-                    const maxValueDisplay = document.getElementById('reviewCountMaxValue');
-                    const minInput = document.getElementById('reviewCountMinInput');
-                    const maxInput = document.getElementById('reviewCountMaxInput');
-
-                    // Dynamically calculate max review count with smarter scaling
-                    const reviewCounts = allBlends.map(blend => blend.reviewCount || 0);
-                    const maxReviewCount = Math.max(...reviewCounts);
-                    
-                    // Custom scaling function to make smaller values more distinguishable
-                    function scaleValue(value, max) {
-                        // Logarithmic scaling with a soft curve
-                        return Math.round(Math.pow(value / max, 0.7) * max);
-                    }
-
-                    function unscaleValue(scaledValue, max) {
-                        // Reverse of the scaling function
-                        return Math.round(Math.pow(scaledValue / max, 1/0.7) * max);
-                    }
-
-                    const roundedMaxReviewCount = Math.ceil(maxReviewCount / 10) * 10; // Round up to nearest 10
-
-                    let isDraggingMin = false;
-                    let isDraggingMax = false;
-                    const min = 0;
-                    const max = roundedMaxReviewCount;
-
-                    function updateSlider(minValue, maxValue) {
-                        const sliderWidth = slider.offsetWidth;
-                        
-                        // Apply custom scaling
-                        const scaledMinPercent = (scaleValue(minValue, max) / max) * 100;
-                        const scaledMaxPercent = (scaleValue(maxValue, max) / max) * 100;
-
-                        minHandle.style.left = `${scaledMinPercent}%`;
-                        maxHandle.style.left = `${scaledMaxPercent}%`;
-                        track.style.left = `${scaledMinPercent}%`;
-                        track.style.width = `${scaledMaxPercent - scaledMinPercent}%`;
-
-                        // Display actual values
-                        minValueDisplay.textContent = Math.round(minValue);
-                        maxValueDisplay.textContent = Math.round(maxValue);
-                        minInput.value = Math.round(minValue);
-                        maxInput.value = Math.round(maxValue);
-                    }
-
-                    function getValueFromPosition(clientX) {
-                        const rect = slider.getBoundingClientRect();
-                        const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
-                        
-                        // Unscale the value to get a more linear distribution
-                        const scaledValue = percent * max;
-                        return unscaleValue(scaledValue, max);
-                    }
-
-                    function handleMouseMove(e) {
-                        if (isDraggingMin) {
-                            let newMinValue = getValueFromPosition(e.clientX);
-                            const currentMaxValue = parseFloat(maxInput.value);
-                            newMinValue = Math.min(newMinValue, currentMaxValue);
-                            updateSlider(newMinValue, currentMaxValue);
-                        }
-                        if (isDraggingMax) {
-                            let newMaxValue = getValueFromPosition(e.clientX);
-                            const currentMinValue = parseFloat(minInput.value);
-                            newMaxValue = Math.max(newMaxValue, currentMinValue);
-                            updateSlider(currentMinValue, newMaxValue);
-                        }
-                    }
-
-                    function handleMouseUp() {
-                        if (isDraggingMin || isDraggingMax) {
-                            // Only trigger filter when mouse is released
-                            if (window.applyFiltersToResults) {
-                                applyFiltersToResults();
-                            }
-                            
-                            // Trigger search input to refresh results
-                            const searchInput = document.getElementById('searchInput');
-                            if (searchInput) {
-                                searchInput.dispatchEvent(new Event('input'));
-                            }
-                        }
-                        isDraggingMin = false;
-                        isDraggingMax = false;
-                        document.removeEventListener('mousemove', handleMouseMove);
-                        document.removeEventListener('mouseup', handleMouseUp);
-                    }
-
-                    minHandle.addEventListener('mousedown', (e) => {
-                        e.preventDefault();
-                        isDraggingMin = true;
-                        document.addEventListener('mousemove', handleMouseMove);
-                        document.addEventListener('mouseup', handleMouseUp);
-                    });
-
-                    maxHandle.addEventListener('mousedown', (e) => {
-                        e.preventDefault();
-                        isDraggingMax = true;
-                        document.addEventListener('mousemove', handleMouseMove);
-                        document.addEventListener('mouseup', handleMouseUp);
-                    });
-
-                    // Initial setup
-                    updateSlider(0, roundedMaxReviewCount);
-
-                    // Add reset method to window scope
-                    window.resetReviewCountSlider = () => {
-                        // Reset to full range of review counts
-                        updateSlider(0, roundedMaxReviewCount);
-
-                        // Trigger filter application
-                        if (window.applyFiltersToResults) {
-                            applyFiltersToResults();
-                        }
-                        
-                        // Trigger search input to refresh results
-                        const searchInput = document.getElementById('searchInput');
-                        if (searchInput) {
-                            searchInput.dispatchEvent(new Event('input'));
-                        }
-                    };
-                }
-
-                // Run after page load
-                document.addEventListener('DOMContentLoaded', createRatingRangeSlider);
-                document.addEventListener('DOMContentLoaded', () => {
-                    // Wait for allBlends to be populated
-                    const checkAllBlends = setInterval(() => {
-                        if (window.allBlends && window.allBlends.length > 0) {
-                            clearInterval(checkAllBlends);
-                            createReviewCountRangeSlider();
-                        }
-                    }, 100);
-                });
-            </script>
-
-            <div class="my-4"></div>
-
-            <script>
-                document.getElementById('componentsHeader').addEventListener('click', () => {
-                    const container = document.getElementById('componentsCheckboxContainer');
-                    const arrow = document.getElementById('componentsArrow');
-                    const isExpanded = container.classList.contains('hidden');
-                    
-                    if (isExpanded) {
-                        // Expand
-                        container.classList.remove('hidden');
-                        arrow.style.transform = 'rotate(180deg)';
-                    } else {
-                        // Collapse
-                        container.classList.add('hidden');
-                        arrow.style.transform = 'rotate(0deg)';
-                    }
-                });
-            </script>
-
-            <div class="my-4"></div>
+<body class="bg-[#1f1a18] text-[#8E8074] custom-scrollbar">
+    <div class="app-container">
+        <div id="initialLoadingOverlay" class="fixed inset-0 bg-[#1f1a18]/80 z-[1000] flex flex-col items-center justify-center">
+            <img src="/favicon.ico" alt="Tabac Wiki Logo" class="w-24 h-24 flag-wave">
+            <p class="text-[#8E8074] text-lg mt-4 tracking-wider">Loading database...</p>
         </div>
 
-        <!-- Main Content Area -->
-        <div class="flex-1 px-8 py-8">
-            <div class="max-w-2xl mx-auto mb-4 relative">
-                <input 
-                    type="text" 
-                    id="searchInput" 
-                    placeholder="Search blends by name, brand, or type..." 
-                    class="w-full px-4 py-3 rounded-lg bg-[#352c26]/40 text-white focus:outline-none focus:ring-2 focus:ring-[#8E8074] placeholder-[#8E8074]"
-                    >
-                <div id="searchSummary" class="text-[#8E8074]/30 text-sm text-center mt-2"></div>
-                <div 
-                    id="suggestionsList" 
-                    class="absolute z-10 w-full bg-[#322520] rounded-lg mt-1 shadow-2xl hidden"
-                ></div>
-            </div>
-
-            <div id="searchResults" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8 search-results-container"></div>
-
-            <div class="flex justify-center items-center mt-4 space-x-4">
-                <button id="prevPageBtn" class="bg-[#4c3d37]/20 text-[#8E8074] rounded-lg px-4 py-2 hover:bg-[#312926] transition-colors disabled:opacity-50 disabled:cursor-not-allowed">Previous Page</button>
-                <div class="flex items-center space-x-1">
-                    <span id="currentPage" class="text-[#7c6f57]/30">1</span>
-                    <span class="text-[#7c6f57]/30">of</span>
-                    <span id="totalPages" class="text-[#7c6f57]/30">1</span>
+        <div class="main-content flex flex-col md:flex-row flex-1 overflow-hidden custom-scrollbar" id="searchContainer">
+            <!-- Sidebar -->
+            <!-- Mobile Header with Logo, Search, and Filters -->
+            <div id="mobileHeader" class="md:hidden flex flex-col bg-[#241e1c] sticky top-0 z-10 transition-all duration-300 ease-in-out shadow-lg shadow-black/25">
+                <div class="flex flex-col p-4 gap-4">
+                    <div class="flex items-center justify-between relative">
+                        <button id="mobileInfoButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#8E8074] flex items-center justify-center">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                        </button>
+                        <div class="absolute left-1/2 -translate-x-1/2 flex items-center gap-2">
+                            <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="w-8 h-8">
+                            <a href="https://tabac.wiki" class="hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                                <img src="/assets/logo.png" alt="Tabac Wiki" class="h-6 w-auto max-w-full object-contain object-left">
+                            </a>
+                        </div>
+                        <div class="invisible flex items-center gap-2">
+                            <img src="/favicon.ico" alt="" class="w-8 h-8">
+                            <div class="h-6 w-[100px]"></div>
+                        </div>
+                        <button id="mobileFilterToggle" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#8E8074] flex items-center gap-2">
+                            <svg class="w-6 h-6 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="z-index: -1;">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                            </svg>
+                            <span class="pointer-events-none">Filters</span>
+                        </button>
+                    </div>
+                    <div class="flex gap-2 w-full">
+                        <button id="mobileDonationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Support The Wiki</button>
+                        <button id="mobileStatusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Wiki Report</button>
+                    </div>
                 </div>
-                <button id="nextPageBtn" class="bg-[#4c3d37]/20 text-[#8E8074] rounded-lg px-4 py-2 hover:bg-[#312926] transition-colors disabled:opacity-50 disabled:cursor-not-allowed">Next Page</button>
+                <!-- Mobile Search Bar -->
+                <div class="px-4 pb-4 md:hidden">
+                    <input type="text" id="searchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] placeholder:text-[#8E8074]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                </div>
             </div>
 
-            <div id="debugOutput"></div>
+
+
+            <!-- Collapsible Sidebar -->
+            <div id="mobileSidebar" class="sidebar hidden md:block w-full md:w-64 bg-[#241e1c] md:flex-shrink-0 overflow-y-auto transition-all duration-300 ease-in-out custom-scrollbar md:!w-64 md:shadow-lg md:shadow-black/25 relative">
+                <div class="px-4 py-8">
+                    <div class="title-container hidden md:flex items-center mb-4">
+                        <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="site-logo mr-2 w-10 h-10">
+                        <a href="https://tabac.wiki" class="site-title-link hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                            <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
+                        </a>
+                    </div>
+
+                    <!-- Desktop donation buttons -->
+                    <div class="hidden md:flex justify-center items-stretch gap-1 w-full max-w-[200px] mx-auto mb-8">
+                        <button id="donationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Support The Wiki</button>
+                        <button id="statusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Wiki Report</button>
+                        <button id="infoButton" class="h-[32px] w-[32px] bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 flex items-center justify-center flex-shrink-0">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Desktop Search Bar -->
+                    <div class="hidden md:block mb-8">
+                        <div class="relative">
+                            <input type="text" id="desktopSearchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] placeholder:text-[#8E8074]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                        </div>
+                    </div>
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-xl font-semibold text-[#8E8074]">Sort By</h3>
+                        <button id="resetFiltersBtn" class="text-sm text-[#8E8074] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
+                            Reset
+                        </button>
+                    </div>
+                    <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" disabled selected>Select Sort Option</option>
+                        <option value="averageRating">Rating Score (High to Low)</option>
+                        <option value="ratingLowToHigh">Rating Score (Low to High)</option>
+                        <option value="reviewCount">Rating Count (High to Low)</option>
+                        <option value="reviewCountLowToHigh">Rating Count (Low to High)</option>
+                        <option value="blenderAsc">Brand (A to Z)</option>
+                        <option value="blenderDesc">Brand (Z to A)</option>
+                        <option value="alphaAsc">Blend (A to Z)</option>
+                        <option value="alphaDesc">Blend (Z to A)</option>
+                    </select>
+                    
+                    <!-- Collapsible filters section for desktop -->
+                    <div class="hidden md:flex items-center justify-between cursor-pointer mt-8 mb-4" id="filtersHeader">
+                        <h3 class="text-xl font-semibold text-[#8E8074]">Filters</h3>
+                        <svg id="filtersArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                    <!-- Mobile-only filters header -->
+                    <h3 class="text-xl font-semibold mt-8 mb-4 text-[#8E8074] md:hidden">Filters</h3>
+                    <!-- Two-column grid for filter dropdowns -->
+                    <div id="filtersContainer" class="md:block grid grid-cols-2 gap-4 md:space-y-4">
+                        <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Brands</option>
+                        </select>
+
+                        <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Blenders</option>
+                        </select>
+
+                        <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Manufacturers</option>
+                        </select>
+
+                        <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Countries</option>
+                        </select>
+
+                        <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Cut Types</option>
+                        </select>
+
+                        <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Packaging Types</option>
+                        </select>
+
+                        <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="" selected>All Blend Types</option>
+                        </select>
+
+                        <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="All availabilities" selected>All Availabilities</option>
+                        </select>
+                    </div>
+
+                    <div class="my-4"></div>
+
+                    <!-- Components section header for desktop -->
+                    <div class="hidden md:flex items-center justify-between cursor-pointer mt-8 mb-4" id="componentsHeader">
+                        <h3 class="text-xl font-semibold text-[#8E8074]">Components</h3>
+                        <svg id="componentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                    <!-- Components section for mobile -->
+                    <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                        <div class="flex items-center justify-between cursor-pointer" id="mobileComponentsHeader">
+                            <h3 class="text-[#8E8074]">Components</h3>
+                            <svg id="mobileComponentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <!-- Components checkbox container (shared between mobile and desktop) -->
+                    <div id="componentsCheckboxContainer" class="space-y-2 hidden md:bg-[#352c26]/40 md:rounded-lg md:p-4 mt-2 md:mt-0"></div>
+
+                    <div class="my-8"></div>
+
+                    <div class="rating-filter-container px-4">
+                        <label class="text-[#8E8074] text-sm mb-2 block text-center">Average Rating</label>
+                        <div class="relative w-full py-2 flex justify-center">
+                            <div id="ratingSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                                <div id="ratingTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                                <div 
+                                    id="ratingMinHandle" 
+                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200
+
+                                ></div>
+                                <div 
+                                    id="ratingMaxHandle" 
+                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                                ></div>
+                            </div>
+                        </div>
+                        <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                            <span id="ratingMinValue">0</span>
+                            <span id="ratingMaxValue">4</span>
+                        </div>
+                        <input 
+                            type="hidden" 
+                            id="ratingMinInput" 
+                            name="rating_min" 
+                            value="0"
+                        >
+                        <input 
+                            type="hidden" 
+                            id="ratingMaxInput" 
+                            name="rating_max" 
+                            value="4"
+                        >
+                    </div>
+
+                    <div class="my-4"></div>
+
+                    <div class="review-count-filter-container px-4">
+                        <label class="text-[#8E8074] text-sm mb-2 block text-center">Rating Count</label>
+                        <div class="relative w-full py-2 flex justify-center">
+                            <div id="reviewCountSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                                <div id="reviewCountTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                                <div 
+                                    id="reviewCountMinHandle" 
+                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                                ></div>
+                                <div 
+                                    id="reviewCountMaxHandle" 
+                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"
+                                ></div>
+                            </div>
+                        </div>
+                        <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                            <span id="reviewCountMinValue">0</span>
+                            <span id="reviewCountMaxValue">0</span>
+                        </div>
+                        <input 
+                            type="hidden" 
+                            id="reviewCountMinInput" 
+                            name="review_count_min" 
+                            value="0"
+                        >
+                        <input 
+                            type="hidden" 
+                            id="reviewCountMaxInput" 
+                            name="review_count_max" 
+                            value="0"
+                        >
+                    </div>
+
+                    <script>
+                        function createRatingRangeSlider() {
+                            const slider = document.getElementById('ratingSlider');
+                            const track = document.getElementById('ratingTrack');
+                            const minHandle = document.getElementById('ratingMinHandle');
+                            const maxHandle = document.getElementById('ratingMaxHandle');
+                            const minValueDisplay = document.getElementById('ratingMinValue');
+                            const maxValueDisplay = document.getElementById('ratingMaxValue');
+                            const minInput = document.getElementById('ratingMinInput');
+                            const maxInput = document.getElementById('ratingMaxInput');
+
+                            let isDraggingMin = false;
+                            let isDraggingMax = false;
+                            const min = 0;
+                            const max = 4;
+
+                            function updateSlider(minValue, maxValue) {
+                                const sliderWidth = slider.offsetWidth;
+                                const minPercent = (minValue / max) * 100;
+                                const maxPercent = (maxValue / max) * 100;
+
+                                minHandle.style.left = `${minPercent}%`;
+                                maxHandle.style.left = `${maxPercent}%`;
+                                track.style.left = `${minPercent}%`;
+                                track.style.width = `${maxPercent - minPercent}%`;
+
+                                minValueDisplay.textContent = minValue.toFixed(1);
+                                maxValueDisplay.textContent = maxValue.toFixed(1);
+                                minInput.value = minValue;
+                                maxInput.value = maxValue;
+                            }
+
+                            function getValueFromPosition(clientX) {
+                                const rect = slider.getBoundingClientRect();
+                                const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                                return Math.round(percent * max * 10) / 10;
+                            }
+
+                            function handleMouseMove(e) {
+                                if (isDraggingMin) {
+                                    let newMinValue = getValueFromPosition(e.clientX);
+                                    const currentMaxValue = parseFloat(maxInput.value);
+                                    newMinValue = Math.min(newMinValue, currentMaxValue);
+                                    updateSlider(newMinValue, currentMaxValue);
+                                }
+                                if (isDraggingMax) {
+                                    let newMaxValue = getValueFromPosition(e.clientX);
+                                    const currentMinValue = parseFloat(minInput.value);
+                                    newMaxValue = Math.max(newMaxValue, currentMinValue);
+                                    updateSlider(currentMinValue, newMaxValue);
+                                }
+                            }
+
+                            function handleTouchMove(e) {
+                                e.preventDefault(); // Prevent scrolling while dragging
+                                const touch = e.touches[0];
+                                handleMouseMove({ clientX: touch.clientX });
+                            }
+
+                            function handleMouseUp() {
+                                if (isDraggingMin || isDraggingMax) {
+                                    // Only trigger filter when mouse/touch is released
+                                    if (window.applyFiltersToResults) {
+                                        applyFiltersToResults();
+                                    }
+                                    
+                                    // Trigger search input to refresh results
+                                    const searchInput = document.getElementById('searchInput');
+                                    if (searchInput) {
+                                        searchInput.dispatchEvent(new Event('input'));
+                                    }
+                                }
+                                isDraggingMin = false;
+                                isDraggingMax = false;
+                                document.removeEventListener('mousemove', handleMouseMove);
+                                document.removeEventListener('mouseup', handleMouseUp);
+                            }
+
+                            function handleTouchEnd() {
+                                handleMouseUp();
+                                document.removeEventListener('touchmove', handleTouchMove);
+                                document.removeEventListener('touchend', handleTouchEnd);
+                            }
+
+                            // Mouse events
+                            minHandle.addEventListener('mousedown', (e) => {
+                                e.preventDefault();
+                                isDraggingMin = true;
+                                document.addEventListener('mousemove', handleMouseMove);
+                                document.addEventListener('mouseup', handleMouseUp);
+                            });
+
+                            maxHandle.addEventListener('mousedown', (e) => {
+                                e.preventDefault();
+                                isDraggingMax = true;
+                                document.addEventListener('mousemove', handleMouseMove);
+                                document.addEventListener('mouseup', handleMouseUp);
+                            });
+
+                            // Touch events
+                            minHandle.addEventListener('touchstart', (e) => {
+                                e.preventDefault();
+                                isDraggingMin = true;
+                                document.addEventListener('touchmove', handleTouchMove, { passive: false });
+                                document.addEventListener('touchend', handleTouchEnd);
+                            });
+
+                            maxHandle.addEventListener('touchstart', (e) => {
+                                e.preventDefault();
+                                isDraggingMax = true;
+                                document.addEventListener('touchmove', handleTouchMove, { passive: false });
+                                document.addEventListener('touchend', handleTouchEnd);
+                            });
+
+                            // Initial setup
+                            updateSlider(0, 4);
+
+                            // Add reset method to window scope
+                            window.resetRatingSlider = () => {
+                                // Reset to full range (0 to 4)
+                                updateSlider(0, 4);
+
+                                // Trigger filter application
+                                if (window.applyFiltersToResults) {
+                                    applyFiltersToResults();
+                                }
+                                
+                                // Trigger search input to refresh results
+                                const searchInput = document.getElementById('searchInput');
+                                if (searchInput) {
+                                    searchInput.dispatchEvent(new Event('input'));
+                                }
+                            };
+                        }
+
+                        function createReviewCountRangeSlider() {
+                            const slider = document.getElementById('reviewCountSlider');
+                            const track = document.getElementById('reviewCountTrack');
+                            const minHandle = document.getElementById('reviewCountMinHandle');
+                            const maxHandle = document.getElementById('reviewCountMaxHandle');
+                            const minValueDisplay = document.getElementById('reviewCountMinValue');
+                            const maxValueDisplay = document.getElementById('reviewCountMaxValue');
+                            const minInput = document.getElementById('reviewCountMinInput');
+                            const maxInput = document.getElementById('reviewCountMaxInput');
+
+                            // Dynamically calculate max review count with smarter scaling
+                            const reviewCounts = allBlends.map(blend => blend.reviewCount || 0);
+                            const maxReviewCount = Math.max(...reviewCounts);
+                            
+                            // Custom scaling function to make smaller values more distinguishable
+                            function scaleValue(value, max) {
+                                // Logarithmic scaling with a soft curve
+                                return Math.round(Math.pow(value / max, 0.7) * max);
+                            }
+
+                            function unscaleValue(scaledValue, max) {
+                                // Reverse of the scaling function
+                                return Math.round(Math.pow(scaledValue / max, 1/0.7) * max);
+                            }
+
+                            const roundedMaxReviewCount = Math.ceil(maxReviewCount / 10) * 10; // Round up to nearest 10
+
+                            let isDraggingMin = false;
+                            let isDraggingMax = false;
+                            const min = 0;
+                            const max = roundedMaxReviewCount;
+
+                            function updateSlider(minValue, maxValue) {
+                                const sliderWidth = slider.offsetWidth;
+                                
+                                // Apply custom scaling
+                                const scaledMinPercent = (scaleValue(minValue, max) / max) * 100;
+                                const scaledMaxPercent = (scaleValue(maxValue, max) / max) * 100;
+
+                                minHandle.style.left = `${scaledMinPercent}%`;
+                                maxHandle.style.left = `${scaledMaxPercent}%`;
+                                track.style.left = `${scaledMinPercent}%`;
+                                track.style.width = `${scaledMaxPercent - scaledMinPercent}%`;
+
+                                // Display actual values
+                                minValueDisplay.textContent = Math.round(minValue);
+                                maxValueDisplay.textContent = Math.round(maxValue);
+                                minInput.value = Math.round(minValue);
+                                maxInput.value = Math.round(maxValue);
+                            }
+
+                            function getValueFromPosition(clientX) {
+                                const rect = slider.getBoundingClientRect();
+                                const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                                
+                                // Unscale the value to get a more linear distribution
+                                const scaledValue = percent * max;
+                                return unscaleValue(scaledValue, max);
+                            }
+
+                            function handleMouseMove(e) {
+                                if (isDraggingMin) {
+                                    let newMinValue = getValueFromPosition(e.clientX);
+                                    const currentMaxValue = parseFloat(maxInput.value);
+                                    newMinValue = Math.min(newMinValue, currentMaxValue);
+                                    updateSlider(newMinValue, currentMaxValue);
+                                }
+                                if (isDraggingMax) {
+                                    let newMaxValue = getValueFromPosition(e.clientX);
+                                    const currentMinValue = parseFloat(minInput.value);
+                                    newMaxValue = Math.max(newMaxValue, currentMinValue);
+                                    updateSlider(currentMinValue, newMaxValue);
+                                }
+                            }
+
+                            function handleTouchMove(e) {
+                                e.preventDefault(); // Prevent scrolling while dragging
+                                const touch = e.touches[0];
+                                handleMouseMove({ clientX: touch.clientX });
+                            }
+
+                            function handleMouseUp() {
+                                if (isDraggingMin || isDraggingMax) {
+                                    // Only trigger filter when mouse/touch is released
+                                    if (window.applyFiltersToResults) {
+                                        applyFiltersToResults();
+                                    }
+                                    
+                                    // Trigger search input to refresh results
+                                    const searchInput = document.getElementById('searchInput');
+                                    if (searchInput) {
+                                        searchInput.dispatchEvent(new Event('input'));
+                                    }
+                                }
+                                isDraggingMin = false;
+                                isDraggingMax = false;
+                                document.removeEventListener('mousemove', handleMouseMove);
+                                document.removeEventListener('mouseup', handleMouseUp);
+                            }
+
+                            function handleTouchEnd() {
+                                handleMouseUp();
+                                document.removeEventListener('touchmove', handleTouchMove);
+                                document.removeEventListener('touchend', handleTouchEnd);
+                            }
+
+                            // Mouse events
+                            minHandle.addEventListener('mousedown', (e) => {
+                                e.preventDefault();
+                                isDraggingMin = true;
+                                document.addEventListener('mousemove', handleMouseMove);
+                                document.addEventListener('mouseup', handleMouseUp);
+                            });
+
+                            maxHandle.addEventListener('mousedown', (e) => {
+                                e.preventDefault();
+                                isDraggingMax = true;
+                                document.addEventListener('mousemove', handleMouseMove);
+                                document.addEventListener('mouseup', handleMouseUp);
+                            });
+
+                            // Touch events
+                            minHandle.addEventListener('touchstart', (e) => {
+                                e.preventDefault();
+                                isDraggingMin = true;
+                                document.addEventListener('touchmove', handleTouchMove, { passive: false });
+                                document.addEventListener('touchend', handleTouchEnd);
+                            });
+
+                            maxHandle.addEventListener('touchstart', (e) => {
+                                e.preventDefault();
+                                isDraggingMax = true;
+                                document.addEventListener('touchmove', handleTouchMove, { passive: false });
+                                document.addEventListener('touchend', handleTouchEnd);
+                            });
+
+                            // Initial setup
+                            updateSlider(0, roundedMaxReviewCount);
+
+                            // Add reset method to window scope
+                            window.resetReviewCountSlider = () => {
+                                // Reset to full range of review counts
+                                updateSlider(0, roundedMaxReviewCount);
+
+                                // Trigger filter application
+                                if (window.applyFiltersToResults) {
+                                    applyFiltersToResults();
+                                }
+                                
+                                // Trigger search input to refresh results
+                                const searchInput = document.getElementById('searchInput');
+                                if (searchInput) {
+                                    searchInput.dispatchEvent(new Event('input'));
+                                }
+                            };
+                        }
+
+                        // Run after page load
+                        document.addEventListener('DOMContentLoaded', createRatingRangeSlider);
+                        document.addEventListener('DOMContentLoaded', () => {
+                            // Wait for allBlends to be populated
+                            const checkAllBlends = setInterval(() => {
+                                if (window.allBlends && window.allBlends.length > 0) {
+                                    clearInterval(checkAllBlends);
+                                    createReviewCountRangeSlider();
+                                }
+                            }, 100);
+                        });
+                    </script>
+
+                    <div class="my-4"></div>
+
+                    <script>
+                        // Mobile sidebar toggle functionality
+                        function initMobileSidebar() {
+                            const mobileFilterToggle = document.getElementById('mobileFilterToggle');
+                            const mobileSidebar = document.getElementById('mobileSidebar');
+
+                            if (mobileFilterToggle && mobileSidebar) {
+                                mobileFilterToggle.addEventListener('click', () => {
+                                    mobileSidebar.classList.toggle('hidden');
+                                    // Update button text and header shadow
+                                    const isVisible = !mobileSidebar.classList.contains('hidden');
+                                    const mobileHeader = document.getElementById('mobileHeader');
+                                    if (mobileHeader) {
+                                        if (isVisible) {
+                                            mobileHeader.classList.remove('shadow-lg', 'shadow-black/25');
+                                            mobileSidebar.classList.add('shadow-lg', 'shadow-black/25', 'pb-4');
+                                        } else {
+                                            mobileHeader.classList.add('shadow-lg', 'shadow-black/25');
+                                            mobileSidebar.classList.remove('shadow-lg', 'shadow-black/25', 'pb-4');
+                                        }
+                                    }
+                                    mobileFilterToggle.innerHTML = isVisible ? 
+                                        `<svg class="w-6 h-6 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="z-index: -1;">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                                        </svg>
+                                        <span class="pointer-events-none">Close Filters</span>` :
+                                        `<svg class="w-6 h-6 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="z-index: -1;">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                                        </svg>
+                                        <span class="pointer-events-none">Filters</span>`;
+                                });
+
+                                // Close sidebar when clicking outside on mobile
+                                document.addEventListener('click', (event) => {
+                                    if (window.innerWidth < 768) { // Only on mobile
+                                        const isClickInside = mobileSidebar.contains(event.target) || 
+                                                             mobileFilterToggle.contains(event.target);
+                                        if (!isClickInside && !mobileSidebar.classList.contains('hidden')) {
+                                            mobileSidebar.classList.add('hidden');
+                                            mobileFilterToggle.innerHTML = 
+                                                `<svg class="w-6 h-6 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="z-index: -1;">
+                                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                                                </svg>
+                                                <span class="pointer-events-none">Filters</span>`;
+                                        }
+                                    }
+                                });
+                            }
+                        }
+
+                        // Initialize mobile sidebar
+                        document.addEventListener('DOMContentLoaded', initMobileSidebar);
+
+                        // Function to collapse a section
+                        function collapseSection(container, arrow) {
+                            if (container.id === 'filtersContainer') {
+                                container.classList.add('md:hidden');
+                            } else {
+                                container.classList.add('hidden');
+                            }
+                            arrow.style.transform = 'rotate(0deg)';
+                        }
+
+                        // Filters header click handler for desktop
+                        document.getElementById('filtersHeader').addEventListener('click', () => {
+                            const filtersContainer = document.getElementById('filtersContainer');
+                            const filtersArrow = document.getElementById('filtersArrow');
+                            const componentsContainer = document.getElementById('componentsCheckboxContainer');
+                            const componentsArrow = document.getElementById('componentsArrow');
+                            const isExpanded = !filtersContainer.classList.contains('md:hidden');
+                            
+                            if (isExpanded) {
+                                // Collapse filters
+                                collapseSection(filtersContainer, filtersArrow);
+                            } else {
+                                // Collapse components first
+                                collapseSection(componentsContainer, componentsArrow);
+                                // Expand filters
+                                filtersContainer.classList.remove('md:hidden');
+                                filtersArrow.style.transform = 'rotate(180deg)';
+                            }
+                        });
+
+                        // Function to handle components toggle
+                        function handleComponentsToggle(isDesktop = false) {
+                            const filtersContainer = document.getElementById('filtersContainer');
+                            const filtersArrow = document.getElementById('filtersArrow');
+                            const componentsContainer = document.getElementById('componentsCheckboxContainer');
+                            const arrow = isDesktop ? document.getElementById('componentsArrow') : document.getElementById('mobileComponentsArrow');
+                            const isExpanded = componentsContainer.classList.contains('hidden');
+                            
+                            if (isExpanded) {
+                                if (isDesktop) {
+                                    // On desktop, collapse filters first
+                                    collapseSection(filtersContainer, filtersArrow);
+                                }
+                                // Expand components
+                                componentsContainer.classList.remove('hidden');
+                                arrow.style.transform = 'rotate(180deg)';
+                            } else {
+                                // Collapse components
+                                componentsContainer.classList.add('hidden');
+                                arrow.style.transform = 'rotate(0deg)';
+                            }
+                        }
+
+                        // Desktop components header click handler
+                        document.getElementById('componentsHeader').addEventListener('click', () => handleComponentsToggle(true));
+
+                        // Mobile components header click handler
+                        document.getElementById('mobileComponentsHeader').addEventListener('click', () => handleComponentsToggle(false));
+                    </script>
+
+                    <div class="my-4"></div>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div class="content-area flex-grow overflow-hidden">
+                <!-- Results Container -->
+                <div class="results-container h-full overflow-y-auto p-4" id="searchResults">
+                    <div id="searchSummary" class="text-[#8E8074] text-sm mb-4"></div>
+                    <div class="text-[#8E8074] px-4 pt-4">
+                        <span id="resultsCounter">Loading results...</span>
+                    </div>
+                    <div id="searchResults" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                        <!-- Blend results will be dynamically populated here -->
+                    </div>
+                </div>
+            </div>
         </div>
+
+
     </div>
 
     <div id="blendPopup" class="hidden fixed inset-0 bg-black bg-opacity-70 z-50 flex items-center justify-center">
@@ -639,12 +1036,22 @@
         // Import popup modules
         import * as popupModule from './blend_html/popup.js';
         import { initDonationPopup } from './assets/js/donation-popup.js';
+        import { initInfoPopup } from './assets/js/info-popup.js';
         
         // Make sure popup module is available globally
         window.popupModule = popupModule;
 
+        // Initialize popups after DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            initDonationPopup();
+            initInfoPopup();
+        });
+
         // Global variables initialization
-        window.currentPage = 1;
+        // Initialize infinite scroll state
+        window.isLoading = false;
+        window.currentIndex = 0;
+        window.LOAD_CHUNK_SIZE = 12;
         window.currentSearchResults = [];
         window.allBlends = [];
         window.allBlendResults = [];
@@ -652,17 +1059,17 @@
         
         // Constants
         const BLEND_DATA_PATH = '/blend_data/';
-        const BLENDS_PER_PAGE = 21;
+
 
         // Get DOM elements
         const searchInput = document.getElementById('searchInput');
         const suggestionsList = document.getElementById('suggestionsList');
         const searchResults = document.getElementById('searchResults') || document.createElement('div');
         const debugOutput = document.getElementById('debugOutput');
-        const prevPageBtn = document.getElementById('prevPageBtn');
-        const nextPageBtn = document.getElementById('nextPageBtn');
-        const currentPageSpan = document.getElementById('currentPage');
-        const totalPagesSpan = document.getElementById('totalPages');
+
+
+
+
         const loadingOverlay = document.getElementById('loadingOverlay');
 
         // Ensure searchResults is always a valid element
@@ -934,8 +1341,16 @@
             // Perform search
             const results = blendSearch.search(searchTerm, selectedComponents, filters);
             
-            // Display results
-            displayPaginatedResults(results);
+            // Reset scroll state and display new results
+            window.currentIndex = 0;
+            window.isLoading = false;
+            if (window.scrollObserver) {
+                const oldTrigger = document.getElementById('loadingTrigger');
+                if (oldTrigger) {
+                    window.scrollObserver.unobserve(oldTrigger);
+                }
+            }
+            displayResults(results);
         }
 
         // Unified sort function
@@ -984,23 +1399,51 @@
             }
 
             blendSearch.sort(key, ascending);
-            displayPaginatedResults(blendSearch.currentResults);
+            
+            // Reset scroll state and display new results
+            window.currentIndex = 0;
+            window.isLoading = false;
+            if (window.scrollObserver) {
+                const oldTrigger = document.getElementById('loadingTrigger');
+                if (oldTrigger) {
+                    window.scrollObserver.unobserve(oldTrigger);
+                }
+            }
+            displayResults(blendSearch.currentResults);
         }
 
-        // Function to display paginated results
-        function displayPaginatedResults(results, page = 1) {
+        window.isLoading = false;
+        window.currentIndex = 0;
+        window.INITIAL_LOAD_SIZE = 48; // Initial page load size
+        window.LOAD_CHUNK_SIZE = 24; // Subsequent chunk size
+
+        // Function to display results with infinite scroll
+        function displayResults(results, append = false) {
+            // Initialize or update infinite scroll observer
+            if (!window.scrollObserver) {
+                const observerOptions = {
+                    root: null,
+                    rootMargin: '500px',
+                    threshold: 0.1
+                };
+
+                const loadMoreCallback = (entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting && !window.isLoading && window.currentIndex < validResults.length) {
+                            console.log(`Triggering load more at index ${window.currentIndex} of ${validResults.length}`);
+                            window.isLoading = true; // Set loading state before triggering next load
+                            displayResults(validResults, true);
+                        }
+                    });
+                };
+
+                window.scrollObserver = new IntersectionObserver(loadMoreCallback, observerOptions);
+            }
             // Validate searchResults
             if (!searchResults) {
                 console.error('Search results container not found');
                 return;
             }
-
-            // Update global current search results for consistent pagination
-            window.allBlendResults = results;
-            currentSearchResults = results;
-
-            // Clear previous results
-            searchResults.innerHTML = '';
 
             // More comprehensive result validation
             const validResults = results.filter(blend => {
@@ -1009,123 +1452,177 @@
                     return false;
                 }
 
-                // Log detailed information about each blend for debugging
-                // console.log('Blend details:', {
-                //    filename: blend.filename,
-                //     name: blend.name,
-                //     blender: blend.blender,
-                //     blendType: blend.blendType,
-                //     keys: Object.keys(blend)
-                // });
-
-                // Less strict validation
                 return blend.n || 
                        blend.b || 
                        blend.t || 
                        blend.filename;
             });
 
-            // console.log(`Valid results: ${validResults.length}`);
-            // console.log('First few valid results:', validResults.slice(0, 5));
+            // Update global current search results
+            window.allBlendResults = validResults;
+            window.currentSearchResults = validResults;
 
-            if (validResults.length === 0) {
+            // Clear results if not appending
+            if (!append) {
+                searchResults.innerHTML = '';
+                window.currentIndex = 0;
+                window.isLoading = false;
+                window.scrollObserverInitialized = false;
+            }
+
+            if (validResults.length === 0 && !append) {
                 searchResults.innerHTML = `
                     <div class="col-span-full text-center text-[#8E8074]">
                         <p class="text-xl mb-4">This is uncharted territory!</p>
                         <p class="text-sm text-[#8E8074]">Try adjusting your search or filters</p>
                     </div>
                 `;
-                
-                // Disable pagination buttons
-                prevPageBtn.disabled = true;
-                nextPageBtn.disabled = true;
-                currentPageSpan.textContent = '1';
-                totalPagesSpan.textContent = '1';
-                currentPage = 1;
                 return;
             }
 
-            // Calculate total pages
-            const totalPages = Math.ceil(validResults.length / BLENDS_PER_PAGE);
+            // Calculate the chunk of results to display
+            const start = window.currentIndex;
+            const chunkSize = window.currentIndex === 0 ? window.INITIAL_LOAD_SIZE : window.LOAD_CHUNK_SIZE;
+            const end = Math.min(start + chunkSize, validResults.length);
+            const chunkResults = validResults.slice(start, end);
+            window.currentIndex = end;
             
-            // Ensure current page is within valid range
-            if (currentPage > totalPages) {
-                currentPage = totalPages;
+            console.log(`Loading chunk: ${start} to ${end} (${chunkResults.length} blends)`);
+
+            // Handle grid container
+            let gridContainer;
+            if (!append) {
+                // Clear and create new grid for fresh results
+                searchResults.innerHTML = '';
+                gridContainer = document.createElement('div');
+                gridContainer.className = 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4';
+                searchResults.appendChild(gridContainer);
+            } else {
+                // Get existing grid for appending
+                gridContainer = document.querySelector('#searchResults .grid');
+                if (!gridContainer) {
+                    console.error('Grid container not found for append');
+                    return;
+                }
             }
 
-            // Slice results for current page
-            const startIndex = (currentPage - 1) * BLENDS_PER_PAGE;
-            const endIndex = Math.min(startIndex + BLENDS_PER_PAGE, validResults.length);
-            const pageResults = validResults.slice(startIndex, endIndex);
+            // Set loading state before processing chunks
+            if (!append) {
+                window.isLoading = true;
+            }
+            
+            // Update results counter
+            const resultsCounter = document.getElementById('resultsCounter');
+            if (resultsCounter) {
+                resultsCounter.textContent = `Displaying ${Math.min(window.currentIndex, validResults.length)} of ${validResults.length} results`;
+            }
 
-            // console.log(`Rendering ${pageResults.length} blends on page ${currentPage} of ${totalPages}`);
-
-            // Display the current page results
-            pageResults.forEach(blend => {
-                const blendCard = document.createElement('div');
-                blendCard.className = 'bg-[#241e1c] rounded-lg p-4 shadow-lg hover:shadow-xl transition-shadow cursor-pointer';
-                blendCard.setAttribute('data-blend-key', blend.filename);
-                blendCard.addEventListener('click', () => window.popupModule.openPopup(blend.filename));
-                
+            // Display the chunk results
+            chunkResults.forEach(blend => {
                 const rating = blend.r ? 
                     (typeof blend.r === 'number' ? 
                         blend.r.toFixed(1) : 
-                        '0.0') 
-                    : '0.0';
+                        parseFloat(blend.r).toFixed(1)) : 
+                    'N/A';
 
-                blendCard.innerHTML = `
-                    <div class="relative">
-                        <div class="absolute top-0 right-0 text-[#aa8a3f] text-base font-bold">
-                            ★ ${rating}
-                        </div>
-                        <h3 class="text-lg font-semibold text-[#BDA58F] mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
+                const ratingClass = blend.rc === 0 ? 
+                    'absolute top-0 right-0 text-[#C89F65] text-base font-bold opacity-40' : 
+                    'absolute top-0 right-0 text-[#C89F65] text-base font-bold';
 
-                        <div class="text-sm text-[#8E8074] mb-2">
-                            <span>${blend.b || 'Unknown Brand'}</span>
+                const ratingsClass = blend.rc === 0 ? 
+                    'italic opacity-40' : 
+                    'italic';
+
+                const formatComponents = (components) => {
+                    if (Array.isArray(components)) {
+                        return components.join(', ');
+                    }
+                    if (typeof components === 'string') {
+                        return components;
+                    }
+                    return 'N/A';
+                };
+
+                const additionalDetails = [
+                    { label: 'Cut Type', value: blend.cut || 'N/A' },
+                    { label: 'Country', value: blend.country || 'N/A' },
+                    { label: 'Availability', value: blend.production || 'N/A' },
+                    { label: 'Packaging', value: blend.packaging || 'N/A' },
+                    { label: 'Components', value: formatComponents(blend.contents) }
+                ];
+
+                const hoverDetailsHTML = `
+                    <div class="hover-details absolute inset-0 bg-[#241e1c] rounded-lg p-4 flex flex-col justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out">
+                        <div class="detail-row flex justify-between items-center text-xs text-[#8E8074] mt-2 mb-2">
+                            <span class="truncate max-w-[45%]">${blend.country || 'N/A'}</span>
+                            <span class="truncate max-w-[45%] ${blend.production === 'No longer in production' ? 'opacity-40' : ''}">${blend.production || 'N/A'}</span>
                         </div>
-                        <div class="flex justify-between items-center text-sm text-[#8E8074] mt-1">
-                            <span class="italic">${blend.t || 'Unspecified Type'}</span>
-                            <span class="italic">${blend.rc || 0} Ratings</span>
+                        <div class="detail-row flex justify-between items-center text-xs text-[#8E8074] mt-2 mb-2">
+                            <span class="truncate max-w-[45%]">${blend.cut || 'N/A'}</span>
+                            <span class="truncate max-w-[45%]">${blend.packaging || 'N/A'}</span>
+                        </div>
+                        <div class="detail-row text-center text-xs text-[#8E8074] mt-2">
+                            <span>${blend.contents || 'N/A'}</span>
                         </div>
                     </div>
                 `;
 
-                searchResults.appendChild(blendCard);
+                const blendCard = document.createElement('div');
+                blendCard.className = 'bg-[#241e1c] rounded-lg p-4 shadow-lg hover:shadow-2xl hover:-translate-y-1 hover:-translate-x-1 transition-all duration-300 ease-in-out cursor-pointer group blend-card relative';
+                blendCard.setAttribute('data-blend-key', blend.filename);
+                blendCard.innerHTML = `
+                    <div class="blend-card relative">
+                        <div class="${ratingClass}">
+                            ★ ${rating}
+                        </div>
+                        <h3 class="text-lg font-semibold text-[#C89F65] opacity-70 mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
+                        <div class="text-sm text-[#8E8074] mb-2">${blend.b || 'Unknown Brand'}</div>
+                        <div class="flex justify-between items-center text-sm text-[#8E8074]">
+                            <span>${blend.t || 'Unspecified Type'}</span>
+                            <span class="${ratingsClass}">${blend.rc || 0} Ratings</span>
+                        </div>
+                        ${hoverDetailsHTML}
+                    </div>
+                `;
+                
+                blendCard.addEventListener('click', () => window.popupModule.openPopup(blend.filename));
+                gridContainer.appendChild(blendCard);
             });
 
             // Update search summary
             const searchSummary = document.getElementById('searchSummary');
             if (searchSummary) {
-                searchSummary.textContent = `Showing ${startIndex + 1}-${endIndex} of ${validResults.length} blend${validResults.length !== 1 ? 's' : ''}`;
+                searchSummary.textContent = `Showing ${Math.min(window.currentIndex, validResults.length)} of ${validResults.length} blend${validResults.length !== 1 ? 's' : ''}`;
             } else {
                 console.warn('Search summary element not found');
             }
 
-            // Update pagination UI
-            currentPageSpan.textContent = currentPage;
-            totalPagesSpan.textContent = totalPages;
-            prevPageBtn.disabled = currentPage === 1;
-            nextPageBtn.disabled = currentPage === totalPages;
+            // Reset loading state after rendering
+            window.isLoading = false;
+            console.log(`Loaded ${chunkResults.length} blends. Total: ${validResults.length}. Current index: ${window.currentIndex}`);
+
+            // Update or create loading trigger if more results available
+            let loadingTrigger = document.getElementById('loadingTrigger');
+            if (loadingTrigger) {
+                window.scrollObserver.unobserve(loadingTrigger);
+                loadingTrigger.remove();
+            }
+            
+            if (window.currentIndex < validResults.length) {
+                loadingTrigger = document.createElement('div');
+                loadingTrigger.id = 'loadingTrigger';
+                loadingTrigger.className = 'h-32'; // Increased height for earlier trigger
+                searchResults.appendChild(loadingTrigger);
+                window.scrollObserver.observe(loadingTrigger);
+            }
         }
 
-        // Initialize pagination event listeners
-        if (!window.paginationListenersAdded) {
-            prevPageBtn.addEventListener('click', () => {
-                if (currentPage > 1) {
-                    currentPage--;
-                    displayPaginatedResults(currentSearchResults);
-                }
-            });
-
-            nextPageBtn.addEventListener('click', () => {
-                const totalPages = Math.ceil(currentSearchResults.length / BLENDS_PER_PAGE);
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    displayPaginatedResults(currentSearchResults);
-                }
-            });
-
-            window.paginationListenersAdded = true;
+        // Initialize infinite scroll variables
+        if (!window.infiniteScrollInitialized) {
+            window.isLoading = false;
+            window.currentIndex = 0;
+            window.LOAD_CHUNK_SIZE = 12;
+            window.infiniteScrollInitialized = true;
         }
 
         // Popup opening function to fetch full details
@@ -1156,14 +1653,6 @@
         window.closePopup = function() {
             document.getElementById('blendPopup').style.display = 'none';
         };
-
-        // Close popup when clicking outside
-        document.getElementById('blendPopup').addEventListener('click', function(event) {
-            if (event.target === this) {
-                this.classList.remove('flex');
-                this.classList.add('hidden');
-            }
-        });
 
         // Global event listener for Escape key to close popups
         document.addEventListener('keydown', function(event) {
@@ -1202,7 +1691,7 @@
                 setupSearchFunctionality(allBlends);
                 
                 // Display initial results
-                displayPaginatedResults(allBlends);
+                displayResults(allBlends);
                 
                 return allBlends;
             } catch (error) {
@@ -1227,7 +1716,9 @@
                 let filteredBlends = [...allBlends];
 
                 // Get current filter values
-                const searchTerm = (document.getElementById('searchInput')?.value || '').toLowerCase();
+                const mobileValue = document.getElementById('searchInput')?.value || '';
+                const desktopValue = document.getElementById('desktopSearchInput')?.value || '';
+                const searchTerm = (mobileValue || desktopValue).toLowerCase();
                 const blenderFilter = document.getElementById('blenderDropdown')?.value.toLowerCase();
                 const blendedByFilter = document.getElementById('blendedByDropdown')?.value.toLowerCase();
                 const manufacturedByFilter = document.getElementById('manufacturedByDropdown')?.value.toLowerCase();
@@ -1368,16 +1859,37 @@
                         break;
                 }
 
-                // Update global results and display
-                window.allBlendResults = filteredBlends;
-                window.currentSearchResults = filteredBlends;
-                displayPaginatedResults(filteredBlends);
+                // Reset scroll state and display new results
+                window.currentIndex = 0;
+                window.isLoading = false;
+                if (window.scrollObserver) {
+                    const oldTrigger = document.getElementById('loadingTrigger');
+                    if (oldTrigger) {
+                        window.scrollObserver.unobserve(oldTrigger);
+                    }
+                }
+                // Clear the search results container
+                const searchResults = document.getElementById('searchResults');
+                if (searchResults) {
+                    searchResults.innerHTML = '';
+                }
+                displayResults(filteredBlends);
             }
 
-            // Search input event listener
+            // Sync search inputs
             const searchInput = document.getElementById('searchInput');
-            if (searchInput) {
-                searchInput.addEventListener('input', applyFiltersToResults);
+            const desktopSearchInput = document.getElementById('desktopSearchInput');
+            
+            if (searchInput && desktopSearchInput) {
+                searchInput.addEventListener('input', (e) => {
+                    desktopSearchInput.value = e.target.value;
+                    applyFiltersToResults();
+                });
+
+                desktopSearchInput.addEventListener('input', (e) => {
+                    searchInput.value = e.target.value;
+                    applyFiltersToResults();
+                });
             }
 
             // Add event listeners to all filter dropdowns
@@ -1579,24 +2091,12 @@
             return results;
         }
 
-        // Initialize pagination event listeners
-        if (!window.paginationListenersAdded) {
-            prevPageBtn.addEventListener('click', () => {
-                if (currentPage > 1) {
-                    currentPage--;
-                    displayPaginatedResults(currentSearchResults);
-                }
-            });
-
-            nextPageBtn.addEventListener('click', () => {
-                const totalPages = Math.ceil(currentSearchResults.length / BLENDS_PER_PAGE);
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    displayPaginatedResults(currentSearchResults);
-                }
-            });
-
-            window.paginationListenersAdded = true;
+        // Initialize infinite scroll variables
+        if (!window.infiniteScrollInitialized) {
+            window.isLoading = false;
+            window.currentIndex = 0;
+            window.LOAD_CHUNK_SIZE = 12;
+            window.infiniteScrollInitialized = true;
         }
 
         // Sorting functions
@@ -1654,24 +2154,8 @@
             }
         });
 
-        // Event listeners for donate and wiki status buttons
-        const donateButton = document.getElementById('donateBtn');
-        const wikiStatusButton = document.getElementById('wikiStatusBtn');
-
-        // Directly call initDonationPopup to restore original implementation
-        if (typeof initDonationPopup === 'function') {
-            initDonationPopup();
-        } else {
-            console.warn('Donation popup initialization not found');
-        }
-
-        // Remove any additional event listeners
-        if (donateButton) {
-            donateButton.remove();
-        }
-        if (wikiStatusButton) {
-            wikiStatusButton.remove();
-        }
+        // Initialize donation popup
+        // Popup initialization moved to DOMContentLoaded event above
 
         // Reset Filters Functionality
         function resetAllFilters() {

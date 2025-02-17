@@ -231,22 +231,13 @@ if (typeof window !== 'undefined') {
 function attachEventListeners() {
   console.log('Attaching event listeners');
   
-  // Method 1: Direct button in Wiki Status popup
-  const reportButton1 = document.querySelector('#wiki-status-popup button');
-  if (reportButton1) {
-    console.log('Found button in Wiki Status popup');
-    reportButton1.addEventListener('click', ProblemReportModule.createProblemReportPopup);
+  // Find and attach to problem report button
+  const reportButton = document.getElementById('report-problem-btn');
+  if (reportButton) {
+    console.log('Found problem report button');
+    reportButton.addEventListener('click', ProblemReportModule.createProblemReportPopup);
   } else {
-    console.warn('Could not find button in Wiki Status popup');
-  }
-
-  // Method 2: Button by specific ID
-  const reportButton2 = document.getElementById('report-problem-btn');
-  if (reportButton2) {
-    console.log('Found button by ID');
-    reportButton2.addEventListener('click', ProblemReportModule.createProblemReportPopup);
-  } else {
-    console.warn('Could not find button by ID');
+    console.warn('Could not find problem report button');
   }
 }
 
