@@ -1341,6 +1341,9 @@
             // Perform search
             const results = blendSearch.search(searchTerm, selectedComponents, filters);
             
+            // Update current search results
+            window.currentSearchResults = results;
+            
             // Reset scroll state and display new results
             window.currentIndex = 0;
             window.isLoading = false;
@@ -1348,6 +1351,7 @@
                 const oldTrigger = document.getElementById('loadingTrigger');
                 if (oldTrigger) {
                     window.scrollObserver.unobserve(oldTrigger);
+                    oldTrigger.remove();
                 }
             }
             displayResults(results);
@@ -1419,27 +1423,7 @@
 
         // Function to display results with infinite scroll
         function displayResults(results, append = false) {
-            // Initialize or update infinite scroll observer
-            if (!window.scrollObserver) {
-                const observerOptions = {
-                    root: null,
-                    rootMargin: '500px',
-                    threshold: 0.1
-                };
-
-                const loadMoreCallback = (entries) => {
-                    entries.forEach(entry => {
-                        if (entry.isIntersecting && !window.isLoading && window.currentIndex < validResults.length) {
-                            console.log(`Triggering load more at index ${window.currentIndex} of ${validResults.length}`);
-                            window.isLoading = true; // Set loading state before triggering next load
-                            displayResults(validResults, true);
-                        }
-                    });
-                };
-
-                window.scrollObserver = new IntersectionObserver(loadMoreCallback, observerOptions);
-            }
-            // Validate searchResults
+            // Validate searchResults container
             if (!searchResults) {
                 console.error('Search results container not found');
                 return;
@@ -1451,16 +1435,37 @@
                     console.warn('Invalid blend (not an object):', blend);
                     return false;
                 }
-
-                return blend.n || 
-                       blend.b || 
-                       blend.t || 
-                       blend.filename;
+                return blend.n || blend.b || blend.t || blend.filename;
             });
 
-            // Update global current search results
-            window.allBlendResults = validResults;
-            window.currentSearchResults = validResults;
+            // Initialize or update infinite scroll observer
+            if (!window.scrollObserver) {
+                const observerOptions = {
+                    root: null,
+                    rootMargin: '500px',
+                    threshold: 0.1
+                };
+
+                const loadMoreCallback = (entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting && !window.isLoading) {
+                            if (window.currentIndex < validResults.length) {
+                                console.log(`Triggering load more at index ${window.currentIndex} of ${validResults.length}`);
+                                window.isLoading = true;
+                                displayResults(window.currentSearchResults || [], true);
+                            }
+                        }
+                    });
+                };
+
+                window.scrollObserver = new IntersectionObserver(loadMoreCallback, observerOptions);
+            }
+
+            // Update global current search results only on initial load
+            if (!append) {
+                window.allBlendResults = validResults;
+                window.currentSearchResults = validResults;
+            }
 
             // Clear results if not appending
             if (!append) {
@@ -1468,6 +1473,8 @@
                 window.currentIndex = 0;
                 window.isLoading = false;
                 window.scrollObserverInitialized = false;
+                // Update the current search results
+                window.currentSearchResults = validResults;
             }
 
             if (validResults.length === 0 && !append) {
@@ -1608,11 +1615,12 @@
                 loadingTrigger.remove();
             }
             
-            if (window.currentIndex < validResults.length) {
+            // Only add loading trigger if there are more filtered results to load
+            if (window.currentIndex < window.currentSearchResults.length) {
                 loadingTrigger = document.createElement('div');
                 loadingTrigger.id = 'loadingTrigger';
                 loadingTrigger.className = 'h-32'; // Increased height for earlier trigger
-                searchResults.appendChild(loadingTrigger);
+                gridContainer.appendChild(loadingTrigger);
                 window.scrollObserver.observe(loadingTrigger);
             }
         }
