@@ -152,9 +152,12 @@ export async function updatePopupContent() {
             const arrow = document.getElementById(`${section.toLowerCase()}Arrow`);
             
             if (toggle && content && arrow) {
+                // Initialize arrow rotation based on content display
+                arrow.style.transform = content.style.display === 'none' ? 'rotate(0deg)' : 'rotate(180deg)';
+                
                 toggle.addEventListener('click', () => {
                     content.style.display = content.style.display === 'none' ? 'block' : 'none';
-                    arrow.style.transform = content.style.display === 'none' ? 'rotate(0deg)' : 'rotate(180deg)';
+                    arrow.style.transform = content.style.display === 'none' ? 'rotate(180deg)' : 'rotate(0deg)';
                 });
             }
         });
@@ -374,12 +377,19 @@ async function updatePopupContent() {
             const featuresContent = document.getElementById('featuresContent');
             const featuresArrow = document.getElementById('featuresArrow');
 
-            function setupSmoothToggle(toggleElement, contentElement, arrowElement) {
-                // Prepare content for smooth transition
+            // Determine if we should start collapsed based on device
+            const isMobile = window.innerWidth < 768;
+
+            function setupSmoothToggle(toggleElement, contentElement, arrowElement, startCollapsed = true) {
+                if (!contentElement || !arrowElement) return;
+                
+                // Force initial collapsed state
                 contentElement.style.overflow = 'hidden';
                 contentElement.style.transition = 'max-height 0.3s ease-out, opacity 0.3s ease-out';
                 contentElement.style.maxHeight = '0px';
                 contentElement.style.opacity = '0';
+                arrowElement.classList.remove('rotate-180');
+                arrowElement.style.transform = 'rotate(0deg)';
 
                 toggleElement.addEventListener('click', () => {
                     const isHidden = contentElement.style.maxHeight === '0px';
@@ -398,9 +408,9 @@ async function updatePopupContent() {
                 });
             }
 
-            // Setup smooth toggles
-            setupSmoothToggle(toggleIssues, issuesContent, issuesArrow);
-            setupSmoothToggle(toggleFeatures, featuresContent, featuresArrow);
+            // Setup smooth toggles with initial collapsed state for both mobile and desktop
+            setupSmoothToggle(toggleIssues, issuesContent, issuesArrow, true);
+            setupSmoothToggle(toggleFeatures, featuresContent, featuresArrow, true);
         } catch (error) {
             console.error('Error updating popup content:', error);
         }

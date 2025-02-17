@@ -497,81 +497,118 @@ async function renderBlendPopup(blendKey) {
 }
 
 // Function to dynamically scale popup content
+let resizeTimeout;
+let currentResizeObserver;
+
 function scalePopupContent() {
     const popupContainer = document.getElementById('blendPopup');
     const popupContent = document.getElementById('popupContent');
     
     if (!popupContainer || !popupContent) return;
 
-    // Ensure content is fully rendered
-    requestAnimationFrame(() => {
-        // Reset styles
-        popupContainer.setAttribute('style', '');
-        popupContent.setAttribute('style', '');
+    // Clean up any existing resize observer
+    if (currentResizeObserver) {
+        currentResizeObserver.disconnect();
+    }
 
-        // Get viewport dimensions
-        const viewportWidth = window.innerWidth;
-        const viewportHeight = window.innerHeight;
+    // Get viewport dimensions
+    const viewportWidth = window.innerWidth;
+    const viewportHeight = window.innerHeight;
 
-        // Determine device type
-        const isMobile = viewportWidth < 768;
+    // Determine device type and OS
+    const isMobile = viewportWidth < 768;
+    const isAndroid = /Android/i.test(navigator.userAgent);
 
-        // Base styles for popup container
-        popupContainer.style.position = 'fixed';
-        popupContainer.style.top = '0';
-        popupContainer.style.left = '0';
-        popupContainer.style.width = '100%';
-        popupContainer.style.height = '100%';
-        popupContainer.style.display = 'block';
-        popupContainer.style.backgroundColor = 'rgba(0,0,0,0.85)';
-        popupContainer.style.zIndex = '1000';
-        popupContainer.style.overflow = 'hidden';
+    // Base styles for popup container
+    const containerStyles = {
+        position: 'fixed',
+        top: '0',
+        left: '0',
+        width: '100%',
+        height: '100%',
+        display: 'flex',
+        alignItems: 'flex-start',
+        justifyContent: 'center',
+        backgroundColor: 'rgba(0,0,0,0.85)',
+        zIndex: '1000',
+        overflow: 'hidden'
+    };
 
-        if (isMobile) {
-            // Mobile styles
-            popupContent.style.width = '100%';
-            popupContent.style.maxWidth = '100%';
-            popupContent.style.margin = '0';
-            popupContent.style.padding = '15px';
-            popupContent.style.transform = 'none';
-            popupContent.style.transformOrigin = 'top left';
+    // Apply container styles
+    Object.assign(popupContainer.style, containerStyles);
+
+    if (isMobile) {
+        // Mobile styles
+        const mobileStyles = {
+            width: '100%',
+            maxWidth: '100%',
+            margin: '0',
+            padding: '15px',
+            transform: 'none',
+            position: 'absolute',
+            top: '0',
+            left: '0',
+            right: '0',
+            bottom: '0',
+            overflowY: 'auto',
+            overflowX: 'hidden',
+            '-webkit-overflow-scrolling': 'touch',
+            height: isAndroid ? '100%' : 'auto',
+            maxHeight: isAndroid ? `${viewportHeight}px` : 'none',
+            willChange: 'transform',
+            backfaceVisibility: 'hidden'
+        };
+
+        // Apply mobile styles
+        Object.assign(popupContent.style, mobileStyles);
+
+        // Android-specific fixes
+        if (isAndroid) {
+            // Prevent unnecessary repaints
+            popupContent.style.transform = 'translateZ(0)';
             
-            // Ensure vertical-only scrolling
-            popupContent.style.overflowY = 'scroll';
-            popupContent.style.overflowX = 'hidden';
-            popupContent.style.WebkitOverflowScrolling = 'touch';  // Smooth scrolling for iOS
-            popupContent.style.maxHeight = `${viewportHeight}px`;
-            popupContent.style.height = '100%';
-        } else {
-            // Desktop styles
-            const contentWidth = popupContent.scrollWidth;
-            const contentHeight = popupContent.scrollHeight;
-
-            const scaleX = viewportWidth / (contentWidth + 80);  // Add some padding
-            const scaleY = viewportHeight / (contentHeight + 80);
-            const scale = Math.min(scaleX, scaleY, 1);
-
-            popupContent.style.width = '90%';
-            popupContent.style.maxWidth = '1200px';
-            popupContent.style.transform = `scale(${scale}) translateZ(0)`;
-            popupContent.style.transformOrigin = 'top center';
-            popupContent.style.margin = '40px auto';
-            popupContent.style.padding = '40px';
+            // Force hardware acceleration
+            popupContainer.style.webkitTransform = 'translateZ(0)';
+            popupContent.style.webkitTransform = 'translateZ(0)';
         }
+    } else {
+        // Desktop styles
+        const contentWidth = popupContent.scrollWidth;
+        const contentHeight = popupContent.scrollHeight;
 
-        // Reset visibility and positioning
-        popupContent.style.visibility = 'visible';
-        popupContent.style.position = 'relative';
+        const scaleX = Math.min((viewportWidth - 80) / contentWidth, 1);
+        const scaleY = Math.min((viewportHeight - 80) / contentHeight, 1);
+        const scale = Math.min(scaleX, scaleY, 1);
 
-        // Ensure content is fully visible
-        popupContent.style.display = 'block';
+        const desktopStyles = {
+            width: '90%',
+            maxWidth: '1200px',
+            transform: `scale(${scale})`,
+            transformOrigin: 'top center',
+            margin: '40px auto',
+            padding: '40px',
+            position: 'relative',
+            visibility: 'visible',
+            display: 'block'
+        };
 
-        // Optional: Add a resize observer for continuous adjustment
-        const resizeObserver = new ResizeObserver(() => {
-            scalePopupContent();
-        });
-        resizeObserver.observe(popupContent);
+        // Apply desktop styles
+        Object.assign(popupContent.style, desktopStyles);
+    }
+
+    // Debounced resize handling
+    currentResizeObserver = new ResizeObserver(() => {
+        if (resizeTimeout) {
+            clearTimeout(resizeTimeout);
+        }
+        resizeTimeout = setTimeout(() => {
+            if (document.getElementById('blendPopup')) {
+                scalePopupContent();
+            }
+        }, 150);
     });
+
+    currentResizeObserver.observe(popupContent);
 }
 
 function setPopupStyles() {
