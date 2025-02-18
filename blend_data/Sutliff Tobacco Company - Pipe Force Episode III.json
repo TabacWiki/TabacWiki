@@ -1,92 +1,94 @@
 {
-  "imagePath": "../blend_pictures/Sutliff Tobacco Company - Pipe Force Episode III.jpg",
-  "name": "Pipe Force Episode III",
-  "blender": "Sutliff Tobacco Company",
-  "blendedBy": "Per Jensen",
-  "manufacturedBy": "Sutliff Tobacco Company",
-  "production": "-- Unknown --",
-  "country": "United States",
-  "blendType": "Virginia Based",
-  "contents": "Kentucky, Rustica, Virginia",
-  "cut": "Krumble Kake",
-  "packaging": "50 g tin weight",
-  "flavoring": "",
-  "description": "Stoved and Red Virginia give a naturally sweet, tangy, woody foundation. The hearty Rustica leaf has been hot-pressed and stoved for the first time. The process slightly tempers the bold tobacco and imparts a floral note, but still, the robust character is not lost, bringing body to the smoke. A portion of Dark-fired Kentucky then offers a mesquite spice to the mixture.",
-  "notes": "Notes:Releases Oct 22, 2024 - 6 pm EST",
-  "reviewCount": "1",
-  "totalReviews": "1",
-  "averageRating": "4",
-  "maxRating": "4",
-  "ratingDistribution": {
-    "4_star": "1",
-    "3_star": "0",
-    "2_star": "0",
-    "1_star": "0"
-  },
-  "ratings": {
-    "strength": {
-      "level": "Medium",
-      "scale": "Extremely Mild -> Overwhelming",
-      "distribution": {
-        "Extremely Mild": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "100",
-        "Medium to Strong": "0",
-        "Strong": "0",
-        "Very Strong": "0",
-        "Extremely Strong": "0",
-        "Overwhelming": "0"
-      }
-    },
-    "flavoring": {
-      "level": "None Detected",
-      "scale": "None Detected -> Extra Strong",
-      "distribution": {
-        "None Detected": "100",
-        "Extremely Mild": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "0",
-        "Medium to Strong": "0",
-        "Strong": "0",
-        "Very Strong": "0",
-        "Extra Strong": "0"
-      }
-    },
-    "roomNote": {
-      "level": "Pleasant to Tolerable",
-      "scale": "Unnoticeable -> Overwhelming",
-      "distribution": {
-        "Unnoticeable": "0",
-        "Pleasant": "0",
-        "Very Pleasant": "0",
-        "Pleasant to Tolerable": "100",
-        "Tolerable": "0",
-        "Tolerable to Strong": "0",
-        "Strong": "0",
-        "Very Strong": "0",
-        "Extra Strong": "0",
-        "Overwhelming": "0"
-      }
-    },
-    "taste": {
-      "level": "Medium to Full",
-      "scale": "Extremely Mild (Flat) -> Overwhelming",
-      "distribution": {
-        "Extremely Mild (Flat)": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "0",
-        "Medium to Full": "100",
-        "Full": "0",
-        "Very Full": "0",
-        "Extra Full": "0",
-        "Overwhelming": "0"
-      }
+    "pipeforceepisodeiii": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Pipe Force Episode III.jpg",
+        "name": "Pipe Force Episode III",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "-- Unknown --",
+        "country": "United States",
+        "blendType": "Virginia Based",
+        "contents": "Kentucky, Rustica, Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 g tin weight",
+        "flavoring": "",
+        "description": "Stoved and Red Virginia give a naturally sweet, tangy, woody foundation. The hearty Rustica leaf has been hot-pressed and stoved for the first time. The process slightly tempers the bold tobacco and imparts a floral note, but still, the robust character is not lost, bringing body to the smoke. A portion of Dark-fired Kentucky then offers a mesquite spice to the mixture.",
+        "notes": "Notes:Releases Oct 22, 2024 - 6 pm EST",
+        "reviewCount": 1,
+        "totalReviews": 1,
+        "averageRating": 4.0,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 1,
+            "3_star": 0,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Pleasant to Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 0.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 100.0,
+                    "Tolerable": 0.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Full": 100.0,
+                    "Full": 0.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
     }
-  }
 }

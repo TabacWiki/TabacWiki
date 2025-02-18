@@ -1,92 +1,94 @@
 {
-  "imagePath": "../blend_pictures/Sutliff Tobacco Company - Paradoxical.jpg",
-  "name": "Paradoxical",
-  "blender": "Sutliff Tobacco Company",
-  "blendedBy": "Per Jensen",
-  "manufacturedBy": "Sutliff Tobacco Company",
-  "production": "No longer in production",
-  "country": "United States",
-  "blendType": "Virginia/Burley",
-  "contents": "Burley,  Rustica,  Virginia",
-  "cut": "Krumble Kake",
-  "packaging": "50 grams tin weight",
-  "flavoring": "",
-  "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body.",
-  "notes": "Notes:Learn more about the Birds of a Feather series: https://www.tobaccopipes.com/blog/the-making-of-sutliffs-birds-of-a-feathera-signature-series-by-per-georg-jensen-/",
-  "reviewCount": "6",
-  "totalReviews": "6",
-  "averageRating": "3.83",
-  "maxRating": "4",
-  "ratingDistribution": {
-    "4_star": "5",
-    "3_star": "1",
-    "2_star": "0",
-    "1_star": "0"
-  },
-  "ratings": {
-    "strength": {
-      "level": "Medium to Strong",
-      "scale": "Extremely Mild -> Overwhelming",
-      "distribution": {
-        "Extremely Mild": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "100",
-        "Medium to Strong": "100",
-        "Strong": "100",
-        "Very Strong": "0",
-        "Extremely Strong": "0",
-        "Overwhelming": "0"
-      }
-    },
-    "flavoring": {
-      "level": "None Detected",
-      "scale": "None Detected -> Extra Strong",
-      "distribution": {
-        "None Detected": "100",
-        "Extremely Mild": "25",
-        "Very Mild": "0",
-        "Mild": "25",
-        "Mild to Medium": "0",
-        "Medium": "0",
-        "Medium to Strong": "0",
-        "Strong": "0",
-        "Very Strong": "0",
-        "Extra Strong": "0"
-      }
-    },
-    "roomNote": {
-      "level": "Tolerable",
-      "scale": "Unnoticeable -> Overwhelming",
-      "distribution": {
-        "Unnoticeable": "0",
-        "Pleasant": "33.333333333333",
-        "Very Pleasant": "0",
-        "Pleasant to Tolerable": "66.666666666667",
-        "Tolerable": "100",
-        "Tolerable to Strong": "0",
-        "Strong": "0",
-        "Very Strong": "0",
-        "Extra Strong": "0",
-        "Overwhelming": "0"
-      }
-    },
-    "taste": {
-      "level": "Medium to Full",
-      "scale": "Extremely Mild (Flat) -> Overwhelming",
-      "distribution": {
-        "Extremely Mild (Flat)": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "25",
-        "Medium to Full": "100",
-        "Full": "25",
-        "Very Full": "0",
-        "Extra Full": "0",
-        "Overwhelming": "0"
-      }
+    "paradoxical": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Paradoxical.jpg",
+        "name": "Paradoxical",
+        "blender": "Sutliff Tobacco Company",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Sutliff Tobacco Company",
+        "production": "No longer in production",
+        "country": "United States",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley, Rustica, Virginia",
+        "cut": "Krumble Kake",
+        "packaging": "50 grams tin weight",
+        "flavoring": "",
+        "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body.",
+        "notes": "Notes:Learn more about the Birds of a Feather series: \nhttps://www.tobaccopipes.com/blog/the-making-of-sutliffs-birds-of-a-feathera-signature-series-by-per-georg-jensen-/",
+        "reviewCount": 6,
+        "totalReviews": 6,
+        "averageRating": 3.83,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 5,
+            "3_star": 1,
+            "2_star": 0,
+            "1_star": 0
+        },
+        "ratings": {
+            "strength": {
+                "level": "Medium to Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 100.0,
+                    "Medium to Strong": 100.0,
+                    "Strong": 100.0,
+                    "Very Strong": 0.0,
+                    "Extremely Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 25.0,
+                    "Very Mild": 0.0,
+                    "Mild": 25.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Tolerable",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 0.0,
+                    "Pleasant": 33.333333333333,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 66.666666666667,
+                    "Tolerable": 100.0,
+                    "Tolerable to Strong": 0.0,
+                    "Strong": 0.0,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Medium to Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 25.0,
+                    "Medium to Full": 100.0,
+                    "Full": 25.0,
+                    "Very Full": 0.0,
+                    "Extra Full": 0.0,
+                    "Overwhelming": 0.0
+                }
+            }
+        }
     }
-  }
 }

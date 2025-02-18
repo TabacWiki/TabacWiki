@@ -1,92 +1,94 @@
 {
-  "imagePath": "../blend_pictures/Mac Baren - HH Rustica.jpg",
-  "name": "HH Rustica",
-  "blender": "Mac Baren",
-  "blendedBy": "Per Jensen",
-  "manufacturedBy": "Mac Baren",
-  "production": "Currently available",
-  "country": "Denmark",
-  "blendType": "Virginia/Burley",
-  "contents": "Burley,  Rustica,  Virginia",
-  "cut": "Flake",
-  "packaging": "50 grams tin",
-  "flavoring": "",
-  "description": "",
-  "notes": "Notes:The Nicotiana Rustica is the sister of the tobacco plant that we know and love (Nicotiana Tabacum). Native to the Amazon region and other parts of South America, the plant and the various types of use spread throughout the American continent. The English settlers found the rustica tobacco in North America in 1607 and saw how the native Indians smoked the tobacco in clay pipes. Since the nicotine content of the rustic plant is unusually high, however, it quickly went out of fashion when the Virginia and burley tobaccos known today were discovered and spread. Today, tobacco on a rustic basis can only be found in Eastern Europe, in the countries of the Middle East and in Asia. A new process was developed to make this very potent tobacco edible for the German palate. The tobacco leaves are sun dried and thus retain their natural sugar. Dark Virginia and Burley were also added to balance the flake. Like all flakes of the HH series, the Rustica was also hot pressed, which allows the tobacco flavors to combine optimally and to mature through a light fermentation. Despite all these measures, the HH Rustica still has a very high nicotine content, it is by far the strongest tobacco in the Mac Baren range and is probably one of the strongest pipe tobacco worldwide. We recommend that you eat well and use a small pipe before enjoying this flake, but don't be put off; the Mac Baren HH Rustica is probably the most extraordinary tobacco of recent years and an absolute pleasure experience.",
-  "reviewCount": "46",
-  "totalReviews": "52",
-  "averageRating": "3.4",
-  "maxRating": "4",
-  "ratingDistribution": {
-    "4_star": "31",
-    "3_star": "12",
-    "2_star": "8",
-    "1_star": "1"
-  },
-  "ratings": {
-    "strength": {
-      "level": "Very Strong",
-      "scale": "Extremely Mild -> Overwhelming",
-      "distribution": {
-        "Extremely Mild": "0",
-        "Very Mild": "0",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "0",
-        "Medium to Strong": "13.04347826087",
-        "Strong": "82.608695652174",
-        "Very Strong": "100",
-        "Extremely Strong": "17.391304347826",
-        "Overwhelming": "13.04347826087"
-      }
-    },
-    "flavoring": {
-      "level": "None Detected",
-      "scale": "None Detected -> Extra Strong",
-      "distribution": {
-        "None Detected": "100",
-        "Extremely Mild": "13.636363636364",
-        "Very Mild": "2.2727272727273",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "0",
-        "Medium to Strong": "0",
-        "Strong": "2.2727272727273",
-        "Very Strong": "0",
-        "Extra Strong": "0"
-      }
-    },
-    "roomNote": {
-      "level": "Strong",
-      "scale": "Unnoticeable -> Overwhelming",
-      "distribution": {
-        "Unnoticeable": "10",
-        "Pleasant": "5",
-        "Very Pleasant": "0",
-        "Pleasant to Tolerable": "25",
-        "Tolerable": "35",
-        "Tolerable to Strong": "65",
-        "Strong": "100",
-        "Very Strong": "5",
-        "Extra Strong": "15",
-        "Overwhelming": "0"
-      }
-    },
-    "taste": {
-      "level": "Full",
-      "scale": "Extremely Mild (Flat) -> Overwhelming",
-      "distribution": {
-        "Extremely Mild (Flat)": "0",
-        "Very Mild": "5.5555555555556",
-        "Mild": "0",
-        "Mild to Medium": "0",
-        "Medium": "5.5555555555556",
-        "Medium to Full": "55.555555555556",
-        "Full": "100",
-        "Very Full": "94.444444444444",
-        "Extra Full": "22.222222222222",
-        "Overwhelming": "5.5555555555556"
-      }
+    "hhrustica": {
+        "imagePath": "../blend_pictures/Mac Baren - HH Rustica.jpg",
+        "name": "HH Rustica",
+        "blender": "Mac Baren",
+        "blendedBy": "Per Jensen",
+        "manufacturedBy": "Mac Baren",
+        "production": "Currently available",
+        "country": "Denmark",
+        "blendType": "Virginia/Burley",
+        "contents": "Burley, Rustica, Virginia",
+        "cut": "Flake",
+        "packaging": "50 grams tin",
+        "flavoring": "",
+        "description": "",
+        "notes": "Notes:The Nicotiana Rustica is the sister of the tobacco plant that we know and love (Nicotiana Tabacum). Native to the Amazon region and other parts of South America, the plant and the various types of use spread throughout the American continent. The English settlers found the rustica tobacco in North America in 1607 and saw how the native Indians smoked the tobacco in clay pipes. Since the nicotine content of the rustic plant is unusually high, however, it quickly went out of fashion when the Virginia and burley tobaccos known today were discovered and spread. Today, tobacco on a rustic basis can only be found in Eastern Europe, in the countries of the Middle East and in Asia. A new process was developed to make this very potent tobacco edible for the German palate. The tobacco leaves are sun dried and thus retain their natural sugar. Dark Virginia and Burley were also added to balance the flake. Like all flakes of the HH series, the Rustica was also hot pressed, which allows the tobacco flavors to combine optimally and to mature through a light fermentation. Despite all these measures, the HH Rustica still has a very high nicotine content, it is by far the strongest tobacco in the Mac Baren range and is probably one of the strongest pipe tobacco worldwide. We recommend that you eat well and use a small pipe before enjoying this flake, but don't be put off; the Mac Baren HH Rustica is probably the most extraordinary tobacco of recent years and an absolute pleasure experience.",
+        "reviewCount": 46,
+        "totalReviews": 52,
+        "averageRating": 3.4,
+        "maxRating": 4.0,
+        "ratingDistribution": {
+            "4_star": 31,
+            "3_star": 12,
+            "2_star": 8,
+            "1_star": 1
+        },
+        "ratings": {
+            "strength": {
+                "level": "Very Strong",
+                "scale": "Extremely Mild -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild": 0.0,
+                    "Very Mild": 0.0,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 13.04347826087,
+                    "Strong": 82.608695652174,
+                    "Very Strong": 100.0,
+                    "Extremely Strong": 17.391304347826,
+                    "Overwhelming": 13.04347826087
+                }
+            },
+            "flavoring": {
+                "level": "None Detected",
+                "scale": "None Detected -> Extra Strong",
+                "distribution": {
+                    "None Detected": 100.0,
+                    "Extremely Mild": 13.636363636364,
+                    "Very Mild": 2.2727272727273,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 0.0,
+                    "Medium to Strong": 0.0,
+                    "Strong": 2.2727272727273,
+                    "Very Strong": 0.0,
+                    "Extra Strong": 0.0
+                }
+            },
+            "roomNote": {
+                "level": "Strong",
+                "scale": "Unnoticeable -> Overwhelming",
+                "distribution": {
+                    "Unnoticeable": 10.0,
+                    "Pleasant": 5.0,
+                    "Very Pleasant": 0.0,
+                    "Pleasant to Tolerable": 25.0,
+                    "Tolerable": 35.0,
+                    "Tolerable to Strong": 65.0,
+                    "Strong": 100.0,
+                    "Very Strong": 5.0,
+                    "Extra Strong": 15.0,
+                    "Overwhelming": 0.0
+                }
+            },
+            "taste": {
+                "level": "Full",
+                "scale": "Extremely Mild (Flat) -> Overwhelming",
+                "distribution": {
+                    "Extremely Mild (Flat)": 0.0,
+                    "Very Mild": 5.5555555555556,
+                    "Mild": 0.0,
+                    "Mild to Medium": 0.0,
+                    "Medium": 5.5555555555556,
+                    "Medium to Full": 55.555555555556,
+                    "Full": 100.0,
+                    "Very Full": 94.444444444444,
+                    "Extra Full": 22.222222222222,
+                    "Overwhelming": 5.5555555555556
+                }
+            }
+        }
     }
-  }
 }
