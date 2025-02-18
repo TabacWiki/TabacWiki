@@ -137,11 +137,11 @@ function createRatingScale(ratingType, blendRating) {
             
             // Dot
             const dot = document.createElement('div');
-            dot.className = 'w-5 h-5 rounded-full mx-auto bg-[#8E8074]/40'; // More transparent
+            dot.className = 'w-5 h-5 rounded-full mx-auto bg-[#8E8074]/40'; // Keep original transparency
 
             // Label
             const labelText = document.createElement('span');
-            labelText.className = 'block text-center mt-3 whitespace-nowrap text-[#8E8074]/40'; // More transparent
+            labelText.className = 'block text-center mt-3 whitespace-nowrap text-[#8E8074] sm:opacity-40 opacity-0'; // Transparent on mobile
             labelText.style.fontSize = '95%';
             labelText.textContent = label;
 
@@ -330,45 +330,45 @@ async function renderBlendPopup(blendKey) {
                         <!-- Blend Details Section -->
                         <div class="bg-[#161413]/20 rounded-xl p-6 backdrop-blur-sm w-full">
                             <h3 class="font-semibold mb-6 text-[#BDAE9F] text-lg">Blend Details</h3>
-                            <div class="grid grid-cols-2 gap-4 text-base">
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm sm:text-base">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-6 sm:order-none">
                                     <span class="text-[#8E8074]">Blend Type</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.blendType || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.blendType || 'Not specified'}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-2 sm:order-none">
                                     <span class="text-[#8E8074]">Blended By</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.blendedBy}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.blendedBy}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-7 sm:order-none">
                                     <span class="text-[#8E8074]">Contents</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.contents || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.contents || 'Not specified'}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-3 sm:order-none">
                                     <span class="text-[#8E8074]">Manufactured By</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.manufacturedBy}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.manufacturedBy}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-8 sm:order-none">
                                     <span class="text-[#8E8074]">Flavoring</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.flavoring}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.flavoring}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-5 sm:order-none">
                                     <span class="text-[#8E8074]">Country</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.country || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.country || 'Not specified'}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-9 sm:order-none">
                                     <span class="text-[#8E8074]">Cut</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.cut || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.cut || 'Not specified'}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-4 sm:order-none">
                                     <span class="text-[#8E8074]">Production</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.production || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.production || 'Not specified'}</span>
                                 </div>
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-10 sm:order-none">
                                     <span class="text-[#8E8074]">Packaging</span>
-                                    <span class="text-[#BDAE9F] font-medium">${blend.packaging || 'Not specified'}</span>
+                                    <span class="text-[#BDAE9F] font-medium break-words">${blend.packaging || 'Not specified'}</span>
                                 </div>
                                 ${blend.averageRating ? `
-                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex justify-between items-center">
+                                <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-1 sm:order-none">
                                     <span class="text-[#8E8074]">Average Rating</span>
                                     <div class="text-[#BDAE9F] font-medium flex items-center gap-2">
                                         <span class="text-[#aa8a3f]">★</span>
