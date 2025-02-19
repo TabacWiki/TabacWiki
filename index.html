@@ -371,7 +371,7 @@
 				<h2 id="ageVerificationTitle">Age Verification</h2>
 				<p id="ageVerificationMessage">You must be of legal age to access this site.</p>
 				<div class="age-verification-buttons">
-					<button class="yes-btn" onclick="localStorage.setItem('isOfAge', 'true'); handleAgeVerification(true);">Yes, I am</button>
+					<button class="yes-btn" onclick="handleAgeVerification(true);">Yes, I am</button>
 					<button class="no-btn" onclick="handleAgeVerification(false)">No, I am not</button>
 				</div>
 			</div>
@@ -445,8 +445,12 @@
 				popup.style.pointerEvents = 'all';
 				
 				if (isOfAge) {
-					// User is of age - localStorage is set by the button's onclick handler
-					window.location.href = 'main.html';
+					// Set localStorage first
+					localStorage.setItem('isOfAge', 'true');
+					// Small delay to ensure localStorage is set before redirect
+					setTimeout(() => {
+						window.location.href = 'main.html';
+					}, 50);
 				} else {
 					title.textContent = "Access Restricted";
 					message.innerHTML = `
