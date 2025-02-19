@@ -117,7 +117,7 @@ function createRatingScale(ratingType, blendRating) {
     scaleContainer.className = 'flex justify-center'; // Removed margin bottom
     
     const scaleWrapper = document.createElement('div');
-    scaleWrapper.className = 'flex justify-between text-sm text-[#8E8074] relative bg-[#362C29]/0 rounded-lg p-2'; 
+    scaleWrapper.className = 'flex justify-between text-sm text-[#BFB0A3] relative bg-[#362C29]/0 rounded-lg p-2'; 
     scaleWrapper.style.width = '92%';
 
     const scaleData = RATING_SCALES[ratingType];
@@ -137,11 +137,11 @@ function createRatingScale(ratingType, blendRating) {
             
             // Dot
             const dot = document.createElement('div');
-            dot.className = 'w-5 h-5 rounded-full mx-auto bg-[#8E8074]/40'; // Keep original transparency
+            dot.className = 'w-5 h-5 rounded-full mx-auto bg-[#BFB0A3]/40'; // Keep original transparency
 
             // Label
             const labelText = document.createElement('span');
-            labelText.className = 'block text-center mt-3 whitespace-nowrap text-[#8E8074] sm:opacity-40 opacity-0'; // Transparent on mobile
+            labelText.className = 'block text-center mt-3 whitespace-nowrap text-[#BFB0A3] sm:opacity-40 opacity-0'; // Transparent on mobile
             labelText.style.fontSize = '95%';
             labelText.textContent = label;
 
@@ -266,7 +266,7 @@ async function renderBlendPopup(blendKey) {
                 <div class="relative bg-[#241e1c] rounded-xl shadow-2xl max-w-7xl mx-auto overflow-visible p-8">
                     <button onclick="window.popupModule.closePopup()" class="absolute top-2 right-2 w-8 h-8 flex items-center justify-center z-50 group hover:scale-110 transition-all duration-200 lg:hidden">
                         <svg width="20" height="20" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-transform duration-200 drop-shadow-lg">
-                            <path d="M1 1L13 13M1 13L13 1" stroke="#8E8074" stroke-width="2.5" stroke-linecap="round"/>
+                            <path d="M1 1L13 13M1 13L13 1" stroke="#BFB0A3" stroke-width="2.5" stroke-linecap="round"/>
                         </svg>
                     </button>
                     
@@ -277,8 +277,8 @@ async function renderBlendPopup(blendKey) {
                             <div class="lg:col-span-9 text-[#D6B680]">
                                 <div class="mb-8">
                                     <div class="text-[#C89F65] text-lg mb-2 font-medium">${blend.blender}</div>
-                                    <h2 class="text-3xl font-bold text-[#8E8074] mb-4">${blend.name}</h2>
-                                    <p class="text-[#7c6f57] leading-relaxed text-lg">
+                                    <h2 class="text-3xl font-bold text-[#BFB0A3] mb-4">${blend.name}</h2>
+                                    <p class="text-[#9A8B7C] leading-relaxed text-lg">
                                         ${blend.description || 'No description available.'}
                                     </p>
                                 </div>
@@ -318,7 +318,7 @@ async function renderBlendPopup(blendKey) {
                                             </div>
                                             <label for="imageInput" class="absolute bottom-3 right-3 w-12 h-12 flex items-center justify-center cursor-pointer hover:scale-110 transition-all duration-200" onmouseenter="document.getElementById('uploadOverlay').style.opacity = '1'" onmouseleave="document.getElementById('uploadOverlay').style.opacity = '0'">
                                                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-transform duration-200 drop-shadow-lg">
-                                                    <path d="M12 4V20M4 12H20" stroke="#8E8074" stroke-width="3" stroke-linecap="round"/>
+                                                    <path d="M12 4V20M4 12H20" stroke="#BFB0A3" stroke-width="3" stroke-linecap="round"/>
                                                 </svg>
                                             </label>
                                         </div>
@@ -332,48 +332,48 @@ async function renderBlendPopup(blendKey) {
                             <h3 class="font-semibold mb-6 text-[#BDAE9F] text-lg">Blend Details</h3>
                             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm sm:text-base">
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-6 sm:order-none">
-                                    <span class="text-[#8E8074]">Blend Type</span>
+                                    <span class="text-[#BFB0A3]/70">Blend Type</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.blendType || 'Not specified'}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-2 sm:order-none">
-                                    <span class="text-[#8E8074]">Blended By</span>
+                                    <span class="text-[#BFB0A3]/70">Blended By</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.blendedBy}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-7 sm:order-none">
-                                    <span class="text-[#8E8074]">Contents</span>
+                                    <span class="text-[#BFB0A3]/70">Contents</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.contents || 'Not specified'}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-3 sm:order-none">
-                                    <span class="text-[#8E8074]">Manufactured By</span>
+                                    <span class="text-[#BFB0A3]/70">Manufactured By</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.manufacturedBy}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-8 sm:order-none">
-                                    <span class="text-[#8E8074]">Flavoring</span>
+                                    <span class="text-[#BFB0A3]/70">Flavoring</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.flavoring}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-5 sm:order-none">
-                                    <span class="text-[#8E8074]">Country</span>
+                                    <span class="text-[#BFB0A3]/70">Country</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.country || 'Not specified'}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-9 sm:order-none">
-                                    <span class="text-[#8E8074]">Cut</span>
+                                    <span class="text-[#BFB0A3]/70">Cut</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.cut || 'Not specified'}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-4 sm:order-none">
-                                    <span class="text-[#8E8074]">Production</span>
+                                    <span class="text-[#BFB0A3]/70">Production</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.production || 'Not specified'}</span>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-10 sm:order-none">
-                                    <span class="text-[#8E8074]">Packaging</span>
+                                    <span class="text-[#BFB0A3]/70">Packaging</span>
                                     <span class="text-[#BDAE9F] font-medium break-words">${blend.packaging || 'Not specified'}</span>
                                 </div>
                                 ${blend.averageRating ? `
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-1 sm:order-none">
-                                    <span class="text-[#8E8074]">Average Rating</span>
+                                    <span class="text-[#BFB0A3]/70">Average Rating</span>
                                     <div class="text-[#BDAE9F] font-medium flex items-center gap-2">
                                         <span class="text-[#aa8a3f]">★</span>
                                         ${blend.averageRating.toFixed(1)}
-                                        <span class="text-sm text-[#8E8074]">(${blend.reviewCount} ratings)</span>
+                                        <span class="text-sm text-[#BFB0A3]">(${blend.reviewCount} ratings)</span>
                                     </div>
                                 </div>
                                 ` : ''}
@@ -385,19 +385,19 @@ async function renderBlendPopup(blendKey) {
                             <h3 class="font-semibold mb-6 text-[#BDAE9F] text-lg">Profile Ratings</h3>
                             <div class="grid grid-cols-1 gap-3">
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3">
-                                    <h4 class="text-[#8E8074] font-medium mb-3">Strength</h4>
+                                    <h4 class="text-[#BFB0A3] font-medium mb-3">Strength</h4>
                                     <div id="strengthScale" class="h-[52px]"></div>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3">
-                                    <h4 class="text-[#8E8074] font-medium mb-3">Taste</h4>
+                                    <h4 class="text-[#BFB0A3] font-medium mb-3">Taste</h4>
                                     <div id="tasteScale" class="h-[52px]"></div>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3">
-                                    <h4 class="text-[#8E8074] font-medium mb-3">Flavoring</h4>
+                                    <h4 class="text-[#BFB0A3] font-medium mb-3">Flavoring</h4>
                                     <div id="flavoringScale" class="h-[52px]"></div>
                                 </div>
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3">
-                                    <h4 class="text-[#8E8074] font-medium mb-3">Room Note</h4>
+                                    <h4 class="text-[#BFB0A3] font-medium mb-3">Room Note</h4>
                                     <div id="roomNoteScale" class="h-[52px]"></div>
                                 </div>
                             </div>
@@ -461,7 +461,7 @@ async function renderBlendPopup(blendKey) {
                     createRatingScale(type, blend.ratings[type])
                 );
             } else {
-                scaleElement.innerHTML = '<span class="text-[#8E8074] text-sm">No rating available</span>';
+                scaleElement.innerHTML = '<span class="text-[#BFB0A3] text-sm">No rating available</span>';
             }
         });
     } catch (innerError) {

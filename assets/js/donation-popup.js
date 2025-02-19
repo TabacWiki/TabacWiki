@@ -40,7 +40,7 @@ export function createListItems(items) {
                     <span class="mr-2">•</span>
                     <span class="flex-1 -mt-0.5">${item.text}</span>
                 </div>
-                ${item.subtext ? `<span class="text-sm text-[#8E8074] ml-5 mt-1">${item.subtext}</span>` : ''}
+                ${item.subtext ? `<span class="text-sm text-[#BFB0A3] ml-5 mt-1">${item.subtext}</span>` : ''}
             </li>
         `;
     }).join('');
@@ -71,15 +71,15 @@ export async function updatePopupContent() {
         
         statusPopupContent.innerHTML = `
             <div class="relative text-center">
-                <button id="closeStatusPopup" class="absolute top-0 right-0 text-[#8E8074] hover:text-[#C89F65]">
+                <button id="closeStatusPopup" class="absolute top-0 right-0 text-[#BFB0A3] hover:text-[#C89F65]">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                     </svg>
                 </button>
-                <h2 class="text-2xl font-bold text-[#8E8074] mb-4 text-center">Tabac Wiki Status Report</h2>
+                <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4 text-center">Tabac Wiki Status Report</h2>
                 <div class="space-y-4 text-center">
                     <div class="bg-[#241e1c] rounded-lg p-4">
-                        <h3 class="text-lg font-semibold text-[#8E8074] mb-3 text-center"></h3>
+                        <h3 class="text-lg font-semibold text-[#BFB0A3] mb-3 text-center"></h3>
                         <ul class="space-y-2 text-[#BDAE9F]">
                             ${statusData.items.map(item => {
                                 if (item.type === 'domain_expiry') {
@@ -103,32 +103,32 @@ export async function updatePopupContent() {
                         </ul>
                     </div>
                     <div id="toggleFeatures" class="bg-[#241e1c] rounded-lg p-4 mt-4 cursor-pointer hover:bg-[#352c26] transition-colors duration-200">
-                        <div class="flex items-center justify-between text-lg font-semibold text-[#8E8074]">
+                        <div class="flex items-center justify-between text-lg font-semibold text-[#BFB0A3]">
                             <span>Upcoming Features</span>
                             <svg class="w-5 h-5 transform transition-transform duration-200" id="featuresArrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </div>
                         <div id="featuresContent" class="overflow-hidden">
-                            <ul class="list-none space-y-2 text-[#8E8074]">
+                            <ul class="list-none space-y-2 text-[#BFB0A3]">
                                 ${createListItems(featuresData.items)}
                             </ul>
                         </div>
                     </div>
                     <div id="toggleIssues" class="bg-[#241e1c] rounded-lg p-4 mt-4 cursor-pointer hover:bg-[#352c26] transition-colors duration-200">
-                        <div class="flex items-center justify-between text-lg font-semibold text-[#8E8074]">
+                        <div class="flex items-center justify-between text-lg font-semibold text-[#BFB0A3]">
                             <span>Known Issues</span>
                             <svg class="w-5 h-5 transform transition-transform duration-200" id="issuesArrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </div>
                         <div id="issuesContent" class="overflow-hidden">
-                            <ul class="list-none space-y-2 text-[#8E8074]">
+                            <ul class="list-none space-y-2 text-[#BFB0A3]">
                                 ${createListItems(issuesData.items)}
                             </ul>
                         </div>
                     </div>
-                    <button id="reportProblemBtn" class="mt-6 w-full bg-[#352c26]/50 hover:bg-[#49362F]/50 text-[#8E8074] font-medium py-2 px-4 rounded transition-colors duration-200">
+                    <button id="reportProblemBtn" class="mt-6 w-full bg-[#352c26]/50 hover:bg-[#49362F]/50 text-[#BFB0A3] font-medium py-2 px-4 rounded transition-colors duration-200">
                         Report A Problem
                     </button>
                 </div>
@@ -244,7 +244,7 @@ function createListItems(items) {
                         <span class="mr-2">•</span>
                         <span class="flex-1 -mt-0.5">${item.text}</span>
                     </div>
-                    ${item.subtext ? `<span class="text-sm text-[#8E8074] ml-5 mt-1">${item.subtext}</span>` : ''}
+                    ${item.subtext ? `<span class="text-sm text-[#BFB0A3] ml-5 mt-1">${item.subtext}</span>` : ''}
                 </li>
             `;
         }).join('');
@@ -276,15 +276,15 @@ async function updatePopupContent() {
             
             statusPopupContent.innerHTML = `
                 <div class="relative text-center">
-                    <button id="closeStatusPopup" class="absolute top-0 right-0 text-[#8E8074] hover:text-[#C89F65]">
+                    <button id="closeStatusPopup" class="absolute top-0 right-0 text-[#BFB0A3] hover:text-[#C89F65]">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                         </svg>
                     </button>
-                    <h2 class="text-2xl font-bold text-[#8E8074] mb-4 text-center">Tabac Wiki Status Report</h2>
+                    <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4 text-center">Tabac Wiki Status Report</h2>
                     <div class="space-y-4 text-center">
                         <div class="bg-[#241e1c] rounded-lg p-4">
-                            <h3 class="text-lg font-semibold text-[#8E8074] mb-3 text-center"></h3>
+                            <h3 class="text-lg font-semibold text-[#BFB0A3] mb-3 text-center"></h3>
                             <ul class="space-y-2 text-[#BDAE9F]">
 
                                 ${statusData.items.find(item => item.type === 'domain_expiry') ? `
@@ -327,32 +327,32 @@ async function updatePopupContent() {
                             </ul>
                         </div>
                         <div id="toggleFeatures" class="bg-[#241e1c] rounded-lg p-4 mt-4 cursor-pointer hover:bg-[#352c26] transition-colors duration-200">
-                            <div class="flex items-center justify-between text-lg font-semibold text-[#8E8074]">
+                            <div class="flex items-center justify-between text-lg font-semibold text-[#BFB0A3]">
                                 <span>Upcoming Features</span>
                                 <svg class="w-5 h-5 transform transition-transform duration-200" id="featuresArrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                                 </svg>
                             </div>
                             <div id="featuresContent" class="overflow-hidden">
-                                <ul class="list-none space-y-2 text-[#8E8074]">
+                                <ul class="list-none space-y-2 text-[#BFB0A3]">
                                     ${createListItems(featuresData.items)}
                                 </ul>
                             </div>
                         </div>
                         <div id="toggleIssues" class="bg-[#241e1c] rounded-lg p-4 mt-4 cursor-pointer hover:bg-[#352c26] transition-colors duration-200">
-                            <div class="flex items-center justify-between text-lg font-semibold text-[#8E8074]">
+                            <div class="flex items-center justify-between text-lg font-semibold text-[#BFB0A3]">
                                 <span>Known Issues</span>
                                 <svg class="w-5 h-5 transform transition-transform duration-200" id="issuesArrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                                 </svg>
                             </div>
                             <div id="issuesContent" class="overflow-hidden">
-                                <ul class="list-none space-y-2 text-[#8E8074]">
+                                <ul class="list-none space-y-2 text-[#BFB0A3]">
                                     ${createListItems(issuesData.items)}
                                 </ul>
                             </div>
                         </div>
-                        <button id="reportProblemBtn" class="mt-6 w-full bg-[#352c26]/50 hover:bg-[#49362F]/50 text-[#8E8074] font-medium py-2 px-4 rounded transition-colors duration-200">
+                        <button id="reportProblemBtn" class="mt-6 w-full bg-[#352c26]/50 hover:bg-[#49362F]/50 text-[#BFB0A3] font-medium py-2 px-4 rounded transition-colors duration-200">
                             Report A Problem
                         </button>
                     </div>
@@ -432,18 +432,18 @@ async function updatePopupContent() {
 
     popupContent.innerHTML = `
         <div class="relative text-center">
-            <button id="closeDonationPopup" class="absolute top-0 right-0 text-[#8E8074] hover:text-[#C89F65]">
+            <button id="closeDonationPopup" class="absolute top-0 right-0 text-[#BFB0A3] hover:text-[#C89F65]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                 </svg>
             </button>
-            <h2 class="text-2xl font-bold text-[#8E8074] mb-4">The Tabac Wiki Needs You!</h2>
-            <p class="text-[#8E8074] mb-6">Your donation directly helps support the maintainance of the database, upkeep of the domain name and growth of the wiki via reward allocations for the Bug Bounty Program</p>
+            <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4">The Tabac Wiki Needs You!</h2>
+            <p class="text-[#BFB0A3] mb-6">Your donation directly helps support the maintainance of the database, upkeep of the domain name and growth of the wiki via reward allocations for the Bug Bounty Program</p>
             <div class="grid grid-cols-2 gap-4 mb-6">
                 ${cryptoButtons.map(btn => `
                     <button 
                         id="${btn.id}Button"
-                        class="crypto-btn bg-[#241e1c] hover:bg-[#352c26] text-[#8E8074] font-bold py-3 px-4 rounded-lg text-center transition-all duration-300 backdrop-blur-sm break-all md:break-normal"
+                        class="crypto-btn bg-[#241e1c] hover:bg-[#352c26] text-[#BFB0A3] font-bold py-3 px-4 rounded-lg text-center transition-all duration-300 backdrop-blur-sm break-all md:break-normal"
                         data-address="${btn.address}"
                         data-label="${btn.label}"
                         data-alt-text="${btn.altText}">
@@ -451,7 +451,7 @@ async function updatePopupContent() {
                     </button>
                 `).join('')}
             </div>
-            <p class="text-[#8E8074] text-sm mt-6 text-center">$25 USD renews domain name for a year or pays for 1-3 bug bounties!</p>
+            <p class="text-[#BFB0A3] text-sm mt-6 text-center">$25 USD renews domain name for a year or pays for 1-3 bug bounties!</p>
         </div>
     `;
 

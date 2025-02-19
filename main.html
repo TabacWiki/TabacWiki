@@ -9,7 +9,7 @@
     <style>
         body {
             background-color: #121212;
-            color: #e0e0e0;
+            color: #E6D5C9;
         }
         .title-container {
             display: flex;
@@ -291,7 +291,7 @@
             position: absolute;
             inset: 0;
             background-color: #241e1c;
-            color: #8E8074;
+            color: #BFB0A3;
             padding: 0.75rem;
             border-radius: 0.5rem;
             opacity: 0;
@@ -305,7 +305,7 @@
             justify-content: space-between;
             align-items: center;
             font-size: 0.875rem; /* text-sm */
-            color: #8E8074;
+            color: #BFB0A3;
             margin-bottom: 0.5rem;
         }
         .hover-details .detail-row:first-child span:first-child,
@@ -319,11 +319,11 @@
         }
     </style>
 </head>
-<body class="bg-[#1f1a18] text-[#8E8074] custom-scrollbar">
+<body class="bg-[#1f1a18] text-[#BFB0A3] custom-scrollbar">
     <div class="app-container">
         <div id="initialLoadingOverlay" class="fixed inset-0 bg-[#1f1a18]/80 z-[1000] flex flex-col items-center justify-center">
             <img src="/favicon.ico" alt="Tabac Wiki Logo" class="w-24 h-24 flag-wave">
-            <p class="text-[#8E8074] text-lg mt-4 tracking-wider">Loading database...</p>
+            <p class="text-[#BFB0A3] text-lg mt-4 tracking-wider">Loading database...</p>
         </div>
 
         <div class="main-content flex flex-col md:flex-row flex-1 overflow-hidden custom-scrollbar" id="searchContainer">
@@ -332,7 +332,7 @@
             <div id="mobileHeader" class="md:hidden flex flex-col bg-[#241e1c] sticky top-0 z-10 transition-all duration-300 ease-in-out shadow-lg shadow-black/25">
                 <div class="flex flex-col p-4 gap-4">
                     <div class="flex items-center justify-between relative">
-                        <button id="mobileInfoButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#8E8074] flex items-center justify-center">
+                        <button id="mobileInfoButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center justify-center">
                             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
@@ -347,7 +347,7 @@
                             <img src="/favicon.ico" alt="" class="w-8 h-8">
                             <div class="h-6 w-[100px]"></div>
                         </div>
-                        <button id="mobileFilterToggle" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#8E8074] flex items-center gap-2">
+                        <button id="mobileFilterToggle" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center gap-2">
                             <svg class="w-6 h-6 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="z-index: -1;">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
                             </svg>
@@ -355,13 +355,13 @@
                         </button>
                     </div>
                     <div class="flex gap-2 w-full">
-                        <button id="mobileDonationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Support The Wiki</button>
-                        <button id="mobileStatusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Wiki Report</button>
+                        <button id="mobileDonationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Support The Wiki</button>
+                        <button id="mobileStatusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-sm font-medium px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap">Wiki Report</button>
                     </div>
                 </div>
                 <!-- Mobile Search Bar -->
                 <div class="px-4 pb-4 md:hidden">
-                    <input type="text" id="searchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] placeholder:text-[#8E8074]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    <input type="text" id="searchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
                 </div>
             </div>
 
@@ -379,9 +379,9 @@
 
                     <!-- Desktop donation buttons -->
                     <div class="hidden md:flex justify-center items-stretch gap-1 w-full max-w-[200px] mx-auto mb-8">
-                        <button id="donationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Support The Wiki</button>
-                        <button id="statusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Wiki Report</button>
-                        <button id="infoButton" class="h-[32px] w-[32px] bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#8E8074] text-xs font-medium rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 flex items-center justify-center flex-shrink-0">
+                        <button id="donationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Support The Wiki</button>
+                        <button id="statusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Wiki Report</button>
+                        <button id="infoButton" class="h-[32px] w-[32px] bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 flex items-center justify-center flex-shrink-0">
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
@@ -391,16 +391,16 @@
                     <!-- Desktop Search Bar -->
                     <div class="hidden md:block mb-8">
                         <div class="relative">
-                            <input type="text" id="desktopSearchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] placeholder:text-[#8E8074]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                            <input type="text" id="desktopSearchInput" placeholder="Search blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
                         </div>
                     </div>
                     <div class="flex items-center justify-between mb-4">
-                        <h3 class="text-xl font-semibold text-[#8E8074]">Sort By</h3>
-                        <button id="resetFiltersBtn" class="text-sm text-[#8E8074] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
+                        <h3 class="text-xl font-semibold text-[#BFB0A3]">Sort By</h3>
+                        <button id="resetFiltersBtn" class="text-sm text-[#BFB0A3] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
                             Reset
                         </button>
                     </div>
-                    <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                    <select id="sortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                         <option value="" disabled selected>Select Sort Option</option>
                         <option value="averageRating">Rating Score (High to Low)</option>
                         <option value="ratingLowToHigh">Rating Score (Low to High)</option>
@@ -414,44 +414,44 @@
                     
                     <!-- Collapsible filters section for desktop -->
                     <div class="hidden md:flex items-center justify-between cursor-pointer mt-8 mb-4" id="filtersHeader">
-                        <h3 class="text-xl font-semibold text-[#8E8074]">Filters</h3>
-                        <svg id="filtersArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <h3 class="text-xl font-semibold text-[#BFB0A3]">Filters</h3>
+                        <svg id="filtersArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                         </svg>
                     </div>
                     <!-- Mobile-only filters header -->
-                    <h3 class="text-xl font-semibold mt-8 mb-4 text-[#8E8074] md:hidden">Filters</h3>
+                    <h3 class="text-xl font-semibold mt-8 mb-4 text-[#BFB0A3] md:hidden">Filters</h3>
                     <!-- Two-column grid for filter dropdowns -->
                     <div id="filtersContainer" class="md:block grid grid-cols-2 gap-4 md:space-y-4">
-                        <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Brands</option>
                         </select>
 
-                        <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Blenders</option>
                         </select>
 
-                        <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Manufacturers</option>
                         </select>
 
-                        <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Countries</option>
                         </select>
 
-                        <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Cut Types</option>
                         </select>
 
-                        <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Packaging Types</option>
                         </select>
 
-                        <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="" selected>All Blend Types</option>
                         </select>
 
-                        <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
                             <option value="All availabilities" selected>All Availabilities</option>
                         </select>
                     </div>
@@ -460,16 +460,16 @@
 
                     <!-- Components section header for desktop -->
                     <div class="hidden md:flex items-center justify-between cursor-pointer mt-8 mb-4" id="componentsHeader">
-                        <h3 class="text-xl font-semibold text-[#8E8074]">Components</h3>
-                        <svg id="componentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <h3 class="text-xl font-semibold text-[#BFB0A3]">Components</h3>
+                        <svg id="componentsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                         </svg>
                     </div>
                     <!-- Components section for mobile -->
-                    <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
                         <div class="flex items-center justify-between cursor-pointer" id="mobileComponentsHeader">
-                            <h3 class="text-[#8E8074]">Components</h3>
-                            <svg id="mobileComponentsArrow" class="w-5 h-5 text-[#8E8074] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <h3 class="text-[#BFB0A3]">Components</h3>
+                            <svg id="mobileComponentsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </div>
@@ -480,13 +480,13 @@
                     <div class="my-8"></div>
 
                     <div class="rating-filter-container px-4">
-                        <label class="text-[#8E8074] text-sm mb-2 block text-center">Average Rating</label>
+                        <label class="text-[#BFB0A3] text-sm mb-2 block text-center">Average Rating</label>
                         <div class="relative w-full py-2 flex justify-center">
                             <div id="ratingSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
                                 <div id="ratingTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
                                 <div 
                                     id="ratingMinHandle" 
-                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"w-full px-3 py-2 bg-[#352c26]/40 text-[#8E8074] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200
+                                    class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200
 
                                 ></div>
                                 <div 
@@ -495,7 +495,7 @@
                                 ></div>
                             </div>
                         </div>
-                        <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                        <div class="flex justify-between text-[#BFB0A3] text-xs mt-2 px-4">
                             <span id="ratingMinValue">0</span>
                             <span id="ratingMaxValue">4</span>
                         </div>
@@ -516,7 +516,7 @@
                     <div class="my-4"></div>
 
                     <div class="review-count-filter-container px-4">
-                        <label class="text-[#8E8074] text-sm mb-2 block text-center">Rating Count</label>
+                        <label class="text-[#BFB0A3] text-sm mb-2 block text-center">Rating Count</label>
                         <div class="relative w-full py-2 flex justify-center">
                             <div id="reviewCountSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
                                 <div id="reviewCountTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
@@ -530,7 +530,7 @@
                                 ></div>
                             </div>
                         </div>
-                        <div class="flex justify-between text-[#8E8074] text-xs mt-2 px-4">
+                        <div class="flex justify-between text-[#BFB0A3] text-xs mt-2 px-4">
                             <span id="reviewCountMinValue">0</span>
                             <span id="reviewCountMaxValue">0</span>
                         </div>
@@ -976,8 +976,8 @@
             <div class="content-area flex-grow overflow-hidden">
                 <!-- Results Container -->
                 <div class="results-container h-full overflow-y-auto p-4" id="searchResults">
-                    <div id="searchSummary" class="text-[#8E8074] text-sm mb-4"></div>
-                    <div class="text-[#8E8074] px-4 pt-4">
+                    <div id="searchSummary" class="text-[#BFB0A3] text-sm mb-4"></div>
+                    <div class="text-[#BFB0A3] px-4 pt-4">
                         <span id="resultsCounter">Loading results...</span>
                     </div>
                     <div id="searchResults" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
@@ -1014,7 +1014,7 @@
         </div>
     </div>
 
-    <div id="uploadNotification" class="hidden fixed left-1/2 transform -translate-x-1/2 top-[-80px] bg-green-500 text-[#8E8074] px-4 py-2 rounded-lg shadow-lg transition-all duration-300 z-[60] opacity-100"></div>
+    <div id="uploadNotification" class="hidden fixed left-1/2 transform -translate-x-1/2 top-[-80px] bg-green-500 text-[#BFB0A3] px-4 py-2 rounded-lg shadow-lg transition-all duration-300 z-[60] opacity-100"></div>
 
     <div id="loadingOverlay" class="fixed inset-0 bg-black bg-opacity-70 z-[100] flex flex-col items-center justify-center hidden">
         <div class="w-80 bg-[#2E221F] rounded-2xl shadow-2xl border border-[#49362F] p-8 text-center transform transition-all duration-300 ease-in-out">
@@ -1180,7 +1180,7 @@
                         checkmark.className = 'checkmark';
                         
                         const label = document.createElement('span');
-                        label.className = 'custom-checkbox-label text-[#8E8074]';
+                        label.className = 'custom-checkbox-label text-[#BFB0A3]';
                         label.htmlFor = checkbox.id;
                         label.textContent = component;
                         
@@ -1479,9 +1479,9 @@
 
             if (validResults.length === 0 && !append) {
                 searchResults.innerHTML = `
-                    <div class="col-span-full text-center text-[#8E8074]">
+                    <div class="col-span-full text-center text-[#BFB0A3]">
                         <p class="text-xl mb-4">This is uncharted territory!</p>
-                        <p class="text-sm text-[#8E8074]">Try adjusting your search or filters</p>
+                        <p class="text-sm text-[#BFB0A3]">Try adjusting your search or filters</p>
                     </div>
                 `;
                 return;
@@ -1560,15 +1560,15 @@
 
                 const hoverDetailsHTML = `
                     <div class="hover-details absolute inset-0 bg-[#241e1c] rounded-lg p-4 flex flex-col justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out">
-                        <div class="detail-row flex justify-between items-center text-xs text-[#8E8074] mt-2 mb-2">
+                        <div class="detail-row flex justify-between items-center text-xs text-[#BFB0A3] mt-2 mb-2">
                             <span class="truncate max-w-[45%]">${blend.country || 'N/A'}</span>
                             <span class="truncate max-w-[45%] ${blend.production === 'No longer in production' ? 'opacity-40' : ''}">${blend.production || 'N/A'}</span>
                         </div>
-                        <div class="detail-row flex justify-between items-center text-xs text-[#8E8074] mt-2 mb-2">
+                        <div class="detail-row flex justify-between items-center text-xs text-[#BFB0A3] mt-2 mb-2">
                             <span class="truncate max-w-[45%]">${blend.cut || 'N/A'}</span>
                             <span class="truncate max-w-[45%]">${blend.packaging || 'N/A'}</span>
                         </div>
-                        <div class="detail-row text-center text-xs text-[#8E8074] mt-2">
+                        <div class="detail-row text-center text-xs text-[#BFB0A3] mt-2">
                             <span>${blend.contents || 'N/A'}</span>
                         </div>
                     </div>
@@ -1583,8 +1583,8 @@
                             ★ ${rating}
                         </div>
                         <h3 class="text-lg font-semibold text-[#C89F65] opacity-70 mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
-                        <div class="text-sm text-[#8E8074] mb-2">${blend.b || 'Unknown Brand'}</div>
-                        <div class="flex justify-between items-center text-sm text-[#8E8074]">
+                        <div class="text-sm text-[#BFB0A3] mb-2">${blend.b || 'Unknown Brand'}</div>
+                        <div class="flex justify-between items-center text-sm text-[#BFB0A3]">
                             <span>${blend.t || 'Unspecified Type'}</span>
                             <span class="${ratingsClass}">${blend.rc || 0} Ratings</span>
                         </div>
@@ -1649,7 +1649,7 @@
                         <h2 class="text-2xl mb-4">Error Loading Blend</h2>
                         <p>Unable to load details for the selected blend.</p>
                         <p class="text-sm mt-2">Filename: ${filename}</p>
-                        <button onclick="closePopup()" class="mt-4 px-4 py-2 bg-red-600 text-[#8E8074] rounded">Close</button>
+                        <button onclick="closePopup()" class="mt-4 px-4 py-2 bg-red-600 text-[#BFB0A3] rounded">Close</button>
                     </div>
                 `;
                 

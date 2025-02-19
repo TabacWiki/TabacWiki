@@ -61,7 +61,7 @@ const ProblemReportModule = (function() {
       }
       .problem-report-modal h2 {
         margin-top: 0;
-        color: #8E8074;
+        color: #BFB0A3;
         text-align: center;
         font-size: 1.5rem;
         font-weight: bold;
@@ -73,7 +73,7 @@ const ProblemReportModule = (function() {
       .form-group label {
         display: block;
         margin-bottom: 5px;
-        color: #8E8074;
+        color: #BFB0A3;
         font-weight: semibold;
       }
       .form-group input, 
@@ -104,14 +104,14 @@ const ProblemReportModule = (function() {
       }
       .btn-primary {
         background-color: #352C26;
-        color: #8E8074;
+        color: #BFB0A3;
       }
       .btn-primary:hover {
         background-color: #49362F;
       }
       .btn-secondary {
         background-color: #241E1C;
-        color: #8E8074;
+        color: #BFB0A3;
       }
       .btn-secondary:hover {
         background-color: #352C26;
