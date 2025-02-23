@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<!-- Version 1.0.1 -->
+<html lang="en">
+<head>
+    <script>
+        // Age verification check - must run before anything else
+        if (localStorage.getItem('isOfAge') !== 'true') {
+            window.location.href = '/index.html';
+        }
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>YTPC Index - Tabac Wiki</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script type="module">
+        import { initDonationPopup } from './assets/js/donation-popup.js';
+        import { initInfoPopup } from './assets/js/info-popup.js';
+        import { initSiteDirectory } from './assets/js/site-directory.js';
+
+        // Initialize popups after DOM content is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initialize popups and site directory
+            initDonationPopup();
+            initInfoPopup();
+            initSiteDirectory();
+        });
+    </script>
+    <style>
+        @keyframes gentleShake {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(-5deg); }
+            75% { transform: rotate(5deg); }
+        }
+
+        .favicon-shake {
+            animation: gentleShake 0.5s ease-in-out;
+            animation-iteration-count: 2;
+        }
+
+        body {
+            background-color: #1f1a18;
+            color: #E6D5C9;
+        }
+
+        .title-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-bottom: 2rem;
+        }
+        .site-logo {
+            width: 48px;
+            height: 48px;
+            transition: transform 0.3s ease, filter 0.3s ease;
+        }
+        .site-logo:hover {
+            transform: scale(1.2) rotate(5deg) skew(5deg);
+            filter: brightness(1.2);
+        }
+
+        #debugOutput {
+            background-color: rgba(74, 43, 43, 0);
+            color: rgba(36, 36, 36, 0);
+            padding: 10px;
+            margin-top: 20px;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        /* Custom Scrollbar */
+        .custom-scrollbar {
+            scrollbar-width: thin;
+            scrollbar-color: #352c26 #241e1c;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #241e1c;
+        }
+        
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: #352c26;
+            border-radius: 4px;
+            border: 2px solid #241e1c;
+        }
+
+        .creator-card {
+            transition: all 0.3s ease;
+        }
+        .creator-card:hover {
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body class="bg-[#1f1a18] text-[#BFB0A3] custom-scrollbar">
+    <div class="responsive-layout">
+        <div class="main-content flex flex-col md:flex-row flex-1 overflow-hidden custom-scrollbar md:ml-64">
+            <!-- Mobile Header -->
+            <div id="mobileHeader" class="md:hidden flex flex-col bg-[#241e1c] sticky top-0 z-10 transition-all duration-300 ease-in-out shadow-lg shadow-black/25">
+                <div class="flex flex-col p-4 gap-4">
+                    <div class="flex items-center justify-between relative">
+                        <button id="mobileInfoButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center justify-center">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                        </button>
+                        <button id="mobileFiltersButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center justify-center">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                            </svg>
+                        </button>
+                        <div class="absolute left-1/2 -translate-x-1/2 flex items-center gap-2">
+                            <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="w-8 h-8">
+                            <a href="https://tabac.wiki" class="hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                                <img src="/assets/logo.png" alt="Tabac Wiki" class="h-6 w-auto max-w-full object-contain object-left">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Mobile Filters Overlay -->
+            <div id="mobileFiltersOverlay" class="fixed inset-0 bg-black/50 z-40 hidden transition-opacity duration-300 ease-in-out opacity-0 md:hidden"></div>
+            
+            <!-- Sidebar -->
+            <div id="mobileSidebar" class="sidebar hidden md:!flex w-full md:w-64 bg-[#241e1c] transition-all duration-300 ease-in-out md:fixed md:left-0 md:top-0 md:h-screen fixed top-0 left-0 right-0 z-50 rounded-b-xl md:rounded-none flex-col" style="transform: translateY(-100%)">
+                <style>
+                    @media (min-width: 768px) {
+                        #mobileSidebar {
+                            transform: none !important;
+                            display: flex !important;
+                        }
+                    }
+                </style>
+                <div class="px-4 py-8 flex-1 overflow-y-auto custom-scrollbar" style="height: calc(100vh - 800px);">
+                    <div class="title-container hidden md:flex items-center mb-4">
+                        <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="site-logo mr-2 w-10 h-10">
+                        <a href="https://tabac.wiki" class="site-title-link hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                            <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
+                        </a>
+                    </div>
+                    <!-- Desktop buttons -->
+                    <div class="flex justify-center items-stretch gap-2 w-full md:max-w-[200px] mx-auto mb-8">
+                        <button id="donationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-3 md:px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Support The Wiki</button>
+                        <button id="statusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-3 md:px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Wiki Report</button>
+                        <button id="infoButton" class="hidden md:flex h-[32px] w-[32px] bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 items-center justify-center flex-shrink-0">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Desktop Search Bar -->
+                    <div class="hidden md:block w-full mb-8">
+                        <input type="text" id="desktopSearchInput" placeholder="Search channels..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    </div>
+
+                    <!-- Desktop Sort Dropdown -->
+                    <div class="hidden md:block w-full mb-8">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="text-xl font-semibold text-[#BFB0A3]">Sort By</h3>
+                            <button id="desktopResetButton" class="text-sm text-[#BFB0A3] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">Reset</button>
+                        </div>
+                        <select id="desktopSortDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                            <option value="random" selected>Random</option>
+                            <option value="name_asc">Name (A to Z)</option>
+                            <option value="name_desc">Name (Z to A)</option>
+                            <option value="subs_desc">Subscribers (High to Low)</option>
+                            <option value="subs_asc">Subscribers (Low to High)</option>
+                            <option value="videos_desc">Video Count (High to Low)</option>
+                            <option value="videos_asc">Video Count (Low to High)</option>
+                            <option value="views_desc">Total Views (High to Low)</option>
+                            <option value="views_asc">Total Views (Low to High)</option>
+                            <option value="date_desc">Join Date (Newest)</option>
+                            <option value="date_asc">Join Date (Oldest)</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div class="content-area flex-grow overflow-hidden">
+                <div class="results-container h-full overflow-y-auto p-4 custom-scrollbar" style="height: calc(100vh);">
+                    <p class="text-lg text-center text-[#C89F65]/65">This page is under development, some data may be incorrect or incomplete.</p>
+                    <h1 class="text-3xl font-bold mb-8 text-center text-[#C89F65]">The Youtube Pipe Community</h1>
+                    <!-- Mobile Search and Sort -->
+                    <div class="md:hidden flex flex-col gap-4 mb-6">
+                        <input type="text" id="searchInput" placeholder="Search channels..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                        <div class="flex gap-2 items-center">
+                            <select id="sortDropdown" class="flex-1 px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                                <option value="random" selected>Random</option>
+                                <option value="name_asc">Name (A to Z)</option>
+                                <option value="name_desc">Name (Z to A)</option>
+                                <option value="subs_desc">Subscribers (High to Low)</option>
+                                <option value="subs_asc">Subscribers (Low to High)</option>
+                                <option value="videos_desc">Video Count (High to Low)</option>
+                                <option value="videos_asc">Video Count (Low to High)</option>
+                                <option value="views_desc">Total Views (High to Low)</option>
+                                <option value="views_asc">Total Views (Low to High)</option>
+                                <option value="date_desc">Join Date (Newest)</option>
+                                <option value="date_asc">Join Date (Oldest)</option>
+                            </select>
+                            <button id="mobileResetButton" class="text-sm text-[#C89F65] hover:text-[#d4b285] transition-colors duration-200 whitespace-nowrap">Reset</button>
+                        </div>
+                    </div>
+ 
+                    <div id="creatorsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                        <!-- Creator cards will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Initialize mobile sidebar functionality
+        function initMobileSidebar() {
+            const mobileFiltersButton = document.getElementById('mobileFiltersButton');
+            const mobileSidebar = document.getElementById('mobileSidebar');
+            const mobileFiltersOverlay = document.getElementById('mobileFiltersOverlay');
+            
+            if (mobileFiltersButton && mobileSidebar && mobileFiltersOverlay) {
+                let isOpen = false;
+                let startY = 0;
+                let currentY = 0;
+                
+                function openSidebar() {
+                    isOpen = true;
+                    mobileFiltersOverlay.classList.remove('hidden');
+                    mobileSidebar.classList.remove('hidden');
+                    requestAnimationFrame(() => {
+                        mobileFiltersOverlay.classList.add('opacity-100');
+                        mobileFiltersOverlay.classList.remove('opacity-0');
+                        mobileSidebar.style.transform = 'translateY(0)';
+                    });
+                }
+                
+                function closeSidebar() {
+                    isOpen = false;
+                    mobileFiltersOverlay.classList.remove('opacity-100');
+                    mobileFiltersOverlay.classList.add('opacity-0');
+                    mobileSidebar.style.transform = 'translateY(-100%)';
+                    setTimeout(() => {
+                        mobileFiltersOverlay.classList.add('hidden');
+                        mobileSidebar.classList.add('hidden');
+                    }, 300);
+                }
+                
+                mobileFiltersButton.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    if (!isOpen) {
+                        openSidebar();
+                    } else {
+                        closeSidebar();
+                    }
+                });
+                
+                // Handle touch events for swipe-to-dismiss
+                let lastTouchTime = 0;
+                let lastTouchY = 0;
+                let touchVelocityY = 0;
+                let lastScrollY = window.scrollY;
+                let scrollVelocityY = 0;
+                let lastScrollTime = Date.now();
+                
+                mobileSidebar.addEventListener('touchstart', (e) => {
+                    startY = e.touches[0].clientY;
+                    currentY = startY;
+                    lastTouchY = startY;
+                    lastTouchTime = Date.now();
+                    touchVelocityY = 0;
+                    mobileSidebar.style.transition = 'none';
+                });
+                
+                mobileSidebar.addEventListener('wheel', (e) => {
+                    e.preventDefault(); // Prevent scroll propagation
+                    e.stopPropagation();
+                    
+                    if (e.deltaY < 0) { // Scrolling up
+                        const velocity = -e.deltaY / 100; // Convert deltaY to a velocity metric
+                        if (velocity > 0.3) {
+                            const duration = Math.min(300, Math.max(150, Math.abs(500 / velocity)));
+                            mobileSidebar.style.transition = `transform ${duration}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+                            mobileFiltersOverlay.style.transition = `opacity ${duration}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+                            closeSidebar();
+                        }
+                    }
+                });
+                
+                mobileSidebar.addEventListener('touchmove', (e) => {
+                    e.preventDefault(); // Prevent scroll propagation
+                    e.stopPropagation();
+                    
+                    const now = Date.now();
+                    const timeDiff = now - lastTouchTime;
+                    currentY = e.touches[0].clientY;
+                    const moveDiff = currentY - lastTouchY;
+                    
+                    // Calculate velocity (pixels per millisecond)
+                    if (timeDiff > 0) {
+                        touchVelocityY = moveDiff / timeDiff;
+                    }
+                    
+                    const deltaY = currentY - startY;
+                    
+                    // Allow both up and down movement
+                    mobileSidebar.style.transform = `translateY(${deltaY}px)`;
+                    const opacity = Math.max(0, 1 - (Math.abs(deltaY) / 200));
+                    mobileFiltersOverlay.style.opacity = opacity;
+                    
+                    lastTouchY = currentY;
+                    lastTouchTime = now;
+                }, { passive: false }); // Set passive to false to allow preventDefault
+                
+                mobileSidebar.addEventListener('touchend', () => {
+                    mobileSidebar.style.transition = 'transform 0.2s ease-out';
+                    mobileFiltersOverlay.style.transition = 'opacity 0.2s ease-out';
+                    
+                    const deltaY = currentY - startY;
+                    const velocityThreshold = 0.5; // pixels per millisecond
+                    
+                    // Close if:
+                    // 1. Pulled down more than 100px
+                    // 2. Flicked up faster than threshold
+                    // 3. Pulled up more than 50px
+                    if (deltaY > 100 || 
+                        touchVelocityY < -velocityThreshold ||
+                        deltaY < -50) {
+                        // Adjust close animation based on velocity
+                        const duration = Math.min(300, Math.max(150, Math.abs(1000 / touchVelocityY)));
+                        mobileSidebar.style.transition = `transform ${duration}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+                        mobileFiltersOverlay.style.transition = `opacity ${duration}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+                        closeSidebar();
+                    } else {
+                        mobileSidebar.style.transform = 'translateY(0)';
+                        mobileFiltersOverlay.style.opacity = '1';
+                    }
+                });
+                
+                // Close when clicking overlay
+                mobileFiltersOverlay.addEventListener('click', closeSidebar);
+                
+                // Handle any interaction with card grid to dismiss
+                const cardGrid = document.querySelector('.card-grid');
+                if (cardGrid) {
+                    function handleAnyInteraction() {
+                        if (!isOpen) return;
+                        closeSidebar();
+                    }
+                    
+                    // Mouse/touch events
+                    cardGrid.addEventListener('mousedown', handleAnyInteraction);
+                    cardGrid.addEventListener('touchstart', handleAnyInteraction, { passive: true });
+                    
+                    // Wheel/scroll events
+                    cardGrid.addEventListener('wheel', handleAnyInteraction, { passive: true });
+                    document.addEventListener('scroll', handleAnyInteraction, { passive: true });
+                    
+                    // Pointer events for more precise detection
+                    cardGrid.addEventListener('pointerdown', handleAnyInteraction);
+                    cardGrid.addEventListener('pointermove', (e) => {
+                        if (!isOpen || !e.pressure) return; // Only react to actual touches/clicks
+                        handleAnyInteraction();
+                    });
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', initMobileSidebar);
+
+        let creators = [];
+        let currentSort = 'random';
+        let currentSearch = '';
+
+        // Sync search inputs
+        const searchInput = document.getElementById('searchInput');
+        const desktopSearchInput = document.getElementById('desktopSearchInput');
+
+        function syncSearchInputs(value) {
+            if (searchInput) searchInput.value = value;
+            if (desktopSearchInput) desktopSearchInput.value = value;
+            currentSearch = value;
+            updateDisplay();
+        }
+
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => syncSearchInputs(e.target.value));
+        }
+
+        if (desktopSearchInput) {
+            desktopSearchInput.addEventListener('input', (e) => syncSearchInputs(e.target.value));
+        }
+
+        // Sort functions
+        const sortFunctions = {
+            random: (list) => [...list].sort(() => Math.random() - 0.5),
+            name_asc: (list) => [...list].sort((a, b) => a.name.localeCompare(b.name)),
+            name_desc: (list) => [...list].sort((a, b) => b.name.localeCompare(a.name)),
+            subs_desc: (list) => [...list].sort((a, b) => parseInt(b.subs) - parseInt(a.subs)),
+            subs_asc: (list) => [...list].sort((a, b) => parseInt(a.subs) - parseInt(b.subs)),
+            videos_desc: (list) => [...list].sort((a, b) => parseInt(b.video_count) - parseInt(a.video_count)),
+            videos_asc: (list) => [...list].sort((a, b) => parseInt(a.video_count) - parseInt(b.video_count)),
+            views_desc: (list) => [...list].sort((a, b) => parseInt(b.total_views) - parseInt(a.total_views)),
+            views_asc: (list) => [...list].sort((a, b) => parseInt(a.total_views) - parseInt(b.total_views)),
+            date_desc: (list) => [...list].sort((a, b) => new Date(b.joined_date) - new Date(a.joined_date)),
+            date_asc: (list) => [...list].sort((a, b) => new Date(a.joined_date) - new Date(b.joined_date))
+        };
+
+        // Sync sort dropdowns
+        const sortDropdown = document.getElementById('sortDropdown');
+        const desktopSortDropdown = document.getElementById('desktopSortDropdown');
+
+        function syncSortDropdowns(value) {
+            if (sortDropdown) sortDropdown.value = value;
+            if (desktopSortDropdown) desktopSortDropdown.value = value;
+            currentSort = value;
+            updateDisplay();
+        }
+
+        if (sortDropdown) {
+            sortDropdown.addEventListener('change', (e) => syncSortDropdowns(e.target.value));
+        }
+
+        if (desktopSortDropdown) {
+            desktopSortDropdown.addEventListener('change', (e) => syncSortDropdowns(e.target.value));
+        }
+
+        // Reset all filters
+        function resetFilters() {
+            currentSearch = '';
+            currentSort = 'random';
+            if (searchInput) searchInput.value = '';
+            if (desktopSearchInput) desktopSearchInput.value = '';
+            if (sortDropdown) sortDropdown.value = 'random';
+            if (desktopSortDropdown) desktopSortDropdown.value = 'random';
+            updateDisplay();
+        }
+
+        // Add reset button handlers
+        const mobileResetButton = document.getElementById('mobileResetButton');
+        const desktopResetButton = document.getElementById('desktopResetButton');
+
+        if (mobileResetButton) {
+            mobileResetButton.addEventListener('click', resetFilters);
+        }
+
+        if (desktopResetButton) {
+            desktopResetButton.addEventListener('click', resetFilters);
+        }
+
+        // Function to update the display
+        function updateDisplay() {
+            // First filter by search term
+            const filteredCreators = creators.filter(creator => {
+                if (!currentSearch) return true;
+                const searchLower = currentSearch.toLowerCase();
+                return creator.name.toLowerCase().includes(searchLower);
+            });
+
+            // Then apply sorting
+            const sortedCreators = sortFunctions[currentSort](filteredCreators);
+            creatorsGrid.innerHTML = '';
+            sortedCreators.forEach(creator => {
+                const card = createCard(creator);
+                creatorsGrid.innerHTML += card;
+            });
+        }
+
+        // Sort dropdown change handler
+        document.getElementById('sortDropdown').addEventListener('change', (e) => {
+            currentSort = e.target.value;
+            updateDisplay();
+        });
+
+        // Load creator data
+        fetch('/assets/data/ytpc.json')
+            .then(response => response.json())
+            .then(data => {
+                creators = data;
+                updateDisplay();
+            })
+            .catch(error => console.error('Error:', error));
+
+        function createCard(creator) {
+            const joinedDate = new Date(creator.joined_date).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+
+            // Format numbers with K/M abbreviations
+            const formatNumber = (num) => {
+                num = parseInt(num);
+                if (num >= 1000000) {
+                    return (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+                }
+                if (num >= 1000) {
+                    return (num / 1000).toFixed(1).replace(/\.0$/, '') + 'K';
+                }
+                return num.toString();
+            };
+
+            return `
+                <a href="${creator.link}" target="_blank" rel="noopener noreferrer" 
+                   class="creator-card block bg-[#241e1c] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:bg-[#2a2320]">
+                    <div class="p-4 space-y-4">
+                        <div class="grid grid-cols-2">
+                            <div class="text-left">
+                                <h3 class="text-lg font-semibold text-[#C89F65] truncate hover:text-[#E6B97F] transition-colors duration-200">
+                                    ${creator.name}
+                                </h3>
+                            </div>
+                            <div class="text-right">
+                                <span class="inline-block text-sm bg-[#352c26] px-2.5 py-1 rounded-full text-[#BFB0A3]">
+                                    ${formatNumber(creator.subs)} subs
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="grid grid-cols-3">
+                            <div class="text-left">
+                                <span class="inline-block text-xs bg-[#352c26] px-2.5 py-1 rounded-full text-[#BFB0A3]">
+                                    ${joinedDate}
+                                </span>
+                            </div>
+                            <div class="text-center">
+                                <span class="inline-block text-xs bg-[#352c26] px-2.5 py-1 rounded-full text-[#BFB0A3]">
+                                    ${formatNumber(creator.total_views)} views
+                                </span>
+                            </div>
+                            <div class="text-right">
+                                <span class="inline-block text-xs bg-[#352c26] px-2.5 py-1 rounded-full text-[#BFB0A3]">
+                                    ${formatNumber(creator.video_count)} videos
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            `;
+        }
+
+        fetch('/assets/data/ytpc.json')
+            .then(response => response.json())
+            .then(creators => {
+                const creatorsGrid = document.getElementById('creatorsGrid');
+                creators.forEach(creator => {
+                    const card = createCard(creator);
+                    creatorsGrid.innerHTML += card;
+                });
+            })
+            .catch(error => console.error('Error fetching creator data:', error));
+
+        // Initialize buttons (assuming you have the same functionality as main.html)
+        ['donationButton', 'mobileDonationButton'].forEach(id => {
+            const button = document.getElementById(id);
+            if (button) {
+                button.addEventListener('click', () => {
+                    // Add your donation button logic
+                });
+            }
+        });
+
+        ['statusButton', 'mobileStatusButton'].forEach(id => {
+            const button = document.getElementById(id);
+            if (button) {
+                button.addEventListener('click', () => {
+                    // Add your status button logic
+                });
+            }
+        });
+    </script>
+    <script>
+        // Function to handle favicon shake behavior
+        function initFaviconShake() {
+            // Check if user has already learned about the sidebar
+            if (localStorage.getItem('learnedSidebar') === 'true') {
+                return; // Don't initialize shaking if they already know
+            }
+
+            const favicons = document.querySelectorAll('img[src="/favicon.ico"]');
+            let shakeInterval;
+            
+            function shakeRandomFavicon() {
+                const randomFavicon = favicons[Math.floor(Math.random() * favicons.length)];
+                randomFavicon.classList.add('favicon-shake');
+                
+                // Remove the class after animation completes
+                setTimeout(() => {
+                    randomFavicon.classList.remove('favicon-shake');
+                }, 1000);
+            }
+
+            // Handle click on any favicon
+            function handleFaviconClick() {
+                // Stop the shaking
+                clearInterval(shakeInterval);
+                // Remove event listeners
+                favicons.forEach(favicon => {
+                    favicon.removeEventListener('click', handleFaviconClick);
+                });
+                // Save to localStorage
+                localStorage.setItem('learnedSidebar', 'true');
+            }
+
+            // Add click listeners to all favicons
+            favicons.forEach(favicon => {
+                favicon.addEventListener('click', handleFaviconClick);
+            });
+            
+            // Start shaking every 3 seconds
+            shakeInterval = setInterval(shakeRandomFavicon, 3000);
+        }
+        
+        // Initialize the favicon shake when the page loads
+        document.addEventListener('DOMContentLoaded', initFaviconShake);
+    </script>
+</body>
+</html>
