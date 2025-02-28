@@ -2,7 +2,7 @@
   "name": "ratings-worker",
   "version": "1.0.0",
   "private": true,
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "wrangler deploy"
   }
