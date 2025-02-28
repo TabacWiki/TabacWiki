@@ -1,19 +1,9 @@
 name = "ratings"
-type = "javascript"
-account_id = ""  # Your Cloudflare account ID
-workers_dev = true
+main = "worker.js"
 compatibility_date = "2024-02-28"
-
-# Standard worker structure
-main = "src/worker.js"
 
 [vars]
 GITHUB_TOKEN = ""
-
-[build]
-command = ""
-[build.upload]
-format = "modules"
 
 [env.production]
 routes = [
