@@ -4,8 +4,8 @@ account_id = ""  # Your Cloudflare account ID
 workers_dev = true
 compatibility_date = "2024-02-28"
 
-# Entry point
-main = "./index.js"
+# Standard worker structure
+main = "src/worker.js"
 
 [vars]
 GITHUB_TOKEN = ""
