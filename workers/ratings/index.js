@@ -16,6 +16,7 @@ export default {
     if (request.method === "POST") {
       try {
         const rating = await request.json();
+        console.log('Received rating:', rating);
         
         // Validate the rating data
         if (!rating.blendId || !rating.rating || !rating.profiles) {
@@ -35,12 +36,16 @@ export default {
         }
 
         // Trigger GitHub workflow
-        const githubResponse = await fetch('https://api.github.com/repos/dougsillars/tabac-wiki/dispatches', {
+        const githubUrl = 'https://api.github.com/repos/decombust/tabac-wiki/dispatches';
+        console.log('Sending request to:', githubUrl);
+
+        const githubResponse = await fetch(githubUrl, {
           method: 'POST',
           headers: {
-            'Authorization': `token ${token}`,
+            'Authorization': `Bearer ${token}`,
             'Accept': 'application/vnd.github.v3+json',
             'Content-Type': 'application/json',
+            'User-Agent': 'TabacWiki-Rating-Worker'
           },
           body: JSON.stringify({
             event_type: 'new_rating',
@@ -48,9 +53,12 @@ export default {
           })
         });
 
+        // Log the GitHub response for debugging
+        const responseText = await githubResponse.text();
+        console.log('GitHub response:', githubResponse.status, responseText);
+
         if (!githubResponse.ok) {
-          const errorText = await githubResponse.text();
-          throw new Error(`GitHub API error: ${errorText}`);
+          throw new Error(`GitHub API error: ${responseText}`);
         }
 
         return new Response(JSON.stringify({ success: true }), {
@@ -61,6 +69,7 @@ export default {
         });
 
       } catch (error) {
+        console.error('Worker error:', error);
         return new Response(JSON.stringify({ 
           error: error.message,
           stack: error.stack
