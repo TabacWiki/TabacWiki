@@ -11,6 +11,6 @@ routes = [
   { pattern = "ratings.decombust.workers.dev", custom_domain = true }
 ]
 
-# Configure secrets in the Cloudflare dashboard
-# [secrets]
-# GITHUB_TOKEN 
+# Declare environment variables
+[[env.production.vars]]
+GITHUB_TOKEN = ""  # This will be set in the Cloudflare dashboard 
