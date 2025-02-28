@@ -17,4 +17,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: 'workers/ratings'
-          command: deploy src/index.js 
+          # Remove the command line since we're using wrangler.toml 

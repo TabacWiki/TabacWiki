@@ -1,16 +1,19 @@
 name = "ratings"
-main = "src/index.js"
 compatibility_date = "2024-02-28"
+
+# Specify the entry point
+main = "./src/index.js"
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
 ENVIRONMENT = "production"
+GITHUB_TOKEN = ""  # Value will be set in Cloudflare dashboard
+
+[triggers]
+crons = []
 
 # Add your domain
 [env.production]
 routes = [
   { pattern = "ratings.decombust.workers.dev", custom_domain = true }
-]
-
-# Declare environment variable binding
-[vars]
-GITHUB_TOKEN = ""  # Value will be set in Cloudflare dashboard 
+] 
