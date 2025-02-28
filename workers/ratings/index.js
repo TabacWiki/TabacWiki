@@ -1,7 +1,3 @@
-// Add GitHub token from environment variables
-const GITHUB_TOKEN = SECRETS.GITHUB_TOKEN;
-const REPO_URL = 'https://api.github.com/repos/dougsillars/tabac-wiki/dispatches';
-
 export default {
   async fetch(request, env, ctx) {
     const corsHeaders = {
@@ -11,7 +7,7 @@ export default {
       "Access-Control-Max-Age": "86400",
     };
 
-    // Handle CORS preflight requests
+    // Handle preflight requests
     if (request.method === "OPTIONS") {
       return new Response(null, { headers: corsHeaders });
     }
@@ -23,20 +19,26 @@ export default {
         
         // Validate the rating data
         if (!rating.blendId || !rating.rating || !rating.profiles) {
-          return new Response("Invalid rating data", { 
+          return new Response(JSON.stringify({ error: "Invalid rating data" }), { 
             status: 400,
             headers: {
-              "Access-Control-Allow-Origin": "https://tabac.wiki",
+              ...corsHeaders,
               "Content-Type": "application/json"
             }
           });
         }
 
-        // Trigger GitHub workflow to update blend data
-        const githubResponse = await fetch(REPO_URL, {
+        // Get GitHub token from environment
+        const token = env.GITHUB_TOKEN;
+        if (!token) {
+          throw new Error("GitHub token not configured");
+        }
+
+        // Trigger GitHub workflow
+        const githubResponse = await fetch('https://api.github.com/repos/dougsillars/tabac-wiki/dispatches', {
           method: 'POST',
           headers: {
-            'Authorization': `token ${GITHUB_TOKEN}`,
+            'Authorization': `token ${token}`,
             'Accept': 'application/vnd.github.v3+json',
             'Content-Type': 'application/json',
           },
@@ -48,32 +50,34 @@ export default {
 
         if (!githubResponse.ok) {
           const errorText = await githubResponse.text();
-          throw new Error(`Failed to trigger GitHub workflow: ${errorText}`);
+          throw new Error(`GitHub API error: ${errorText}`);
         }
 
         return new Response(JSON.stringify({ success: true }), {
           headers: {
-            "Access-Control-Allow-Origin": "https://tabac.wiki",
+            ...corsHeaders,
             "Content-Type": "application/json"
           }
         });
 
       } catch (error) {
-        return new Response(JSON.stringify({ error: error.message }), {
+        return new Response(JSON.stringify({ 
+          error: error.message,
+          stack: error.stack
+        }), {
           status: 500,
           headers: {
-            "Access-Control-Allow-Origin": "https://tabac.wiki",
+            ...corsHeaders,
             "Content-Type": "application/json"
           }
         });
       }
     }
 
-    // Handle invalid methods
-    return new Response("Method not allowed", { 
+    return new Response(JSON.stringify({ error: "Method not allowed" }), { 
       status: 405,
       headers: {
-        "Access-Control-Allow-Origin": "https://tabac.wiki",
+        ...corsHeaders,
         "Content-Type": "application/json"
       }
     });
