@@ -2692,6 +2692,37 @@
             const successModal = document.getElementById('ratingSuccessModal');
             const closeSuccessButton = document.getElementById('closeRatingSuccess');
             
+            // Add click outside handler
+            ratingModal.addEventListener('click', (e) => {
+                // If clicking the modal backdrop (not the modal content)
+                if (e.target === ratingModal) {
+                    ratingModal.classList.add('hidden');
+                    resetRatingUI();
+                }
+            });
+            
+            // Add escape key handler
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') {
+                    // Get all modals in order of z-index
+                    const modals = [
+                        { el: ratingModal, zIndex: 1100 },
+                        { el: document.getElementById('blendPopup'), zIndex: 50 }
+                    ].sort((a, b) => b.zIndex - a.zIndex);
+                    
+                    // Find the top-most visible modal
+                    const visibleModal = modals.find(modal => 
+                        !modal.el.classList.contains('hidden')
+                    );
+                    
+                    // If rating modal is visible, close it and reset
+                    if (visibleModal && visibleModal.el === ratingModal) {
+                        ratingModal.classList.add('hidden');
+                        resetRatingUI();
+                    }
+                }
+            });
+            
             // Remove this line since we're using the outer selectedRating
             // let selectedRating = 0;
             

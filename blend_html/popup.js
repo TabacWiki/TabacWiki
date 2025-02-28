@@ -331,13 +331,6 @@ async function renderBlendPopup(blendKey) {
                         <div class="bg-[#161413]/20 rounded-xl p-6 backdrop-blur-sm w-full relative">
                             <div class="flex justify-between items-center mb-6">
                                 <h3 class="font-semibold text-[#BDAE9F] text-lg">Blend Details</h3>
-                                <button 
-                                    class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65] transition-colors text-[#BFB0A3] flex items-center gap-2"
-                                    id="rateBlendButton"
-                                >
-                                    <span class="text-[#C89F65]">★</span>
-                                    Rate this blend
-                                </button>
                             </div>
                             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm sm:text-base">
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-6 sm:order-none">
@@ -391,7 +384,16 @@ async function renderBlendPopup(blendKey) {
 
                         <!-- Profile Ratings Section -->
                         <div class="bg-[#161413]/20 rounded-xl p-6 backdrop-blur-sm w-full">
-                            <h3 class="font-semibold mb-6 text-[#BDAE9F] text-lg">Profile Ratings</h3>
+                            <div class="flex justify-between items-center mb-6">
+                                <h3 class="font-semibold text-[#BDAE9F] text-lg">Profile Ratings</h3>
+                                <button 
+                                    class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65]/50 transition-colors text-[#BFB0A3] flex items-center gap-2"
+                                    id="rateBlendButton"
+                                >
+                                    <span class="text-[#C89F65]">★</span>
+                                    Submit A Rating
+                                </button>
+                            </div>                            
                             <div class="grid grid-cols-1 gap-3">
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3">
                                     <h4 class="text-[#BFB0A3] font-medium mb-3">Strength</h4>
