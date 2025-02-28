@@ -1,3 +1,7 @@
+// Add KV namespace binding at the top
+const GITHUB_TOKEN = SECRETS.GITHUB_TOKEN;
+const REPO_URL = 'https://api.github.com/repos/dougsillars/tabac-wiki/dispatches';
+
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
@@ -31,46 +35,23 @@ async function handleRequest(request) {
         });
       }
 
-      // Store the rating in KV
-      const timestamp = new Date().toISOString().split('T')[0]; // Get current date
-      const key = `ratings_${timestamp}`;
-      
-      // Get existing ratings for today
-      let todaysRatings = [];
-      try {
-        const existing = await RATINGS.get(key);
-        if (existing) {
-          todaysRatings = JSON.parse(existing);
-        }
-      } catch (e) {
-        console.error('Error reading existing ratings:', e);
-      }
-
-      // Add new rating
-      todaysRatings.push(rating);
-
-      // Store updated ratings
-      await RATINGS.put(key, JSON.stringify(todaysRatings));
-
-      // Trigger GitHub workflow to update blend data
-      const githubResponse = await fetch(
-        'https://api.github.com/repos/your-username/your-repo/dispatches',
-        {
-          method: 'POST',
-          headers: {
-            'Authorization': `token ${GITHUB_TOKEN}`,
-            'Accept': 'application/vnd.github.v3+json',
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            event_type: 'new_rating',
-            client_payload: rating
-          })
-        }
-      );
+      // For now, just trigger the GitHub workflow without storing in KV
+      const githubResponse = await fetch(REPO_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          event_type: 'new_rating',
+          client_payload: rating
+        })
+      });
 
       if (!githubResponse.ok) {
-        throw new Error('Failed to trigger GitHub workflow');
+        const errorText = await githubResponse.text();
+        throw new Error(`Failed to trigger GitHub workflow: ${errorText}`);
       }
 
       return new Response(JSON.stringify({ success: true }), {
