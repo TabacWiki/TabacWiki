@@ -16,4 +16,5 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          workingDirectory: 'workers/ratings' 
+          workingDirectory: 'workers/ratings'
+          command: deploy src/index.js 

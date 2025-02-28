@@ -1,5 +1,5 @@
 name = "ratings"
-main = "index.js"
+main = "src/index.js"
 compatibility_date = "2024-02-28"
 
 [vars]
@@ -11,6 +11,6 @@ routes = [
   { pattern = "ratings.decombust.workers.dev", custom_domain = true }
 ]
 
-# Declare environment variables
-[[env.production.vars]]
-GITHUB_TOKEN = ""  # This will be set in the Cloudflare dashboard 
+# Declare environment variable binding
+[vars]
+GITHUB_TOKEN = ""  # Value will be set in Cloudflare dashboard 
