@@ -334,6 +334,35 @@
             text-align: center;
             justify-content: center;
         }
+
+        /* Add hover tooltips to profile circles */
+        .profile-circle {
+            position: relative;
+        }
+
+        .profile-circle::before {
+            content: attr(data-rating);
+            position: absolute;
+            bottom: calc(100% + 8px);
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #362C29;
+            color: #BFB0A3;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.2s, visibility 0.2s;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .profile-circle:hover::before {
+            opacity: 1;
+            visibility: visible;
+        }
     </style>
 </head>
 <body class="bg-[#1f1a18] text-[#BFB0A3] custom-scrollbar">
@@ -1017,7 +1046,157 @@
     </div>
 
     <div id="blendPopup" class="hidden fixed inset-0 bg-black bg-opacity-70 z-50 flex items-center justify-center">
-        <div id="popupContent" class="relative bg-[#42332E] rounded-xl w-auto max-w-[90vw] flex flex-col items-center justify-center"></div>
+        <div id="popupContent" class="relative bg-[#42332E] rounded-xl w-auto max-w-[90vw] flex flex-col items-center justify-center">
+            <!-- Rating UI will be injected here -->
+        </div>
+    </div>
+
+    <!-- Update the Rating Modal -->
+    <div id="ratingModal" class="hidden fixed inset-0 bg-black bg-opacity-70 z-[1100] flex items-center justify-center">
+        <div class="bg-[#362C29] rounded-xl p-6 max-w-md w-full mx-4">
+            <h3 class="text-xl font-semibold mb-4 text-[#C89F65]" id="ratingModalTitle">Rate this blend</h3>
+            
+            <!-- Overall Rating (Stars) -->
+            <div class="mb-6">
+
+                <div class="flex justify-center space-x-4">
+                    <div class="star-rating flex gap-3">
+                        <button class="rating-star text-5xl text-[#4b3f38] transition-colors relative group" data-rating="1" data-half="0.5">
+                            <span class="full-star">★</span>
+                            <span class="half-star hidden absolute left-0 overflow-hidden" style="width: 50%;">★</span>
+                        </button>
+                        <button class="rating-star text-5xl text-[#4b3f38] transition-colors relative group" data-rating="2" data-half="1.5">
+                            <span class="full-star">★</span>
+                            <span class="half-star hidden absolute left-0 overflow-hidden" style="width: 50%;">★</span>
+                        </button>
+                        <button class="rating-star text-5xl text-[#4b3f38] transition-colors relative group" data-rating="3" data-half="2.5">
+                            <span class="full-star">★</span>
+                            <span class="half-star hidden absolute left-0 overflow-hidden" style="width: 50%;">★</span>
+                        </button>
+                        <button class="rating-star text-5xl text-[#4b3f38] transition-colors relative group" data-rating="4" data-half="3.5">
+                            <span class="full-star">★</span>
+                            <span class="half-star hidden absolute left-0 overflow-hidden" style="width: 50%;">★</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Profile Ratings (Circles) -->
+            <div class="space-y-6 mb-6">
+                <!-- Strength Rating -->
+                <div class="profile-rating">
+
+                    <div class="flex flex-col items-center gap-2">
+                        <div class="strength-circles flex gap-2">
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Extremely Mild"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Very Mild"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Mild"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Mild to Medium"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Medium"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Medium to Strong"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Strong"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Very Strong"
+                            ></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
+                                data-rating="Extremely Strong"
+                            ></button>
+                        </div>
+                        <div class="text-center text-sm text-[#BFB0A3]" id="strengthLabel">Select strength</div>
+                    </div>
+                </div>
+
+                <!-- Taste Rating -->
+                <div class="profile-rating">
+
+                    <div class="flex justify-center">
+                        <div class="taste-circles flex gap-2">
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extremely Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Mild to Medium"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Medium"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Medium to Full"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Full"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Full"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extra Full"></button>
+                        </div>
+                    </div>
+                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="tasteLabel">Select taste</div>
+                </div>
+
+                <!-- Flavoring Rating -->
+                <div class="profile-rating">
+
+                    <div class="flex justify-center">
+                        <div class="flavoring-circles flex gap-2">
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="None Detected"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extremely Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Mild"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Mild to Medium"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Medium"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Medium to Strong"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Strong"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Strong"></button>
+                        </div>
+                    </div>
+                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="flavoringLabel">Select flavoring</div>
+                </div>
+
+                <!-- Room Note Rating -->
+                <div class="profile-rating">
+
+                    <div class="flex justify-center">
+                        <div class="room-note-circles flex gap-2">  <!-- Changed from roomnote-circles -->
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Unnoticeable"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Pleasant"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Pleasant"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Pleasant to Tolerable"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Tolerable"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Tolerable to Strong"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Strong"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Strong"></button>
+                            <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extra Strong"></button>
+                        </div>
+                    </div>
+                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="roomNoteLabel">Select room note</div>
+                </div>
+            </div>
+
+            <div class="flex justify-end gap-3">
+                <button id="cancelRating" class="px-4 py-2 rounded bg-[#42332E] hover:bg-[#312926] transition-colors text-[#BFB0A3]">Cancel</button>
+                <button id="submitRating" class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65] transition-colors text-[#BFB0A3] disabled:opacity-50 disabled:cursor-not-allowed" disabled>Submit</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rating Success Modal -->
+    <div id="ratingSuccessModal" class="hidden fixed inset-0 bg-black bg-opacity-70 z-[70] flex items-center justify-center">
+        <div class="bg-[#362C29] rounded-xl p-6 max-w-md w-full mx-4">
+            <div class="text-center">
+                <svg class="w-16 h-16 text-green-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+                <h3 class="text-xl font-semibold mb-4 text-[#C89F65]">Rating Submitted!</h3>
+                <p class="text-[#BFB0A3] mb-6">Thank you for rating this blend.</p>
+                <button id="closeRatingSuccess" class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65] transition-colors text-[#BFB0A3]">Close</button>
+            </div>
+        </div>
     </div>
 
     <!-- Name Input Popup -->
@@ -2499,6 +2678,220 @@
                 }
             };
         }
+
+        // Add this to your existing script section
+        let currentBlendForRating = null;
+        let selectedRating = 0;
+
+        // Rating UI functionality
+        function initRatingUI() {
+            const ratingModal = document.getElementById('ratingModal');
+            const stars = document.querySelectorAll('.rating-star');
+            const submitButton = document.getElementById('submitRating');
+            const cancelButton = document.getElementById('cancelRating');
+            const successModal = document.getElementById('ratingSuccessModal');
+            const closeSuccessButton = document.getElementById('closeRatingSuccess');
+            
+            // Remove this line since we're using the outer selectedRating
+            // let selectedRating = 0;
+            
+            let profileRatings = {
+                strength: '',
+                taste: '',
+                flavoring: '',
+                roomNote: ''
+            };
+
+            function resetRatingUI() {
+                // Reset stars
+                stars.forEach(star => {
+                    // Reset both full and half stars
+                    star.querySelector('.full-star').classList.remove('text-[#C89F65]');
+                    star.querySelector('.half-star').classList.remove('text-[#C89F65]');
+                    star.querySelector('.half-star').classList.add('hidden');
+                });
+                window.selectedRating = 0;  // Use window.selectedRating
+                
+                // Reset profile circles
+                document.querySelectorAll('.profile-circle').forEach(circle => {
+                    circle.classList.remove('bg-[#C89F65]');
+                    circle.classList.add('bg-[#4b3f38]');
+                });
+
+                // Reset labels
+                document.getElementById('strengthLabel').textContent = 'Select strength';
+                document.getElementById('tasteLabel').textContent = 'Select taste';
+                document.getElementById('flavoringLabel').textContent = 'Select flavoring';
+                document.getElementById('roomNoteLabel').textContent = 'Select room note';
+
+                // Reset profile ratings
+                profileRatings = {
+                    strength: '',
+                    taste: '',
+                    flavoring: '',
+                    roomNote: ''
+                };
+
+                submitButton.disabled = true;
+            }
+
+            // Star rating handlers
+            stars.forEach(star => {
+                let isHalfStar = false;
+                
+                star.addEventListener('click', (e) => {
+                    const fullRating = parseFloat(e.currentTarget.dataset.rating);
+                    const halfRating = parseFloat(e.currentTarget.dataset.half);
+                    
+                    // If clicking the same star again, toggle between full and half
+                    if (window.selectedRating === fullRating) {
+                        isHalfStar = true;
+                        window.selectedRating = halfRating;
+                    } else {
+                        isHalfStar = false;
+                        window.selectedRating = fullRating;
+                    }
+                    
+                    // Update star colors
+                    stars.forEach(s => {
+                        const starRating = parseFloat(s.dataset.rating);
+                        const halfStarValue = parseFloat(s.dataset.half);
+                        
+                        // Reset both full and half stars
+                        s.querySelector('.full-star').classList.remove('text-[#C89F65]');
+                        s.querySelector('.half-star').classList.add('hidden');
+                        
+                        if (starRating <= window.selectedRating) {
+                            s.querySelector('.full-star').classList.add('text-[#C89F65]');
+                        } else if (halfStarValue === window.selectedRating) {
+                            s.querySelector('.half-star').classList.remove('hidden');
+                            s.querySelector('.half-star').classList.add('text-[#C89F65]');
+                        }
+                    });
+                    
+                    checkSubmitButton();
+                });
+            });
+
+            // Profile rating handlers
+            ['strength', 'taste', 'flavoring', 'roomNote'].forEach(type => {
+                const className = type.replace(/([A-Z])/g, '-$1').toLowerCase();
+                const circles = document.querySelectorAll(`.${className}-circles .profile-circle`);
+                const label = document.getElementById(`${type}Label`);
+                
+                circles.forEach(circle => {
+                    // Remove position setting since we're not using pseudo-element tooltips
+                    // circle.style.position = 'static';
+                    
+                    circle.addEventListener('click', (e) => {
+                        // Reset all circles in this category
+                        circles.forEach(c => {
+                            c.classList.remove('bg-[#C89F65]');
+                            c.classList.add('bg-[#4b3f38]');
+                        });
+
+                        // Set selected circle
+                        circle.classList.remove('bg-[#4b3f38]');
+                        circle.classList.add('bg-[#C89F65]');
+
+                        // Update profile rating
+                        profileRatings[type] = circle.dataset.rating;
+                        
+                        // Update label
+                        label.textContent = circle.dataset.rating;
+
+                        checkSubmitButton();
+                    });
+
+                    // Add hover handlers
+                    circle.addEventListener('mouseover', () => {
+                        label.textContent = circle.dataset.rating;
+                    });
+
+                    circle.addEventListener('mouseout', () => {
+                        // If this circle is selected, keep its text, otherwise reset
+                        const selectedCircle = Array.from(circles).find(c => c.classList.contains('bg-[#C89F65]'));
+                        label.textContent = selectedCircle ? selectedCircle.dataset.rating : `Select ${type.toLowerCase()}`;
+                    });
+                });
+            });
+
+            function checkSubmitButton() {
+                // Check if overall rating is set
+                const hasOverallRating = window.selectedRating > 0;
+                
+                // Check if all profile ratings are set
+                const hasAllProfileRatings = Object.values(profileRatings).every(v => v !== '');
+                
+                // Enable submit only if both conditions are met
+                submitButton.disabled = !(hasOverallRating && hasAllProfileRatings);
+            }
+
+            submitButton.addEventListener('click', async () => {
+                if (!window.currentBlendForRating || !window.selectedRating) return;  // Use window.selectedRating
+
+                try {
+                    const response = await fetch('https://ratings.decombust.workers.dev', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            blendId: window.currentBlendForRating,
+                            rating: window.selectedRating,  // Use window.selectedRating
+                            profiles: profileRatings,
+                            timestamp: new Date().toISOString()
+                        })
+                    });
+
+                    if (response.ok) {
+                        ratingModal.classList.add('hidden');
+                        successModal.classList.remove('hidden');
+                        resetRatingUI();
+                    } else {
+                        throw new Error('Failed to submit rating');
+                    }
+                } catch (error) {
+                    console.error('Error submitting rating:', error);
+                    alert('Failed to submit rating. Please try again later.');
+                }
+            });
+
+            cancelButton.addEventListener('click', () => {
+                ratingModal.classList.add('hidden');
+                resetRatingUI();
+            });
+
+            closeSuccessButton.addEventListener('click', () => {
+                successModal.classList.add('hidden');
+            });
+        }
+
+        // Initialize rating UI when document loads
+        document.addEventListener('DOMContentLoaded', initRatingUI);
+
+        // Modify your existing popup opening code to add the rating button
+        function renderBlendPopup(blendData) {
+            // ... your existing popup content ...
+            
+            // Add rating button
+            const ratingButton = document.createElement('button');
+            ratingButton.className = 'mt-4 px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65] transition-colors text-[#BFB0A3]';
+            ratingButton.textContent = 'Rate this blend';
+            ratingButton.addEventListener('click', () => {
+                currentBlendForRating = blendData.id; // or whatever identifies your blend
+                document.getElementById('ratingModal').classList.remove('hidden');
+            });
+            
+            popupContent.appendChild(ratingButton);
+        }
+
+        // At the top of your script section, add this to make it globally available
+        window.initializeRatingUI = function(blendName) {
+            document.getElementById('ratingModalTitle').textContent = `Rate ${blendName}`;
+        };
+
+        // Then update the button onclick in popup.js to use the proper method:
     </script>
     <script>
         // Function to handle favicon shake behavior

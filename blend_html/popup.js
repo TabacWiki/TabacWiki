@@ -328,8 +328,17 @@ async function renderBlendPopup(blendKey) {
                         </div>
 
                         <!-- Blend Details Section -->
-                        <div class="bg-[#161413]/20 rounded-xl p-6 backdrop-blur-sm w-full">
-                            <h3 class="font-semibold mb-6 text-[#BDAE9F] text-lg">Blend Details</h3>
+                        <div class="bg-[#161413]/20 rounded-xl p-6 backdrop-blur-sm w-full relative">
+                            <div class="flex justify-between items-center mb-6">
+                                <h3 class="font-semibold text-[#BDAE9F] text-lg">Blend Details</h3>
+                                <button 
+                                    class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65] transition-colors text-[#BFB0A3] flex items-center gap-2"
+                                    id="rateBlendButton"
+                                >
+                                    <span class="text-[#C89F65]">★</span>
+                                    Rate this blend
+                                </button>
+                            </div>
                             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm sm:text-base">
                                 <div class="bg-[#362C29]/20 rounded-lg px-4 py-3 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4 order-6 sm:order-none">
                                     <span class="text-[#BFB0A3]/70">Blend Type</span>
@@ -463,6 +472,13 @@ async function renderBlendPopup(blendKey) {
             } else {
                 scaleElement.innerHTML = '<span class="text-[#BFB0A3] text-sm">No rating available</span>';
             }
+        });
+
+        // Add the event listener after creating the button
+        document.getElementById('rateBlendButton').addEventListener('click', () => {
+            document.getElementById('ratingModal').classList.remove('hidden');
+            window.currentBlendForRating = blend.filename;
+            window.initializeRatingUI(blend.name);
         });
     } catch (innerError) {
         console.error('Error loading blend data:', innerError);

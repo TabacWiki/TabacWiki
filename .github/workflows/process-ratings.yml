@@ -1,0 +1,28 @@
+name: Process Ratings
+
+on:
+  repository_dispatch:
+    types: [new_rating]
+
+jobs:
+  process-rating:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Process Rating
+        run: |
+          python .github/scripts/process_ratings.py "blend_data/${{ github.event.client_payload.blendId }}.json" '${{ toJson(github.event.client_payload) }}'
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add blend_data/
+          git commit -m "Update ratings for ${{ github.event.client_payload.blendId }}"
+          git push 
