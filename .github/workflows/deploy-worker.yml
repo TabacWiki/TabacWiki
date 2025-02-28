@@ -18,12 +18,10 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install Wrangler
-        run: npm install -g wrangler
-
       - name: Deploy Worker
         run: |
           cd workers/ratings
-          wrangler deploy index.js
+          npm install wrangler
+          npx wrangler publish
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }} 
