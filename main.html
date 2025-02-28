@@ -2828,17 +2828,18 @@
             }
 
             submitButton.addEventListener('click', async () => {
-                if (!window.currentBlendForRating || !window.selectedRating) return;  // Use window.selectedRating
+                if (!window.currentBlendForRating || !window.selectedRating) return;
 
                 try {
                     const response = await fetch('https://ratings.decombust.workers.dev', {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json',
+                            'Origin': 'https://tabac.wiki'
                         },
                         body: JSON.stringify({
                             blendId: window.currentBlendForRating,
-                            rating: window.selectedRating,  // Use window.selectedRating
+                            rating: window.selectedRating,
                             profiles: profileRatings,
                             timestamp: new Date().toISOString()
                         })
@@ -2849,6 +2850,7 @@
                         successModal.classList.remove('hidden');
                         resetRatingUI();
                     } else {
+                        console.error('Server response:', await response.text());
                         throw new Error('Failed to submit rating');
                     }
                 } catch (error) {
