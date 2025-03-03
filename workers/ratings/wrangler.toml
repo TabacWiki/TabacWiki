@@ -9,6 +9,11 @@ compatibility_flags = ["nodejs_compat"]
 ENVIRONMENT = "production"
 GITHUB_TOKEN = ""  # Value will be set in Cloudflare dashboard
 
+# KV Namespace binding
+[[kv_namespaces]]
+binding = "RATINGS_KV"
+id = "YOUR_KV_NAMESPACE_ID"  # Replace with your actual KV namespace ID from Cloudflare dashboard
+
 [triggers]
 crons = []
 

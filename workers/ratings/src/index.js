@@ -16,6 +16,7 @@ export default {
 
     if (request.method === "POST") {
       try {
+        const data = await request.json();
         const rating = await request.json();
         
         // Validate the rating data

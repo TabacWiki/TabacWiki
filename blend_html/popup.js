@@ -1067,3 +1067,38 @@ window.addEventListener('resize', () => {
         scalePopupContent();
     }
 });
+
+async function submitRating(blendKey, ratings) {
+    try {
+        console.log("Submitting rating for blend:", blendKey);
+        console.log("Rating data:", JSON.stringify(ratings));
+        
+        const response = await fetch('https://ratings.decombust.workers.dev', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                blendKey: blendKey,
+                ratings: ratings,
+                timestamp: new Date().toISOString()
+            })
+        });
+        
+        const result = await response.json();
+        console.log("Rating submission result:", result);
+        
+        if (response.ok) {
+            showNotification("Rating submitted successfully!", true);
+            return true;
+        } else {
+            console.error("Error submitting rating:", result.error || "Unknown error");
+            showNotification("Failed to submit rating: " + (result.error || "Unknown error"), false);
+            return false;
+        }
+    } catch (error) {
+        console.error("Exception when submitting rating:", error);
+        showNotification("Failed to submit rating: " + error.message, false);
+        return false;
+    }
+}
