@@ -12,7 +12,7 @@
         "cut": "Coarse Cut",
         "packaging": "Bulk",
         "flavoring": "Caramel,  Cocoa / Chocolate,  Coffee,  Maple,  Nuts / Beans",
-        "description": "A blend of Golden Cavendish and fire-cured Cavendish. It\u2019s a slow burner with a fine, crowd pleasing aroma",
+        "description": "A blend of Golden Cavendish and fire-cured Cavendish. It’s a slow burner with a fine, crowd pleasing aroma",
         "notes": "",
         "reviewCount": 3,
         "totalReviews": 3,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "mr.christian\u2019sraveneyeflake": {
-        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian\u2019s Raven Eye Flake.jpg",
-        "name": "Mr. Christian\u2019s Raven Eye Flake",
+    "mr.christian’sraveneyeflake": {
+        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian’s Raven Eye Flake.jpg",
+        "name": "Mr. Christian’s Raven Eye Flake",
         "blender": "Ken Byron Ventures",
         "blendedBy": "Ken Byron",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "bill\u2019sblend": {
-        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Bill\u2019s Blend.jpg",
-        "name": "Bill\u2019s Blend",
+    "bill’sblend": {
+        "imagePath": "../blend_pictures/The Country Squire Tobacconist - Bill’s Blend.jpg",
+        "name": "Bill’s Blend",
         "blender": "The Country Squire Tobacconist",
         "blendedBy": "John David Cole",
         "manufacturedBy": "The Country Squire Tobacconist",
@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "Bulk",
         "flavoring": "Other / Misc,  Vanilla",
-        "description": "The private blend of our late friend Bill Rutledge, now on the shelf as a permanent part of our lineup.  Bill was a fixture at The Country Squire for years and epitomized who we strive to be each day:  sophisticated, patient, welcoming, and kind.  He was always here to greet guests or to recommend tobaccos to new pipe smokers.  He was sharp, quirky, and hilarious\u2013and he was ours.\n\nBill\u2019s Blend is a sweet aromatic featuring confectionary notes of vanilla and marshmallow.  The room note is superb and will be a  treat for your companions.  Soft and creamy, this tobacco is easy to keep lit and gentle on the palate.  A true smoker-friendly, aromatic gem.\n\nBill\u2019s Blend has been a popular choice at The Squire for years as people would come in, smell Bill\u2019s pipe and ask for \u201cwhatever tobacco that guy is smoking\u201d.  We invite you to honor him with us while enjoying this excellent custom blend.",
+        "description": "The private blend of our late friend Bill Rutledge, now on the shelf as a permanent part of our lineup.  Bill was a fixture at The Country Squire for years and epitomized who we strive to be each day:  sophisticated, patient, welcoming, and kind.  He was always here to greet guests or to recommend tobaccos to new pipe smokers.  He was sharp, quirky, and hilarious–and he was ours.\n\nBill’s Blend is a sweet aromatic featuring confectionary notes of vanilla and marshmallow.  The room note is superb and will be a  treat for your companions.  Soft and creamy, this tobacco is easy to keep lit and gentle on the palate.  A true smoker-friendly, aromatic gem.\n\nBill’s Blend has been a popular choice at The Squire for years as people would come in, smell Bill’s pipe and ask for “whatever tobacco that guy is smoking”.  We invite you to honor him with us while enjoying this excellent custom blend.",
         "notes": "",
         "reviewCount": 4,
         "totalReviews": 4,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

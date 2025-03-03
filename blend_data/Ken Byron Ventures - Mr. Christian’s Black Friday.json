@@ -1,7 +1,7 @@
 {
-    "mr.christian\u2019sblackfriday": {
-        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian\u2019s Black Friday.jpg",
-        "name": "Mr. Christian\u2019s Black Friday",
+    "mr.christian’sblackfriday": {
+        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian’s Black Friday.jpg",
+        "name": "Mr. Christian’s Black Friday",
         "blender": "Ken Byron Ventures",
         "blendedBy": "Ken Byron",
         "manufacturedBy": "Ken Byron Ventures",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

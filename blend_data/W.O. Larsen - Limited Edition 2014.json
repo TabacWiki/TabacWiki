@@ -3,7 +3,7 @@
         "imagePath": "../blend_pictures/W.O. Larsen - Limited Edition 2014.jpg",
         "name": "Limited Edition 2014",
         "blender": "W.O. Larsen",
-        "blendedBy": "W.\u00d8 Larsen",
+        "blendedBy": "W.Ø Larsen",
         "manufacturedBy": "",
         "production": "No longer in production",
         "country": "Denmark",
@@ -12,7 +12,7 @@
         "cut": "Mixture",
         "packaging": "100 grams tin",
         "flavoring": "Fruit / Citrus",
-        "description": "For the year 2014, W.\u00d8. Larsen presents a refined mixture of different Virginia and Tennessee burley tobaccos in numerous cuts. The black cavendish has undergone a double fermentation process which emphasizes its mellow and sweet smoking experience. The composition is completed with various aromas supporting the intense passion fruit flavour.",
+        "description": "For the year 2014, W.Ø. Larsen presents a refined mixture of different Virginia and Tennessee burley tobaccos in numerous cuts. The black cavendish has undergone a double fermentation process which emphasizes its mellow and sweet smoking experience. The composition is completed with various aromas supporting the intense passion fruit flavour.",
         "notes": "Notes:2014 special edition from W.O. Larsen.",
         "reviewCount": 6,
         "totalReviews": 6,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 3,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

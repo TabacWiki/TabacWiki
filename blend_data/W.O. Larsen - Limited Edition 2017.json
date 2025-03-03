@@ -3,7 +3,7 @@
         "imagePath": "../blend_pictures/W.O. Larsen - Limited Edition 2017.jpg",
         "name": "Limited Edition 2017",
         "blender": "W.O. Larsen",
-        "blendedBy": "W.\u00d8 Larsen",
+        "blendedBy": "W.Ø Larsen",
         "manufacturedBy": "",
         "production": "No longer in production",
         "country": "Denmark",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

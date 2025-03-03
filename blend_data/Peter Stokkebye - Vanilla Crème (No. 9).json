@@ -1,7 +1,7 @@
 {
-    "vanillacr\u00e8me(no.9)": {
-        "imagePath": "../blend_pictures/Peter Stokkebye - Vanilla Cr\u00e8me (No. 9).jpg",
-        "name": "Vanilla Cr\u00e8me (No. 9)",
+    "vanillacrème(no.9)": {
+        "imagePath": "../blend_pictures/Peter Stokkebye - Vanilla Crème (No. 9).jpg",
+        "name": "Vanilla Crème (No. 9)",
         "blender": "Peter Stokkebye",
         "blendedBy": "",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 5,
+            "3half_star": 0,
             "3_star": 5,
+            "2half_star": 0,
             "2_star": 7,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

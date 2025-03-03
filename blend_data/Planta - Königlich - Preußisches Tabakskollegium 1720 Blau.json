@@ -1,7 +1,7 @@
 {
-    "k\u00f6niglich-preu\u00dfischestabakskollegium1720blau": {
-        "imagePath": "../blend_pictures/Planta - K\u00f6niglich - Preu\u00dfisches Tabakskollegium 1720 Blau.jpg",
-        "name": "K\u00f6niglich - Preu\u00dfisches Tabakskollegium 1720 Blau",
+    "königlich-preußischestabakskollegium1720blau": {
+        "imagePath": "../blend_pictures/Planta - Königlich - Preußisches Tabakskollegium 1720 Blau.jpg",
+        "name": "Königlich - Preußisches Tabakskollegium 1720 Blau",
         "blender": "Planta",
         "blendedBy": "Planta",
         "manufacturedBy": "Planta",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 2
+            "1half_star": 0,
+            "1_star": 2,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

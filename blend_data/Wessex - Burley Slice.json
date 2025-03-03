@@ -12,7 +12,7 @@
         "cut": "Flake",
         "packaging": "50 grams tin weight",
         "flavoring": "Licorice",
-        "description": "Return of original Richmond recipe, full flavored and nutty.\n\nThe tin now reads \u201cHigh quality Flake of 100% Burley.  A slow combustion with a pleasant liquorice taste.\u201d",
+        "description": "Return of original Richmond recipe, full flavored and nutty.\n\nThe tin now reads “High quality Flake of 100% Burley.  A slow combustion with a pleasant liquorice taste.”",
         "notes": "",
         "reviewCount": 67,
         "totalReviews": 75,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 33,
+            "3half_star": 0,
             "3_star": 26,
+            "2half_star": 0,
             "2_star": 13,
-            "1_star": 3
+            "1half_star": 0,
+            "1_star": 3,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

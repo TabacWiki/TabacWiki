@@ -1,7 +1,7 @@
 {
-    "\u00e4lplertabak": {
-        "imagePath": "../blend_pictures/Tabakfabrik Roth - \u00c4lplertabak.jpg",
-        "name": "\u00c4lplertabak",
+    "älplertabak": {
+        "imagePath": "../blend_pictures/Tabakfabrik Roth - Älplertabak.jpg",
+        "name": "Älplertabak",
         "blender": "Tabakfabrik Roth",
         "blendedBy": "Tabakfabrik Roth",
         "manufacturedBy": "Tabakfabrik Roth",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

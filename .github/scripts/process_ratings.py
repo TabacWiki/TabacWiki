@@ -36,11 +36,22 @@ def update_blend_ratings(blend_data, new_rating):
     blend_data['totalReviews'] += 1
     
     # Convert rating to star category
-    star_category = f"{int(new_rating['rating'])}_star"
+    rating_value = float(new_rating['rating'])
+    if rating_value % 1 == 0:
+        star_category = f"{int(rating_value)}_star"
+    else:
+        if rating_value < 1:
+            star_category = "half_star"
+        else:
+            star_category = f"{int(rating_value)}half_star"
+    
     blend_data['ratingDistribution'][star_category] += 1
     
     # Recalculate average rating
-    total_stars = sum(int(k[0]) * v for k, v in blend_data['ratingDistribution'].items())
+    total_stars = sum(
+        float(k.replace('half_star', '.5').replace('_star', '')) * v 
+        for k, v in blend_data['ratingDistribution'].items()
+    )
     blend_data['averageRating'] = round(total_stars / blend_data['totalReviews'], 2)
     
     # Update profile ratings

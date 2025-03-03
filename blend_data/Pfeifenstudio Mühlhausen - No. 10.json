@@ -1,8 +1,8 @@
 {
     "no.10": {
-        "imagePath": "../blend_pictures/Pfeifenstudio M\u00fchlhausen - No. 10.jpg",
+        "imagePath": "../blend_pictures/Pfeifenstudio Mühlhausen - No. 10.jpg",
         "name": "No. 10",
-        "blender": "Pfeifenstudio M\u00fchlhausen",
+        "blender": "Pfeifenstudio Mühlhausen",
         "blendedBy": "",
         "manufacturedBy": "",
         "production": "Currently available",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

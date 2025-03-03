@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "Bulk",
         "flavoring": "",
-        "description": "Ivan the Terrible is a Virginia/Perique with a massive serving of Louisiana\u2019s finest leaf drowned in a mixture of blood red Virginia.",
+        "description": "Ivan the Terrible is a Virginia/Perique with a massive serving of Louisiana’s finest leaf drowned in a mixture of blood red Virginia.",
         "notes": "",
         "reviewCount": 2,
         "totalReviews": 2,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 2,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

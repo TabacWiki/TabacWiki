@@ -1,7 +1,7 @@
 {
-    "vieuxcarr\u00e9": {
-        "imagePath": "../blend_pictures/Cornell & Diehl - Vieux Carr\u00e9.jpg",
-        "name": "Vieux Carr\u00e9",
+    "vieuxcarré": {
+        "imagePath": "../blend_pictures/Cornell & Diehl - Vieux Carré.jpg",
+        "name": "Vieux Carré",
         "blender": "Cornell & Diehl",
         "blendedBy": "Jeremy Reeves",
         "manufacturedBy": "Cornell & Diehl",
@@ -12,7 +12,7 @@
         "cut": "Flake",
         "packaging": "2oz Tin",
         "flavoring": "Whiskey",
-        "description": "Whether you're visiting Jackson Square or walking down colorful Bourbon Street, the charm of old New Orleans is all around you, in Vieux Carre.\n\nCommonly known as the French Quarter, it is the oldest district in New Orleans, as well as the inspiration behind this Cellar Series blend, first introduced in July, 2016 \u2014 a traditional English tobacco with a flavor every bit as complex as the Quarter's own diverse atmosphere.",
+        "description": "Whether you're visiting Jackson Square or walking down colorful Bourbon Street, the charm of old New Orleans is all around you, in Vieux Carre.\n\nCommonly known as the French Quarter, it is the oldest district in New Orleans, as well as the inspiration behind this Cellar Series blend, first introduced in July, 2016 — a traditional English tobacco with a flavor every bit as complex as the Quarter's own diverse atmosphere.",
         "notes": "",
         "reviewCount": 9,
         "totalReviews": 11,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 4,
+            "3half_star": 0,
             "3_star": 4,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "g\u00e9om\u00e9trie": {
-        "imagePath": "../blend_pictures/G. L. Pease - G\u00e9om\u00e9trie.jpg",
-        "name": "G\u00e9om\u00e9trie",
+    "géométrie": {
+        "imagePath": "../blend_pictures/G. L. Pease - Géométrie.jpg",
+        "name": "Géométrie",
         "blender": "G. L. Pease",
         "blendedBy": "G.L. Pease",
         "manufacturedBy": "Cornell & Diehl",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 4,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

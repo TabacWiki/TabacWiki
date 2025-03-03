@@ -1,7 +1,7 @@
 {
-    "hacker\u2019ssportingblend": {
-        "imagePath": "../blend_pictures/James B. Russell - Hacker\u2019s Sporting Blend.jpg",
-        "name": "Hacker\u2019s Sporting Blend",
+    "hacker’ssportingblend": {
+        "imagePath": "../blend_pictures/James B. Russell - Hacker’s Sporting Blend.jpg",
+        "name": "Hacker’s Sporting Blend",
         "blender": "James B. Russell",
         "blendedBy": "Lane Limited",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

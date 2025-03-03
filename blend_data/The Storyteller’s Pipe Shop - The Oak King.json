@@ -1,8 +1,8 @@
 {
     "theoakking": {
-        "imagePath": "../blend_pictures/The Storyteller\u2019s Pipe Shop - The Oak King.jpg",
+        "imagePath": "../blend_pictures/The Storyteller’s Pipe Shop - The Oak King.jpg",
         "name": "The Oak King",
-        "blender": "The Storyteller\u2019s Pipe Shop",
+        "blender": "The Storyteller’s Pipe Shop",
         "blendedBy": "Sean Faires",
         "manufacturedBy": "The Storyteller's Pipe Shop",
         "production": "Currently available",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

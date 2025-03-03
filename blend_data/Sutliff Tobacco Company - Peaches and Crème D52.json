@@ -1,7 +1,7 @@
 {
-    "peachesandcr\u00e8med52": {
-        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Peaches and Cr\u00e8me D52.jpg",
-        "name": "Peaches and Cr\u00e8me D52",
+    "peachesandcrèmed52": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Peaches and Crème D52.jpg",
+        "name": "Peaches and Crème D52",
         "blender": "Sutliff Tobacco Company",
         "blendedBy": "Sutliff Tobacco Company",
         "manufacturedBy": "Sutliff Tobacco Company",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 2,
+            "3half_star": 0,
             "3_star": 4,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

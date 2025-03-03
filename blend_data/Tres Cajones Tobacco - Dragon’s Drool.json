@@ -1,7 +1,7 @@
 {
-    "dragon\u2019sdrool": {
-        "imagePath": "../blend_pictures/Tres Cajones Tobacco - Dragon\u2019s Drool.jpg",
-        "name": "Dragon\u2019s Drool",
+    "dragon’sdrool": {
+        "imagePath": "../blend_pictures/Tres Cajones Tobacco - Dragon’s Drool.jpg",
+        "name": "Dragon’s Drool",
         "blender": "Tres Cajones Tobacco",
         "blendedBy": "",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

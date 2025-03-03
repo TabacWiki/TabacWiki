@@ -1,7 +1,7 @@
 {
-    "cr\u00e8mebrul\u00e9e": {
-        "imagePath": "../blend_pictures/Doctor Pipe - Cr\u00e8me Brul\u00e9e.jpg",
-        "name": "Cr\u00e8me Brul\u00e9e",
+    "crèmebrulée": {
+        "imagePath": "../blend_pictures/Doctor Pipe - Crème Brulée.jpg",
+        "name": "Crème Brulée",
         "blender": "Doctor Pipe",
         "blendedBy": "AJF",
         "manufacturedBy": "Tabacco Way",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

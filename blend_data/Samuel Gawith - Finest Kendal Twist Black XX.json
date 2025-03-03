@@ -5,7 +5,7 @@
         "blender": "Samuel Gawith",
         "blendedBy": "Samuel Gawith",
         "manufacturedBy": "Samuel Gawith",
-        "production": "Dispon\u00edvel atualmente",
+        "production": "Disponível atualmente",
         "country": "United Kingdom",
         "blendType": "Straight Virginia",
         "contents": "Virginia",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 7,
+            "3half_star": 0,
             "3_star": 6,
+            "2half_star": 0,
             "2_star": 7,
-            "1_star": 14
+            "1half_star": 0,
+            "1_star": 14,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

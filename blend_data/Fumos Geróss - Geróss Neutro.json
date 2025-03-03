@@ -1,8 +1,8 @@
 {
-    "ger\u00f3ssneutro": {
-        "imagePath": "../blend_pictures/Fumos Ger\u00f3ss - Ger\u00f3ss Neutro.jpg",
-        "name": "Ger\u00f3ss Neutro",
-        "blender": "Fumos Ger\u00f3ss",
+    "geróssneutro": {
+        "imagePath": "../blend_pictures/Fumos Geróss - Geróss Neutro.jpg",
+        "name": "Geróss Neutro",
+        "blender": "Fumos Geróss",
         "blendedBy": "",
         "manufacturedBy": "",
         "production": "Currently available",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

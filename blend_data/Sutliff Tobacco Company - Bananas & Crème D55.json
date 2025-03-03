@@ -1,7 +1,7 @@
 {
-    "bananas&cr\u00e8med55": {
-        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Bananas & Cr\u00e8me D55.jpg",
-        "name": "Bananas & Cr\u00e8me D55",
+    "bananas&crèmed55": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Bananas & Crème D55.jpg",
+        "name": "Bananas & Crème D55",
         "blender": "Sutliff Tobacco Company",
         "blendedBy": "Carl McCallister",
         "manufacturedBy": "Sutliff Tobacco Company",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

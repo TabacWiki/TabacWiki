@@ -340,28 +340,9 @@
             position: relative;
         }
 
+        /* Remove the tooltip styles */
         .profile-circle::before {
-            content: attr(data-rating);
-            position: absolute;
-            bottom: calc(100% + 8px);
-            left: 50%;
-            transform: translateX(-50%);
-            background-color: #362C29;
-            color: #BFB0A3;
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            white-space: nowrap;
-            opacity: 0;
-            visibility: hidden;
-            transition: opacity 0.2s, visibility 0.2s;
-            pointer-events: none;
-            z-index: 10;
-        }
-
-        .profile-circle:hover::before {
-            opacity: 1;
-            visibility: visible;
+            display: none;
         }
     </style>
 </head>
@@ -1085,11 +1066,11 @@
             <div class="space-y-6 mb-6">
                 <!-- Strength Rating -->
                 <div class="profile-rating">
-
-                    <div class="flex flex-col items-center gap-2">
+                    <div class="flex flex-col items-center">
                         <div class="strength-circles flex gap-2">
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
-                                data-rating="Extremely Mild"
+                                data-rating="Extremely Mild" 
+                                aria-label="Extremely Mild"
                             ></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" 
                                 data-rating="Very Mild"
@@ -1116,14 +1097,13 @@
                                 data-rating="Extremely Strong"
                             ></button>
                         </div>
-                        <div class="text-center text-sm text-[#BFB0A3]" id="strengthLabel">Select strength</div>
+                        <div class="text-center text-sm text-[#BFB0A3] mt-2" id="strengthLabel">Select strength</div>
                     </div>
                 </div>
 
                 <!-- Taste Rating -->
                 <div class="profile-rating">
-
-                    <div class="flex justify-center">
+                    <div class="flex flex-col items-center">
                         <div class="taste-circles flex gap-2">
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extremely Mild"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Mild"></button>
@@ -1135,14 +1115,13 @@
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Full"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extra Full"></button>
                         </div>
+                        <div class="text-center text-sm text-[#BFB0A3] mt-2" id="tasteLabel">Select taste</div>
                     </div>
-                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="tasteLabel">Select taste</div>
                 </div>
 
                 <!-- Flavoring Rating -->
                 <div class="profile-rating">
-
-                    <div class="flex justify-center">
+                    <div class="flex flex-col items-center">
                         <div class="flavoring-circles flex gap-2">
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="None Detected"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extremely Mild"></button>
@@ -1154,15 +1133,14 @@
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Strong"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Strong"></button>
                         </div>
+                        <div class="text-center text-sm text-[#BFB0A3] mt-2" id="flavoringLabel">Select flavoring</div>
                     </div>
-                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="flavoringLabel">Select flavoring</div>
                 </div>
 
                 <!-- Room Note Rating -->
                 <div class="profile-rating">
-
-                    <div class="flex justify-center">
-                        <div class="room-note-circles flex gap-2">  <!-- Changed from roomnote-circles -->
+                    <div class="flex flex-col items-center">
+                        <div class="room-note-circles flex gap-2">
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Unnoticeable"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Pleasant"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Pleasant"></button>
@@ -1173,8 +1151,8 @@
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Very Strong"></button>
                             <button class="profile-circle w-6 h-6 rounded-full bg-[#4b3f38] hover:bg-[#C89F65] transition-colors" data-rating="Extra Strong"></button>
                         </div>
+                        <div class="text-center text-sm text-[#BFB0A3] mt-2" id="roomNoteLabel">Select room note</div>
                     </div>
-                    <div class="text-center mt-2 text-sm text-[#BFB0A3]" id="roomNoteLabel">Select room note</div>
                 </div>
             </div>
 
@@ -2921,7 +2899,7 @@
 
         // At the top of your script section, add this to make it globally available
         window.initializeRatingUI = function(blendName) {
-            document.getElementById('ratingModalTitle').textContent = `Rate ${blendName}`;
+            document.getElementById('ratingModalTitle').textContent = `Rating for ${blendName}`;
         };
 
         // Then update the button onclick in popup.js to use the proper method:

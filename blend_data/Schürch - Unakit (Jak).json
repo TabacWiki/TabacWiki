@@ -1,8 +1,8 @@
 {
     "unakit(jak)": {
-        "imagePath": "../blend_pictures/Sch\u00fcrch - Unakit (Jak).jpg",
+        "imagePath": "../blend_pictures/Schürch - Unakit (Jak).jpg",
         "name": "Unakit (Jak)",
-        "blender": "Sch\u00fcrch",
+        "blender": "Schürch",
         "blendedBy": "Hans Schurch",
         "manufacturedBy": "",
         "production": "Currently available",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

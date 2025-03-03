@@ -1,9 +1,9 @@
 {
     "americanmixture": {
-        "imagePath": "../blend_pictures/Tr\u00e9bol - American Mixture.jpg",
+        "imagePath": "../blend_pictures/Trébol - American Mixture.jpg",
         "name": "American Mixture",
-        "blender": "Tr\u00e9bol",
-        "blendedBy": "Tr\u00e9bol",
+        "blender": "Trébol",
+        "blendedBy": "Trébol",
         "manufacturedBy": "Global Tobacco",
         "production": "Currently available",
         "country": "Unknown",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

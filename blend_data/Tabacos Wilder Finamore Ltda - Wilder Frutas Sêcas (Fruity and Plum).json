@@ -1,7 +1,7 @@
 {
-    "wilderfrutass\u00eacas(fruityandplum)": {
-        "imagePath": "../blend_pictures/Tabacos Wilder Finamore Ltda - Wilder Frutas S\u00eacas (Fruity and Plum).jpg",
-        "name": "Wilder Frutas S\u00eacas (Fruity and Plum)",
+    "wilderfrutassêcas(fruityandplum)": {
+        "imagePath": "../blend_pictures/Tabacos Wilder Finamore Ltda - Wilder Frutas Sêcas (Fruity and Plum).jpg",
+        "name": "Wilder Frutas Sêcas (Fruity and Plum)",
         "blender": "Tabacos Wilder Finamore Ltda",
         "blendedBy": "Samuel Finamore",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

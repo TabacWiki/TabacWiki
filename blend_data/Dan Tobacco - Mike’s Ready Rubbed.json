@@ -1,7 +1,7 @@
 {
-    "mike\u2019sreadyrubbed": {
-        "imagePath": "../blend_pictures/Dan Tobacco - Mike\u2019s Ready Rubbed.jpg",
-        "name": "Mike\u2019s Ready Rubbed",
+    "mike’sreadyrubbed": {
+        "imagePath": "../blend_pictures/Dan Tobacco - Mike’s Ready Rubbed.jpg",
+        "name": "Mike’s Ready Rubbed",
         "blender": "Dan Tobacco",
         "blendedBy": "Michael Apitz",
         "manufacturedBy": "Dan Tobacco",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

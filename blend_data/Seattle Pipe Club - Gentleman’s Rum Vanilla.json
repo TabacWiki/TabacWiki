@@ -1,7 +1,7 @@
 {
-    "gentleman\u2019srumvanilla": {
-        "imagePath": "../blend_pictures/Seattle Pipe Club - Gentleman\u2019s Rum Vanilla.jpg",
-        "name": "Gentleman\u2019s Rum Vanilla",
+    "gentleman’srumvanilla": {
+        "imagePath": "../blend_pictures/Seattle Pipe Club - Gentleman’s Rum Vanilla.jpg",
+        "name": "Gentleman’s Rum Vanilla",
         "blender": "Seattle Pipe Club",
         "blendedBy": "",
         "manufacturedBy": "Sutliff Tobacco Company",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 2
+            "1half_star": 0,
+            "1_star": 2,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

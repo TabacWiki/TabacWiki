@@ -12,7 +12,7 @@
         "cut": "Coarse Cut",
         "packaging": "1.5oz Tin, 8oz Tin, Bulk",
         "flavoring": "Blackberry,  Blackcurrant,  Other / Misc",
-        "description": "Green River Burley and toasted black Cavendish are steamed with the essence of wild berries, black currant and blackberries \u2014 this is a very fine aromatic that will be a crowd-pleaser.",
+        "description": "Green River Burley and toasted black Cavendish are steamed with the essence of wild berries, black currant and blackberries — this is a very fine aromatic that will be a crowd-pleaser.",
         "notes": "",
         "reviewCount": 14,
         "totalReviews": 16,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 5,
+            "3half_star": 0,
             "3_star": 4,
+            "2half_star": 0,
             "2_star": 4,
-            "1_star": 3
+            "1half_star": 0,
+            "1_star": 3,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -387,10 +387,10 @@ async function renderBlendPopup(blendKey) {
                             <div class="flex justify-between items-center mb-6">
                                 <h3 class="font-semibold text-[#BDAE9F] text-lg">Profile Ratings</h3>
                                 <button 
-                                    class="px-4 py-2 rounded bg-[#53403A] hover:bg-[#C89F65]/50 transition-colors text-[#BFB0A3] flex items-center gap-2"
+                                    class="px-4 py-2 rounded bg-[#362C29] hover:bg-[#53403A] transition-colors text-[#BFB0A3] flex items-center gap-2 border border-[#53403A]"
                                     id="rateBlendButton"
                                 >
-                                    <span class="text-[#C89F65]">★</span>
+                                    <span class="text-[#aa8a3f]">★</span>
                                     Submit A Rating
                                 </button>
                             </div>                            
@@ -482,6 +482,105 @@ async function renderBlendPopup(blendKey) {
             window.currentBlendForRating = blend.filename;
             window.initializeRatingUI(blend.name);
         });
+
+        // Star rating handlers
+        const stars = document.querySelectorAll('.rating-star');  // Changed from .star to .rating-star
+        window.selectedRating = 0;  // Initialize with 0
+        const submitButton = document.getElementById('submitRating');
+        window.profileRatings = {
+            strength: '',
+            taste: '',
+            flavoring: '',
+            roomNote: ''
+        };
+
+        function checkSubmitButton() {
+            // Check if we have both a star rating and all profile ratings
+            const hasStarRating = window.selectedRating > 0;
+            const hasAllProfileRatings = Object.values(window.profileRatings).every(v => v !== '');
+            
+            // Enable submit only if both conditions are met
+            if (submitButton) {
+                submitButton.disabled = !(hasStarRating && hasAllProfileRatings);
+            }
+        }
+
+        stars.forEach(star => {
+            star.addEventListener('click', (e) => {
+                const rect = e.currentTarget.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const isLeftHalf = x < rect.width / 2;
+                const fullRating = parseFloat(e.currentTarget.dataset.rating);
+                const halfRating = parseFloat(e.currentTarget.dataset.half);
+                
+                // Set rating based on which half was clicked
+                window.selectedRating = isLeftHalf ? halfRating : fullRating;
+                
+                updateStarDisplay(window.selectedRating);
+                checkSubmitButton();
+            });
+
+            // Add hover effect
+            star.addEventListener('mousemove', (e) => {
+                e.preventDefault();
+                const rect = e.currentTarget.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const isLeftHalf = x < rect.width / 2;
+                const fullRating = parseFloat(e.currentTarget.dataset.rating);
+                const halfRating = parseFloat(e.currentTarget.dataset.half);
+                
+                // Show preview based on hover position
+                const previewRating = isLeftHalf ? halfRating : fullRating;
+                updateStarDisplay(previewRating, true);
+            });
+
+            star.addEventListener('mouseleave', () => {
+                updateStarDisplay(window.selectedRating);
+            });
+        });
+
+        function updateStarDisplay(rating, isPreview = false) {
+            stars.forEach(s => {
+                const starRating = parseFloat(s.dataset.rating);
+                const halfStarValue = parseFloat(s.dataset.half);
+                const fullStar = s.querySelector('.full-star');
+                const halfStar = s.querySelector('.half-star');
+                
+                // Reset both full and half stars
+                fullStar.classList.remove('text-[#C89F65]');
+                halfStar.classList.add('hidden');
+                halfStar.classList.remove('text-[#C89F65]');
+                
+                if (starRating <= rating) {
+                    // Full star
+                    fullStar.classList.add('text-[#C89F65]');
+                    if (isPreview) {
+                        fullStar.style.opacity = '0.7';
+                    } else {
+                        fullStar.style.opacity = '1';
+                    }
+                } else if (halfStarValue === rating) {
+                    // Half star
+                    halfStar.classList.remove('hidden');
+                    halfStar.classList.add('text-[#C89F65]');
+                    if (isPreview) {
+                        halfStar.style.opacity = '0.7';
+                    } else {
+                        halfStar.style.opacity = '1';
+                    }
+                }
+
+                // Handle stars before the current rating
+                if (starRating < rating) {
+                    fullStar.classList.add('text-[#C89F65]');
+                    if (isPreview) {
+                        fullStar.style.opacity = '0.7';
+                    } else {
+                        fullStar.style.opacity = '1';
+                    }
+                }
+            });
+        }
     } catch (innerError) {
         console.error('Error loading blend data:', innerError);
         popupContent.innerHTML = `

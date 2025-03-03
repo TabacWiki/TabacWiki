@@ -1,7 +1,7 @@
 {
-    "candidogiovanellahortel\u00e3(mint)": {
-        "imagePath": "../blend_pictures/Imigrantes Ind. e Com. de Fumos Ltda - Candido Giovanella Hortel\u00e3 (Mint).jpg",
-        "name": "Candido Giovanella Hortel\u00e3 (Mint)",
+    "candidogiovanellahortelã(mint)": {
+        "imagePath": "../blend_pictures/Imigrantes Ind. e Com. de Fumos Ltda - Candido Giovanella Hortelã (Mint).jpg",
+        "name": "Candido Giovanella Hortelã (Mint)",
         "blender": "Imigrantes Ind. e Com. de Fumos Ltda",
         "blendedBy": "Candido Giovanella",
         "manufacturedBy": "Imigrantes",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

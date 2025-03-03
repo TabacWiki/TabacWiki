@@ -1,7 +1,7 @@
 {
-    "4thgeneration:maxerik\u2019sblend1989": {
-        "imagePath": "../blend_pictures/Erik Stokkebye - 4th Generation: Max Erik\u2019s Blend 1989.jpg",
-        "name": "4th Generation: Max Erik\u2019s Blend 1989",
+    "4thgeneration:maxerik’sblend1989": {
+        "imagePath": "../blend_pictures/Erik Stokkebye - 4th Generation: Max Erik’s Blend 1989.jpg",
+        "name": "4th Generation: Max Erik’s Blend 1989",
         "blender": "Erik Stokkebye",
         "blendedBy": "Erik Stokkebye",
         "manufacturedBy": "Scandinavian Tobacco Group",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

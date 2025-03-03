@@ -1,7 +1,7 @@
 {
-    "brigham\u2019sown": {
-        "imagePath": "../blend_pictures/Mr. B's - Brigham\u2019s Own.jpg",
-        "name": "Brigham\u2019s Own",
+    "brigham’sown": {
+        "imagePath": "../blend_pictures/Mr. B's - Brigham’s Own.jpg",
+        "name": "Brigham’s Own",
         "blender": "Mr. B's",
         "blendedBy": "",
         "manufacturedBy": "Brigham Enterprises Inc.",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 5,
+            "3half_star": 0,
             "3_star": 7,
+            "2half_star": 0,
             "2_star": 4,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

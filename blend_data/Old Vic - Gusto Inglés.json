@@ -1,7 +1,7 @@
 {
-    "gustoingl\u00e9s": {
-        "imagePath": "../blend_pictures/Old Vic - Gusto Ingl\u00e9s.jpg",
-        "name": "Gusto Ingl\u00e9s",
+    "gustoinglés": {
+        "imagePath": "../blend_pictures/Old Vic - Gusto Inglés.jpg",
+        "name": "Gusto Inglés",
         "blender": "Old Vic",
         "blendedBy": "",
         "manufacturedBy": "Arimex importadora",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

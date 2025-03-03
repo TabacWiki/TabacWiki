@@ -12,7 +12,7 @@
         "cut": "Coarse Cut",
         "packaging": "Bulk",
         "flavoring": "Fruit / Citrus,  Honey,  Vanilla",
-        "description": "From Pipes&Cigars website: Dark Honey Berry is a not-too-sweet blend made with superb quality Green River Black sweetened with notes of creamy vanilla, smooth honey and an interesting berry essence. The aroma is outstanding, and it\u2019s cool enough to smoke all day long.",
+        "description": "From Pipes&Cigars website: Dark Honey Berry is a not-too-sweet blend made with superb quality Green River Black sweetened with notes of creamy vanilla, smooth honey and an interesting berry essence. The aroma is outstanding, and it’s cool enough to smoke all day long.",
         "notes": "",
         "reviewCount": 5,
         "totalReviews": 5,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 2
+            "1half_star": 0,
+            "1_star": 2,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

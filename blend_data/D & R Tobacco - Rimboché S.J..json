@@ -1,7 +1,7 @@
 {
-    "rimboch\u00e9s.j.": {
-        "imagePath": "../blend_pictures/D & R Tobacco - Rimboch\u00e9 S.J..jpg",
-        "name": "Rimboch\u00e9 S.J.",
+    "rimbochés.j.": {
+        "imagePath": "../blend_pictures/D & R Tobacco - Rimboché S.J..jpg",
+        "name": "Rimboché S.J.",
         "blender": "D & R Tobacco",
         "blendedBy": "Mark Ryan",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 16,
+            "3half_star": 0,
             "3_star": 10,
+            "2half_star": 0,
             "2_star": 4,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -35,6 +35,18 @@ async function handleRequest(request) {
         });
       }
 
+      // Validate rating value (now allowing half stars)
+      const ratingValue = parseFloat(rating.rating);
+      if (isNaN(ratingValue) || ratingValue < 0.5 || ratingValue > 4 || (ratingValue * 2) % 1 !== 0) {
+        return new Response("Invalid rating value. Must be between 0.5 and 4 in half-star increments.", {
+          status: 400,
+          headers: {
+            "Access-Control-Allow-Origin": "https://tabac.wiki",
+            "Content-Type": "application/json"
+          }
+        });
+      }
+
       // For now, just trigger the GitHub workflow without storing in KV
       const githubResponse = await fetch(REPO_URL, {
         method: 'POST',

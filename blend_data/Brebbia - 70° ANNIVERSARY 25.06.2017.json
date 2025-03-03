@@ -1,7 +1,7 @@
 {
-    "70\u00b0anniversary25.06.2017": {
-        "imagePath": "../blend_pictures/Brebbia - 70\u00b0 ANNIVERSARY 25.06.2017.jpg",
-        "name": "70\u00b0 ANNIVERSARY 25.06.2017",
+    "70°anniversary25.06.2017": {
+        "imagePath": "../blend_pictures/Brebbia - 70° ANNIVERSARY 25.06.2017.jpg",
+        "name": "70° ANNIVERSARY 25.06.2017",
         "blender": "Brebbia",
         "blendedBy": "Planta",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 3,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

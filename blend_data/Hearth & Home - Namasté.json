@@ -1,7 +1,7 @@
 {
-    "namast\u00e9": {
-        "imagePath": "../blend_pictures/Hearth & Home - Namast\u00e9.jpg",
-        "name": "Namast\u00e9",
+    "namasté": {
+        "imagePath": "../blend_pictures/Hearth & Home - Namasté.jpg",
+        "name": "Namasté",
         "blender": "Hearth & Home",
         "blendedBy": "Russ Ouellette",
         "manufacturedBy": "Pipes & Cigars",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 2,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 3
+            "1half_star": 0,
+            "1_star": 3,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

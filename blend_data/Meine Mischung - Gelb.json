@@ -3,7 +3,7 @@
         "imagePath": "../blend_pictures/Meine Mischung - Gelb.jpg",
         "name": "Gelb",
         "blender": "Meine Mischung",
-        "blendedBy": "Arnold Andr\u00e9",
+        "blendedBy": "Arnold André",
         "manufacturedBy": "",
         "production": "Currently available",
         "country": "Denmark",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

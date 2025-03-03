@@ -12,7 +12,7 @@
         "cut": "Ready Rubbed",
         "packaging": "50 grams tin",
         "flavoring": "Other / Misc,  Vanilla",
-        "description": "The Original Blend of 1848. Bright Virginia leaf and rich black cavendish are the basis of this mixture which is mild but satisfying. The addition of a balanced proportion of Dubec Turkish and Louisiana perique enhance the blend to a position of elegance and quality. \n\nAs of 2022, the tin description is \u201cBright, fine rubbed Broken Virginia, black Cavendish and a hint of Perique.\u201d",
+        "description": "The Original Blend of 1848. Bright Virginia leaf and rich black cavendish are the basis of this mixture which is mild but satisfying. The addition of a balanced proportion of Dubec Turkish and Louisiana perique enhance the blend to a position of elegance and quality. \n\nAs of 2022, the tin description is “Bright, fine rubbed Broken Virginia, black Cavendish and a hint of Perique.”",
         "notes": "",
         "reviewCount": 21,
         "totalReviews": 24,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 6,
+            "3half_star": 0,
             "3_star": 3,
+            "2half_star": 0,
             "2_star": 7,
-            "1_star": 8
+            "1half_star": 0,
+            "1_star": 8,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

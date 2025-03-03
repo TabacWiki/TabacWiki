@@ -3,7 +3,7 @@
         "imagePath": "../blend_pictures/GBD - Old England Mixture.jpg",
         "name": "Old England Mixture",
         "blender": "GBD",
-        "blendedBy": "Petersen & S\u00f8rensen",
+        "blendedBy": "Petersen & Sørensen",
         "manufacturedBy": "Planta",
         "production": "No longer in production",
         "country": "Germany",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "matchwindsor\u00a0805": {
-        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Windsor\u00a0805.jpg",
-        "name": "Match Windsor\u00a0805",
+    "matchwindsor 805": {
+        "imagePath": "../blend_pictures/Sutliff Tobacco Company - Match Windsor 805.jpg",
+        "name": "Match Windsor 805",
         "blender": "Sutliff Tobacco Company",
         "blendedBy": "Carl McAllister",
         "manufacturedBy": "Sutliff Tobacco Company",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

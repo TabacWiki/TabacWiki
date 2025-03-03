@@ -1,7 +1,7 @@
 {
-    "jubil\u00e4um": {
-        "imagePath": "../blend_pictures/Hausmarken - Jubil\u00e4um.jpg",
-        "name": "Jubil\u00e4um",
+    "jubiläum": {
+        "imagePath": "../blend_pictures/Hausmarken - Jubiläum.jpg",
+        "name": "Jubiläum",
         "blender": "Hausmarken",
         "blendedBy": "",
         "manufacturedBy": "Kohlhase & Kopp",
@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "100g Tin",
         "flavoring": "",
-        "description": "Jubil\u00e4um (Jubilee in English) is a 10-year limited edition mixture of bright and dark Virginias, Black Cavendish and a whiff of nutty Burley.",
+        "description": "Jubiläum (Jubilee in English) is a 10-year limited edition mixture of bright and dark Virginias, Black Cavendish and a whiff of nutty Burley.",
         "notes": "Notes:Produced by K&K for Pipe-shop.net.",
         "reviewCount": 0,
         "totalReviews": 0,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

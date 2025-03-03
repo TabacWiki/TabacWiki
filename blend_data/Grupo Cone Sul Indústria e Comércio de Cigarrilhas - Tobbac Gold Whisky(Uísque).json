@@ -1,8 +1,8 @@
 {
-    "tobbacgoldwhisky(u\u00edsque)": {
-        "imagePath": "../blend_pictures/Grupo Cone Sul Ind\u00fastria e Com\u00e9rcio de Cigarrilhas - Tobbac Gold Whisky(U\u00edsque).jpg",
-        "name": "Tobbac Gold Whisky(U\u00edsque)",
-        "blender": "Grupo Cone Sul Ind\u00fastria e Com\u00e9rcio de Cigarrilhas",
+    "tobbacgoldwhisky(uísque)": {
+        "imagePath": "../blend_pictures/Grupo Cone Sul Indústria e Comércio de Cigarrilhas - Tobbac Gold Whisky(Uísque).jpg",
+        "name": "Tobbac Gold Whisky(Uísque)",
+        "blender": "Grupo Cone Sul Indústria e Comércio de Cigarrilhas",
         "blendedBy": "Conesul",
         "manufacturedBy": "",
         "production": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

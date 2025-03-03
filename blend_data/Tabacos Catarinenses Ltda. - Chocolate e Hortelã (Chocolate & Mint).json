@@ -1,7 +1,7 @@
 {
-    "chocolateehortel\u00e3(chocolate&mint)": {
-        "imagePath": "../blend_pictures/Tabacos Catarinenses Ltda. - Chocolate e Hortel\u00e3 (Chocolate & Mint).jpg",
-        "name": "Chocolate e Hortel\u00e3 (Chocolate & Mint)",
+    "chocolateehortelã(chocolate&mint)": {
+        "imagePath": "../blend_pictures/Tabacos Catarinenses Ltda. - Chocolate e Hortelã (Chocolate & Mint).jpg",
+        "name": "Chocolate e Hortelã (Chocolate & Mint)",
         "blender": "Tabacos Catarinenses Ltda.",
         "blendedBy": "Tabacos Catarinense",
         "manufacturedBy": "Tabacos Catarinense",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

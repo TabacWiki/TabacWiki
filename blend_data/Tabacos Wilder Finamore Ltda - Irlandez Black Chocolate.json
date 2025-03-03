@@ -5,9 +5,9 @@
         "blender": "Tabacos Wilder Finamore Ltda",
         "blendedBy": "Samuel Finamore",
         "manufacturedBy": "Finamore",
-        "production": "Atualmente dispon\u00edvel",
+        "production": "Atualmente disponível",
         "country": "Brazil",
-        "blendType": "arom\u00e1tico",
+        "blendType": "aromático",
         "contents": "Cavendish,  Virginia",
         "cut": "Cut grosso",
         "packaging": "50g Pouch",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

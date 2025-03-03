@@ -1,10 +1,10 @@
 {
-    "ger\u00f3sscanela": {
-        "imagePath": "../blend_pictures/Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda - Ger\u00f3ss Canela.jpg",
-        "name": "Ger\u00f3ss Canela",
-        "blender": "Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda",
-        "blendedBy": "Ger\u00f3ss",
-        "manufacturedBy": "Fumos Ger\u00f3ss Ind\u00fastria e Com\u00e9rcio Exporta\u00e7\u00e3o Ltda",
+    "gerósscanela": {
+        "imagePath": "../blend_pictures/Fumos Geróss Indústria e Comércio Exportação Ltda - Geróss Canela.jpg",
+        "name": "Geróss Canela",
+        "blender": "Fumos Geróss Indústria e Comércio Exportação Ltda",
+        "blendedBy": "Geróss",
+        "manufacturedBy": "Fumos Geróss Indústria e Comércio Exportação Ltda",
         "production": "Currently available",
         "country": "Brazil",
         "blendType": "Aromatic",
@@ -13,16 +13,20 @@
         "packaging": "50g Bag",
         "flavoring": "Cinnamon",
         "description": "A Blend of Brazilian Virginia and Burley Tobaccos, slighly flavorized with Cinammon (Canela).",
-        "notes": "Notes:Distributed by Ger\u00f3ss Comercial Ltda, Timb\u00f3, SC, Brazil",
+        "notes": "Notes:Distributed by Geróss Comercial Ltda, Timbó, SC, Brazil",
         "reviewCount": 2,
         "totalReviews": 2,
         "averageRating": 1.5,
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

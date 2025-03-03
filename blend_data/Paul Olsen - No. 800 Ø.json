@@ -1,7 +1,7 @@
 {
-    "no.800\u00f8": {
-        "imagePath": "../blend_pictures/Paul Olsen - No. 800 \u00d8.jpg",
-        "name": "No. 800 \u00d8",
+    "no.800ø": {
+        "imagePath": "../blend_pictures/Paul Olsen - No. 800 Ø.jpg",
+        "name": "No. 800 Ø",
         "blender": "Paul Olsen",
         "blendedBy": "Michael Mortensen",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 4,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

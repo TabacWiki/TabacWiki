@@ -1,8 +1,8 @@
 {
     "osborne62": {
-        "imagePath": "../blend_pictures/C.B. M\u00f8ller & Co. A/S - Osborne 62.jpg",
+        "imagePath": "../blend_pictures/C.B. Møller & Co. A/S - Osborne 62.jpg",
         "name": "Osborne 62",
-        "blender": "C.B. M\u00f8ller & Co. A/S",
+        "blender": "C.B. Møller & Co. A/S",
         "blendedBy": "Kohlhase, Kopp und Co. KG",
         "manufacturedBy": "",
         "production": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

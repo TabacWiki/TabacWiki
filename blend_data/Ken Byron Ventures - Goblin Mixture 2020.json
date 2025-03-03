@@ -1,7 +1,7 @@
 {
-    "goblin\u00a0mixture2020": {
-        "imagePath": "../blend_pictures/Ken Byron Ventures - Goblin\u00a0Mixture 2020.jpg",
-        "name": "Goblin\u00a0Mixture 2020",
+    "goblin mixture2020": {
+        "imagePath": "../blend_pictures/Ken Byron Ventures - Goblin Mixture 2020.jpg",
+        "name": "Goblin Mixture 2020",
         "blender": "Ken Byron Ventures",
         "blendedBy": "Ken Byron",
         "manufacturedBy": "Ken Byron Ventures",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 2,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 2,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

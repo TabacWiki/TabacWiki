@@ -1,7 +1,7 @@
 {
-    "executive(ex\u00e9cutif)": {
-        "imagePath": "../blend_pictures/Blatter & Blatter - Executive  (Ex\u00e9cutif).jpg",
-        "name": "Executive  (Ex\u00e9cutif)",
+    "executive(exécutif)": {
+        "imagePath": "../blend_pictures/Blatter & Blatter - Executive  (Exécutif).jpg",
+        "name": "Executive  (Exécutif)",
         "blender": "Blatter & Blatter",
         "blendedBy": "Lane",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 3,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

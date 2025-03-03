@@ -1,7 +1,7 @@
 {
-    "embry\u2019sdreameireann": {
-        "imagePath": "../blend_pictures/Ken Byron Ventures - Embry\u2019s Dream Eireann.jpg",
-        "name": "Embry\u2019s Dream Eireann",
+    "embry’sdreameireann": {
+        "imagePath": "../blend_pictures/Ken Byron Ventures - Embry’s Dream Eireann.jpg",
+        "name": "Embry’s Dream Eireann",
         "blender": "Ken Byron Ventures",
         "blendedBy": "Ken Byron and Embry",
         "manufacturedBy": "Ken Byron Ventures",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

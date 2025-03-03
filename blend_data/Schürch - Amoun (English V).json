@@ -1,8 +1,8 @@
 {
     "amoun(englishv)": {
-        "imagePath": "../blend_pictures/Sch\u00fcrch - Amoun (English V).jpg",
+        "imagePath": "../blend_pictures/Schürch - Amoun (English V).jpg",
         "name": "Amoun (English V)",
-        "blender": "Sch\u00fcrch",
+        "blender": "Schürch",
         "blendedBy": "Hans Schurch",
         "manufacturedBy": "",
         "production": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 3,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

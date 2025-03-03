@@ -1,7 +1,7 @@
 {
-    "mr.christian\u2019sknackmixture": {
-        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian\u2019s Knack Mixture.jpg",
-        "name": "Mr. Christian\u2019s Knack Mixture",
+    "mr.christian’sknackmixture": {
+        "imagePath": "../blend_pictures/Ken Byron Ventures - Mr. Christian’s Knack Mixture.jpg",
+        "name": "Mr. Christian’s Knack Mixture",
         "blender": "Ken Byron Ventures",
         "blendedBy": "",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 2,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

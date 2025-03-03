@@ -1,7 +1,7 @@
 {
-    "c\u00e2ndidogiovanellamaturado": {
-        "imagePath": "../blend_pictures/Imigrantes Ind. e Com. de Fumos Ltda - C\u00e2ndido Giovanella Maturado.jpg",
-        "name": "C\u00e2ndido Giovanella Maturado",
+    "cândidogiovanellamaturado": {
+        "imagePath": "../blend_pictures/Imigrantes Ind. e Com. de Fumos Ltda - Cândido Giovanella Maturado.jpg",
+        "name": "Cândido Giovanella Maturado",
         "blender": "Imigrantes Ind. e Com. de Fumos Ltda",
         "blendedBy": "Candido Giovanella",
         "manufacturedBy": "Imigrantes",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

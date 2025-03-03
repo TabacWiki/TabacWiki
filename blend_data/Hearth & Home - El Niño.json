@@ -1,7 +1,7 @@
 {
-    "elni\u00f1o": {
-        "imagePath": "../blend_pictures/Hearth & Home - El Ni\u00f1o.jpg",
-        "name": "El Ni\u00f1o",
+    "elniño": {
+        "imagePath": "../blend_pictures/Hearth & Home - El Niño.jpg",
+        "name": "El Niño",
         "blender": "Hearth & Home",
         "blendedBy": "Russ Ouelette",
         "manufacturedBy": "Scandanavian Tobacco Company",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 8,
+            "3half_star": 0,
             "3_star": 7,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "thechief\u2019sownspecialcutno.736": {
-        "imagePath": "../blend_pictures/A & C Petersen - The Chief\u2019s Own Special Cut No. 736.jpg",
-        "name": "The Chief\u2019s Own Special Cut No. 736",
+    "thechief’sownspecialcutno.736": {
+        "imagePath": "../blend_pictures/A & C Petersen - The Chief’s Own Special Cut No. 736.jpg",
+        "name": "The Chief’s Own Special Cut No. 736",
         "blender": "A & C Petersen",
         "blendedBy": "",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

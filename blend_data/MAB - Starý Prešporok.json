@@ -1,7 +1,7 @@
 {
-    "star\u00fdpre\u0161porok": {
-        "imagePath": "../blend_pictures/MAB - Star\u00fd Pre\u0161porok.jpg",
-        "name": "Star\u00fd Pre\u0161porok",
+    "starýprešporok": {
+        "imagePath": "../blend_pictures/MAB - Starý Prešporok.jpg",
+        "name": "Starý Prešporok",
         "blender": "MAB",
         "blendedBy": "Kohlhase, Kopp und Co. KG",
         "manufacturedBy": "Kohlhase & Kopp",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

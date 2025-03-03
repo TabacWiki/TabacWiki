@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "12 ounce bag",
         "flavoring": "Cherry",
-        "description": "Smoker\u2019s Pride Cherry Cavendish is a mild blend of quality leaf with a very pleasant cherry essence added for outstanding aroma.",
+        "description": "Smoker’s Pride Cherry Cavendish is a mild blend of quality leaf with a very pleasant cherry essence added for outstanding aroma.",
         "notes": "",
         "reviewCount": 20,
         "totalReviews": 23,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 7,
+            "2half_star": 0,
             "2_star": 10,
-            "1_star": 5
+            "1half_star": 0,
+            "1_star": 5,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

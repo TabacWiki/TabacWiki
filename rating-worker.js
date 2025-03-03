@@ -21,9 +21,15 @@ async function handleRating(request) {
   try {
     const rating = await request.json()
     
-    // Basic validation
-    if (!rating.blendId || !rating.rating || rating.rating < 1 || rating.rating > 4) {
+    // Basic validation with half-star support
+    if (!rating.blendId || !rating.rating) {
       return new Response('Invalid rating data', { status: 400 })
+    }
+
+    // Validate rating value
+    const ratingValue = parseFloat(rating.rating);
+    if (isNaN(ratingValue) || ratingValue < 0.5 || ratingValue > 4 || (ratingValue * 2) % 1 !== 0) {
+      return new Response('Invalid rating value. Must be between 0.5 and 4 in half-star increments.', { status: 400 })
     }
 
     // Get client IP for abuse prevention

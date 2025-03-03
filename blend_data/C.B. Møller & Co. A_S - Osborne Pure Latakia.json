@@ -1,8 +1,8 @@
 {
     "osbornepurelatakia": {
-        "imagePath": "../blend_pictures/C.B. M\u00f8ller & Co. A/S - Osborne Pure Latakia.jpg",
+        "imagePath": "../blend_pictures/C.B. Møller & Co. A/S - Osborne Pure Latakia.jpg",
         "name": "Osborne Pure Latakia",
-        "blender": "C.B. M\u00f8ller & Co. A/S",
+        "blender": "C.B. Møller & Co. A/S",
         "blendedBy": "Robert McConnell",
         "manufacturedBy": "",
         "production": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

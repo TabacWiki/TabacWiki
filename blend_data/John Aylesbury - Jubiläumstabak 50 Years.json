@@ -1,7 +1,7 @@
 {
-    "jubil\u00e4umstabak50years": {
-        "imagePath": "../blend_pictures/John Aylesbury - Jubil\u00e4umstabak 50 Years.jpg",
-        "name": "Jubil\u00e4umstabak 50 Years",
+    "jubiläumstabak50years": {
+        "imagePath": "../blend_pictures/John Aylesbury - Jubiläumstabak 50 Years.jpg",
+        "name": "Jubiläumstabak 50 Years",
         "blender": "John Aylesbury",
         "blendedBy": "John Aylesbury",
         "manufacturedBy": "",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

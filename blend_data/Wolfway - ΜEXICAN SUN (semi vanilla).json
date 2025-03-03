@@ -1,7 +1,7 @@
 {
-    "\u03bcexicansun(semivanilla)": {
-        "imagePath": "../blend_pictures/Wolfway - \u039cEXICAN SUN (semi vanilla).jpg",
-        "name": "\u039cEXICAN SUN (semi vanilla)",
+    "μexicansun(semivanilla)": {
+        "imagePath": "../blend_pictures/Wolfway - ΜEXICAN SUN (semi vanilla).jpg",
+        "name": "ΜEXICAN SUN (semi vanilla)",
         "blender": "Wolfway",
         "blendedBy": "Wolfway Tobacco",
         "manufacturedBy": "Wolfway Tobacco",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

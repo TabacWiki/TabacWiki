@@ -1,10 +1,10 @@
 {
     "orcblood": {
-        "imagePath": "../blend_pictures/Tabaquer\u00eda Xian - Orc Blood.jpg",
+        "imagePath": "../blend_pictures/Tabaquería Xian - Orc Blood.jpg",
         "name": "Orc Blood",
-        "blender": "Tabaquer\u00eda Xian",
+        "blender": "Tabaquería Xian",
         "blendedBy": "Christian Pickup",
-        "manufacturedBy": "Tabaquer\u00eda Xian",
+        "manufacturedBy": "Tabaquería Xian",
         "production": "No longer in production",
         "country": "Mexico",
         "blendType": "Burley Based",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

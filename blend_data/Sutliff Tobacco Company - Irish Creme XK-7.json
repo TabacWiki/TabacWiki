@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "Bulk",
         "flavoring": "Alcohol / Liquor",
-        "description": "Irish Cr\u00e8me has the sweet, comforting flavor and aroma of the famous beverage combined with a wonderful mixture of domestic and imported flue-cured and air-cured tobaccos - mellow, fragrant and remarkably cool.",
+        "description": "Irish Crème has the sweet, comforting flavor and aroma of the famous beverage combined with a wonderful mixture of domestic and imported flue-cured and air-cured tobaccos - mellow, fragrant and remarkably cool.",
         "notes": "",
         "reviewCount": 2,
         "totalReviews": 2,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 1,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

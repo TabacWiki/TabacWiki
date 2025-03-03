@@ -1,10 +1,10 @@
 {
-    "moriarty\u00b4shell": {
-        "imagePath": "../blend_pictures/Tabaquer\u00eda Xian - Moriarty\u00b4s Hell.jpg",
-        "name": "Moriarty\u00b4s Hell",
-        "blender": "Tabaquer\u00eda Xian",
+    "moriarty´shell": {
+        "imagePath": "../blend_pictures/Tabaquería Xian - Moriarty´s Hell.jpg",
+        "name": "Moriarty´s Hell",
+        "blender": "Tabaquería Xian",
         "blendedBy": "Christian Pickup",
-        "manufacturedBy": "Tabaquer\u00eda Xian",
+        "manufacturedBy": "Tabaquería Xian",
         "production": "No longer in production",
         "country": "Mexico",
         "blendType": "English",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

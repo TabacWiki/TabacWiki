@@ -7,7 +7,7 @@
         "manufacturedBy": "Gawith, Hoggarth & Co.",
         "production": "Actualmente disponible",
         "country": "United Kingdom",
-        "blendType": "Arom\u00e1tico",
+        "blendType": "Aromático",
         "contents": "Burley,  Virginia",
         "cut": "Flake",
         "packaging": "50 grams tin, bulk",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 105,
+            "3half_star": 0,
             "3_star": 68,
+            "2half_star": 0,
             "2_star": 30,
-            "1_star": 25
+            "1half_star": 0,
+            "1_star": 25,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

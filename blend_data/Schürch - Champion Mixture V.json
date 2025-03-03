@@ -1,9 +1,9 @@
 {
     "championmixturev": {
-        "imagePath": "../blend_pictures/Sch\u00fcrch - Champion Mixture V.jpg",
+        "imagePath": "../blend_pictures/Schürch - Champion Mixture V.jpg",
         "name": "Champion Mixture V",
-        "blender": "Sch\u00fcrch",
-        "blendedBy": "Hans Sch\u00fcrch",
+        "blender": "Schürch",
+        "blendedBy": "Hans Schürch",
         "manufacturedBy": "",
         "production": "No longer in production",
         "country": "Switzerland",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

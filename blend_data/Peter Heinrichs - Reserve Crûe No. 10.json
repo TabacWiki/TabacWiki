@@ -1,7 +1,7 @@
 {
-    "reservecr\u00fbeno.10": {
-        "imagePath": "../blend_pictures/Peter Heinrichs - Reserve Cr\u00fbe No. 10.jpg",
-        "name": "Reserve Cr\u00fbe No. 10",
+    "reservecrûeno.10": {
+        "imagePath": "../blend_pictures/Peter Heinrichs - Reserve Crûe No. 10.jpg",
+        "name": "Reserve Crûe No. 10",
         "blender": "Peter Heinrichs",
         "blendedBy": "Peter Heinrichs / K&K",
         "manufacturedBy": "Kohlhase & Kopp",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

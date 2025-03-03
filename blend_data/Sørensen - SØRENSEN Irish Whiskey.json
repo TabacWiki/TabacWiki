@@ -1,10 +1,10 @@
 {
-    "s\u00f8rensenirishwhiskey": {
-        "imagePath": "../blend_pictures/S\u00f8rensen - S\u00d8RENSEN Irish Whiskey.jpg",
-        "name": "S\u00d8RENSEN Irish Whiskey",
-        "blender": "S\u00f8rensen",
+    "sørensenirishwhiskey": {
+        "imagePath": "../blend_pictures/Sørensen - SØRENSEN Irish Whiskey.jpg",
+        "name": "SØRENSEN Irish Whiskey",
+        "blender": "Sørensen",
         "blendedBy": "",
-        "manufacturedBy": "M S\u00d8RENSEN AS",
+        "manufacturedBy": "M SØRENSEN AS",
         "production": "Currently available",
         "country": "Unknown",
         "blendType": "Aromatic",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

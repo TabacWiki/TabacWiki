@@ -1,8 +1,8 @@
 {
     "rubino363": {
-        "imagePath": "../blend_pictures/Sch\u00fcrch - Rubino 363.jpg",
+        "imagePath": "../blend_pictures/Schürch - Rubino 363.jpg",
         "name": "Rubino 363",
-        "blender": "Sch\u00fcrch",
+        "blender": "Schürch",
         "blendedBy": "Hans Schurch",
         "manufacturedBy": "",
         "production": "Currently available",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 3,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

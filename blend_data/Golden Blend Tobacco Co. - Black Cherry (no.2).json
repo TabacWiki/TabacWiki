@@ -3,8 +3,8 @@
         "imagePath": "../blend_pictures/Golden Blend Tobacco Co. - Black Cherry (no.2).jpg",
         "name": "Black Cherry (no.2)",
         "blender": "Golden Blend Tobacco Co.",
-        "blendedBy": "P\u00f6schl",
-        "manufacturedBy": "P\u00f6schl",
+        "blendedBy": "Pöschl",
+        "manufacturedBy": "Pöschl",
         "production": "Currently available",
         "country": "United States",
         "blendType": "Aromatic",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 2,
+            "2half_star": 0,
             "2_star": 4,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

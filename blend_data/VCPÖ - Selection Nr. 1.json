@@ -1,9 +1,9 @@
 {
     "selectionnr.1": {
-        "imagePath": "../blend_pictures/VCP\u00d6 - Selection Nr. 1.jpg",
+        "imagePath": "../blend_pictures/VCPÖ - Selection Nr. 1.jpg",
         "name": "Selection Nr. 1",
-        "blender": "VCP\u00d6",
-        "blendedBy": "VCP\u00d6",
+        "blender": "VCPÖ",
+        "blendedBy": "VCPÖ",
         "manufacturedBy": "Planta",
         "production": "Currently available",
         "country": "Austria",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 1
+            "1half_star": 0,
+            "1_star": 1,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

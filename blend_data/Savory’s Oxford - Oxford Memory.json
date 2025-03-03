@@ -1,8 +1,8 @@
 {
     "oxfordmemory": {
-        "imagePath": "../blend_pictures/Savory\u2019s Oxford - Oxford Memory.jpg",
+        "imagePath": "../blend_pictures/Savory’s Oxford - Oxford Memory.jpg",
         "name": "Oxford Memory",
-        "blender": "Savory\u2019s Oxford",
+        "blender": "Savory’s Oxford",
         "blendedBy": "",
         "manufacturedBy": "",
         "production": "No longer in production",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

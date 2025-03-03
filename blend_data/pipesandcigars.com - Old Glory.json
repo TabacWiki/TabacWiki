@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "Bulk",
         "flavoring": "Cherry,  Fruit / Citrus,  Vanilla",
-        "description": "\u200bOld Glory is a celebration of summer. Virginias, Burleys and steamed black Cavendish are combined with ripe summer fruit flavors with a creamy note. It has the character of a freshly-baked slice of fruit pie with a scoop of vanilla ice cream.",
+        "description": "​Old Glory is a celebration of summer. Virginias, Burleys and steamed black Cavendish are combined with ripe summer fruit flavors with a creamy note. It has the character of a freshly-baked slice of fruit pie with a scoop of vanilla ice cream.",
         "notes": "",
         "reviewCount": 2,
         "totalReviews": 2,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

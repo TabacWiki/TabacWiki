@@ -12,7 +12,7 @@
         "cut": "Ribbon",
         "packaging": "50 grams tin",
         "flavoring": "Floral Essences,  Fruit / Citrus",
-        "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then \u201crested\u201d. The final stage of production is the addition of a unique melange of flavors. Grousemoor is a \u2018must\u2019 for smokers who want their days to have \u201cSpring in the air\u201d.",
+        "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then “rested”. The final stage of production is the addition of a unique melange of flavors. Grousemoor is a ‘must’ for smokers who want their days to have “Spring in the air”.",
         "notes": "",
         "reviewCount": 213,
         "totalReviews": 237,
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 74,
+            "3half_star": 0,
             "3_star": 86,
+            "2half_star": 0,
             "2_star": 43,
-            "1_star": 34
+            "1half_star": 0,
+            "1_star": 34,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

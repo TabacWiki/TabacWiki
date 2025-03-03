@@ -1,10 +1,10 @@
 {
     "balkansobranieblack": {
-        "imagePath": "../blend_pictures/Riegel\u2019s - Balkan Sobranie Black.jpg",
+        "imagePath": "../blend_pictures/Riegel’s - Balkan Sobranie Black.jpg",
         "name": "Balkan Sobranie Black",
-        "blender": "Riegel\u2019s",
-        "blendedBy": "Riegel\u2019s",
-        "manufacturedBy": "Riegel\u2019s",
+        "blender": "Riegel’s",
+        "blendedBy": "Riegel’s",
+        "manufacturedBy": "Riegel’s",
         "production": "Currently available",
         "country": "United States",
         "blendType": "English",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

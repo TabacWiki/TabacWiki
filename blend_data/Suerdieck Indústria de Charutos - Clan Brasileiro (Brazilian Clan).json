@@ -1,8 +1,8 @@
 {
     "clanbrasileiro(brazilianclan)": {
-        "imagePath": "../blend_pictures/Suerdieck Ind\u00fastria de Charutos - Clan Brasileiro (Brazilian Clan).jpg",
+        "imagePath": "../blend_pictures/Suerdieck Indústria de Charutos - Clan Brasileiro (Brazilian Clan).jpg",
         "name": "Clan Brasileiro (Brazilian Clan)",
-        "blender": "Suerdieck Ind\u00fastria de Charutos",
+        "blender": "Suerdieck Indústria de Charutos",
         "blendedBy": "Theodorus Niemeyer",
         "manufacturedBy": "Suerdieck",
         "production": "No longer in production",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

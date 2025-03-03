@@ -1,7 +1,7 @@
 {
-    "d\u00f6rk\u00b4nberger": {
-        "imagePath": "../blend_pictures/Motzek - D\u00f6rk\u00b4n Berger.jpg",
-        "name": "D\u00f6rk\u00b4n Berger",
+    "dörk´nberger": {
+        "imagePath": "../blend_pictures/Motzek - Dörk´n Berger.jpg",
+        "name": "Dörk´n Berger",
         "blender": "Motzek",
         "blendedBy": "Tom Darasz",
         "manufacturedBy": "Motzek / TAK",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 2,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -3,7 +3,7 @@
         "imagePath": "../blend_pictures/W.O. Larsen - W. O. Larsen Edition 2022.jpg",
         "name": "W. O. Larsen Edition 2022",
         "blender": "W.O. Larsen",
-        "blendedBy": "W.\u00d8 Larsen",
+        "blendedBy": "W.Ø Larsen",
         "manufacturedBy": "Scandinavian Tobacco Group",
         "production": "No longer in production",
         "country": "Unknown",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "editioniii\u2013europe2019": {
-        "imagePath": "../blend_pictures/Kohlhase, Kopp und Co. KG - Edition III \u2013 Europe 2019.jpg",
-        "name": "Edition III \u2013 Europe 2019",
+    "editioniii–europe2019": {
+        "imagePath": "../blend_pictures/Kohlhase, Kopp und Co. KG - Edition III – Europe 2019.jpg",
+        "name": "Edition III – Europe 2019",
         "blender": "Kohlhase, Kopp und Co. KG",
         "blendedBy": "Kohlhase, Kopp und Co. KG",
         "manufacturedBy": "Kohlhase & Kopp",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 1,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -4,7 +4,7 @@
         "name": "/11",
         "blender": "Hermes",
         "blendedBy": "",
-        "manufacturedBy": "Compa\u00f1\u00eda Sudamericana de Tabacos",
+        "manufacturedBy": "Compañía Sudamericana de Tabacos",
         "production": "Currently available",
         "country": "Argentina",
         "blendType": "English",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 1,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

@@ -1,7 +1,7 @@
 {
-    "virginian\u00b07": {
-        "imagePath": "../blend_pictures/Pfeifen Huber - Virginia N\u00b0 7.jpg",
-        "name": "Virginia N\u00b0 7",
+    "virginian°7": {
+        "imagePath": "../blend_pictures/Pfeifen Huber - Virginia N° 7.jpg",
+        "name": "Virginia N° 7",
         "blender": "Pfeifen Huber",
         "blendedBy": "Georg Huber",
         "manufacturedBy": "Kohlhase & Kopp",
@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 0,
+            "3half_star": 0,
             "3_star": 0,
+            "2half_star": 0,
             "2_star": 0,
-            "1_star": 0
+            "1half_star": 0,
+            "1_star": 0,
+            "half_star": 0
         },
         "ratings": {
             "strength": {

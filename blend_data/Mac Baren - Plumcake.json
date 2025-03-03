@@ -20,9 +20,13 @@
         "maxRating": 4.0,
         "ratingDistribution": {
             "4_star": 79,
+            "3half_star": 0,
             "3_star": 134,
+            "2half_star": 0,
             "2_star": 61,
-            "1_star": 27
+            "1half_star": 0,
+            "1_star": 27,
+            "half_star": 0
         },
         "ratings": {
             "strength": {
