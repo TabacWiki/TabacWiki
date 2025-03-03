@@ -49,6 +49,11 @@ async function handlePostRequest(request, env) {
     const rawBody = await clonedRequest.text();
     console.log("Raw request body:", rawBody);
     
+    // Get client IP address
+    const clientIP = request.headers.get('CF-Connecting-IP') || 
+                     request.headers.get('X-Forwarded-For') || 
+                     'unknown';
+    
     // Parse the JSON data
     let data;
     try {
@@ -115,6 +120,23 @@ async function handlePostRequest(request, env) {
       });
     }
     
+    // Check if this IP has already rated this blend
+    const ipKey = `ip:${clientIP}:blend:${blendKey}`;
+    const existingIPRating = await env.RATINGS_KV.get(ipKey);
+    
+    if (existingIPRating) {
+      return new Response(JSON.stringify({ 
+        error: "You have already rated this blend", 
+        message: "You can only submit one rating per blend"
+      }), {
+        status: 409, // Conflict
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json"
+        }
+      });
+    }
+    
     // Generate a unique ID for this rating
     const ratingId = crypto.randomUUID();
     const timestamp = data.timestamp || new Date().toISOString();
@@ -128,13 +150,18 @@ async function handlePostRequest(request, env) {
       // Include other fields if provided
       userName: data.userName || "Anonymous",
       userEmail: data.userEmail || "",
-      comments: data.comments || ""
+      comments: data.comments || "",
+      // Store IP address (hashed for privacy)
+      ipHash: await hashIP(clientIP)
     };
     
     console.log("Storing rating with ID:", ratingId);
     
     // Store in KV
     await env.RATINGS_KV.put(`rating:${ratingId}`, JSON.stringify(ratingObject));
+    
+    // Store IP record to prevent duplicate ratings
+    await env.RATINGS_KV.put(ipKey, ratingId, { expirationTtl: 60 * 60 * 24 * 365 }); // 1 year expiration
     
     // Also store in a list for this blend
     let blendRatings = [];
@@ -178,6 +205,18 @@ async function handlePostRequest(request, env) {
       }
     });
   }
+}
+
+// Helper function to hash IP address for privacy
+async function hashIP(ip) {
+  // Use a simple hash function for demonstration
+  // In production, you might want to use a more secure method
+  const encoder = new TextEncoder();
+  const data = encoder.encode(ip + "TabacWikiSalt");
+  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  return hashHex;
 }
 
 // Helper function to map text ratings to numeric values

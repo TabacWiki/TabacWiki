@@ -815,27 +815,29 @@ const PhotoSubmission = {
     uploadPromise: null,
     
     showNotification(message, isSuccess = true) {
-        const notification = document.getElementById('uploadNotification');
+        // Remove any existing notification
+        const existingNotification = document.getElementById('notification');
+        if (existingNotification) {
+            existingNotification.remove();
+        }
         
-        // Clear existing content and add SVG and message
-        notification.innerHTML = `
-            <div class="max-w-xl mx-auto flex items-center justify-center">
-                <svg class="w-6 h-6 mr-3 text-[#C89F65]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                </svg>
-                <span>${message}</span>
-            </div>
-        `;
+        // Create notification element
+        const notification = document.createElement('div');
+        notification.id = 'notification';
+        notification.className = `fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 p-4 rounded-lg shadow-lg text-white text-center z-[9999] ${isSuccess ? 'bg-green-600' : 'bg-red-600'}`;
+        notification.style.zIndex = '9999'; // Ensure it's above everything
+        notification.style.minWidth = '300px';
+        notification.textContent = message;
         
-        // Set notification styles exactly like the copied to clipboard notification
-        notification.className = 'fixed top-0 left-0 w-full bg-[#28201E] text-[#BDAE9F] text-center py-3 z-[1200] shadow-lg transform -translate-y-full transition-transform duration-300';
+        // Add to body
+        document.body.appendChild(notification);
         
-        // Show notification by translating it into view
-        notification.style.transform = 'translate(0, 0)';
-        
-        // Hide notification after 3 seconds
+        // Remove after 3 seconds
         setTimeout(() => {
-            notification.style.transform = 'translate(0, -100%)';
+            notification.classList.add('opacity-0', 'transition-opacity', 'duration-500');
+            setTimeout(() => {
+                notification.remove();
+            }, 500);
         }, 3000);
     },
 
@@ -1120,6 +1122,10 @@ async function submitRating(blendKey, ratings) {
         if (response.ok) {
             showNotification("Rating submitted successfully!", true);
             return true;
+        } else if (response.status === 409) {
+            // 409 Conflict - User has already rated this blend
+            showNotification("You have already rated this blend", false);
+            return false;
         } else {
             console.error("Error submitting rating:", result.error || "Unknown error");
             showNotification("Failed to submit rating: " + (result.error || "Unknown error"), false);
