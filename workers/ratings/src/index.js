@@ -18,6 +18,20 @@ export default {
       return handlePostRequest(request, env);
     }
 
+    // For GET requests, return a simple status message
+    if (request.method === "GET") {
+      return new Response(JSON.stringify({ 
+        status: "Rating service is running",
+        timestamp: new Date().toISOString()
+      }), {
+        status: 200,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json"
+        }
+      });
+    }
+
     return new Response(JSON.stringify({ error: "Method not allowed" }), { 
       status: 405,
       headers: {
@@ -30,12 +44,43 @@ export default {
 
 async function handlePostRequest(request, env) {
   try {
-    const data = await request.json();
+    // Log the raw request for debugging
+    const clonedRequest = request.clone();
+    const rawBody = await clonedRequest.text();
+    console.log("Raw request body:", rawBody);
+    
+    // Parse the JSON data
+    let data;
+    try {
+      data = JSON.parse(rawBody);
+    } catch (e) {
+      console.error("Failed to parse JSON:", e);
+      return new Response(JSON.stringify({ 
+        error: "Invalid JSON data", 
+        details: e.message,
+        rawBody: rawBody.substring(0, 200) + (rawBody.length > 200 ? "..." : "")
+      }), {
+        status: 400,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json"
+        }
+      });
+    }
+    
     console.log("Received rating data:", JSON.stringify(data));
     
-    // Validate required fields
-    if (!data.blendKey || !data.ratings) {
-      return new Response(JSON.stringify({ error: "Missing required fields" }), {
+    // Validate required fields with detailed error messages
+    const missingFields = [];
+    if (!data.blendKey) missingFields.push("blendKey");
+    if (!data.ratings) missingFields.push("ratings");
+    
+    if (missingFields.length > 0) {
+      return new Response(JSON.stringify({ 
+        error: "Missing required fields", 
+        missingFields: missingFields,
+        receivedData: data
+      }), {
         status: 400,
         headers: {
           ...corsHeaders,
@@ -46,7 +91,7 @@ async function handlePostRequest(request, env) {
     
     // Generate a unique ID for this rating
     const ratingId = crypto.randomUUID();
-    const timestamp = new Date().toISOString();
+    const timestamp = data.timestamp || new Date().toISOString();
     
     // Prepare the rating object
     const ratingObject = {
@@ -97,7 +142,8 @@ async function handlePostRequest(request, env) {
     console.error("Error handling POST request:", error);
     return new Response(JSON.stringify({ 
       error: "Failed to process rating", 
-      details: error.message 
+      details: error.message,
+      stack: error.stack
     }), {
       status: 500,
       headers: {

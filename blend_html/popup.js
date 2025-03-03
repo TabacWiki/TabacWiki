@@ -581,6 +581,9 @@ async function renderBlendPopup(blendKey) {
                 }
             });
         }
+
+        // Set up rating submission
+        setupRatingSubmission(blendKey);
     } catch (innerError) {
         console.error('Error loading blend data:', innerError);
         popupContent.innerHTML = `
@@ -1100,5 +1103,60 @@ async function submitRating(blendKey, ratings) {
         console.error("Exception when submitting rating:", error);
         showNotification("Failed to submit rating: " + error.message, false);
         return false;
+    }
+}
+
+// Add this function to collect ratings from the UI
+function collectRatings() {
+    // Get all rating values
+    const strengthRating = document.querySelector('#strengthScale .selected-star')?.dataset?.value || null;
+    const nicotineRating = document.querySelector('#nicotineScale .selected-star')?.dataset?.value || null;
+    const flavoringRating = document.querySelector('#flavoringScale .selected-star')?.dataset?.value || null;
+    const roomNoteRating = document.querySelector('#roomNoteScale .selected-star')?.dataset?.value || null;
+    
+    // Create ratings object
+    const ratings = {};
+    
+    if (strengthRating) ratings.strength = parseInt(strengthRating);
+    if (nicotineRating) ratings.nicotine = parseInt(nicotineRating);
+    if (flavoringRating) ratings.flavoring = parseInt(flavoringRating);
+    if (roomNoteRating) ratings.roomNote = parseInt(roomNoteRating);
+    
+    console.log("Collected ratings:", ratings);
+    
+    return ratings;
+}
+
+// Update the submit button click handler to use the collectRatings function
+function setupRatingSubmission(blendKey) {
+    const submitButton = document.getElementById('submitRatingBtn');
+    if (submitButton) {
+        submitButton.addEventListener('click', async () => {
+            const ratings = collectRatings();
+            
+            // Check if any ratings were provided
+            if (Object.keys(ratings).length === 0) {
+                showNotification("Please provide at least one rating", false);
+                return;
+            }
+            
+            // Show loading state
+            submitButton.disabled = true;
+            submitButton.textContent = "Submitting...";
+            
+            // Submit the rating
+            const success = await submitRating(blendKey, ratings);
+            
+            // Reset button state
+            submitButton.disabled = false;
+            submitButton.textContent = "Submit Rating";
+            
+            if (success) {
+                // Close the popup after a short delay
+                setTimeout(() => {
+                    closePopup();
+                }, 2000);
+            }
+        });
     }
 }
