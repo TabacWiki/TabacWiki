@@ -1,9 +1,16 @@
 {
   "name": "ratings-worker",
   "version": "1.0.0",
-  "private": true,
-  "main": "index.js",
+  "description": "Cloudflare Worker for handling tobacco blend ratings",
+  "main": "src/index.js",
   "scripts": {
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    // ... existing code ...
   }
 } 
