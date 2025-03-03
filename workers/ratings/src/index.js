@@ -1,12 +1,12 @@
+// Define CORS headers
+const corsHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+  "Access-Control-Allow-Headers": "Content-Type",
+};
+
 export default {
   async fetch(request, env, ctx) {
-    const corsHeaders = {
-      "Access-Control-Allow-Origin": "https://tabac.wiki",
-      "Access-Control-Allow-Methods": "POST, OPTIONS",
-      "Access-Control-Allow-Headers": "Content-Type",
-      "Access-Control-Max-Age": "86400",
-    };
-
     // Handle preflight requests
     if (request.method === "OPTIONS") {
       return new Response(null, {
@@ -15,69 +15,7 @@ export default {
     }
 
     if (request.method === "POST") {
-      try {
-        const data = await request.json();
-        const rating = await request.json();
-        
-        // Validate the rating data
-        if (!rating.blendId || !rating.rating || !rating.profiles) {
-          return new Response(JSON.stringify({ error: "Invalid rating data" }), { 
-            status: 400,
-            headers: {
-              ...corsHeaders,
-              "Content-Type": "application/json"
-            }
-          });
-        }
-
-        // Get GitHub token from environment
-        const token = env.GITHUB_TOKEN;
-        if (!token) {
-          throw new Error("GitHub token not configured");
-        }
-
-        // Define the repo URL directly
-        const repoUrl = 'https://api.github.com/repos/TabacWiki/TabacWiki/dispatches';
-
-        // Trigger GitHub workflow
-        const githubResponse = await fetch(repoUrl, {
-          method: 'POST',
-          headers: {
-            'Authorization': `token ${token}`,
-            'Accept': 'application/vnd.github.v3+json',
-            'Content-Type': 'application/json',
-            'User-Agent': 'TabacWiki-Rating-Worker'
-          },
-          body: JSON.stringify({
-            event_type: 'new_rating',
-            client_payload: rating
-          })
-        });
-
-        if (!githubResponse.ok) {
-          const errorText = await githubResponse.text();
-          throw new Error(`GitHub API error: ${errorText}`);
-        }
-
-        return new Response(JSON.stringify({ success: true }), {
-          headers: {
-            ...corsHeaders,
-            "Content-Type": "application/json"
-          }
-        });
-
-      } catch (error) {
-        return new Response(JSON.stringify({ 
-          error: error.message,
-          stack: error.stack
-        }), {
-          status: 500,
-          headers: {
-            ...corsHeaders,
-            "Content-Type": "application/json"
-          }
-        });
-      }
+      return handlePostRequest(request, env);
     }
 
     return new Response(JSON.stringify({ error: "Method not allowed" }), { 
@@ -89,3 +27,83 @@ export default {
     });
   }
 };
+
+async function handlePostRequest(request, env) {
+  try {
+    const data = await request.json();
+    console.log("Received rating data:", JSON.stringify(data));
+    
+    // Validate required fields
+    if (!data.blendKey || !data.ratings) {
+      return new Response(JSON.stringify({ error: "Missing required fields" }), {
+        status: 400,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json"
+        }
+      });
+    }
+    
+    // Generate a unique ID for this rating
+    const ratingId = crypto.randomUUID();
+    const timestamp = new Date().toISOString();
+    
+    // Prepare the rating object
+    const ratingObject = {
+      id: ratingId,
+      blendKey: data.blendKey,
+      ratings: data.ratings,
+      timestamp: timestamp,
+      // Include other fields if provided
+      userName: data.userName || "Anonymous",
+      userEmail: data.userEmail || "",
+      comments: data.comments || ""
+    };
+    
+    console.log("Storing rating with ID:", ratingId);
+    
+    // Store in KV
+    await env.RATINGS_KV.put(`rating:${ratingId}`, JSON.stringify(ratingObject));
+    
+    // Also store in a list for this blend
+    let blendRatings = [];
+    const existingRatings = await env.RATINGS_KV.get(`blend:${data.blendKey}`);
+    
+    if (existingRatings) {
+      try {
+        blendRatings = JSON.parse(existingRatings);
+      } catch (e) {
+        console.error("Error parsing existing ratings:", e);
+      }
+    }
+    
+    blendRatings.push(ratingId);
+    await env.RATINGS_KV.put(`blend:${data.blendKey}`, JSON.stringify(blendRatings));
+    
+    console.log("Successfully stored rating and updated blend list");
+    
+    return new Response(JSON.stringify({ 
+      success: true, 
+      message: "Rating submitted successfully",
+      ratingId: ratingId
+    }), {
+      status: 200,
+      headers: {
+        ...corsHeaders,
+        "Content-Type": "application/json"
+      }
+    });
+  } catch (error) {
+    console.error("Error handling POST request:", error);
+    return new Response(JSON.stringify({ 
+      error: "Failed to process rating", 
+      details: error.message 
+    }), {
+      status: 500,
+      headers: {
+        ...corsHeaders,
+        "Content-Type": "application/json"
+      }
+    });
+  }
+}

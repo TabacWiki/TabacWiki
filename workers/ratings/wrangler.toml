@@ -10,9 +10,11 @@ ENVIRONMENT = "production"
 GITHUB_TOKEN = ""  # Value will be set in Cloudflare dashboard
 
 # KV Namespace binding
+# IMPORTANT: You need to replace the ID below with your actual KV namespace ID
+# from your Cloudflare dashboard (Workers & Pages > KV)
 [[kv_namespaces]]
 binding = "RATINGS_KV"
-id = "YOUR_KV_NAMESPACE_ID"  # Replace with your actual KV namespace ID from Cloudflare dashboard
+id = "761ce54f904d47fc89814421061362f2"  # Replace this with your actual KV namespace ID
 
 [triggers]
 crons = []
