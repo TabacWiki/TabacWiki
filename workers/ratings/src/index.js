@@ -75,41 +75,19 @@ async function handlePostRequest(request, env) {
     
     console.log("Received rating data:", JSON.stringify(data));
     
-    // Handle both old and new data formats
-    // Map the old format to the new format if needed
+    // Extract the blend key
     let blendKey = data.blendKey;
-    let ratings = data.ratings;
     
-    // If using the old format (from the error message)
+    // If using the old format with blendId
     if (!blendKey && data.blendId) {
       // Extract the blend key from the blendId (remove file extension)
       blendKey = data.blendId.replace(/\.json$/, '');
     }
     
-    // If using the old format with a single rating value
-    if (!ratings && data.rating) {
-      ratings = {
-        overall: data.rating
-      };
-      
-      // If profiles are provided, add them to the ratings
-      if (data.profiles) {
-        if (data.profiles.strength) ratings.strength = mapTextRatingToNumber(data.profiles.strength);
-        if (data.profiles.taste) ratings.taste = mapTextRatingToNumber(data.profiles.taste);
-        if (data.profiles.flavoring) ratings.flavoring = mapTextRatingToNumber(data.profiles.flavoring);
-        if (data.profiles.roomNote) ratings.roomNote = mapTextRatingToNumber(data.profiles.roomNote);
-      }
-    }
-    
-    // Validate required fields with detailed error messages
-    const missingFields = [];
-    if (!blendKey) missingFields.push("blendKey");
-    if (!ratings || Object.keys(ratings).length === 0) missingFields.push("ratings");
-    
-    if (missingFields.length > 0) {
+    // Validate required fields
+    if (!blendKey) {
       return new Response(JSON.stringify({ 
-        error: "Missing required fields", 
-        missingFields: missingFields,
+        error: "Missing blend identifier", 
         receivedData: data
       }), {
         status: 400,
@@ -121,10 +99,21 @@ async function handlePostRequest(request, env) {
     }
     
     // Check if this IP has already rated this blend
-    const ipKey = `ip:${clientIP}:blend:${blendKey}`;
-    const existingIPRating = await env.RATINGS_KV.get(ipKey);
+    const ipHash = await hashIP(clientIP);
+    const ipBlendKey = `${ipHash}:${blendKey}`;
     
-    if (existingIPRating) {
+    // Get all ratings
+    const allRatingsStr = await env.RATINGS_KV.get('all_ratings', { type: 'json' }) || '[]';
+    let allRatings;
+    try {
+      allRatings = JSON.parse(allRatingsStr);
+    } catch (e) {
+      allRatings = [];
+    }
+    
+    // Check if this IP has already rated this blend
+    const existingRating = allRatings.find(r => r.ipBlendKey === ipBlendKey);
+    if (existingRating) {
       return new Response(JSON.stringify({ 
         error: "You have already rated this blend", 
         message: "You can only submit one rating per blend"
@@ -141,44 +130,30 @@ async function handlePostRequest(request, env) {
     const ratingId = crypto.randomUUID();
     const timestamp = data.timestamp || new Date().toISOString();
     
-    // Prepare the rating object
+    // Prepare the rating object - store exactly what was submitted
     const ratingObject = {
       id: ratingId,
       blendKey: blendKey,
-      ratings: ratings,
       timestamp: timestamp,
+      // Store the raw data as submitted
+      starRating: data.rating || null,
+      profiles: data.profiles || {},
       // Include other fields if provided
       userName: data.userName || "Anonymous",
       userEmail: data.userEmail || "",
       comments: data.comments || "",
-      // Store IP address (hashed for privacy)
-      ipHash: await hashIP(clientIP)
+      // Store IP hash and combined key for duplicate checking
+      ipHash: ipHash,
+      ipBlendKey: ipBlendKey
     };
     
-    console.log("Storing rating with ID:", ratingId);
+    // Add to all ratings
+    allRatings.push(ratingObject);
     
-    // Store in KV
-    await env.RATINGS_KV.put(`rating:${ratingId}`, JSON.stringify(ratingObject));
+    // Store all ratings in a single KV entry
+    await env.RATINGS_KV.put('all_ratings', JSON.stringify(allRatings));
     
-    // Store IP record to prevent duplicate ratings
-    await env.RATINGS_KV.put(ipKey, ratingId, { expirationTtl: 60 * 60 * 24 * 365 }); // 1 year expiration
-    
-    // Also store in a list for this blend
-    let blendRatings = [];
-    const existingRatings = await env.RATINGS_KV.get(`blend:${blendKey}`);
-    
-    if (existingRatings) {
-      try {
-        blendRatings = JSON.parse(existingRatings);
-      } catch (e) {
-        console.error("Error parsing existing ratings:", e);
-      }
-    }
-    
-    blendRatings.push(ratingId);
-    await env.RATINGS_KV.put(`blend:${blendKey}`, JSON.stringify(blendRatings));
-    
-    console.log("Successfully stored rating and updated blend list");
+    console.log("Successfully stored rating");
     
     return new Response(JSON.stringify({ 
       success: true, 
@@ -217,62 +192,4 @@ async function hashIP(ip) {
   const hashArray = Array.from(new Uint8Array(hashBuffer));
   const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
   return hashHex;
-}
-
-// Helper function to map text ratings to numeric values
-function mapTextRatingToNumber(textRating) {
-  const strengthMap = {
-    'Extremely Mild': 1,
-    'Very Mild': 1.5,
-    'Mild': 2,
-    'Mild to Medium': 2.5,
-    'Medium': 3,
-    'Medium to Strong': 3.5,
-    'Strong': 4,
-    'Very Strong': 4.5,
-    'Extremely Strong': 5
-  };
-  
-  const tasteMap = {
-    'Very Mild': 1,
-    'Mild': 2,
-    'Mild to Medium': 2.5,
-    'Medium': 3,
-    'Medium to Full': 3.5,
-    'Full': 4,
-    'Very Full': 5
-  };
-  
-  const flavoringMap = {
-    'None Detected': 1,
-    'Extremely Mild': 1.5,
-    'Very Mild': 2,
-    'Mild': 2.5,
-    'Medium': 3,
-    'Medium Plus': 3.5,
-    'Strong': 4,
-    'Very Strong': 4.5,
-    'Extremely Strong': 5
-  };
-  
-  const roomNoteMap = {
-    'Very Pleasant': 5,
-    'Pleasant': 4,
-    'Pleasant to Tolerable': 3.5,
-    'Tolerable': 3,
-    'Tolerable to Strong': 2.5,
-    'Strong': 2,
-    'Very Strong': 1.5,
-    'Overwhelming': 1
-  };
-  
-  // Try to match the text rating to one of the maps
-  for (const map of [strengthMap, tasteMap, flavoringMap, roomNoteMap]) {
-    if (map[textRating] !== undefined) {
-      return map[textRating];
-    }
-  }
-  
-  // Default to 3 (medium) if no match is found
-  return 3;
 }
