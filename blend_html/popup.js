@@ -1076,16 +1076,42 @@ async function submitRating(blendKey, ratings) {
         console.log("Submitting rating for blend:", blendKey);
         console.log("Rating data:", JSON.stringify(ratings));
         
+        // Check if we're using the old format (from the error message)
+        // This is a temporary solution to support both formats
+        const isUsingOldFormat = document.querySelector('#strengthScale .selected-star') === null;
+        
+        let payload;
+        
+        if (isUsingOldFormat) {
+            // Old format
+            payload = {
+                blendId: blendKey + ".json",
+                rating: 3, // Default overall rating
+                profiles: {
+                    strength: "Medium",
+                    taste: "Medium",
+                    flavoring: "Medium",
+                    roomNote: "Tolerable"
+                },
+                timestamp: new Date().toISOString()
+            };
+        } else {
+            // New format
+            payload = {
+                blendKey: blendKey,
+                ratings: ratings,
+                timestamp: new Date().toISOString()
+            };
+        }
+        
+        console.log("Sending payload:", JSON.stringify(payload));
+        
         const response = await fetch('https://ratings.decombust.workers.dev', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({
-                blendKey: blendKey,
-                ratings: ratings,
-                timestamp: new Date().toISOString()
-            })
+            body: JSON.stringify(payload)
         });
         
         const result = await response.json();
