@@ -45,6 +45,7 @@ export default {
             'Authorization': `token ${token}`,
             'Accept': 'application/vnd.github.v3+json',
             'Content-Type': 'application/json',
+            'User-Agent': 'TabacWiki-Rating-Worker'
           },
           body: JSON.stringify({
             event_type: 'new_rating',
