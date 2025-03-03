@@ -35,8 +35,11 @@ export default {
           throw new Error("GitHub token not configured");
         }
 
+        // Define the repo URL directly
+        const repoUrl = 'https://api.github.com/repos/TabacWiki/TabacWiki/dispatches';
+
         // Trigger GitHub workflow
-        const githubResponse = await fetch('https://api.github.com/repos/dougsillars/tabac-wiki/dispatches', {
+        const githubResponse = await fetch(repoUrl, {
           method: 'POST',
           headers: {
             'Authorization': `token ${token}`,
@@ -83,4 +86,4 @@ export default {
       }
     });
   }
-}; 
+};
