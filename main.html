@@ -1218,7 +1218,7 @@
     <script type="module">
         // Import popup modules
         import * as popupModule from './blend_html/popup.js';
-        import { initDonationPopup } from './assets/js/donation-popup.js';
+        import { initDonationPopup, initKofiSupportPopup } from './assets/js/donation-popup.js';
         import { initInfoPopup } from './assets/js/info-popup.js';
         import { initSiteDirectory } from './assets/js/site-directory.js';
         // Celebration effect for International Pipe Smoking Day
@@ -1232,6 +1232,7 @@
             initDonationPopup();
             initInfoPopup();
             initSiteDirectory();
+            initKofiSupportPopup();
 
             // Initialize mobile filters
             const mobileFiltersButton = document.getElementById('mobileFiltersButton');

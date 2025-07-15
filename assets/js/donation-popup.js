@@ -9,14 +9,20 @@ const statusPopup = document.createElement('div');
 statusPopup.id = 'statusPopup';
 statusPopup.className = 'hidden fixed inset-0 bg-black/85 z-50 flex items-center justify-center p-4';
 
+const kofiSupportPopup = document.createElement('div');
+kofiSupportPopup.id = 'kofiSupportPopup';
+kofiSupportPopup.className = 'hidden fixed inset-0 bg-black/85 z-50 flex items-center justify-center p-4';
+
 // Append popups when DOM is ready
 if (document.body) {
     document.body.appendChild(popup);
     document.body.appendChild(statusPopup);
+    document.body.appendChild(kofiSupportPopup);
 } else {
     document.addEventListener('DOMContentLoaded', () => {
         document.body.appendChild(popup);
         document.body.appendChild(statusPopup);
+        document.body.appendChild(kofiSupportPopup);
     });
 }
 
@@ -427,7 +433,7 @@ async function updatePopupContent() {
         { id: 'icp', label: 'ICP', altText: 'Internet Computer', address: '1625be0ccc8303fc69ba693bae13d8b9fed6c5f27e3ccf2e88a09c4920d18adc', color: 'bg-[#631742]/50' },
         { id: 'eth', label: 'ETH', altText: 'Ethereum', address: '0x67A0812ad4cdcF7Dde6948F92c9c1C943601b153', color: 'bg-[#0A2936]/50' },
         { id: 'ltc', label: 'LTC', altText: 'Litecoin', address: 'ltc1q85xawp9p22a0nqr6amn7sxwy06svfpwkwhpavy', color: 'bg-[#0A3622]/50' },
-        { id: 'tp', label: 'Can you code?', altText: 'You could help!!', address: 'https://github.com/TabacWiki/TabacWiki/blob/main/README.md', color: 'bg-[#175863]/50', isLink: true }
+        { id: 'tp', label: 'Real Money (Ko-Fi)', altText: 'Safe & Anonymous', address: 'https://ko-fi.com/tabacwiki', color: 'bg-[#175863]/50', isLink: true }
     ];
 
     popupContent.innerHTML = `
@@ -700,4 +706,156 @@ export function closeStatusPopup() {
         popup.classList.remove('flex');
         popup.classList.add('hidden');
     }, { once: true });
+}
+
+export function createKofiSupportPopup() {
+    const popup = document.getElementById('kofiSupportPopup');
+    if (!popup) return;
+
+    const popupContent = document.createElement('div');
+    popupContent.className = 'bg-[#28201E] rounded-xl max-w-lg w-full p-6 transform scale-95 transition-transform duration-300';
+    
+    popupContent.innerHTML = `
+        <div class="relative text-center">
+            <button id="closeKofiSupportPopup" class="absolute top-0 right-0 text-[#BFB0A3] hover:text-[#C89F65]">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+            </button>
+            <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4">Tabac Wiki Needs Your Support!</h2>
+            <p class="text-[#BFB0A3] mb-6">Though it was initially made to seem like a team project, Tabac Wiki was actually built and maintained by just one person, put together over a few hundred hours entirely out of pocket to fill a real gap in accessible pipe tobacco info, especially for those outside the U.S.<br><br>Due to unforeseen circumstances, I'm now raising funds for a new computer so that I can continue working on updates and the long-promised additions. If the wiki's ever been helpful to you, your support will go directly toward keeping it online, improving it, and delivering the promised updates.</p>
+            <div class="flex justify-center mb-6">
+                <button 
+                    id="kofiSupportButton"
+                    class="bg-[#352c26] hover:bg-[#49362F] text-[#BFB0A3] font-bold py-3 px-6 rounded-lg text-center transition-all duration-300 backdrop-blur-sm shadow-lg hover:shadow-xl"
+                    data-address="https://ko-fi.com/tabacwiki"
+                    data-label="Donate via Ko-Fi"
+                    data-alt-text="Safe & Anonymous">
+                    Donate via Ko-Fi
+                </button>
+            </div>
+            <p class="text-[#BFB0A3] text-sm mt-4 text-center">Thank you for supporting the Tabac Wiki!</p>
+        </div>
+    `;
+
+    // Clear existing content and append new content
+    popup.innerHTML = '';
+    popup.appendChild(popupContent);
+}
+
+export function openKofiSupportPopup() {
+    const popup = document.getElementById('kofiSupportPopup');
+    if (!popup) return;
+
+    // Create content if it doesn't exist
+    if (!popup.hasChildNodes()) {
+        createKofiSupportPopup();
+    }
+
+    // Get the content element
+    const content = popup.querySelector('div');
+    if (!content) return;
+
+    // Set initial state
+    content.style.transform = 'scale(0.95)';
+    content.style.transition = 'transform 0.2s ease-out';
+    
+    // Show the popup (still scaled down)
+    popup.classList.remove('hidden');
+    popup.classList.add('flex');
+    
+    // Force a reflow
+    content.offsetHeight;
+    
+    // Animate to full scale
+    content.style.transform = 'scale(1)';
+
+    // Add event listeners for this popup instance
+    document.getElementById('closeKofiSupportPopup').addEventListener('click', closeKofiSupportPopup);
+    
+    const kofiButton = document.getElementById('kofiSupportButton');
+    if (kofiButton) {
+        // Hover effect
+        kofiButton.addEventListener('mouseenter', () => {
+            kofiButton.textContent = kofiButton.dataset.altText;
+        });
+
+        kofiButton.addEventListener('mouseleave', () => {
+            kofiButton.textContent = kofiButton.dataset.label;
+        });
+
+        // Click to redirect
+        kofiButton.addEventListener('click', () => {
+            window.open(kofiButton.dataset.address, '_blank');
+        });
+    }
+
+    // Click outside to close
+    popup.addEventListener('click', (event) => {
+        if (event.target === popup) {
+            closeKofiSupportPopup();
+        }
+    });
+
+    // Escape key to close
+    const handleEscape = (event) => {
+        if (event.key === 'Escape' && !popup.classList.contains('hidden')) {
+            closeKofiSupportPopup();
+            document.removeEventListener('keydown', handleEscape);
+        }
+    };
+    document.addEventListener('keydown', handleEscape);
+}
+
+export function closeKofiSupportPopup() {
+    const popup = document.getElementById('kofiSupportPopup');
+    if (!popup) return;
+
+    const content = popup.querySelector('div');
+    if (!content) {
+        popup.classList.remove('flex');
+        popup.classList.add('hidden');
+        return;
+    }
+
+    // Ensure transition is set
+    content.style.transition = 'transform 0.2s ease-out';
+    // Start scale down animation
+    content.style.transform = 'scale(0.95)';
+
+    // Wait for animation to complete
+    content.addEventListener('transitionend', () => {
+        popup.classList.remove('flex');
+        popup.classList.add('hidden');
+    }, { once: true });
+}
+
+export function initKofiSupportPopup() {
+    // Check if we should show the Ko-Fi support popup
+    const shouldShowKofiPopup = () => {
+        // Check if this is the main page (not age gate)
+        const isMainPage = window.location.pathname === '/' || window.location.pathname === '/main.html';
+        if (!isMainPage) return false;
+
+        // Check session storage to avoid showing multiple times per session
+        const hasSeenToday = sessionStorage.getItem('kofiSupportPopupShown');
+        if (hasSeenToday) return false;
+
+        // Check local storage for daily limit (show once per day)
+        const lastShown = localStorage.getItem('kofiSupportPopupLastShown');
+        const today = new Date().toDateString();
+        if (lastShown === today) return false;
+
+        return true;
+    };
+
+    if (shouldShowKofiPopup()) {
+        // Show popup after a brief delay
+        setTimeout(() => {
+            openKofiSupportPopup();
+            // Mark as shown for this session and today
+            sessionStorage.setItem('kofiSupportPopupShown', 'true');
+            localStorage.setItem('kofiSupportPopupLastShown', new Date().toDateString());
+        }, 2000); // 2 second delay
+    }
 }
