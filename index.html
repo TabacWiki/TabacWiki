@@ -1,617 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-		<base href="/" />
-		
-		<!-- Cache Control -->
-		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-		<meta http-equiv="Pragma" content="no-cache">
-		<meta http-equiv="Expires" content="0">
-		<meta name="version" content="1.0.2">
-		<meta name="last-updated" content="2024-03-29T22:35:00Z">
-		
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-		
-		<!-- Primary Meta Tags -->
-		<title>Tabac Wiki</title>
-		<meta name="description" content="Discover, explore, and review pipe tobacco blends from around the world. A comprehensive, community-driven database for tobacco enthusiasts and collectors.">
-		<meta name="keywords" content="pipe tobacco, tobacco blends, tobacco database, tobacco reviews, tobacco ratings, tobacco varieties, smoking culture">
-		<meta name="author" content="Tabac Wiki Community">
-		
-		<!-- Robots and Canonical -->
-		<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
-		<link rel="canonical" href="https://tabac.wiki">
-		
-		<!-- Geo Meta Tags a-->
-		<meta name="geo.region" content="Global">
-		<meta name="geo.position" content="0;0">
-		<meta name="ICBM" content="0, 0">
-		
-		<!-- Open Graph / Social Media -->
-		<meta property="og:type" content="website">
-		<meta property="og:site_name" content="Tabac Wiki">
-		<meta property="og:title" content="Tabac Wiki">
-		<meta property="og:description" content="Discover, explore, and review pipe tobacco blends from around the world. A comprehensive, community-driven database for tobacco enthusiasts and collectors.">
-		<meta property="og:image" content="https://tabac.wiki/tabacwiki.png">
-		<meta property="og:image:secure_url" content="https://tabac.wiki/tabacwiki.png">
-		<meta property="og:image:type" content="image/png">
-		<meta property="og:image:width" content="1200">
-		<meta property="og:image:height" content="630">
-		<meta property="og:url" content="https://tabac.wiki">
-		
-		<!-- Structured Data -->
-		<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "WebSite",
-			"name": "Tabac Wiki",
-			"url": "https://tabac.wiki",
-			"description": "A comprehensive, community-driven database of pipe tobacco blends from around the world.",
-			"keywords": "pipe tobacco, tobacco blends, tobacco database",
-			"publisher": {
-				"@type": "Organization",
-				"name": "Tabac Wiki Community",
-				"logo": {
-					"@type": "ImageObject",
-					"url": "https://tabac.wiki/tabacwiki.png"
-				}
-			},
-			"potentialAction": {
-				"@type": "SearchAction",
-				"target": "https://tabac.wiki/search?q={search_term_string}",
-				"query-input": "required name=search_term_string"
-			}
-		}
-		</script>
-		
-		<!-- Additional Structured Data -->
-		<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "WebPage",
-			"name": "Tabac Wiki - Global Pipe Tobacco Blend Database",
-			"description": "Discover, explore, and review pipe tobacco blends from around the world.",
-			"mainEntity": {
-				"@type": "WebPage",
-				"name": "Pipe Tobacco Blend Database",
-				"description": "A comprehensive collection of pipe tobacco blends, reviews, and ratings."
-			}
-		}
-		</script>
-		
-		<!-- Favicon -->
-		<link rel="icon" type="image/x-icon" href="/favicon.ico">
-		<link rel="apple-touch-icon" href="/tabacwiki.png">
-		
-		<style>
-			body, html {
-				margin: 0;
-				padding: 0;
-				height: 100%;
-				background-color: #1f1a18;
-				font-family: Arial, sans-serif;
-			}
-			.map-container {
-				width: 100%;
-				height: 100vh;
-				display: flex;
-				justify-content: center;
-				align-items: center;
-				margin: 0;
-				padding: 0;
-				position: relative;
-			}
-			@media (max-width: 768px) {
-				.map-container {
-					overflow: auto;
-					-webkit-overflow-scrolling: touch;
-				}
-				.map-wrapper {
-					min-width: 150%;
-					min-height: 150%;
-					display: flex;
-					justify-content: center;
-					align-items: center;
-				}
-				#newWorldMap {
-					width: 150%;
-					height: auto;
-					max-width: none;
-				}
-			}
-			.map-wrapper {
-				width: 100%;
-				height: 100%;
-				display: flex;
-				justify-content: center;
-				align-items: center;
-				position: relative;
-			}
-			#newWorldMap {
-				max-width: 100%;
-				max-height: 100%;
-				object-fit: contain;
-				transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-			}
-			#newWorldMap path {
-				transition: opacity 0.25s ease-out;
-				opacity: 0;
-			}
-			#newWorldMap path.loaded {
-				opacity: 1;
-			}
-			svg path {
-				transition: fill 0.3s ease;
-			}
-			svg path:hover {
-				cursor: pointer;
-				fill: rgba(200, 159, 101, 0.6) !important;
-			}
-			#countryName {
-				position: fixed;
-				top: 20px;
-				left: 50%;
-				transform: translateX(-50%);
-				background-color: rgba(39, 32, 30, 0.8);
-				color: #C89F65;
-				padding: 10px 20px;
-				border-radius: 5px;
-				text-align: center;
-				display: none;
-				font-weight: bold;
-				font-size: 1rem;
-				white-space: nowrap;
-				z-index: 1000;
-			}
-			@media (max-width: 768px) {
-				#countryName {
-					font-size: 0.9rem;
-					padding: 8px 16px;
-					top: 10px;
-				}
-				#mapTitleMain {
-					font-size: 1.8rem !important;
-				}
-				#mapTitleSub {
-					font-size: 1.2rem !important;
-				}
-			}
-			@media (max-width: 480px) {
-				#countryName {
-					font-size: 0.8rem;
-					padding: 6px 12px;
-					top: 8px;
-				}
-				#mapTitleMain {
-					font-size: 1.5rem !important;
-				}
-				#mapTitleSub {
-					font-size: 1rem !important;
-				}
-			}
-			#ageVerificationPopup {
-				display: none;
-				position: fixed;
-				z-index: 1000;
-				left: 0;
-				top: 0;
-				width: 100%;
-				height: 100%;
-				overflow: auto;
-				background-color: rgba(0,0,0,0.7);
-				justify-content: center;
-				align-items: center;
-			}
-			.age-verification-content {
-				background-color: rgb(110, 88, 59);
-				color: #BFB0A3;
-				padding: 30px;
-				border-radius: 10px;
-				text-align: center;
-				width: fit-content;
-				max-width: 90%;
-				margin: 0 auto;
-			}
-			.age-verification-content h2 {
-				margin-top: 0;
-				margin-bottom: 15px;
-			}
-			.age-verification-content p {
-				margin-bottom: 20px;
-			}
-			.age-verification-buttons {
-				display: flex;
-				justify-content: center;
-				gap: 30px;
-				margin-top: 20px;
-			}
-			.age-verification-buttons button {
-				padding: 10px 20px;
-				border: none;
-				border-radius: 5px;
-				cursor: pointer;
-				font-weight: bold;
-				min-width: 100px;
-				transition: all 0.3s ease;
-				position: relative;
-				overflow: hidden;
-				border: 1px solid transparent;
-			}
-			.age-verification-buttons .yes-btn {
-				background-color: #21202096;
-				color: rgb(129, 100, 61);
-			}
-			.age-verification-buttons .no-btn {
-				background-color: #BFB0A3;
-				color: rgb(129, 100, 61);
-			}
-			.age-verification-buttons button:hover {
-				border-color: rgba(129, 100, 61, 0.5);
-				box-shadow: 0 0 10px rgba(129, 100, 61, 0.2);
-				transform: translateY(-2px);
-			}
-			.age-verification-buttons button:active {
-				transform: scale(0.98) translateY(0);
-				box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-			}
-			#mapTitleContainer {
-				position: absolute;
-				top: 20px;
-				left: 20px;
-				z-index: 1000;
-			}
-			@media (max-width: 768px) {
-				#mapTitleContainer {
-					position: fixed;
-					top: 15px;
-					left: 15px;
-					background-color: rgba(31, 26, 24, 0.85);
-					padding: 10px 15px;
-					border-radius: 8px;
-					box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-				}
-			}
-			#mapTitleMain {
-				font-family: 'Arial', sans-serif;
-				font-size: 2.5rem;
-				font-weight: bold;
-				color: rgb(129, 100, 61);
-				opacity: 0.8;
-				text-align: left;
-			}
-			#mapTitleSub {
-				font-family: 'Arial', sans-serif;
-				font-size: 1.5rem;
-				color: rgb(129, 100, 61);
-				opacity: 0.6;
-				margin-top: 10px;
-				text-align: left;
-			}
-
-			@keyframes fadeIn {
-				from {
-					opacity: 0;
-				}
-				to {
-					opacity: 1;
-				}
-			}
-
-			.map-container {
-				opacity: 0;
-				animation: fadeIn 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
-				animation-delay: 0.1s;
-			}
-
-			@keyframes fadeInSlideUp {
-				from {
-					opacity: 0;
-					transform: translateY(20px);
-				}
-				to {
-					opacity: 1;
-					transform: translateY(0);
-				}
-			}
-
-			#mapTitleContainer {
-				opacity: 0;
-				animation: fadeInSlideUp 1s ease-out forwards;
-				animation-delay: 0.7s;
-			}
-
-			#mapTitleMain {
-				opacity: 0;
-				animation: fadeInSlideUp 1s ease-out forwards;
-				animation-delay: 0.8s;
-			}
-
-			#mapTitleSub {
-				opacity: 0;
-				animation: fadeInSlideUp 1s ease-out forwards;
-				animation-delay: 0.9s;
-			}
-		</style>
-	</head>
-	<body>
-		<noscript style="display:none;">
-			<div style="display:none;">
-				<h1>Tabac Wiki - Pipe Tobacco Blend Database</h1>
-				<p>Welcome to Tabac Wiki, a comprehensive, community-driven database of pipe tobacco blends. Our mission is to provide tobacco enthusiasts with a rich, searchable resource to explore and discover the world of pipe tobacco.</p>
-				
-				<h2>What We Offer</h2>
-				<ul>
-					<li>Extensive database of pipe tobacco blends</li>
-					<li>User reviews and ratings</li>
-					<li>Detailed information about tobacco varieties</li>
-					<li>Interactive global tobacco exploration</li>
-				</ul>
-				
-				<h2>Features</h2>
-				<p>Explore tobacco blends by region, type, flavor profile, and more. Whether you're a seasoned pipe smoker or a curious newcomer, Tabac Wiki is your gateway to the fascinating world of pipe tobacco.</p>
-				
-				<p>JavaScript is required to fully experience Tabac Wiki. Please enable JavaScript in your browser settings.</p>
-			</div>
-		</noscript>
-		
-		<div class="map-container">
-			<div class="map-wrapper">
-				<div id="mapTitleContainer">
-					<div id="mapTitleMain">Quick question,</div>
-					<div id="mapTitleSub">where are you visiting from?</div>
-				</div>
-				<svg id="newWorldMap"></svg>
-			</div>
-			<div id="countryName"></div>
-		</div>
-
-		<div id="ageVerificationPopup">
-			<div class="age-verification-content">
-				<h2 id="ageVerificationTitle">Age Verification</h2>
-				<p id="ageVerificationMessage">You must be of legal age to access this site.</p>
-				<div class="age-verification-buttons">
-					<button class="yes-btn" onclick="handleAgeVerification(true);">Yes, I am</button>
-					<button class="no-btn" onclick="handleAgeVerification(false)">No, I am not</button>
-				</div>
-			</div>
-		</div>
-
-		<script src="https://d3js.org/d3.v4.js"></script>
-		<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.33/moment-timezone-with-data.min.js"></script>
-		<script>
-			let legalAges = {};
-			let selectedCountry = null;
-			let countryTimezones = {
-				"United States": "America/New_York",
-				"United Kingdom": "Europe/London",
-				"Canada": "America/Toronto",
-				"Australia": "Australia/Sydney",
-				"China": "Asia/Shanghai",
-				"Japan": "Asia/Tokyo",
-				"India": "Asia/Kolkata",
-				"Brazil": "America/Sao_Paulo",
-				"Russia": "Europe/Moscow",
-				"Germany": "Europe/Berlin",
-				"France": "Europe/Paris",
-				"Italy": "Europe/Rome",
-				"Spain": "Europe/Madrid",
-				"Mexico": "America/Mexico_City",
-				"South Africa": "Africa/Johannesburg",
-				"Saudi Arabia": "Asia/Riyadh",
-				"United Arab Emirates": "Asia/Dubai",
-				"South Korea": "Asia/Seoul",
-				"Argentina": "America/Buenos_Aires",
-				"Egypt": "Africa/Cairo"
-			};
-
-			// Fetch legal ages
-			fetch('/assets/data/legal_ages.json')
-				.then(response => response.json())
-				.then(data => {
-					legalAges = data;
-				})
-				.catch(error => console.error('Error loading legal ages:', error));
-
-			function getTimeGreeting(time) {
-				const hour = time.hour();
-				if (hour >= 5 && hour < 6) return "Wow, it is early!";
-				if (hour >= 6 && hour < 10) return "Good morning!";
-				if (hour >= 10 && hour < 13) return "Wait just a minute!";
-				if (hour >= 13 && hour < 17) return "Good afternoon!";
-				if (hour >= 17 && hour < 20) return "Good evening!";
-				if (hour >= 20 || hour < 0) return "What be ye doin up at this hour!";
-				return "Ah, a fellow night owl!";
-			}
-
-			// Check age verification cache on page load
-			document.addEventListener('DOMContentLoaded', function() {
-				// Check if user has already verified age
-				if (localStorage.getItem('isOfAge') === 'true') {
-					window.location.replace('main.html');
-				}
-			});
-
-			// Enhanced Age Verification Handling
-			function handleAgeVerification(isOfAge) {
-				const popup = document.getElementById('ageVerificationPopup');
-				const title = document.getElementById('ageVerificationTitle');
-				const message = document.getElementById('ageVerificationMessage');
-				const buttons = document.querySelector('.age-verification-buttons');
-
-				popup.style.display = 'flex';
-				popup.style.pointerEvents = 'all';
-				
-				if (isOfAge) {
-					// Set localStorage first
-					localStorage.setItem('isOfAge', 'true');
-					// Small delay to ensure localStorage is set before redirect
-					setTimeout(() => {
-						window.location.href = 'main.html';
-					}, 50);
-				} else {
-					title.textContent = "Access Restricted";
-					message.innerHTML = `
-						<strong>Sorry, you must be of legal age to access this site.</strong><br><br>
-						This website contains content intended for adults only.
-					`;
-					
-					// Remove existing buttons and add only an acknowledgement button
-					buttons.innerHTML = `
-						<button class="no-btn" onclick="handleUnderageAccess()">I Understand</button>
-					`;
-				}
-			}
-
-			// Handle underage access attempt
-			function handleUnderageAccess() {
-				// Redirect to an external site or show a final warning
-				window.location.href = "https://www.google.com";
-			}
-
-			// Removed beforeunload event listener to prevent "Leave site?" warnings
-
-			var svg = d3.select("#newWorldMap");
-			var path = d3.geoPath();
-
-			// Dynamic map sizing
-			function resizeMap() {
-				const mapContainer = document.querySelector('.map-wrapper');
-				const width = mapContainer.clientWidth;
-				const height = mapContainer.clientHeight;
-
-				svg.attr("width", width).attr("height", height);
-
-				// Adjust projection to maintain aspect ratio
-				var projection = d3.geoMercator()
-					.scale(width / 6.5)  // Adjust scale factor as needed
-					.translate([width / 2, height / 1.5]);
-
-				path.projection(projection);
-				svg.selectAll("path").attr("d", path);
-			}
-
-			// Initial resize and add resize listener
-			resizeMap();
-			window.addEventListener('resize', resizeMap);
-
-			// Add loading state management
-			document.addEventListener('DOMContentLoaded', function() {
-				const mapContainer = document.querySelector('.map-container');
-				const mapTitleContainer = document.getElementById('mapTitleContainer');
-
-				// Ensure map container is visible after loading
-				mapContainer.style.opacity = '1';
-				mapTitleContainer.style.opacity = '1';
-			});
-
-			d3.json("assets/css/world.json", function (data) {
-				// Draw the map
-				const mapPaths = svg.append("g")
-					.selectAll("path")
-					.data(data.features)
-					.enter()
-					.append("path")
-					.attr("d", path)
-					.attr("fill", "rgba(200, 159, 101, 0.2)")
-					.style("stroke", "#BFB0A3")
-					.style("stroke-width", "0.5px");
-
-				// Faster loading of paths
-				function loadPathsQuickly() {
-					// Calculate path areas and sort by latitude (bottom to top)
-					const sortedPaths = mapPaths.nodes()
-						.map(pathNode => {
-							const pathData = d3.select(pathNode).datum();
-							return { node: pathNode };
-						});
-					
-					// Total duration for all paths to load
-					const totalLoadDuration = 100; // Reduced from 1500 to 100ms
-					const totalPaths = sortedPaths.length;
-					
-					// Quickly load all paths
-					sortedPaths.forEach((pathInfo, index) => {
-						setTimeout(() => {
-							requestAnimationFrame(() => {
-								pathInfo.node.classList.add('loaded');
-							});
-						}, Math.random() * totalLoadDuration);
-					});
-				}
-
-				// Start loading very quickly after data is ready
-				setTimeout(loadPathsQuickly, 200);
-
-				// Event handling for paths
-				mapPaths.each(function(d) {
-					d3.select(this)
-						.on("mouseover", function() {
-							d3.select(this).attr("fill", "rgba(200, 159, 101, 0.5)");
-							d3.select("#countryName").text(d.properties.name)
-								.style("display", "block");
-						})
-						.on("mouseout", function() {
-							d3.select(this).attr("fill", "rgba(200, 159, 101, 0.2)");
-							d3.select("#countryName").style("display", "none");
-						})
-						.on("click", function() {
-							const countryName = d.properties.name;
-							selectedCountry = countryName;
-							
-							// Update popup with country-specific age and time
-							const popup = document.getElementById('ageVerificationPopup');
-							const title = document.getElementById('ageVerificationTitle');
-							const message = document.getElementById('ageVerificationMessage');
-							const buttons = document.querySelector('.age-verification-buttons');
-							
-							// Reset popup to default state
-							buttons.style.display = 'flex';
-							
-							// Determine timezone
-							const timezone = countryTimezones[countryName] || 'UTC';
-							const localTime = moment().tz(timezone);
-							const timeGreeting = getTimeGreeting(localTime);
-							
-							// Set title and message
-							title.textContent = timeGreeting;
-							
-							// Set message with legal age for the country
-							const legalAge = legalAges[countryName] || 18;
-							message.textContent = `Are you over ${legalAge} years old?`;
-							
-							// Show popup
-							popup.style.display = 'flex';
-						});
-				});
-			});
-		</script>
-	        <style>
-            @media (max-width: 768px) {
-                .legal-footer {
-                    padding: 8px 20px !important;
-                }
-                .legal-footer p {
-                    font-size: 0.7rem !important;
-                    line-height: 1.3 !important;
-                }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabac Wiki - Support Needed</title>
+    <meta name="description" content="Tabac Wiki needs your support to continue operating">
+    
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-color: #1f1a18;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .message-container {
+            background-color: #28201E;
+            border-radius: 12px;
+            max-width: 600px;
+            width: 90%;
+            padding: 40px;
+            text-align: center;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+        }
+        
+        .message-container h1 {
+            color: #BFB0A3;
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 30px;
+            line-height: 1.2;
+        }
+        
+        .message-container p {
+            color: #BFB0A3;
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 40px;
+        }
+        
+        .kofi-button {
+            background-color: #352c26;
+            hover:background-color: #49362F;
+            color: #BFB0A3;
+            font-bold: true;
+            padding: 15px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 1.1rem;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            display: inline-block;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+        
+        .kofi-button:hover {
+            background-color: #49362F;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+        }
+        
+        @media (max-width: 768px) {
+            .message-container {
+                padding: 30px 25px;
             }
-            @media (max-width: 480px) {
-                .legal-footer {
-                    padding: 6px 15px !important;
-                }
-                .legal-footer p {
-                    font-size: 0.65rem !important;
-                    line-height: 1.25 !important;
-                }
+            
+            .message-container h1 {
+                font-size: 2rem;
             }
-        </style>
-        <footer class="legal-footer" style="position: fixed; bottom: 0; left: 0; right: 0; padding: 10px 40px; text-align: center; background-color: rgba(31, 26, 24, 0.85); z-index: 10;">
-            <p style="margin: 0; font-size: 0.75rem; line-height: 1.4; color: rgb(129, 100, 61); width: 100%; max-width: 2000px; margin: 0 auto; padding: 0 20px; box-sizing: border-box;">
-                Your geographical location is not collected and is used only as a graphical feature for dynamic age verification. By using Tabac.Wiki, you agree to our Terms of Use. The content within is only for adults and educational purposes and does not endorse tobacco use. We collect only minimal data (IP address, user agent, and provided name) to prevent abuse of our submission system. By submitting content, you grant us a license to display it. We comply with applicable data protection laws (e.g., GDPR, CCPA). Continued use constitutes your acceptance of these terms.
-            </p>
-        </footer>
-    </body>
+            
+            .message-container p {
+                font-size: 1.1rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .message-container {
+                padding: 25px 20px;
+            }
+            
+            .message-container h1 {
+                font-size: 1.8rem;
+            }
+            
+            .message-container p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="message-container">
+        <h1>Sorry, I cannot afford to maintain this out of pocket</h1>
+        <p>If you relied on the Tabac Wiki, then the Tabac Wiki now relies on you.</p>
+        <a href="https://ko-fi.com/tabacwiki" class="kofi-button" target="_blank">Support on Ko-Fi</a>
+    </div>
+</body>
 </html>
