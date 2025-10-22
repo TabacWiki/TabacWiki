@@ -306,29 +306,13 @@ async function updatePopupContent() {
 
                                 <li class="flex justify-between">
                                     <span>Blend Database:</span>
-                                    <span class="font-semibold">Up to date</span>
-                                </li>
-
-                                <li class="flex justify-between">
-                                    <span>Community Contributions:</span>
-                                    <span class="font-semibold">0 accepted, 0 rejected</span>
-                                </li>
-
-                                <li class="flex justify-between">
-                                    <span>Bug Bounty Allowance:</span>
-                                    <span class="font-semibold">0.00 BTC ($0 USD)</span>
+                                    <span class="font-semibold">8 months behind</span>
                                 </li>
 
                                 <li class="flex justify-between">
                                     <span>Donations Received:</span>
-                                    <span class="font-semibold">0.00 BTC ($0 USD)</span>
+                                    <span class="font-semibold">$180 USD</span>
                                 </li>
-
-                                <li class="flex justify-between">
-                                    <span>Bounty Rewards:</span>
-                                    <span class="font-semibold">0.00 BTC ($0 USD)</span>
-                                </li>
-
 
                             </ul>
                         </div>
