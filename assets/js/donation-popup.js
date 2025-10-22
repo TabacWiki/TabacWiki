@@ -722,8 +722,8 @@ export function createKofiSupportPopup() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                 </svg>
             </button>
-            <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4">Tabac Wiki Needs Your Support!</h2>
-            <p class="text-[#BFB0A3] mb-6">Though it was initially made to seem like a team project, Tabac Wiki was actually built and maintained by just one person, put together over a few hundred hours entirely out of pocket to fill a real gap in accessible pipe tobacco info, especially for those outside the U.S.<br><br>Due to unforeseen circumstances, I'm now raising funds for a new computer so that I can continue working on updates and the long-promised additions. If the wiki's ever been helpful to you, your support will go directly toward keeping it online, improving it, and delivering the promised updates.</p>
+            <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4">Updates!</h2>
+            <p class="text-[#BFB0A3] mb-6">Work on the wiki is back underway! I've acquired a ThinkPad and have updated the site with some of the promised features! You'll now find a new Flavoring filter on the main database, a Blend Graphs page to visualize the data in a new and exiting way, as well as a brand new YTPC Index to discover content creators. I've also tweaked the site's colors to improve contrast and hopefully fix the issues some users were experiencing.<br><br>To access the new pages, click the Tabac Wiki leaf logo in the top-left corner (desktop only for now, I'm actively working on a mobile fix!). The 'Contributors Page' is also in the works.<br><br>One important note: Due to Reddit's new policies requiring ID to access /r/PipeTobacco, I will no longer be posting updates there which means I'm relying on you, the community, to help spread the good news! All updates will be posted to the Ko-Fi page from here on out. Thank you to everyone for your support and patience!</p>
             <div class="flex justify-center mb-6">
                 <button 
                     id="kofiSupportButton"

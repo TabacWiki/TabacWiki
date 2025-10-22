@@ -287,16 +287,16 @@ async function renderBlendPopup(blendKey) {
                             <!-- Right Column - Image -->
                             <div class="lg:col-span-3">
                                 <div class="sticky top-8">
-                                    <form 
+                                    <form
                                         style="margin: 0; padding: 0;"
                                         id="imageUploadForm"
                                         onsubmit="event.preventDefault();"
                                     >
-                                        <input 
-                                            type="file" 
-                                            name="attachment" 
-                                            accept="image/*" 
-                                            style="display: none;" 
+                                        <input
+                                            type="file"
+                                            name="attachment"
+                                            accept="image/*"
+                                            style="display: none;"
                                             id="imageInput"
                                             max="10485760"
                                         >
@@ -307,10 +307,10 @@ async function renderBlendPopup(blendKey) {
                                         <input type="hidden" name="blender" value="${blend.blender}">
                                         <input type="hidden" name="current_time" value="${new Date().toISOString()}">
                                         <div class="upload-container relative" id="uploadContainer">
-                                            <img 
-                                                src="${blend.imagePath}" 
-                                                alt="${blend.name}" 
-                                                class="w-full rounded-xl shadow-2xl border border-[#28201E]/50 object-cover aspect-square"
+                                            <img
+                                                src="${blend.imagePath}"
+                                                alt="${blend.name}"
+                                                class="w-full rounded-xl shadow-2xl border border-[#28201E]/50 object-cover aspect-square min-w-0"
                                                 onerror="this.onerror=null; this.src='/blend_pictures/pictureless.jpg';"
                                             />
                                             <div id="uploadOverlay" class="absolute inset-0 bg-black/60 backdrop-blur-[2px] rounded-xl opacity-0 transition-opacity duration-200 flex items-center justify-center pointer-events-none">
@@ -623,7 +623,7 @@ let currentResizeObserver;
 function scalePopupContent() {
     const popupContainer = document.getElementById('blendPopup');
     const popupContent = document.getElementById('popupContent');
-    
+
     if (!popupContainer || !popupContent) return;
 
     // Clean up any existing resize observer
@@ -686,18 +686,25 @@ function scalePopupContent() {
         if (isAndroid) {
             // Prevent unnecessary repaints
             popupContent.style.transform = 'translateZ(0)';
-            
+
             // Force hardware acceleration
             popupContainer.style.webkitTransform = 'translateZ(0)';
             popupContent.style.webkitTransform = 'translateZ(0)';
         }
     } else {
-        // Desktop styles
+        // Desktop/tablet styles - improved for responsive scaling
+        // Reset any mobile-specific styles first
+        popupContent.style.position = 'relative';
+        popupContent.style.overflowY = 'visible';
+        popupContent.style.overflowX = 'visible';
+
         const contentWidth = popupContent.scrollWidth;
         const contentHeight = popupContent.scrollHeight;
 
-        const scaleX = Math.min((viewportWidth - 80) / contentWidth, 1);
-        const scaleY = Math.min((viewportHeight - 80) / contentHeight, 1);
+        // Use more aggressive padding for smaller screens
+        const padding = viewportWidth < 1024 ? 40 : 80;
+        const scaleX = Math.min((viewportWidth - padding) / contentWidth, 1);
+        const scaleY = Math.min((viewportHeight - padding) / contentHeight, 1);
         const scale = Math.min(scaleX, scaleY, 1);
 
         const desktopStyles = {
@@ -705,15 +712,17 @@ function scalePopupContent() {
             maxWidth: '1200px',
             transform: `scale(${scale})`,
             transformOrigin: 'top center',
-            margin: '40px auto',
-            padding: '40px',
-            position: 'relative',
+            margin: '20px auto',
+            padding: '0',
             visibility: 'visible',
             display: 'block'
         };
 
         // Apply desktop styles
         Object.assign(popupContent.style, desktopStyles);
+
+        // Ensure container allows scrolling if needed
+        popupContainer.style.overflowY = scale < 1 ? 'auto' : 'hidden';
     }
 
     // Debounced resize handling

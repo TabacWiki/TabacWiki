@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        // Age verification check - must run before anything else
+        if (localStorage.getItem('isOfAge') !== 'true') {
+            window.location.href = '/index.html';
+        }
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Blend Analytics - Tabac Wiki</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <script type="module">
+        import { initDonationPopup } from './assets/js/donation-popup.js';
+        import { initInfoPopup } from './assets/js/info-popup.js';
+        import { initSiteDirectory } from './assets/js/site-directory.js';
+
+        // Initialize popups after DOM content is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            initDonationPopup();
+            initInfoPopup();
+            initSiteDirectory();
+        });
+    </script>
+    <style>
+        @keyframes gentleShake {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(-5deg); }
+            75% { transform: rotate(5deg); }
+        }
+
+        .favicon-shake {
+            animation: gentleShake 0.5s ease-in-out;
+            animation-iteration-count: 2;
+        }
+
+        body {
+            background-color: #1f1a18;
+            color: #BFB0A3;
+        }
+
+        .site-logo {
+            width: 48px;
+            height: 48px;
+            cursor: pointer;
+            transition: transform 0.3s ease, filter 0.3s ease;
+        }
+
+        .site-logo:hover {
+            transform: scale(1.2) rotate(5deg);
+            filter: brightness(1.2);
+        }
+
+        /* Custom Scrollbar */
+        .custom-scrollbar {
+            scrollbar-width: thin;
+            scrollbar-color: #352c26 #241e1c;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #241e1c;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: #352c26;
+            border-radius: 4px;
+            border: 2px solid #241e1c;
+        }
+
+        /* Graph containers */
+        .graph-container {
+            background-color: #241e1c;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 32px;
+            width: 100%;
+        }
+
+        .graph-container > div {
+            width: 100%;
+        }
+
+        .graph-container svg {
+            display: block;
+            width: 100%;
+        }
+
+        .graph-title {
+            color: #C89F65;
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+
+        /* Tooltip styles */
+        .graph-tooltip {
+            position: absolute;
+            background-color: rgba(36, 30, 28, 0.95);
+            color: #BFB0A3;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #352c26;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            font-size: 14px;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .graph-tooltip.show {
+            opacity: 1;
+        }
+
+        /* Custom checkbox styles from main.html */
+        .custom-checkbox-container {
+            display: flex;
+            align-items: center;
+            padding: 8px 12px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            border-radius: 6px;
+        }
+
+        .custom-checkbox-container:hover {
+            background-color: rgba(53, 44, 38, 0.3);
+        }
+
+        .custom-checkbox {
+            position: relative;
+            margin-right: 12px;
+        }
+
+        .custom-checkbox input[type="checkbox"] {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .checkmark {
+            height: 20px;
+            width: 20px;
+            background-color: rgba(53, 44, 38, 0.4);
+            border: 2px solid #7D6A55;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+
+        .custom-checkbox input[type="checkbox"]:checked ~ .checkmark {
+            background-color: #C89F65;
+            border-color: #C89F65;
+        }
+
+        .checkmark:after {
+            content: "";
+            position: absolute;
+            display: none;
+            left: 6px;
+            top: 2px;
+            width: 5px;
+            height: 10px;
+            border: solid #241e1c;
+            border-width: 0 2px 2px 0;
+            transform: rotate(45deg);
+        }
+
+        .custom-checkbox input[type="checkbox"]:checked ~ .checkmark:after {
+            display: block;
+        }
+
+        .custom-checkbox-label {
+            flex: 1;
+            user-select: none;
+        }
+
+        /* Main content area */
+        .main-content {
+            display: flex;
+            width: 100%;
+        }
+
+        .main-content > .flex-1 {
+            flex: 1;
+            min-width: 0;
+            max-width: 100%;
+        }
+
+        /* Match counter */
+        .match-counter {
+            background-color: rgba(200, 159, 101, 0.1);
+            border: 1px solid #C89F65;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 16px;
+            text-align: center;
+            color: #C89F65;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body class="bg-[#1f1a18] text-[#BFB0A3] custom-scrollbar">
+    <div class="main-content flex flex-col md:flex-row flex-1 overflow-hidden custom-scrollbar">
+        <!-- Mobile Header -->
+        <div id="mobileHeader" class="md:hidden flex flex-col bg-[#241e1c] sticky top-0 z-10 transition-all duration-300 ease-in-out shadow-lg shadow-black/25">
+            <div class="flex flex-col p-4 gap-4">
+                <div class="flex items-center justify-between relative">
+                    <button id="mobileInfoButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center justify-center">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </button>
+                    <div class="absolute left-1/2 -translate-x-1/2 flex items-center gap-2">
+                        <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="w-8 h-8">
+                        <a href="https://tabac.wiki" class="hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                            <img src="/assets/logo.png" alt="Tabac Wiki" class="h-6 w-auto max-w-full object-contain object-left">
+                        </a>
+                    </div>
+                    <button id="mobileFiltersButton" class="w-auto p-2 hover:bg-[#352c26]/40 rounded-lg transition-colors duration-200 text-[#BFB0A3] flex items-center justify-center">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <!-- Mobile Search Bar -->
+            <div class="px-4 pb-4 md:hidden">
+                <input type="text" id="searchInput" placeholder="Highlight blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+            </div>
+        </div>
+
+        <!-- Mobile Filters Overlay -->
+        <div id="mobileFiltersOverlay" class="fixed inset-0 bg-black/50 z-40 hidden transition-opacity duration-300 ease-in-out opacity-0 md:hidden"></div>
+
+        <!-- Sidebar -->
+        <div id="mobileSidebar" class="sidebar hidden md:!flex w-full md:w-64 bg-[#241e1c] md:flex-shrink-0 transition-all duration-300 ease-in-out md:!w-64 md:shadow-lg md:shadow-black/25 md:fixed md:left-0 fixed top-0 left-0 right-0 z-50 rounded-b-xl md:rounded-none flex-col" style="transform: translateY(-100%)">
+            <!-- Mobile Drag Handle -->
+            <div class="absolute bottom-0 left-0 right-0 h-8 bg-[#241e1c] md:hidden flex items-center justify-center cursor-grab active:cursor-grabbing">
+                <div class="h-1 w-12 bg-[#352c26] rounded-full"></div>
+            </div>
+            <style>
+                @media (min-width: 768px) {
+                    #mobileSidebar {
+                        transform: none !important;
+                        position: relative !important;
+                        display: flex !important;
+                    }
+                }
+            </style>
+            <!-- Scrollable Content -->
+            <div class="px-4 py-4 md:py-8 overflow-y-auto flex-1 custom-scrollbar" style="height: calc(100vh - 92px);">
+                <!-- Desktop Header -->
+                <div class="title-container hidden md:flex items-center mb-4">
+                    <img src="/favicon.ico" alt="Tabac Wiki Leaf" class="site-logo mr-2 w-10 h-10">
+                    <a href="https://tabac.wiki" class="site-title-link hover:transform hover:scale-110 hover:brightness-110 transition-all duration-300 ease-in-out">
+                        <img src="/assets/logo.png" alt="Tabac Wiki" class="h-8 w-auto max-w-full object-contain object-left">
+                    </a>
+                </div>
+
+                <!-- Support buttons -->
+                <div class="flex justify-center items-stretch gap-2 w-full md:max-w-[200px] mx-auto mb-8">
+                    <button id="donationButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-3 md:px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Support The Wiki</button>
+                    <button id="statusButton" class="flex-1 bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium px-3 md:px-1.5 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 whitespace-nowrap flex items-center justify-center">Wiki Report</button>
+                    <button id="infoButton" class="hidden md:flex h-[32px] w-[32px] bg-[#352c26]/40 hover:bg-[#352c26]/60 text-[#BFB0A3] text-xs font-medium rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] transition-all duration-200 items-center justify-center flex-shrink-0">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- Desktop Search Bar -->
+                <div class="hidden md:block mb-8">
+                    <div class="relative">
+                        <input type="text" id="desktopSearchInput" placeholder="Highlight blends..." class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] placeholder:text-[#BFB0A3]/50 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    </div>
+                </div>
+
+                <!-- Reset Button (no Sort By section) -->
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-xl font-semibold text-[#BFB0A3]">Filters</h3>
+                    <button id="resetFiltersBtn" class="text-sm text-[#BFB0A3] hover:text-[#C89F65] transition-colors duration-300 bg-[#352c26]/40 px-2 py-1 rounded-md">
+                        Reset
+                    </button>
+                </div>
+
+                <!-- Filter dropdowns -->
+                <div id="filtersContainer" class="md:block grid grid-cols-2 gap-4 md:space-y-4">
+                    <select id="blenderDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Brands</option>
+                    </select>
+
+                    <select id="blendedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Blenders</option>
+                    </select>
+
+                    <select id="manufacturedByDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Manufacturers</option>
+                    </select>
+
+                    <select id="countryDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Countries</option>
+                    </select>
+
+                    <select id="cutTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Cut Types</option>
+                    </select>
+
+                    <select id="packagingDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Packaging Types</option>
+                    </select>
+
+                    <select id="blendTypeDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="" selected>All Blend Types</option>
+                    </select>
+
+                    <select id="productionDropdown" class="w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55]">
+                        <option value="All availabilities" selected>All Availabilities</option>
+                    </select>
+                </div>
+
+                <div class="my-4"></div>
+
+                <!-- Components section -->
+                <div class="hidden md:flex items-center justify-between cursor-pointer mt-8 mb-4" id="componentsHeader">
+                    <h3 class="text-xl font-semibold text-[#BFB0A3]">Components</h3>
+                    <svg id="componentsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    <div class="flex items-center justify-between cursor-pointer" id="mobileComponentsHeader">
+                        <h3 class="text-[#BFB0A3]">Components</h3>
+                        <svg id="mobileComponentsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div id="componentsCheckboxContainer" class="space-y-2 hidden md:bg-[#352c26]/40 md:rounded-lg md:p-4 mt-2 md:mt-0"></div>
+
+                <div class="my-8"></div>
+
+                <!-- Flavoring section -->
+                <div class="hidden md:flex items-center justify-between cursor-pointer mb-4" id="flavoringsHeader">
+                    <h3 class="text-xl font-semibold text-[#BFB0A3]">Flavoring</h3>
+                    <svg id="flavoringsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                    <div class="flex items-center justify-between cursor-pointer" id="mobileFlavoringsHeader">
+                        <h3 class="text-[#BFB0A3]">Flavoring</h3>
+                        <svg id="mobileFlavoringsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div id="flavoringsCheckboxContainer" class="space-y-2 hidden md:bg-[#352c26]/40 md:rounded-lg md:p-4 mt-2 md:mt-0"></div>
+
+                <div class="my-8"></div>
+
+                <!-- Rating slider -->
+                <div class="rating-filter-container px-4">
+                    <label class="text-[#BFB0A3] text-sm mb-2 block text-center">Average Rating</label>
+                    <div class="relative w-full py-2 flex justify-center">
+                        <div id="ratingSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                            <div id="ratingTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                            <div id="ratingMinHandle" class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"></div>
+                            <div id="ratingMaxHandle" class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[#BFB0A3] text-xs mt-2 px-4">
+                        <span id="ratingMinValue">0</span>
+                        <span id="ratingMaxValue">4</span>
+                    </div>
+                    <input type="hidden" id="ratingMinInput" value="0">
+                    <input type="hidden" id="ratingMaxInput" value="4">
+                </div>
+
+                <div class="my-4"></div>
+
+                <!-- Review count slider -->
+                <div class="review-count-filter-container px-4">
+                    <label class="text-[#BFB0A3] text-sm mb-2 block text-center">Rating Count</label>
+                    <div class="relative w-full py-2 flex justify-center">
+                        <div id="reviewCountSlider" class="h-1.5 bg-[#27201E] rounded-full relative w-[250px]">
+                            <div id="reviewCountTrack" class="absolute h-full bg-[#C89F65] rounded-full"></div>
+                            <div id="reviewCountMinHandle" class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"></div>
+                            <div id="reviewCountMaxHandle" class="absolute w-4 h-4 bg-[#C89F65] rounded-full border-2 border-[#27201E] cursor-pointer -top-1.5"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[#BFB0A3] text-xs mt-2 px-4">
+                        <span id="reviewCountMinValue">0</span>
+                        <span id="reviewCountMaxValue">0</span>
+                    </div>
+                    <input type="hidden" id="reviewCountMinInput" value="0">
+                    <input type="hidden" id="reviewCountMaxInput" value="0">
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="flex-1 p-4 md:p-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-[#C89F65] mb-8 text-center">Blend Graphs</h1>
+
+            <!-- Match counter -->
+            <div id="matchCounter" class="match-counter hidden">
+                <span id="matchCountText"></span>
+            </div>
+
+            <!-- Graph 1: Strength vs Rating -->
+            <div class="graph-container">
+                <h2 class="graph-title">Strength vs Rating</h2>
+                <div id="strengthScatter"></div>
+            </div>
+
+            <!-- Graph 2: Taste vs Rating -->
+            <div class="graph-container">
+                <h2 class="graph-title">Taste vs Rating</h2>
+                <div id="tasteScatter"></div>
+            </div>
+
+            <!-- Graph 3: Flavoring vs Rating -->
+            <div class="graph-container">
+                <h2 class="graph-title">Flavoring vs Rating</h2>
+                <div id="flavoringScatter"></div>
+            </div>
+
+            <!-- Graph 4: Room Note vs Rating -->
+            <div class="graph-container">
+                <h2 class="graph-title">Room Note vs Rating</h2>
+                <div id="roomNoteScatter"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tooltip -->
+    <div id="graphTooltip" class="graph-tooltip"></div>
+
+    <script type="module" src="/assets/js/problem-report.js"></script>
+    <script>
+        // Global state
+        let allBlends = [];
+        let filteredBlends = [];
+        let highlightedBlends = new Set();
+        let maxReviewCount = 0;
+
+        // Color palette
+        const COLORS = {
+            background: '#241e1c',
+            text: '#BFB0A3',
+            accent: '#C89F65',
+            accentDark: '#aa8a3f',
+            dim: 'rgba(191, 176, 163, 0.2)',
+            highlight: '#aa8a3f',
+            axis: '#BFB0A3',
+            grid: 'rgba(191, 176, 163, 0.1)',
+        };
+
+        // Profile level scales (matching main.html)
+        const PROFILE_SCALES = {
+            strength: ["Extremely Mild", "Very Mild", "Mild", "Mild to Medium", "Medium", "Medium to Strong", "Strong", "Very Strong", "Extremely Strong", "Overwhelming"],
+            taste: ["Extremely Mild (Flat)", "Very Mild", "Mild", "Mild to Medium", "Medium", "Medium to Full", "Full", "Very Full", "Extra Full", "Overwhelming"],
+            flavoring: ["None Detected", "Extremely Mild", "Very Mild", "Mild", "Mild to Medium", "Medium", "Medium to Strong", "Strong", "Very Strong", "Extra Strong"],
+            roomNote: ["Unnoticeable", "Pleasant", "Very Pleasant", "Pleasant to Tolerable", "Tolerable", "Tolerable to Strong", "Strong", "Very Strong", "Extra Strong", "Overwhelming"]
+        };
+
+        // Map profile level to numeric value (1-10)
+        function profileLevelToNumber(level, scaleType) {
+            const scale = PROFILE_SCALES[scaleType];
+            if (!scale || !level) return null;
+            const index = scale.indexOf(level);
+            return index !== -1 ? index + 1 : null;
+        }
+
+        // Data loading (matching main.html format)
+        async function fetchAllBlends() {
+            try {
+                // Fetch blends from JSON (same as main.html)
+                const response = await fetch('/assets/data/blend_index.json');
+                const blendIndex = await response.json();
+
+                // Convert blend index to array with full field names
+                const blends = Object.entries(blendIndex).map(([filename, data]) => {
+                    // Map ratings data (rt object has s=strength, f=flavoring, t=taste, r=roomNote)
+                    const ratings = {};
+                    if (data.rt) {
+                        if (data.rt.s) {
+                            ratings.strength = { level: data.rt.s.l, distribution: data.rt.s.d };
+                        }
+                        if (data.rt.f) {
+                            ratings.flavoring = { level: data.rt.f.l, distribution: data.rt.f.d };
+                        }
+                        if (data.rt.t) {
+                            ratings.taste = { level: data.rt.t.l, distribution: data.rt.t.d };
+                        }
+                        if (data.rt.r) {
+                            ratings.roomNote = { level: data.rt.r.l, distribution: data.rt.r.d };
+                        }
+                    }
+
+                    return {
+                        filename,
+                        name: data.n || 'Unnamed',
+                        blender: data.b || 'Unknown',
+                        blendedBy: data.bb || data.b || 'Unknown',
+                        manufacturedBy: data.mb || data.b || 'Unknown',
+                        blendType: data.t || 'Unspecified',
+                        contents: data.c || '',
+                        country: data.y || '',
+                        cut: data.ct || '',
+                        packaging: data.p || '',
+                        production: data.pr || '',
+                        flavoring: data.f || '',
+                        averageRating: data.r || 0,
+                        reviewCount: data.rc || 0,
+                        ratings: ratings
+                    };
+                });
+
+                return blends;
+            } catch (error) {
+                console.error('Error loading blend index:', error);
+                return [];
+            }
+        }
+
+        // Initialize data
+        async function initializeData() {
+            // Try to use cached data from main.html
+            if (window.allBlends && window.allBlends.length > 0) {
+                allBlends = window.allBlends;
+            } else {
+                allBlends = await fetchAllBlends();
+                window.allBlends = allBlends;
+            }
+
+            filteredBlends = [...allBlends];
+            maxReviewCount = Math.max(...allBlends.map(b => b.reviewCount));
+
+            // Update review count slider max
+            document.getElementById('reviewCountMaxValue').textContent = maxReviewCount;
+            document.getElementById('reviewCountMaxInput').value = maxReviewCount;
+
+            await loadDropdownOptions();
+            initializeCheckboxes();
+            initializeSliders();
+            initializeMobileSidebar();
+            initializeCollapsibleSections();
+            updateAllGraphs();
+        }
+
+        // Load dropdown options
+        async function loadDropdownOptions() {
+            const dropdownConfigs = [
+                { id: 'blenderDropdown', file: '/assets/data/blenders.json' },
+                { id: 'blendedByDropdown', file: '/assets/data/blended_by.json' },
+                { id: 'manufacturedByDropdown', file: '/assets/data/manufactured_by.json' },
+                { id: 'countryDropdown', file: '/assets/data/countries.json' },
+                { id: 'cutTypeDropdown', file: '/assets/data/cut_types.json' },
+                { id: 'packagingDropdown', file: '/assets/data/packaging_types.json' },
+                { id: 'blendTypeDropdown', file: '/assets/data/blend_types.json' },
+            ];
+
+            for (const config of dropdownConfigs) {
+                try {
+                    const response = await fetch(config.file);
+                    const options = await response.json();
+                    const dropdown = document.getElementById(config.id);
+
+                    options.forEach(option => {
+                        const optionElement = document.createElement('option');
+                        optionElement.value = option;
+                        optionElement.textContent = option;
+                        dropdown.appendChild(optionElement);
+                    });
+                } catch (error) {
+                    console.error(`Error loading ${config.file}:`, error);
+                }
+            }
+        }
+
+        // Initialize checkboxes
+        function initializeCheckboxes() {
+            // Components
+            fetch('/assets/data/contents.json')
+                .then(response => response.json())
+                .then(components => {
+                    const container = document.getElementById('componentsCheckboxContainer');
+                    container.innerHTML = '';
+
+                    components.forEach(component => {
+                        const wrapper = document.createElement('label');
+                        wrapper.className = 'custom-checkbox-container';
+
+                        const checkboxDiv = document.createElement('div');
+                        checkboxDiv.className = 'custom-checkbox';
+
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.className = 'component-checkbox';
+                        checkbox.value = component;
+                        checkbox.addEventListener('change', applyFilters);
+
+                        const checkmark = document.createElement('div');
+                        checkmark.className = 'checkmark';
+
+                        const label = document.createElement('span');
+                        label.className = 'custom-checkbox-label text-[#BFB0A3]';
+                        label.textContent = component;
+
+                        checkboxDiv.appendChild(checkbox);
+                        checkboxDiv.appendChild(checkmark);
+                        wrapper.appendChild(checkboxDiv);
+                        wrapper.appendChild(label);
+                        container.appendChild(wrapper);
+                    });
+                });
+
+            // Flavorings
+            fetch('/assets/data/flavorings.json')
+                .then(response => response.json())
+                .then(flavorings => {
+                    const container = document.getElementById('flavoringsCheckboxContainer');
+                    container.innerHTML = '';
+
+                    flavorings.forEach(flavoring => {
+                        const wrapper = document.createElement('label');
+                        wrapper.className = 'custom-checkbox-container';
+
+                        const checkboxDiv = document.createElement('div');
+                        checkboxDiv.className = 'custom-checkbox';
+
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.className = 'flavoring-checkbox';
+                        checkbox.value = flavoring;
+                        checkbox.addEventListener('change', applyFilters);
+
+                        const checkmark = document.createElement('div');
+                        checkmark.className = 'checkmark';
+
+                        const label = document.createElement('span');
+                        label.className = 'custom-checkbox-label text-[#BFB0A3]';
+                        label.textContent = flavoring;
+
+                        checkboxDiv.appendChild(checkbox);
+                        checkboxDiv.appendChild(checkmark);
+                        wrapper.appendChild(checkboxDiv);
+                        wrapper.appendChild(label);
+                        container.appendChild(wrapper);
+                    });
+                });
+        }
+
+        // Initialize sliders (from main.html)
+        function initializeSliders() {
+            // Rating slider
+            initRatingSlider();
+            // Review count slider
+            initReviewCountSlider();
+        }
+
+        function initRatingSlider() {
+            const slider = document.getElementById('ratingSlider');
+            const track = document.getElementById('ratingTrack');
+            const minHandle = document.getElementById('ratingMinHandle');
+            const maxHandle = document.getElementById('ratingMaxHandle');
+            const minValueDisplay = document.getElementById('ratingMinValue');
+            const maxValueDisplay = document.getElementById('ratingMaxValue');
+            const minInput = document.getElementById('ratingMinInput');
+            const maxInput = document.getElementById('ratingMaxInput');
+
+            let isDraggingMin = false;
+            let isDraggingMax = false;
+            const min = 0;
+            const max = 4;
+
+            function updateSlider(minValue, maxValue) {
+                const minPercent = (minValue / max) * 100;
+                const maxPercent = (maxValue / max) * 100;
+
+                minHandle.style.left = `${minPercent}%`;
+                maxHandle.style.left = `${maxPercent}%`;
+                track.style.left = `${minPercent}%`;
+                track.style.width = `${maxPercent - minPercent}%`;
+
+                minValueDisplay.textContent = minValue.toFixed(1);
+                maxValueDisplay.textContent = maxValue.toFixed(1);
+                minInput.value = minValue;
+                maxInput.value = maxValue;
+            }
+
+            function getValueFromPosition(clientX) {
+                const rect = slider.getBoundingClientRect();
+                const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                return percent * max;
+            }
+
+            function handleMouseMove(e) {
+                const value = getValueFromPosition(e.clientX);
+                const currentMin = parseFloat(minInput.value);
+                const currentMax = parseFloat(maxInput.value);
+
+                if (isDraggingMin) {
+                    updateSlider(Math.min(value, currentMax), currentMax);
+                } else if (isDraggingMax) {
+                    updateSlider(currentMin, Math.max(value, currentMin));
+                }
+            }
+
+            function handleMouseUp() {
+                if (isDraggingMin || isDraggingMax) {
+                    isDraggingMin = false;
+                    isDraggingMax = false;
+                    applyFilters();
+                }
+            }
+
+            minHandle.addEventListener('mousedown', () => isDraggingMin = true);
+            maxHandle.addEventListener('mousedown', () => isDraggingMax = true);
+            document.addEventListener('mousemove', handleMouseMove);
+            document.addEventListener('mouseup', handleMouseUp);
+
+            // Touch support
+            minHandle.addEventListener('touchstart', () => isDraggingMin = true);
+            maxHandle.addEventListener('touchstart', () => isDraggingMax = true);
+            document.addEventListener('touchmove', (e) => handleMouseMove(e.touches[0]));
+            document.addEventListener('touchend', handleMouseUp);
+
+            updateSlider(0, 4);
+        }
+
+        function initReviewCountSlider() {
+            const slider = document.getElementById('reviewCountSlider');
+            const track = document.getElementById('reviewCountTrack');
+            const minHandle = document.getElementById('reviewCountMinHandle');
+            const maxHandle = document.getElementById('reviewCountMaxHandle');
+            const minValueDisplay = document.getElementById('reviewCountMinValue');
+            const maxValueDisplay = document.getElementById('reviewCountMaxValue');
+            const minInput = document.getElementById('reviewCountMinInput');
+            const maxInput = document.getElementById('reviewCountMaxInput');
+
+            let isDraggingMin = false;
+            let isDraggingMax = false;
+            const min = 0;
+
+            function updateSlider(minValue, maxValue) {
+                const minPercent = (minValue / maxReviewCount) * 100;
+                const maxPercent = (maxValue / maxReviewCount) * 100;
+
+                minHandle.style.left = `${minPercent}%`;
+                maxHandle.style.left = `${maxPercent}%`;
+                track.style.left = `${minPercent}%`;
+                track.style.width = `${maxPercent - minPercent}%`;
+
+                minValueDisplay.textContent = Math.round(minValue);
+                maxValueDisplay.textContent = Math.round(maxValue);
+                minInput.value = minValue;
+                maxInput.value = maxValue;
+            }
+
+            function getValueFromPosition(clientX) {
+                const rect = slider.getBoundingClientRect();
+                const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+                return percent * maxReviewCount;
+            }
+
+            function handleMouseMove(e) {
+                const value = getValueFromPosition(e.clientX);
+                const currentMin = parseFloat(minInput.value);
+                const currentMax = parseFloat(maxInput.value);
+
+                if (isDraggingMin) {
+                    updateSlider(Math.min(value, currentMax), currentMax);
+                } else if (isDraggingMax) {
+                    updateSlider(currentMin, Math.max(value, currentMin));
+                }
+            }
+
+            function handleMouseUp() {
+                if (isDraggingMin || isDraggingMax) {
+                    isDraggingMin = false;
+                    isDraggingMax = false;
+                    applyFilters();
+                }
+            }
+
+            minHandle.addEventListener('mousedown', () => isDraggingMin = true);
+            maxHandle.addEventListener('mousedown', () => isDraggingMax = true);
+            document.addEventListener('mousemove', handleMouseMove);
+            document.addEventListener('mouseup', handleMouseUp);
+
+            // Touch support
+            minHandle.addEventListener('touchstart', () => isDraggingMin = true);
+            maxHandle.addEventListener('touchstart', () => isDraggingMax = true);
+            document.addEventListener('touchmove', (e) => handleMouseMove(e.touches[0]));
+            document.addEventListener('touchend', handleMouseUp);
+
+            updateSlider(0, maxReviewCount);
+        }
+
+        // Initialize mobile sidebar (from main.html)
+        function initializeMobileSidebar() {
+            const mobileFiltersButton = document.getElementById('mobileFiltersButton');
+            const mobileSidebar = document.getElementById('mobileSidebar');
+            const mobileFiltersOverlay = document.getElementById('mobileFiltersOverlay');
+
+            function openSidebar() {
+                mobileFiltersOverlay.style.display = 'block';
+                setTimeout(() => {
+                    mobileFiltersOverlay.style.opacity = '1';
+                    mobileSidebar.style.transform = 'translateY(0)';
+                    mobileSidebar.classList.remove('hidden');
+                }, 10);
+            }
+
+            function closeSidebar() {
+                mobileFiltersOverlay.style.opacity = '0';
+                mobileSidebar.style.transform = 'translateY(-100%)';
+                setTimeout(() => {
+                    mobileSidebar.classList.add('hidden');
+                    mobileFiltersOverlay.style.display = 'none';
+                }, 300);
+            }
+
+            mobileFiltersButton.addEventListener('click', openSidebar);
+            mobileFiltersOverlay.addEventListener('click', closeSidebar);
+        }
+
+        // Initialize collapsible sections
+        function initializeCollapsibleSections() {
+            // Components
+            document.getElementById('componentsHeader').addEventListener('click', () => {
+                const container = document.getElementById('componentsCheckboxContainer');
+                const arrow = document.getElementById('componentsArrow');
+                container.classList.toggle('hidden');
+                arrow.style.transform = container.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+            });
+
+            document.getElementById('mobileComponentsHeader').addEventListener('click', () => {
+                const container = document.getElementById('componentsCheckboxContainer');
+                const arrow = document.getElementById('mobileComponentsArrow');
+                container.classList.toggle('hidden');
+                arrow.style.transform = container.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+            });
+
+            // Flavorings
+            document.getElementById('flavoringsHeader').addEventListener('click', () => {
+                const container = document.getElementById('flavoringsCheckboxContainer');
+                const arrow = document.getElementById('flavoringsArrow');
+                container.classList.toggle('hidden');
+                arrow.style.transform = container.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+            });
+
+            document.getElementById('mobileFlavoringsHeader').addEventListener('click', () => {
+                const container = document.getElementById('flavoringsCheckboxContainer');
+                const arrow = document.getElementById('mobileFlavoringsArrow');
+                container.classList.toggle('hidden');
+                arrow.style.transform = container.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+            });
+        }
+
+        // Apply filters
+        function applyFilters() {
+            let blends = [...allBlends];
+
+            // Get filter values
+            const searchTerm = (document.getElementById('searchInput').value || document.getElementById('desktopSearchInput').value || '').toLowerCase();
+            const blenderFilter = document.getElementById('blenderDropdown').value.toLowerCase();
+            const blendedByFilter = document.getElementById('blendedByDropdown').value.toLowerCase();
+            const manufacturedByFilter = document.getElementById('manufacturedByDropdown').value.toLowerCase();
+            const countryFilter = document.getElementById('countryDropdown').value.toLowerCase();
+            const cutTypeFilter = document.getElementById('cutTypeDropdown').value.toLowerCase();
+            const packagingFilter = document.getElementById('packagingDropdown').value.toLowerCase();
+            const blendTypeFilter = document.getElementById('blendTypeDropdown').value.toLowerCase();
+            const productionFilter = document.getElementById('productionDropdown').value.toLowerCase();
+
+            const minRating = parseFloat(document.getElementById('ratingMinInput').value);
+            const maxRating = parseFloat(document.getElementById('ratingMaxInput').value);
+            const minReviewCount = parseFloat(document.getElementById('reviewCountMinInput').value);
+            const maxReviewCount = parseFloat(document.getElementById('reviewCountMaxInput').value);
+
+            const selectedComponents = Array.from(document.querySelectorAll('.component-checkbox:checked')).map(cb => cb.value.toLowerCase());
+            const selectedFlavorings = Array.from(document.querySelectorAll('.flavoring-checkbox:checked')).map(cb => cb.value.toLowerCase());
+
+            // Apply filters
+            if (blenderFilter) blends = blends.filter(b => b.blender.toLowerCase().includes(blenderFilter));
+            if (blendedByFilter) blends = blends.filter(b => b.blendedBy.toLowerCase().includes(blendedByFilter));
+            if (manufacturedByFilter) blends = blends.filter(b => b.manufacturedBy.toLowerCase().includes(manufacturedByFilter));
+            if (countryFilter) blends = blends.filter(b => b.country.toLowerCase().includes(countryFilter));
+            if (cutTypeFilter) blends = blends.filter(b => b.cut.toLowerCase() === cutTypeFilter);
+            if (packagingFilter) blends = blends.filter(b => b.packaging.toLowerCase().includes(packagingFilter));
+            if (blendTypeFilter) blends = blends.filter(b => b.blendType.toLowerCase() === blendTypeFilter);
+            if (productionFilter && productionFilter !== 'all availabilities') {
+                blends = blends.filter(b => b.production.toLowerCase() === productionFilter);
+            }
+
+            blends = blends.filter(b => b.averageRating >= minRating && b.averageRating <= maxRating);
+            blends = blends.filter(b => b.reviewCount >= minReviewCount && b.reviewCount <= maxReviewCount);
+
+            if (selectedComponents.length > 0) {
+                blends = blends.filter(b =>
+                    selectedComponents.every(component =>
+                        (b.contents || '').toLowerCase().split(',').map(c => c.trim()).includes(component)
+                    )
+                );
+            }
+
+            if (selectedFlavorings.length > 0) {
+                blends = blends.filter(b => {
+                    const blendFlavoringString = (b.flavoring || '').toLowerCase();
+                    return selectedFlavorings.every(flavoring =>
+                        blendFlavoringString.includes(flavoring.toLowerCase())
+                    );
+                });
+            }
+
+            // Handle search highlighting (not filtering)
+            if (searchTerm) {
+                highlightedBlends.clear();
+                blends.forEach(blend => {
+                    if (blend.name.toLowerCase().includes(searchTerm) ||
+                        blend.blender.toLowerCase().includes(searchTerm) ||
+                        blend.blendType.toLowerCase().includes(searchTerm)) {
+                        highlightedBlends.add(blend.filename);
+                    }
+                });
+
+                const matchCounter = document.getElementById('matchCounter');
+                const matchCountText = document.getElementById('matchCountText');
+                matchCounter.classList.remove('hidden');
+                matchCountText.textContent = `${highlightedBlends.size} blends match "${searchTerm}"`;
+            } else {
+                highlightedBlends.clear();
+                document.getElementById('matchCounter').classList.add('hidden');
+            }
+
+            filteredBlends = blends;
+            updateAllGraphs();
+        }
+
+        // Debounced search
+        let searchTimeout;
+        function handleSearch() {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(applyFilters, 300);
+        }
+
+        // Update all graphs
+        function updateAllGraphs() {
+            renderStrengthScatter();
+            renderTasteScatter();
+            renderFlavoringScatter();
+            renderRoomNoteScatter();
+        }
+
+        // Scatter plot helper function
+        function renderScatter(containerId, xAccessor, xLabel, xScale = [1, 10]) {
+            const container = d3.select(containerId);
+            container.selectAll('*').remove();
+
+            // Get the full available width from the parent graph-container
+            const graphContainer = container.node().parentElement;
+            const containerRect = graphContainer.getBoundingClientRect();
+            const width = Math.max(containerRect.width - 48, 600); // Ensure minimum width, subtract padding (24px * 2)
+            const height = 500;
+            const margin = { top: 20, right: 30, bottom: 50, left: 60 };
+
+            // Filter out blends without the required data
+            const data = filteredBlends.filter(b => {
+                const xVal = xAccessor(b);
+                return xVal !== null && xVal !== undefined && b.averageRating > 0;
+            });
+
+            const svg = container.append('svg')
+                .attr('width', '100%')
+                .attr('height', height)
+                .attr('viewBox', `0 0 ${width} ${height}`)
+                .attr('preserveAspectRatio', 'xMidYMid meet');
+
+            const x = d3.scaleLinear()
+                .domain(xScale)
+                .range([margin.left, width - margin.right]);
+
+            const y = d3.scaleLinear()
+                .domain([0, 4])
+                .range([height - margin.bottom, margin.top]);
+
+            // X axis
+            svg.append('g')
+                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x))
+                .style('color', COLORS.axis);
+
+            // Y axis
+            svg.append('g')
+                .attr('transform', `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y).ticks(8))
+                .style('color', COLORS.axis);
+
+            // Grid lines
+            svg.append('g')
+                .attr('class', 'grid')
+                .attr('transform', `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y).ticks(8).tickSize(-(width - margin.left - margin.right)).tickFormat(''))
+                .style('stroke', COLORS.grid)
+                .style('stroke-opacity', 0.3);
+
+            // Points
+            svg.selectAll('circle')
+                .data(data)
+                .join('circle')
+                .attr('cx', d => x(xAccessor(d)))
+                .attr('cy', d => y(d.averageRating))
+                .attr('r', d => Math.sqrt(d.reviewCount) * 0.5 + 2)
+                .attr('fill', d => highlightedBlends.has(d.filename) ? COLORS.highlight : COLORS.accent)
+                .attr('opacity', d => highlightedBlends.size > 0 ? (highlightedBlends.has(d.filename) ? 1 : 0.2) : 0.6)
+                .attr('stroke', d => highlightedBlends.has(d.filename) ? COLORS.accentDark : 'none')
+                .attr('stroke-width', 2)
+                .on('mouseover', function(event, d) {
+                    d3.select(this).attr('r', Math.sqrt(d.reviewCount) * 0.5 + 4);
+                    showTooltip(event, `
+                        <strong>${d.name}</strong><br>
+                        ${d.blender}<br>
+                        Rating: ${d.averageRating.toFixed(2)}★<br>
+                        ${xLabel}: ${xAccessor(d)}<br>
+                        Reviews: ${d.reviewCount}
+                    `);
+                })
+                .on('mouseout', function(event, d) {
+                    d3.select(this).attr('r', Math.sqrt(d.reviewCount) * 0.5 + 2);
+                    hideTooltip();
+                });
+
+            // Labels
+            svg.append('text')
+                .attr('x', width / 2)
+                .attr('y', height - 10)
+                .attr('text-anchor', 'middle')
+                .attr('fill', COLORS.text)
+                .text(xLabel);
+
+            svg.append('text')
+                .attr('transform', 'rotate(-90)')
+                .attr('x', -height / 2)
+                .attr('y', 15)
+                .attr('text-anchor', 'middle')
+                .attr('fill', COLORS.text)
+                .text('Overall Rating (0-4★)');
+        }
+
+        // Graph 1: Strength vs Rating
+        function renderStrengthScatter() {
+            renderScatter(
+                '#strengthScatter',
+                b => profileLevelToNumber(b.ratings?.strength?.level, 'strength'),
+                'Strength Level (1=Mild, 10=Overwhelming)'
+            );
+        }
+
+        // Graph 2: Taste vs Rating
+        function renderTasteScatter() {
+            renderScatter(
+                '#tasteScatter',
+                b => profileLevelToNumber(b.ratings?.taste?.level, 'taste'),
+                'Taste Level (1=Mild, 10=Overwhelming)'
+            );
+        }
+
+        // Graph 3: Flavoring vs Rating
+        function renderFlavoringScatter() {
+            renderScatter(
+                '#flavoringScatter',
+                b => profileLevelToNumber(b.ratings?.flavoring?.level, 'flavoring'),
+                'Flavoring Level (1=None, 10=Extra Strong)'
+            );
+        }
+
+        // Graph 4: Room Note vs Rating
+        function renderRoomNoteScatter() {
+            renderScatter(
+                '#roomNoteScatter',
+                b => profileLevelToNumber(b.ratings?.roomNote?.level, 'roomNote'),
+                'Room Note Level (1=Unnoticeable, 10=Overwhelming)'
+            );
+        }
+
+        // Tooltip functions
+        function showTooltip(event, html) {
+            const tooltip = d3.select('#graphTooltip');
+            tooltip.html(html)
+                .style('left', (event.pageX + 10) + 'px')
+                .style('top', (event.pageY - 10) + 'px')
+                .classed('show', true);
+        }
+
+        function hideTooltip() {
+            d3.select('#graphTooltip').classed('show', false);
+        }
+
+        // Reset filters
+        function resetFilters() {
+            // Reset all dropdowns
+            document.getElementById('blenderDropdown').selectedIndex = 0;
+            document.getElementById('blendedByDropdown').selectedIndex = 0;
+            document.getElementById('manufacturedByDropdown').selectedIndex = 0;
+            document.getElementById('countryDropdown').selectedIndex = 0;
+            document.getElementById('cutTypeDropdown').selectedIndex = 0;
+            document.getElementById('packagingDropdown').selectedIndex = 0;
+            document.getElementById('blendTypeDropdown').selectedIndex = 0;
+            document.getElementById('productionDropdown').selectedIndex = 0;
+
+            // Reset search
+            document.getElementById('searchInput').value = '';
+            document.getElementById('desktopSearchInput').value = '';
+
+            // Uncheck all checkboxes
+            document.querySelectorAll('.component-checkbox').forEach(cb => cb.checked = false);
+            document.querySelectorAll('.flavoring-checkbox').forEach(cb => cb.checked = false);
+
+            // Reset sliders
+            document.getElementById('ratingMinInput').value = 0;
+            document.getElementById('ratingMaxInput').value = 4;
+            document.getElementById('ratingMinValue').textContent = '0.0';
+            document.getElementById('ratingMaxValue').textContent = '4.0';
+            document.getElementById('ratingMinHandle').style.left = '0%';
+            document.getElementById('ratingMaxHandle').style.left = '100%';
+            document.getElementById('ratingTrack').style.left = '0%';
+            document.getElementById('ratingTrack').style.width = '100%';
+
+            document.getElementById('reviewCountMinInput').value = 0;
+            document.getElementById('reviewCountMaxInput').value = maxReviewCount;
+            document.getElementById('reviewCountMinValue').textContent = '0';
+            document.getElementById('reviewCountMaxValue').textContent = maxReviewCount;
+            document.getElementById('reviewCountMinHandle').style.left = '0%';
+            document.getElementById('reviewCountMaxHandle').style.left = '100%';
+            document.getElementById('reviewCountTrack').style.left = '0%';
+            document.getElementById('reviewCountTrack').style.width = '100%';
+
+            applyFilters();
+        }
+
+        // Event listeners
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeData();
+
+            // Search inputs
+            document.getElementById('searchInput').addEventListener('input', handleSearch);
+            document.getElementById('desktopSearchInput').addEventListener('input', handleSearch);
+
+            // Sync search inputs
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                document.getElementById('desktopSearchInput').value = e.target.value;
+            });
+            document.getElementById('desktopSearchInput').addEventListener('input', (e) => {
+                document.getElementById('searchInput').value = e.target.value;
+            });
+
+            // Filter dropdowns
+            ['blenderDropdown', 'blendedByDropdown', 'manufacturedByDropdown', 'countryDropdown',
+             'cutTypeDropdown', 'packagingDropdown', 'blendTypeDropdown', 'productionDropdown'].forEach(id => {
+                document.getElementById(id).addEventListener('change', applyFilters);
+            });
+
+            // Reset button
+            document.getElementById('resetFiltersBtn').addEventListener('click', resetFilters);
+
+            // Resize handler
+            let resizeTimeout;
+            window.addEventListener('resize', () => {
+                clearTimeout(resizeTimeout);
+                resizeTimeout = setTimeout(updateAllGraphs, 300);
+            });
+        });
+    </script>
+</body>
+</html>

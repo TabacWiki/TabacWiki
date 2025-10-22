@@ -514,6 +514,27 @@
 
                     <div class="my-8"></div>
 
+                    <!-- Flavoring Filter -->
+                    <div class="hidden md:flex items-center justify-between cursor-pointer mb-4" id="flavoringsHeader">
+                        <h3 class="text-xl font-semibold text-[#BFB0A3]">Flavoring</h3>
+                        <svg id="flavoringsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                    <!-- Flavoring section for mobile -->
+                    <div class="md:hidden w-full px-3 py-2 bg-[#352c26]/40 text-[#BFB0A3] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#7D6A55] hover:ring-1 hover:ring-[#7D6A55] transition-all duration-200">
+                        <div class="flex items-center justify-between cursor-pointer" id="mobileFlavoringsHeader">
+                            <h3 class="text-[#BFB0A3]">Flavoring</h3>
+                            <svg id="mobileFlavoringsArrow" class="w-5 h-5 text-[#BFB0A3] transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <!-- Flavoring checkbox container (shared between mobile and desktop) -->
+                    <div id="flavoringsCheckboxContainer" class="space-y-2 hidden md:bg-[#352c26]/40 md:rounded-lg md:p-4 mt-2 md:mt-0"></div>
+
+                    <div class="my-8"></div>
+
                     <div class="rating-filter-container px-4">
                         <label class="text-[#BFB0A3] text-sm mb-2 block text-center">Average Rating</label>
                         <div class="relative w-full py-2 flex justify-center">
@@ -1001,6 +1022,38 @@
 
                         // Mobile components header click handler
                         document.getElementById('mobileComponentsHeader').addEventListener('click', () => handleComponentsToggle(false));
+
+                        // Function to handle flavorings toggle
+                        function handleFlavoringsToggle(isDesktop = false) {
+                            const filtersContainer = document.getElementById('filtersContainer');
+                            const filtersArrow = document.getElementById('filtersArrow');
+                            const componentsContainer = document.getElementById('componentsCheckboxContainer');
+                            const componentsArrow = document.getElementById('componentsArrow');
+                            const flavoringsContainer = document.getElementById('flavoringsCheckboxContainer');
+                            const arrow = isDesktop ? document.getElementById('flavoringsArrow') : document.getElementById('mobileFlavoringsArrow');
+                            const isExpanded = flavoringsContainer.classList.contains('hidden');
+
+                            if (isExpanded) {
+                                if (isDesktop) {
+                                    // On desktop, collapse filters and components first
+                                    collapseSection(filtersContainer, filtersArrow);
+                                    collapseSection(componentsContainer, componentsArrow);
+                                }
+                                // Expand flavorings
+                                flavoringsContainer.classList.remove('hidden');
+                                arrow.style.transform = 'rotate(180deg)';
+                            } else {
+                                // Collapse flavorings
+                                flavoringsContainer.classList.add('hidden');
+                                arrow.style.transform = 'rotate(0deg)';
+                            }
+                        }
+
+                        // Desktop flavorings header click handler
+                        document.getElementById('flavoringsHeader').addEventListener('click', () => handleFlavoringsToggle(true));
+
+                        // Mobile flavorings header click handler
+                        document.getElementById('mobileFlavoringsHeader').addEventListener('click', () => handleFlavoringsToggle(false));
                     </script>
 
                     <div class="my-4"></div>
@@ -1525,13 +1578,10 @@
                         checkbox.className = 'component-checkbox';
                         checkbox.id = `component-${component.replace(/\s+/g, '-').toLowerCase()}`;
                         checkbox.value = component;
-                        
-                        // Add change listener directly when creating checkbox
-                        checkbox.addEventListener('change', () => {
-                            console.log(`Component checkbox changed: ${component} - checked: ${checkbox.checked}`);
-                            performSearch(); // Use the new performSearch function
-                        });
-                        
+
+                        // Event listener will be added by setupSearchFunctionality
+                        // No inline listener needed here
+
                         const checkmark = document.createElement('div');
                         checkmark.className = 'checkmark';
                         
@@ -1540,6 +1590,47 @@
                         label.htmlFor = checkbox.id;
                         label.textContent = component;
                         
+                        checkboxDiv.appendChild(checkbox);
+                        checkboxDiv.appendChild(checkmark);
+                        checkboxWrapper.appendChild(checkboxDiv);
+                        checkboxWrapper.appendChild(label);
+                        container.appendChild(checkboxWrapper);
+                    });
+                });
+
+            // Load Flavorings Checkboxes
+            fetch('/assets/data/flavorings.json')
+                .then(response => response.json())
+                .then(flavorings => {
+                    const container = document.getElementById('flavoringsCheckboxContainer');
+
+                    // Clear existing checkboxes to prevent duplicates
+                    container.innerHTML = '';
+
+                    flavorings.forEach(flavoring => {
+                        const checkboxWrapper = document.createElement('label');
+                        checkboxWrapper.className = 'custom-checkbox-container';
+
+                        const checkboxDiv = document.createElement('div');
+                        checkboxDiv.className = 'custom-checkbox';
+
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.className = 'flavoring-checkbox';
+                        checkbox.id = `flavoring-${flavoring.replace(/\s+/g, '-').toLowerCase()}`;
+                        checkbox.value = flavoring;
+
+                        // Event listener will be added by setupSearchFunctionality
+                        // No inline listener needed here
+
+                        const checkmark = document.createElement('div');
+                        checkmark.className = 'checkmark';
+
+                        const label = document.createElement('span');
+                        label.className = 'custom-checkbox-label text-[#BFB0A3]';
+                        label.htmlFor = checkbox.id;
+                        label.textContent = flavoring;
+
                         checkboxDiv.appendChild(checkbox);
                         checkboxDiv.appendChild(checkmark);
                         checkboxWrapper.appendChild(checkboxDiv);
@@ -1566,6 +1657,7 @@
                         manufacturedBy: data.mb || '',
                         blendType: data.t || '',
                         contents: data.c || '',
+                        flavoring: data.f || '',
                         averageRating: data.r || 0,
                         reviewCount: data.rc || 0,
                         cut: data.ct || '',
@@ -1579,6 +1671,7 @@
                         mb: data.mb || '',
                         t: data.t || '',
                         c: data.c || '',
+                        f: data.f || '',
                         r: data.r || 0,
                         rc: data.rc || 0,
                         pr: data.pr || ''
@@ -1675,6 +1768,11 @@
                 document.querySelectorAll('.component-checkbox:checked')
             ).map(cb => cb.value);
 
+            // Get selected flavorings
+            const selectedFlavorings = Array.from(
+                document.querySelectorAll('.flavoring-checkbox:checked')
+            ).map(cb => cb.value);
+
             // Collect filter values
             const filters = {
                 blender: document.getElementById('blenderDropdown').value,
@@ -1695,7 +1793,7 @@
             });
 
             // Perform search
-            const results = blendSearch.search(searchTerm, selectedComponents, filters);
+            const results = blendSearch.search(searchTerm, selectedComponents, selectedFlavorings, filters);
             
             // Update current search results
             window.currentSearchResults = results;
@@ -1888,12 +1986,12 @@
                         parseFloat(blend.r).toFixed(1)) : 
                     'N/A';
 
-                const ratingClass = blend.rc === 0 ? 
-                    'absolute top-0 right-0 text-[#C89F65] text-base font-bold opacity-40' : 
+                const ratingClass = blend.rc === 0 ?
+                    'absolute top-0 right-0 text-[#C89F65] text-base font-bold opacity-90' :
                     'absolute top-0 right-0 text-[#C89F65] text-base font-bold';
 
-                const ratingsClass = blend.rc === 0 ? 
-                    'italic opacity-40' : 
+                const ratingsClass = blend.rc === 0 ?
+                    'italic opacity-90' :
                     'italic';
 
                 const formatComponents = (components) => {
@@ -1938,7 +2036,7 @@
                         <div class="${ratingClass}">
                             ★ ${rating}
                         </div>
-                        <h3 class="text-lg font-semibold text-[#C89F65] opacity-70 mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
+                        <h3 class="text-lg font-semibold text-[#C89F65] opacity-90 mb-2">${blend.n || blend.filename || 'Unnamed Blend'}</h3>
                         <div class="text-sm text-[#BFB0A3] mb-2">${blend.b || 'Unknown Brand'}</div>
                         <div class="flex justify-between items-center text-sm text-[#BFB0A3]">
                             <span>${blend.t || 'Unspecified Type'}</span>
@@ -2186,13 +2284,28 @@
 
                 // Components filter
                 if (selectedComponents.length > 0) {
-                    filteredBlends = filteredBlends.filter(blend => 
-                        selectedComponents.every(component => 
+                    filteredBlends = filteredBlends.filter(blend =>
+                        selectedComponents.every(component =>
                             (blend.contents || '').toLowerCase().split(',')
                                 .map(c => c.trim().toLowerCase())
                                 .includes(component)
                         )
                     );
+                }
+
+                // Get selected flavorings
+                const selectedFlavorings = Array.from(
+                    document.querySelectorAll('.flavoring-checkbox:checked')
+                ).map(checkbox => checkbox.value.toLowerCase());
+
+                // Flavorings filter
+                if (selectedFlavorings.length > 0) {
+                    filteredBlends = filteredBlends.filter(blend => {
+                        const blendFlavoringString = (blend.flavoring || '').toLowerCase();
+                        return selectedFlavorings.every(flavoring =>
+                            blendFlavoringString.includes(flavoring.toLowerCase())
+                        );
+                    });
                 }
 
                 // Sorting
@@ -2240,6 +2353,9 @@
                 displayResults(filteredBlends);
             }
 
+            // Make applyFiltersToResults globally accessible for sliders
+            window.applyFiltersToResults = applyFiltersToResults;
+
             // Sync search inputs
             const searchInput = document.getElementById('searchInput');
             const desktopSearchInput = document.getElementById('desktopSearchInput');
@@ -2281,6 +2397,12 @@
             componentCheckboxes.forEach(checkbox => {
                 checkbox.addEventListener('change', applyFiltersToResults);
             });
+
+            // Add event listener for flavoring checkboxes
+            const flavoringCheckboxes = document.querySelectorAll('.flavoring-checkbox');
+            flavoringCheckboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', applyFiltersToResults);
+            });
         }
 
         // Simplified Blend Search and Filter Class
@@ -2291,11 +2413,11 @@
             }
 
             // Core search method
-            search(query, components = [], filters = {}) {
+            search(query, components = [], flavorings = [], filters = {}) {
                 // Normalize query
                 const normalizedQuery = query.toLowerCase().trim();
 
-                // Filter blends based on query and components
+                // Filter blends based on query, components, and flavorings
                 this.currentResults = this.allBlends.filter(blend => {
                     // Text search across multiple fields
                     const matchesQuery = !normalizedQuery || [
@@ -2303,18 +2425,25 @@
                         blend.blender, // blender
                         blend.blendType, // blend type
                         blend.contents  // contents
-                    ].some(field => 
+                    ].some(field =>
                         field && field.toLowerCase().includes(normalizedQuery)
                     );
 
                     // Component filtering
                     const blendContents = (blend.contents || '').toLowerCase().split(',').map(c => c.trim());
-                    const matchesComponents = components.length === 0 || 
-                        components.every(component => 
+                    const matchesComponents = components.length === 0 ||
+                        components.every(component =>
                             blendContents.includes(component.toLowerCase())
                         );
 
-                    return matchesQuery && matchesComponents;
+                    // Flavoring filtering - check if selected flavoring appears in the blend's flavoring field
+                    const blendFlavoringString = (blend.flavoring || '').toLowerCase();
+                    const matchesFlavorings = flavorings.length === 0 ||
+                        flavorings.every(flavoring =>
+                            blendFlavoringString.includes(flavoring.toLowerCase())
+                        );
+
+                    return matchesQuery && matchesComponents && matchesFlavorings;
                 });
 
                 return this.currentResults;
@@ -2346,32 +2475,12 @@
             window.allBlends = allBlends;
             window.allBlendResults = allBlends;
             window.currentSearchResults = allBlends;
-            
-            // Setup filter event listeners
-            const filterDropdowns = [
-                'blenderDropdown', 
-                'blendedByDropdown',
-                'manufacturedByDropdown',
-                'countryDropdown', 
-                'cutTypeDropdown', 
-                'packagingDropdown', 
-                'blendTypeDropdown',
-                'productionDropdown',
-                'sortDropdown'
-            ];
 
-            filterDropdowns.forEach(dropdownId => {
-                const dropdown = document.getElementById(dropdownId);
-                // Remove any existing listeners first
-                const newDropdown = dropdown.cloneNode(true);
-                dropdown.parentNode.replaceChild(newDropdown, dropdown);
-                newDropdown.addEventListener('change', () => {
-                    performSearch(); // Use performSearch instead of applyFiltersToResults
-                });
-            });
+            // All filter event listeners are now added in setupSearchFunctionality()
+            // Removed duplicate dropdown listener setup that was causing conflicts
 
-            // Setup search and filter functionality
-            setupSearchFunctionality(allBlends);
+            // setupSearchFunctionality is already called in initializeBlends()
+            // Removed duplicate call to prevent double event listeners
         });
 
         // Perform full search
@@ -2566,6 +2675,12 @@
             // Uncheck all component checkboxes
             const componentCheckboxes = document.querySelectorAll('#componentsCheckboxContainer input[type="checkbox"]');
             componentCheckboxes.forEach(checkbox => {
+                checkbox.checked = false;
+            });
+
+            // Uncheck all flavoring checkboxes
+            const flavoringCheckboxes = document.querySelectorAll('#flavoringsCheckboxContainer input[type="checkbox"]');
+            flavoringCheckboxes.forEach(checkbox => {
                 checkbox.checked = false;
             });
 
@@ -2926,6 +3041,28 @@
         // Then update the button onclick in popup.js to use the proper method:
     </script>
     <script>
+        // Function to handle favicon click to open site directory
+        function initFaviconSidebar() {
+            // Only target the mobile header favicon, not the site-logo
+            const mobileHeaderFavicon = document.querySelector('#mobileHeader img[src="/favicon.ico"]');
+
+            // Function to trigger site directory on mobile
+            function openSiteDirectoryOnMobile(event) {
+                if (window.innerWidth < 768) {
+                    // Find the site-logo element and trigger its click
+                    const siteLogo = document.querySelector('.site-logo');
+                    if (siteLogo) {
+                        siteLogo.click();
+                    }
+                }
+            }
+
+            // Add click listener to the mobile header favicon only
+            if (mobileHeaderFavicon) {
+                mobileHeaderFavicon.addEventListener('click', openSiteDirectoryOnMobile);
+            }
+        }
+
         // Function to handle favicon shake behavior
         function initFaviconShake() {
             // Check if user has already learned about the sidebar
@@ -2935,18 +3072,18 @@
 
             const favicons = document.querySelectorAll('img[src="/favicon.ico"]');
             let shakeInterval;
-            
+
             function shakeRandomFavicon() {
                 const randomFavicon = favicons[Math.floor(Math.random() * favicons.length)];
                 randomFavicon.classList.add('favicon-shake');
-                
+
                 // Remove the class after animation completes
                 setTimeout(() => {
                     randomFavicon.classList.remove('favicon-shake');
                 }, 1000);
             }
 
-            // Handle click on any favicon
+            // Handle click on any favicon to stop shaking
             function handleFaviconClick() {
                 // Stop the shaking
                 clearInterval(shakeInterval);
@@ -2958,17 +3095,20 @@
                 localStorage.setItem('learnedSidebar', 'true');
             }
 
-            // Add click listeners to all favicons
+            // Add click listeners to stop shaking
             favicons.forEach(favicon => {
                 favicon.addEventListener('click', handleFaviconClick);
             });
-            
+
             // Start shaking every 3 seconds
             shakeInterval = setInterval(shakeRandomFavicon, 3000);
         }
-        
-        // Initialize the favicon shake when the page loads
-        document.addEventListener('DOMContentLoaded', initFaviconShake);
+
+        // Initialize both features when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            initFaviconSidebar();
+            initFaviconShake();
+        });
     </script>
 
     <script>
