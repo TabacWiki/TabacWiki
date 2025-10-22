@@ -428,7 +428,7 @@ async function updatePopupContent() {
                 </svg>
             </button>
             <h2 class="text-2xl font-bold text-[#BFB0A3] mb-4">The Tabac Wiki Needs You!</h2>
-            <p class="text-[#BFB0A3] mb-6">Your donation directly helps support the maintainance of the database, upkeep of the domain name and growth of the wiki via reward allocations for the Bug Bounty Program</p>
+            <p class="text-[#BFB0A3] mb-6">Your donation directly helps support the maintainance of the database, upkeep of the domain name and growth of the wiki!</p>
             <div class="grid grid-cols-2 gap-4 mb-6">
                 ${cryptoButtons.map(btn => `
                     <button 
@@ -441,7 +441,7 @@ async function updatePopupContent() {
                     </button>
                 `).join('')}
             </div>
-            <p class="text-[#BFB0A3] text-sm mt-6 text-center">$25 USD renews domain name for a year or pays for 1-3 bug bounties!</p>
+            <p class="text-[#BFB0A3] text-sm mt-6 text-center">$25 USD covers domain fees for a year or 1-3 bug fixes / updates!</p>
         </div>
     `;
 
